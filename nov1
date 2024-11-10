@@ -643,9 +643,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 #EXTINF:-1 group-title="Plutón USA2" tvg-id="",MTV Flow Latino
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e150a3d73fd3f00094f722f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f1-30d3- 11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=56382db3-6b4e-4882-a137-5d56dc5478e5
 
-#EXTINF:-1 group-title="Pluto USA2" tvg-id="",Vevo Íconos Latinos
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64d161c93c785e0008df575e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce910-30d3- 11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=79a35639-aaba-46f2-bc03-c95f92f52181
-
 #EXTINF:-1 group-title="Plutón USA2" tvg-id="VevoLatino.us",Vevo Latino
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5da0d64d0e8a62000964ebe4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce911-30d3- 11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a7c08002-33dc-40eb-8b3c-28a20a838cdb
 
@@ -710,7 +707,7 @@ https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-chno="10.7" tvg-id="AztecaGuatemala.gt" tvg-logo="https://i.imgur.com/UJhQoUK.png" group-title="TV ABIERTA", AZTECA GUATE 
 https://ch1-tva.duin.dev/hls/stream.m3u8
 
-#EXTINF:-1 tvg-chno="10.7" tvg-id="AztecaGuatemala.gt" tvg-logo="https://i.imgur.com/UJhQoUK.png" group-title="TV ABIERTA", A+ GUATE 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Azteca_35_2020.png/revision/latest?cb=20201105021918" group-title="TV ABIERTA", A+ GUATE 
 https://ch2-tva.duin.dev/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lIG4xlm.png" group-title="Bolivia", Atesur | FHD | Sucre
@@ -725,7 +722,7 @@ https://jireh-3-hls-video-cl-movistar.dps.live/hls-video/c54ac2799874375c81c1672
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gnv2Uvv.png" group-title="El Salvador", Canal 2 | HD | salvador
 https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UazwanL.png" group-title="El Salvador", Canal 3 | SD | salvador
+#EXTINF:-1 tvg-logo="https://canal3impresionante.com/wp-content/uploads/2020/12/LOGO-CANAL-3-con-circulo-blanco-1-1024x868.png" group-title="El Salvador", Canal 3 | SD | salvador
 https://cloud2.streaminglivehd.com:1936/8048/8048/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/33s1ZH4.png" group-title="El Salvador", Canal 4 | HD | salvador
@@ -734,31 +731,22 @@ https://telecorporacion-es.cdn.vustreams.com/live/9c79f472-bb4d-4ab8-848f-eb613f
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ad2tDEy.png" group-title="El Salvador", Canal 6 | HD | salvador
 https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Bf08Llc.png" group-title="El Salvador", Canal 19 Megavisión | HD | salvador
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/Canal_19_El_Salvador_%282022%29.svg/revision/latest/scale-to-width-down/300?cb=20240131022938" group-title="El Salvador", Canal 19 Megavisión | HD | salvador
 https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Rlm5PhK.png" group-title="El Salvador", Canal 21 Megavisión | HD | salvador
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SJTqEp4.png" group-title="El Salvador", WOW TV | HD | Chalchuapa | Alt.
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SJTqEp4.png" group-title="El Salvador", WOW TV |Chalchuapa
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kiGWx9N.png" group-title="El Salvador", TCS+ | HD | salvador
+#EXTINF:-1 tvg-logo="https://d172ao1khilsti.cloudfront.net/tcsgo-mediafiles/52d436ce-feae-4c7f-93cf-cf554342b831.jpg" group-title="El Salvador", TCS+ | HD | salvador
 https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/BLG2dtR.png" group-title="España", TVE Internacional | HD | España
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_720.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LQnQDDd.png" group-title="España", La 2 | HD | Madrid
-https://rtvelivestream-clnx.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LQnQDDd.png" group-title="España", La 2 | HD | Madrid | Alt.
-https://ztnr.rtve.es/ztnr/1688885.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NWSFhfZ.png" group-title="Guatemala", MÁS TV | HD | Ciudad de Guatemala
-https://s.emisoras.tv:8081/mastvgt/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sXHj2qX.png" group-title="Guatemala", Canal 13 | HD | Esquipulas
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLqIdSNF4ACGErcqc2v-3JNETwxTQYLnEhXQEPq0SxNo_fhtcffnXB83L9QOQQPQvcWX4&usqp=CAU" group-title="Guatemala", Canal 13 | HD | Esquipulas
 https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4ErPL8Z.png" group-title="Guatemala", TV Maya | HD | Ciudad de Guatemala
@@ -767,8 +755,6 @@ https://5ca9af4645e15.streamlock.net/mayas/videomayas/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s5rPNIW.png" group-title="Panamá", Nex TV | HD | Panamá
 https://vcp8.myplaytv.com:1936/nextv/nextv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BmTrRtV.png" group-title="Perú", ATV | HD | Lima
-https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 
 
 
