@@ -310,13 +310,7 @@ https://premium.tvcontrolcp.com:19360/tvcosta1/tvcosta1.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMdKXPfUDKkq2zM-SFqg4a-KRP2DVGl0CerkbVyGW7g1TPqJ8sKFVd-rapYzpzw8IuodE&usqp=CAU" tvg-group="INFANTILES", Ganja TV
 https://stream-cdn-iad.vaughnsoft.net/play/live_ganja_tv_2.flv
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/6IJzCfVk_400x400.jpg/revision/latest?cb=20211216234023" tvg-group="INFANTILES", Zaz TV
-https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
-
 #EXTINF:-1 tvg-id="Zaz TV" tvg-name="Zaz TV" tvg-logo="https://i.imgur.com/DdYrpbY.png" group-title="INFANTILES",Zaz TV | México
-https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
-
-#EXTINF:-1 tvg-id="Zaz TV" tvg-name="Zaz TV" tvg-logo="https://i.imgur.com/DdYrpbY.png" group-title="INFANTILES",Zaz TV op2 | México
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2701&live=1&avod=1&cb=[CACHEBUSTER]&app_bundle=[APP_BUNDLE]&app_name=[APP_NAME]&app_domain=[APP_DOMAIN]&app_version=[APP_VERSION ]&app_category=[APP_CATEGORY]&app_store_url=[APP_STORE_URL]&hls_marker=1&pod_duration=[POD_DURATION]&ua=[%UA%]&ip=[IP]&min_ad_duration=6&max_ad_duration=120?is_lat=[LIMITED_AD_TRACKING]&player_width=[ANCHO]&player _altura=[H OCHO]&ua=[%UA%]&ip=[IP]&cb=[CACHEBUSTER]&hls_marker=1&app_version=[VERSIÓN_DE_LA_APLICACIÓN]&app_store_url=[URL_DE_LA_APLICACIÓN]&app_name=[NOMBRE_DE_LA_APLICACIÓN]&app_domain=[DOMINIO_DE_LA_APLICACIÓN]&app_category=[CATEGORÍA_DE_LA_APLICACIÓN]&did=[DID ]&app_bundle=[APLICACIÓN _PAQUETE]&id_de_red=2701&live=1&avod=1&url_de_transmisión=https%3A%2F%2Fb81ea6a237a99f732a8a56c17e6e1733.7wzuvg.ensamblaje_de_canales.mediatailor.us-east-1.amazonaws.com%2Fv1%2Fcanal%2FZAZ_Linear%2Fíndex-zaz-linear.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/Fm4LCw_WYAESJ5v?format=png&name=small" tvg-group="INFANTILES", | Canal DOS
@@ -401,19 +395,16 @@ https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/Cs4E97JIPoeHwOPoIIZ2gLxaDsA
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Fox Kids 
 https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/Cq0EBci7wgmz4uYEf7ITuOT_dHGObOLIK5BmsvUWzC1PdCkhJk5tcv8Z2hjFWqmjfNKDwEOqdbnpoZmBEUZv-SYmydCFnlu0jHkX4UQCl4XKMtlVW2dd6ivYg2lXuGaf0mffpgwAHOmD1xRGzm_jI9FSrCxL3jb-FWjfZq7rroq_r5R_juWFHnsREe2JTKp82e2vzdLnVZYOFsVz1yO24lfKbXtxvmsXjdmcjbrDznHkQdsw4TYYSGc2hK85v1oKkNpWLbULT3zMxPLDRjpttVXgc2L5AnyeJu7srbBI-lQBnSQCBGrtf7JAosHT03BAbWWLYoPtydJZ_bAc0C3acg7pDUFE06wprGeGjrFZuX0dh3JJncifRjhHBYcfqfuC0VaUnimci8qykOS8xo0pseqCkcx2r0BdhzsKBCfZCLjV2jtxpfwAIsGQzIuqgWhJgDG2FI28BoBe1CbEFWn1KWvOHD3NL3H9LLGqqsLjtIZMFr3N4YjcAqqkh0-J1D94Oa5XjHfGtYab6U5kAEwYb1NardTUBh8ZVeLuuI-49HBgYSauVAL4XWa9veaaQdJ_rHAWCplHX0sdPqtBEvxzxFIjsg1hfiJVfeRMr6Q672IQ2YozaV5erEjIohElvOtn1a6GMEFx0WJkdqkf0U5qB14jRx3Ty-33bMlly2MGULkcsm0DIxLTe_IrFRrg7oW9QevK6MjimHugUM1MQ6x0npKRiCa5gCe06MTYYf9By5AaDE1HAq_RXCT7DkJ5lCABKgl1cy1lYXN0LTIw5wo.m3u8 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Panda Max Live 
-https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CtcEgQraN5f1c8_qpeK1fd3szqjk_Pms07obg6iQTYm9w1Yx-QbY7HEjnJipuuX7TWKB6AfDh-BG75DqgEVbVBeyuFzxG0xbzjRxqhL4dUntQi92glZbj6rSRYr4QNqYsadcjxZXQGDcE1NB4AlQ_7qw7tSEIS0KN5K4J2HEqOVuiI7zW3ZdYku9XT6_O7SjwBe2lfm323hGlMUO-ytu8hMxQLCdvPjmlnkpKHO-c9Br6LqYWmCMLD0pEvi2sFC7yZJHdIkft_80SsraliLuWjgXF2vY-PcN5Nv4kIAytymu7DMndhVhrzSpEw63AhAsh62e029j4Dwg0IkoQu2C2g2jMt-CN7sm8T2PBvtvZtIJjt0P09hmyx69AShKezLyzYXiAYietwWoTmswRiqN5qdx18rNuIXdTxrI0NKP6tAjdcV6PBjV0OFxzPSJPLOoMvOLPVZHFCIxSwLkiGkq5e73DIynERMfEqgUykPctdMkYepW36djX1VX_zlCu2q6945CCh0m9ltt2BGZTlUvG8mjS1EeCxfmDkMn-sPnUCrxZtFWI93wVMFGpyid0Xt788i4NNsDqfZxV8C919YAYyj38T7mNSnF8AOh1kFeLcNi5_G4RhiZCE5CpH8dN1qHjyonezJWXOz_zyEkRJpfECLvkGXhTjw52p2eCbpEcJ5Q_jCs6LwCttzH_hkJGipUttzfdVP3ePuBsyTVAvPtE_gdqqkndVSXK9Nw75RpRHfBZoma-2PXfiquHPrEIUATAd85KpaYiKy5vGhCVv0Czu_1RRcoFuxniWIaDNoiiEdbn6_ra_A2ziABKgl1cy1lYXN0LTIw5wo.m3u8 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p4gTy4Y/Logo-Clan-HD.png" group-title="TV PREMIUM",Clan Latinoamerica HD (geobloqueo)
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_dvr_1080.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rvRB0hb.png" group-title="Animación y Cultura Geek", Boing | HD | España
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ixrELD7.png" group-title="Animación y Cultura Geek", ZTV Anime | HD | Chile
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/GSh5_2gc9tM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBH2M9UqcGmOFG16Qpc9T38wTKA6A" group-title="Animación y Cultura Geek", ZTV Anime | HD | Chile
 https://mitv.zplay.cl/Ztv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/C4gpykz.png" group-title="Animación y Cultura Geek", Locomoción | SD | republica dominicana
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/6/6d/Loco2006.png/revision/latest/scale-to-width-down/300?cb=20230129233817" group-title="Animación y Cultura Geek", Locomoción | SD | republica dominicana
 http://51.222.85.85:81/hls/loco/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9efjPBA.png" group-title="JÓVENES Y ADULTOS",Taltal Tv HD | Argentina
@@ -437,7 +428,7 @@ https://stream.wifiexpert.cl/kanade/kanadetv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/TiqmJiC.png" group-title="Animación y Cultura Geek", Modo Radio | FHD | Chile
 https://wifispeed.trapemn.tv:1936/energeek/modoradio-p/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/do1lapa.png" group-title="Animación y Cultura Geek", Max Anime | HD | Venezuela
+#EXTINF: -1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGnaUX6Ar_0WColseJ1dF080f-k3WfhnR5_0taz9y7aVmEzOJh-_1QGXbYfmj96Ly2JqKViMpBAzCVO-6HSTONxr_Mv3oF4fig3VrmCpf7XtS92KoKH4PaYYCzQI_RfRMmNsxJtH-GYL_Qj5YGJl3WdvPNy6ol8MV49nxDFFSI3zIzQci-vD3c5W7Yhsnr/s800/max-anime.jpg" group-title="Animación y Cultura Geek", Max Anime | HD | Venezuela
 https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/q2Fd958.png" group-title="Animación y Cultura Geek", Gran Canal | SD | Argentina
@@ -470,14 +461,8 @@ https://cloud5.streaminglivehd.com:3555/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RUuoMlL.png" group-title="Animación y Cultura Geek",Canal LMS | México
 https://fl1001.bozztv.com/ssh101/canallms/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://radiotv.ar/img/l/dititv.jpg" group-title="Animación y Cultura Geek",Diti TV | Argentina
-https://fl1001.bozztv.com/ssh101/dititv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oaa8yMT.png" group-title="Animación y Cultura Geek",AnimeStation | Argentina
 https://ssh101.bozztv.com/ssh101/livestreamingtv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Los Pitufos TV" tvg-name="Los Pitufos TV" tvg-logo="https://i.imgur.com/AMOcgQg.jpg" group-title="INFANTILES", Los Pitufos TV | DAKOTA DEL NORTE
-https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NY6SGkv.png" group-title="Animación y Cultura Geek", Metaversus TV | SD | Costa Rica
 https://vivo.solumedia.com:19360/metaversus/metaversus.m3u8
@@ -501,13 +486,12 @@ https://wifiexpert-1.energeek.cl/energeek/canal-2/playlist.m3u8
 https://streaming-cl.sh1ny.space/memfs/75b105a4-2fd3-4538-a55c-480f3903a262.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GmzkMUQ.jpg" group-title="CANALES INDEPENDIENTES" ,Energeek Radio TV | Chile
-https://wifiexpert-1.energeek.cl/energeek/radio/playlist.m3u8
+https://stream-cdn-iad.vaughnsoft.net/play/live_shay_saheed.flv
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kwIrTSI.png" tvg-group="INFANTILES",Futurama stream
 https://stream-cdn-iad.vaughnsoft.net/play/live_futurama_mania_.flv?android_vs.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTAxNDczOTY4NDBeQTJeQWpwZ15BbWU4MDI4MjM1OTYx._V1_.jpg" tvg-group="INFANTILES", South Park flv
-https://stream-cdn-iad.vaughnsoft.net/play/live_shay_saheed.flv
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609ae5cd48d3200007b0a98e/colorLogoPNG.png" tvg-group="INFANTILES", SOUTH PARK
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -588,11 +572,10 @@ https://ythls.armelin.one/channel/UCrpMfcQNog595v5gAS-oUsQ.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/YqFOB1h.png" group-title="Internacionales", DW en español | FHD | alemania
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-
-#EXTINF:-1 tvg-logo="",ALF
+#EXTINF: -1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/69b39fd7-04fb-40aa-bae9-2628b3885144-profile_image-300x300.png",ALF
 https://youtube.jitendra-kumar.workers.dev/wanda.m3u8?id=tOefK_J913w
 
-#EXTINF:-1 tvg-logo="https://www.qmusica.tv/img/logo_avatar.png",Q MUSICA YT
+#EXTINF:-1 tvg-logo="https://images.produ.com/noticias/1016/big-Artear.jpg",Q MUSICA YT
 https://youtube.jitendra-kumar.workers.dev/wanda.m3u8?id=8Mw0YdKN2XY
 
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/pelimex.png",Pelimex -TCL
@@ -602,10 +585,10 @@ https://telecine-pelimex-1-mx.tcl.wurl.tv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvFsk3aCBsp2Rjnzzw_FAqzzFkJIHUhQCmn1T1Dv7ijU0tEU67yCAzNHgn7ucN7k01_uk&usqp=CAU" tvg-group="CINE Y SERIES", CGTN ESPAÑOL HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png" tvg-group="CINE Y SERIES", CGTN ESPAÑOL HD
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png" group-title="SPAIN",Cgtn Espanol SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png" group-title="SPAIN",Cgtn Espanol SD
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f66c8380f9a3880549a0_13cable.png" tvg-group="INFANTILES", C13 CL
