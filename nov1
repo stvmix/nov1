@@ -598,14 +598,11 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF: -1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/69b39fd7-04fb-40aa-bae9-2628b3885144-profile_image-300x300.png",ALF
 https://youtube.jitendra-kumar.workers.dev/wanda.m3u8?id=tOefK_J913w
 
-#EXTINF:-1 tvg-logo="https://images.produ.com/noticias/1016/big-Artear.jpg",Q MUSICA YT
+#EXTINF:-1 tvg-logo="https://www.qmusica.tv/qmusica_logo_1.png",Q MUSICA YT
 https://youtube.jitendra-kumar.workers.dev/wanda.m3u8?id=8Mw0YdKN2XY
 
-#EXTINF:-1 tvg-logo="http://costaricatelevision.com/sites/default/files/2020-07/colosal-tv-costa-rica.png" group-title="Costa Rica", Colosal TV | HD | Ciudad Neily
+#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f2152b5d-0b1c-44ac-9dd3-ba5bcc5ac684/d59jpjh-616b683e-5f80-42b5-852a-a83128dbf570.png/v1/fill/w_900,h_254/colosal_tv_logo_by_shadow2511_d59jpjh-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjU0IiwicGF0aCI6IlwvZlwvZjIxNTJiNWQtMGIxYy00NGFjLTlkZDMtYmE1YmNjNWFjNjg0XC9kNTlqcGpoLTYxNmI2ODNlLTVmODAtNDJiNS04NTJhLWE4MzEyOGRiZjU3MC5wbmciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.QSqvwqEt-9stfjb1mJIRaXFYizIOUv8je8MnKbncVew" group-title="Costa Rica", Colosal TV | HD | Ciudad Neily
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.city.bg/theme_assets/city/images/logo.png" group-title="MÚSICA",RADIO CITY TV | Bulgaria
-https://tv.city.bg/play/tshls/citytv/index.m3u8
 
 #EXTINF:-1 tvg-id="Retro Plus TV" tvg-name="Retro Plus TV" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png" group-title="MÚSICA",Retro Plus TV | Chile
 https://scl.edge.grupoz.cl/retroplus16@grupoz.cl_retrolive/live/playlist.m3u8
@@ -635,10 +632,10 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5da0d64d0e8a62000964ebe4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce911-30d3- 11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a7c08002-33dc-40eb-8b3c-28a20a838cdb
 
 
-#EXTINF:-1 tvg-logo="https://www.canela.tv/themes/custom/cnm/canela_tv/logo.png" group-title="CANELA TV", Pelimex
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/pelimex-v2.jpg" group-title="CANELA TV", Pelimex
 https://5649a38847154602a389db073b038f46.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_PeliMex/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/pelimex.png",Pelimex -TCL
+#EXTINF:-1 tvg-logo="https://rlaxxtv.com/wp-content/uploads/2023/03/pelimex_logo.jpg",Pelimex -TCL
 https://telecine-pelimex-1-mx.tcl.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png" tvg-group="CINE Y SERIES", CGTN ESPAÑOL HD
@@ -692,13 +689,13 @@ https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png", ESTRELLA Tv
 https://estrellatv-roku.amagi.tv:443/playlistR1080p.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s320627/images/logod.png?t=1", ESTRELLA NEWS 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60492e6d7f3f560007ab0f62/featuredImage.jpg?auto=&q=70&fit=fill&fill=blur&ixlib=react-9.1.5", ESTRELLA NEWS 
 https://estrellanews-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/1linear-sony-one-competencias-16x9_1.jpg", Sony Competencias
 https://spt-competencias-1-us.samsung.wurl.tv/2000.m3u8
 
-#EXTINF:-1 group-title="TV ABIERTA" tvg-logo="https://yt3.googleusercontent.com/dWLvSHsdj3reb3NPjAztv10dTsbf3dC2ASKjYCwbW7AMg0_xl6JcuAaKqL_fLlR-KfwsWOFDjQ=s900-c-k-c0x00ffffff-no-rj", Sony Novelas
+#EXTINF:-1 group-title="TV ABIERTA" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/400x225/channel-sony_channel-_channel_novelas-16x9_0.jpg", Sony Novelas
 https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
 
 #EXTINF:-1 tvg-chno="10.7" tvg-id="AztecaGuatemala.gt" tvg-logo="https://i.imgur.com/UJhQoUK.png" group-title="TV ABIERTA", AZTECA GUATE 
@@ -837,7 +834,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61d4c2817a823d00070ba53e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 
-#EXTINF:-1 tvg-logo="https://www.canela.tv/themes/custom/cnm/canela_tv/logo.png" group-title="CANELA TV", Kanal D Drama
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/vive_kanal_d_drama_16x9_0.jpg" group-title="CANELA TV", Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-canela-classics-16x9_0.png" group-title="CANELA TV", Canela Clásicos
@@ -846,10 +843,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-cine-romantico.png" group-title="CANELA TV", Cine Romántico
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 
-#EXTINF:-1 tvg-logo="https://www.canela.tv/themes/custom/cnm/canela_tv/logo.png" group-title="CANELA TV", Con amor
+#EXTINF:-1 tvg-logo="https://www.marilumeza.com/wp-content/uploads/2021/10/Canela-900.png" group-title="CANELA TV", Con amor
 https://stream.ads.ottera.tv/cl/230224cfsk5a2a57gmvh1orv70/1280x720_2300000_0_f.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.canela.tv/themes/custom/cnm/canela_tv/logo.png" group-title="CANELA TV", Cine real
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/channel-cinema-16x9_4.jpg" group-title="CANELA TV", Cine real
 https://stream.ads.ottera.tv/cl/230224cfsjpqviu3jkm77oefq0/1920x1080_5824280_5_f.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-canela-classics-16x9_0.png" group-title="CANELA TV", Canela Cinema
@@ -858,7 +855,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1733
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-accion-mexicana-16x9.jpg" group-title="CANELA TV", Accion Mexicana
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
 
-#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/image.jpeg" group-title="CANELA TV", Canela Telenovelas
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/video/thumbnails/widescreen/400x225/channel-canela_telenovelas-16x9.jpg" group-title="CANELA TV", Canela Telenovelas
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
 
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-talisman-16x9_2.png" group-title="CANELA TV", El Talismán
@@ -885,7 +882,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/cm-flow-caribe2-16x9.jpg.png" group-title="CANELA TV", Flow Caribe
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1083
 
-#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/pop-pegajoso.jpeg" group-title="CANELA TV", Pop Pegajoso
+#EXTINF:-1 tvg-logo="https://www.marilumeza.com/wp-content/uploads/2021/10/CM-logo-box2-680x162.png" group-title="CANELA TV", Pop Pegajoso
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1086
 
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/16x9nbc.png" group-title="CANELA TV", Nothing Pero Chill
@@ -942,7 +939,7 @@ https://tls-cl.cdnz.cl/retroplustvdos/live/chunklist_w1061482613.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1qX1L8t.jpeg" group-title="Chile", Retroplus 3 | HD | Chile
 https://tls-cl.cdnz.cl/retroplustvtres/live/chunklist_w2053190015.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.ytimg.com/vi/dN4ayyi9Fng/maxresdefault.jpg" group-title="Chile", Atacama TV | HD | Copiapó
+#EXTINF: -1 tvg-logo="https://pbs.twimg.com/media/EA1weL5WkAAK9UN.jpg" group-title="Chile", Atacama TV | HD | Copiapó
 https://v2.tustreaming.cl/atacamatv/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/1851727139189432320/jZuJ97vd_400x400.jpg" group-title="Chile", Canal 1 | HD | Chillán
@@ -954,7 +951,13 @@ https://video8.servidordevideo.net:3161/live/ynhpdikjlive.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/a17p8Dh.png" group-title="Chile", ITV | FHD | Punta Arenas
 https://unlimited1-cl-isp.dps.live/itv/itv.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/auWtr20.png" group-title="CINE",Video Club | Argentina
+https://videostream.shockmedia.com.ar:19360/videoclub/videoclub.m3u8
+
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_03/large.CarasTV(2024-).png.5c862ba2ecaa9a1b63a333cc526de8af.png",Caras Tv | DAKOTA DEL NORTE
+https://unlimited1-us.dps.live/carastv/carastv.smil/carastv/livestream0/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_03/large.CarasTV(2024-).png.5c862ba2ecaa9a1b63a333cc526de8af.png",Caras Tv op2 | DAKOTA DEL NORTE
 https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://hoyeeh.com/upload/1bbcdrama.png",BBC Drama (720p)
