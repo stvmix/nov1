@@ -942,10 +942,10 @@ https://tls-cl.cdnz.cl/retroplustvdos/live/chunklist_w1061482613.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1qX1L8t.jpeg" group-title="Chile", Retroplus 3 | HD | Chile
 https://tls-cl.cdnz.cl/retroplustvtres/live/chunklist_w2053190015.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/PP5wnz6.png" group-title="Chile", Atacama TV | HD | Copiapó
+#EXTINF: -1 tvg-logo="https://i.ytimg.com/vi/dN4ayyi9Fng/maxresdefault.jpg" group-title="Chile", Atacama TV | HD | Copiapó
 https://v2.tustreaming.cl/atacamatv/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/J9O6HlB.png" group-title="Chile", Canal 21 | HD | Chillán
+#EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/1851727139189432320/jZuJ97vd_400x400.jpg" group-title="Chile", Canal 1 | HD | Chillán
 https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FYCp7FK.png" group-title="Chile", Milodón TV | SD | Puerto Natales
@@ -954,11 +954,8 @@ https://video8.servidordevideo.net:3161/live/ynhpdikjlive.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/a17p8Dh.png" group-title="Chile", ITV | FHD | Punta Arenas
 https://unlimited1-cl-isp.dps.live/itv/itv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/a17p8Dh.png",Caras Tv | DAKOTA DEL NORTE
+#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_03/large.CarasTV(2024-).png.5c862ba2ecaa9a1b63a333cc526de8af.png",Caras Tv | DAKOTA DEL NORTE
 https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Cultura365" tvg-name="Cultura365" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/09/tvg-cultura-es- directo-100x70.png" group-title="CULTURALES",Cultura365 | España
-http://cultural-crtvg.flumotion.com/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://hoyeeh.com/upload/1bbcdrama.png",BBC Drama (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_ tipo=tarifa en vivo d&coppa=false&deviceDNT=1&deviceId=canal&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=canal&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -972,7 +969,17 @@ https://cloud.fastchannel.es/mic/manifiest/hls/aturismo/aturismo.m3u8
 #EXTINF:-1 tvg-logo="https://clicktvchile.cl/wp-content/uploads/2023/10/Logo-ClickTv-Chile.png",Click TV (Coronel) (720p)
 https://v2.tustreaming.cl/clicktv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/2Ehih3emyqU0BX87m7M6j6wof2CCApCjtSDHTjJzhNTCAGBArMfMk9NZGrBJU8D6pgo=h500", Farra Play (Paraguay) (🇵🇾)
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/1bjnYEolS9e-utbVyXk4Tu6UTl4RDnfIsSXKYE74r3vmRNWMQZXLADvSQacadS1F5DY=s100-rw", Farra Play (Paraguay) (🇵🇾)
 http://159.203.148.226/live/farra.m3u8
 
+#EXTINF:-1 tvg-id="CL | MX Family" tvg-name="CL | MX Family" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-FAMILY-FONDO-2-300x169.jpg" tvg-group="PREMIUM", | MX Family
+https://marine2.miplay.cl/mxfamily/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-CLASIC-FONDO-2-300x169.jpg" tvg-group="PREMIUM", | MX Classic
+https://marine2.miplay.cl/mxclassic/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-FONDO-2-300x169.jpg" tvg-group="PREMIUM", | MX Prime
+https://marine2.miplay.cl/mxprime/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/8c3237ce-0a3c-47f0-be0c-c4916e291807-profile_image-300x300.png" tvg-group="PREMIUM", Peliculas Mania
+https://stream-cdn-iad.vaughnsoft.net/play/live_peliculas_mania.flv?android_vs.ts.m3u8
