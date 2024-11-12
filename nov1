@@ -238,7 +238,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010&avod=1&coppa=0&is_lat
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5cf96dad1652631e36d43320/thumbnail.jpg",Comedy Central en español
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c280717 -30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=970b3112-4df5-46fc-83e4-cefce01e5024
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/ed63e624-0b03-48fd-b27b-63d4d32167ea/scale-to-width/370",TV MÁS 2 cl (480p)
+#EXTINF:-1 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/tvmas2.jpg",TV MÁS 2 cl (480p)
 https://marine2.miplay.cl/tateti/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Televilla.co" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT2i8T0d2TCRe3q_xEkMWbmqoI853VmTYq39RryGevp9HHklcKQwHwBLYs9zPEo8wveeQ&usqp=CAU" tvg-group="INFANTILES",Televilla (720p) [Not 24/7]
@@ -749,7 +749,6 @@ https://5ca9af4645e15.streamlock.net/mayas/videomayas/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s5rPNIW.png" group-title="Panamá", Nex TV | HD | Panamá
 https://vcp8.myplaytv.com:1936/nextv/nextv/playlist.m3u8
 
-
 #EXTINF:-1 tvg-id="Caza y Pesca HD" tvg-name="ES: CAZA Y PESCA FHD" tvg-logo="https://miguia.tv/channels/big_60.png" group-title="ES   MOVISTAR+",ES: CAZA Y PESCA FHD
 http://400520923797321168.ofd0219.xyz:80/play/vi0105819/@Dk@GPx7vrQ/321168.ts
 #EXTINF:-1 tvg-id="Caza y Pesca HD" tvg-name="ES: CAZA Y PESCA HD" tvg-logo="https://miguia.tv/channels/big_60.png" group-title="ES   MOVISTAR+",ES: CAZA Y PESCA HD
@@ -760,10 +759,6 @@ http://160.20.165.246:8000/play/a01j/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLDxINuhCPQh57qgYqFPf9FpsgYObBbewgxBEpUQHy1Tj6NsHib6ZsRqXGpS1sgj0viIw&usqp=CAU" group-title="CANALES 24/7", 172 | Los Tres Chiflados TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff35bd0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=025be615-509e-4721-8804-92898ace6781&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="ElOcho.ar" tvg-logo="https://i.ibb.co/0yFbZj4/Captura.png" group-title="General",El Ocho solo noticias
-https://stream-cdn-iad.vaughnsoft.net/play/live_futurama_mania_.flv?android_vs.ts.m3u8
-
 
 #EXTINF:0 tvg-logo="https://ih1.redbubble.net/image.4711852263.0917/raf,750x1000,075,t,101010:01c5ca27c6.jpg",123GO! (España) (🇪🇸)
 https://is.gd/SgMGYs?profile=corgol.m3u8
@@ -833,7 +828,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e
 #EXTINF:-1 group-title="Musica",Vevo Hip-Hop
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61d4c2817a823d00070ba53e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/vive_kanal_d_drama_16x9_0.jpg" group-title="CANELA TV", Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8
 
@@ -843,12 +837,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-cine-romantico.png" group-title="CANELA TV", Cine Romántico
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 
-#EXTINF:-1 tvg-logo="https://www.marilumeza.com/wp-content/uploads/2021/10/Canela-900.png" group-title="CANELA TV", Con amor
-https://stream.ads.ottera.tv/cl/230224cfsk5a2a57gmvh1orv70/1280x720_2300000_0_f.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/channel-cinema-16x9_4.jpg" group-title="CANELA TV", Cine real
-https://stream.ads.ottera.tv/cl/230224cfsjpqviu3jkm77oefq0/1920x1080_5824280_5_f.m3u8
-
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-canela-classics-16x9_0.png" group-title="CANELA TV", Canela Cinema
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1733
 
@@ -857,12 +845,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
 
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/video/thumbnails/widescreen/400x225/channel-canela_telenovelas-16x9.jpg" group-title="CANELA TV", Canela Telenovelas
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
-
-#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-talisman-16x9_2.png" group-title="CANELA TV", El Talismán
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1079
-
-#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-tierra-16x9.png" group-title="CANELA TV", Tierra De Amor Y Venganza
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1080
 
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/novelisima_1920x1080-default_2.png" group-title="CANELA TV", Novelisima
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
@@ -939,7 +921,7 @@ https://tls-cl.cdnz.cl/retroplustvdos/live/chunklist_w1061482613.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1qX1L8t.jpeg" group-title="Chile", Retroplus 3 | HD | Chile
 https://tls-cl.cdnz.cl/retroplustvtres/live/chunklist_w2053190015.m3u8
 
-#EXTINF: -1 tvg-logo="https://pbs.twimg.com/media/EA1weL5WkAAK9UN.jpg" group-title="Chile", Atacama TV | HD | Copiapó
+#EXTINF: -1 tvg-logo="https://atacamatelevision.com/archivos/img/logo.png" group-title="Chile", Atacama TV | HD | Copiapó
 https://v2.tustreaming.cl/atacamatv/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/1851727139189432320/jZuJ97vd_400x400.jpg" group-title="Chile", Canal 1 | HD | Chillán
@@ -978,34 +960,22 @@ https://marine2.miplay.cl/mxfamily/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-CLASIC-FONDO-2-300x169.jpg" tvg-group="PREMIUM", | MX Classic
 https://marine2.miplay.cl/mxclassic/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-FONDO-2-300x169.jpg" tvg-group="PREMIUM", | MX Prime
-https://marine2.miplay.cl/mxprime/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/8c3237ce-0a3c-47f0-be0c-c4916e291807-profile_image-300x300.png" tvg-group="PREMIUM", Peliculas Mania
 https://stream-cdn-iad.vaughnsoft.net/play/live_peliculas_mania.flv?android_vs.ts.m3u8
 
 #EXTINF:-1 tvg-id="1622" tvg-name="Dodo TV" tvg-logo="https://cdn.m3u.cl/logo/1622_Dodo_TV.png", Dodo TV | CL
 https://cloud5.streaminglivehd.com:3651/hybrid/play.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="1320" tvg-name="TV Prime Peliculas" tvg-logo="https://cdn.m3u.cl/logo/1320_TV_Prime_Peliculas.png", TV Prime Peliculas | CL
-https://premium.tvcontrolcp.com:19360/8062/8062.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="320" tvg-name="Atacama TV" tvg-logo="https://cdn.m3u.cl/logo/320_Atacama_TV.png", Atacama TV | CL
-https://v2.tustreaming.cl/atacamatv/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/221_5R_TV_Santa_Fe.png", 5R TV Santa Fe | AR
+#EXTINF:-1 tvg-logo="https://www.santafecanal.com.ar/assets/img/logo_rts.png?r=2", 5R TV Santa Fe | AR
 http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="Bics Extra Latino", HN: VTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/VTV_HN_logo_2019.png/1200px-VTV_HN_logo_2019.png", VTV HN
 https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 group-title="Bics Extra Latino", EC: ECUADOR TV
 https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="1612" tvg-name="Zapp Uno" tvg-logo="https://cdn.m3u.cl/logo/1612_Zapp_Uno.png", Zapp Uno | AR
-https://glb.bozztv.com/glb/ssh101/zappuno/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="31" tvg-name="Portal FoxMix" tvg-logo="https://portalfoxmix.cl/tv/images/maletadvj.png", Portal FoxMix | CL
+#EXTINF:-1 tvg-id="31" tvg-name="Portal FoxMix" tvg-logo="https://www.portalfoxmix.cl/web/wp-content/uploads/2016/03/logoPFM.png", Portal FoxMix | CL
 https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SJTqEp4.png", WOW TV HD | SV
@@ -1014,19 +984,8 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8?Playl
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SJTqEp4.png", WOW TV | HD | Chalchuapa | Alt.
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://static.13.cl/7/sites/all/themes/rec_v2/images/logo2_2018.png?202308181060" tvg-group="INFANTILES",Rec 13 Tv
 https://marine2.miplay.cl/rec/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/all-channels/10272020/Tastemade_en_Espanol_190x190.png?raw=true" tvg-group="CIENCIA Y CULTURA",Tastemade En Espanol
-https://tastemade-es16tm-samsung.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA2200006B4_20220810T012723SQUARE.png_20220810012723.png" tvg-group="CIENCIA Y CULTURA", Tastemade
-https://i.mjh.nz/SamsungTVPlus/ESBA2200006B4.m3u8
-
-#EXTINF:-1 channel-id="samsung-ESAJ3800007PC" tvg-id="ESAJ3800007PC" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800007PC_20221214T044859SQUARE.png_20221214044900.png" tvg-group="CIENCIA Y CULTURA", Pluto TV Cocina
-https://i.mjh.nz/SamsungTVPlus/ESAJ3800007PC.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nOTPBVZ.png" tvg-group="CIENCIA Y CULTURA", Cocina| alta definición
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde0657444a40009cd2422/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture =&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366- 4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=41cb6af1-f699-1 1ea-abc9-0242ac110002&userId=&serverSideAds=true
@@ -1034,26 +993,14 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde0657444a40009
 #EXTINF:-1 tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MUNDO-Y-SABOR-FONDO-2-300x169.jpg" tvg-group="CIENCIA Y CULTURA", Mundo & Sabor
 https://marine2.miplay.cl/mundoysabor/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PlatziTV.es" tvg-logo="https://dsof32ggjkwpf.cloudfront.net/wp-content/uploads/2021/04/10170013/logo-platzi-2.png" tvg-group="CIENCIA Y CULTURA",Platzi TV (1080p)
+#EXTINF:-1 tvg-id="PlatziTV.es" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO8zEquH8zP4XDu2h5qX-nj7TlZvmo5JKggWTVhPlCw0rXDDENWoc4iRnhdPnCyIDx8g&usqp=CAU" tvg-group="CIENCIA Y CULTURA",Platzi TV (1080p)
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
-
-#EXTINF: -1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/400x225/freetv_sabermas_1920x1080.jpg" tvg-group="CIENCIA Y CULTURA", SABER MAS HD
-https://sabermas-plex.amagi.tv/SaberMas-xumo/master.m3u8
 
 #EXTINF:0 tvg-logo="https://www.novaradiolloret.org/wp-content/uploads/Logo-de-Fitel-TV.png" tvg-group="CIENCIA Y CULTURA",Fitel (España) (🇪🇸)
 https://tv.mywifisocial.es/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/ausdroid.net/wp-content/uploads/2023/04/T5plQsbc.png?ssl=1" tvg-group="CIENCIA Y CULTURA",Love Nature Español
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/love-nature-en-espaol/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScdwlE8Yns5-LAlZHojszlGCumQimd-DCiGoB5a59CNonfi20yWtEtNdxZoyaeALq4iJI&usqp=CAU" tvg-group="CIENCIA Y CULTURA", Ama la Naturaleza
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01576-blueskyeenterta-naturetimeemea-lges/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA22000102A_20231011T084706SQUARE.png_20231011084707.png" tvg-group="CIENCIA Y CULTURA",Nature Time
-https://linear-530.frequency.stream/mt/studio/530/hls/master/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-ESBC4700002TD" tvg-id="ESBC4700002TD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4700002TD_20230426T015717SQUARE.png_20230426015717.png" tvg-group="CIENCIA Y CULTURA", Love the Planet
-https://i.mjh.nz/SamsungTVPlus/ESBC4700002TD.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ghKDRik.png" tvg-group="CIENCIA Y CULTURA", Naturaleza| alta definición
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture= &buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366- 4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=97de34fa-f695-1 1ea-abc9-0242ac110002&userId=&serverSideAds=true
@@ -1063,12 +1010,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd834c66fe2ca0009
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MhZkg1N.png" tvg-group="CIENCIA Y CULTURA", Ciencia | alta definición
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dd8364ea1d6780009929902/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertising Id=canal&embedPartner= rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
-
-#EXTINF:-1 channel-id="samsung-ESAJ4500021HQ" tvg-id="ESAJ4500021HQ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500021HQ_20221214T044854SQUARE.png_20221214044855.png" tvg-group="CIENCIA Y CULTURA", Documentales - Rakuten TV
-https://i.mjh.nz/SamsungTVPlus/ESAJ4500021HQ.m3u8
-
-#EXTINF:-1 channel-id="samsung-ESAJ2900003ND" tvg-id="ESAJ2900003ND" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ2900003ND_20230712T021338SQUARE.png_20230712021338.png" tvg-group="CIENCIA Y CULTURA", Estilo y Vida – Rakuten TV
-https://i.mjh.nz/SamsungTVPlus/ESAJ2900003ND.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3p0jBHS.png" tvg-group="CIENCIA Y CULTURA", Hogar | alta definición
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ab8056beb000091fc6b6/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture= &buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366- 4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=41cb6af1-f699-1 1ea-abc9-0242ac110002&userId=&serverSideAds=true
@@ -1094,12 +1035,6 @@ https://marine2.miplay.cl/ontour/playlist.m3u8
 #EXTINF:-1 tvg-id="MilenialTV.pe" tvg-logo="https://i.ytimg.com/vi/PdLp6LBt-pU/maxresdefault.jpg" tvg-group="CIENCIA Y CULTURA",Milenial TV
 https://www.milenial.news/salida/milenial.m3u8
 
-#EXTINF:-1 tvg-id="CanalSantaMartaTV.co" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFqf1LrimHidpc3pA1gitSl-Vme7_LaYOdowDLXXcjj2IWrIbO4mr6Wxlp0pxJPgg6eKo&usqp=CAU" tvg-group="CIENCIA Y CULTURA",Canal Santa Marta TV (720p) [Not 24/7]
-https://videosenlared.fullstreaming.ar:3046/live/yevothnflive.m3u8
-
-#EXTINF:-1 tvg-id="CanalMundoVision.co" tvg-logo="https://i.imgur.com/zRqfJuj.png" tvg-group="CIENCIA Y CULTURA",Canal Mundo Visión (720p)
-https://movil.ejeserver.com/live/mundovisiontv.m3u8
-
 #EXTINF:-1 tvg-id="335" tvg-name="VTV" tvg-logo="https://cdn.m3u.cl/logo/335_VTV.png" tvg-group="CIENCIA Y CULTURA", VTV | CL
 https://unlimited2-cl-isp.dps.live/vtv/vtv.smil/playlist.m3u8?PlaylistM3UCL
 
@@ -1112,35 +1047,11 @@ https://stmv.streamingvip.click/hoynet/hoynet/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ARNdxY4.png" tvg-group="CIENCIA Y CULTURA", ATN | SD | Cúcuta
 https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/iW-RIfhFukq-R2I6Cfd83jvzWCDlB3eVCDtN-KY5AJ_vEy4tLJDjZsAk6dTv03svooY2=w600-h300-pc0xffffff-pd" tvg-group="CIENCIA Y CULTURA",Turistik TV (720p)
-https://5fa5de1a545ae.streamlock.net/8030/8030/.m3u8
-
 #EXTINF:-1 tvg-id="XHUNESTDT.mx" tvg-logo="https://senalespana.unes.edu.mx/images/logo_big2.png" tvg-group="CIENCIA Y CULTURA",Señal España (XHUNES-TDT) (720p)
 https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/48/ESBA1400008NE_20210512T003430.png" tvg-group="CIENCIA Y CULTURA",¡Hola! Play
 https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_HolaPlay/playlist.m3u8?ads.wurl_channel%3D790%26ads.wurl_name%3DHolaPlay%26ads.coppa%3D0%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.consent%3D%7BTC_STRING%7D
-
-#EXTINF:-1 channel-id="samsung-ESAJ49000017H" tvg-id="ESAJ49000017H" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ49000017H_20230125T022413SQUARE.png_20230125022413.png" tvg-group="CIENCIA Y CULTURA", INFAST
-https://i.mjh.nz/SamsungTVPlus/ESAJ49000017H.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3500002PW_20221215T020824SQUARE.png_20221215020824.png" tvg-group="CIENCIA Y CULTURA", - Ideas en 5 Minutos
-https://i.mjh.nz/SamsungTVPlus/ESBC3500002PW.m3u8
-
-#EXTINF:-1 channel-id="samsung-ESAJ2900001Y3" tvg-id="ESAJ2900001Y3" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ2900001Y3_20230809T053840SQUARE.png_20230809053841.png" tvg-group="CIENCIA Y CULTURA", Top Gear en Español
-https://i.mjh.nz/SamsungTVPlus/ESAJ2900001Y3.m3u8
-
-#EXTINF:-1 channel-id="samsung-ESBA3300033PL" tvg-id="ESBA3300033PL" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300033PL_20221109T010939SQUARE.png_20221109010939.png" tvg-group="CIENCIA Y CULTURA", Encantador de Perros
-https://i.mjh.nz/SamsungTVPlus/ESBA3300033PL.m3u8
-
-#EXTINF:-1 channel-id="samsung-ESBC3900002L8" tvg-id="ESBC3900002L8" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3900002L8_20221012T021029SQUARE.png_20221012021029.png" tvg-group="CIENCIA Y CULTURA", Vivir con Gatos
-https://i.mjh.nz/SamsungTVPlus/ESBC3900002L8.m3u8
-
-#EXTINF:-1 canal-id="samsung-ESBC3900001G6" tvg-id="ESBC3900001G6" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3900001G6_20221012T021030SQUARE.png_20221012021030.png" tvg-group="CIENCIA Y CULTURA", Vivir con Perros
-https://i.mjh.nz/SamsungTVPlus/ESBC3900001G6.m3u8
-
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/59b63843-4b98-42fd-bf78-c269ce56cdb5/COPS_en_espanol_-_channel_logo_colour_-_1500x1000.png_James_Roebuck.png" tvg-group="CIENCIA Y CULTURA", Cops en Español
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6477b95b7ba9c0d593859bfc.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/09BIYgb.png" tvg-group="CIENCIA Y CULTURA", Archivos Forenses | alta definición
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efb8c19b2678b000780d032/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architec ture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366- 4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=50356e3e-f693 -11ea-b77a-0242ac110002&userId=&serverSideAds=true
@@ -1157,32 +1068,20 @@ https://60417ddeaf0d9.streamlock.net:443/montemorelos/videomontemorelos/playlist
 #EXTINF:-1 tvg-id="58" tvg-name="Universidad Autonoma TV" tvg-logo="https://i2.paste.pics/4f091f5c6fccbcd410cdc98e452bcb3b.png" tvg-group="CIENCIA Y CULTURA", Universidad Autonoma TV | CL
 https://unlimited1-cl-isp.dps.live/uatv/uatv.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://www.uaeh.edu.mx/suma/img/suma.jpg" tvg-group="CIENCIA Y CULTURA", Suma Tv UAEH
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/6986b84809734a3eb8bb110f7c96456b/chunklist_b4628000.m3u8?p=79&s=1667838159&e=1667838279&h=5daff79986a4e1bccdadf077e1c6
-
-#EXTINF:-1 tvg-logo="https://files.conexioncapital.co/assets/public/menu-image/secondary/Logo%20Capital%20Balnco.png" tvg-group="CIENCIA Y CULTURA", Canal Capital (1080p)
-https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR3y3m4Q3pKQXGykdtPzOmIhtRJ6K_9xgndJfuS_SAMbSMlfy1Ifcxm15olUMiejj9QuY&usqp=CAU" tvg-group="CIENCIA Y CULTURA",IDENTIDAD TV
-https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/651844136274952192/zb6PX1JI_400x400.png" tvg-group="CIENCIA Y CULTURA",Sociales VIP
 https://5790d294af2dc.streamlock.net/8032/8032/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Me gusta tv" tvg-logo="https://images2.imgbox.com/b4/20/Vs26He8e_o.jpg" tvg-group="CIENCIA Y CULTURA",liketv Como la televisión
+#EXTINF:-1 tvg-id="" tvg-name="Me gusta tv" tvg-logo="https://images2.imgbox.com/b4/20/Vs26He8e_o.jpg" tvg-group="CIENCIA Y CULTURA",liketv 
 https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8
 
 #EXTINF:-1 channel-id="samsung-ESBD1400001L4" tvg-id="ESBD1400001L4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1400001L4_20231101T032753SQUARE.png_20231101032754.png" tvg-group="CIENCIA Y CULTURA", Travelxp
 https://i.mjh.nz/SamsungTVPlus/ESBD1400001L4.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/qaKTC_pJa_g8w7aG_KjmV-L2ZddqzMF66zTQrHtbXApQPaD_t1Zie_8V4uSh6mRB72ez=w600-h300-pc0xffffff-pd" tvg-group="CIENCIA Y CULTURA", 241 | Fitmaxx TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/D8tuHh5d_69VvwMKxQr-nzYw_eQpXIFKpNBZDLR4nmyLgZfJi5YMnOfRBlnwa7H6sb_A=w240-h480-rw" tvg-group="CIENCIA Y CULTURA", 241 | Fitmaxx TV
 https://marine2.miplay.cl/fitmaxx/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://empreendedor.com.br/wp-content/uploads/2017/10/FitDance-1.jpg" tvg-group="CIENCIA Y CULTURA",Danza en forma MX
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01768-flou-floucaribe-lgau/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/A3Player.png" tvg-group="CIENCIA Y CULTURA",Mentes Inquietasᴴᴰ 🇪🇸 A3Player 
+#EXTINF:-1 tvg-logo="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/atresplayer-2230601.jpg?tf=3840x" tvg-group="CIENCIA Y CULTURA",Mentes Inquietasᴴᴰ 🇪🇸 A3Player 
 https://fast-channels.atresmedia.com/648ef3162bfab0e4587e0d61/648ef3162bfab0e4587e0d61.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/A3Player.png" tvg-group="CIENCIA Y CULTURA",Equipo Investigacionᴴᴰ 🇪🇸 A3Player 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/LOGO_EQUIPO_INVESTIGACI%C3%93N.png/800px-LOGO_EQUIPO_INVESTIGACI%C3%93N.png" tvg-group="CIENCIA Y CULTURA",Equipo Investigacionᴴᴰ 🇪🇸 A3Player 
 https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429af83cc/1.m3u8
