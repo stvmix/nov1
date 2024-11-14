@@ -592,11 +592,11 @@ https://youtube.jitendra-kumar.workers.dev/wanda.m3u8?id=cb12KmMMDJA
 #EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTE2X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1708456591202" tvg-group="ARGENTINA",CRONICA YT
 https://youtube.jitendra-kumar.workers.dev/wanda.m3u8?id=avly0uwZzOE
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png" tvg-group="ARGENTINA",26 YT
-https://youtube.jitendra-kumar.workers.dev/wanda.m3u8?id=9fkB8aDdSik
-
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_10/large.IP(2024-).png.7df9db38d1ab51e83bb4b0d7d5695e15.png",IP YT
 https://youtube.jitendra-kumar.workers.dev/wanda.m3u8?id=x8WBWMeWQWk
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png" tvg-group="ARGENTINA",26 YT
+https://youtube.jitendra-kumar.workers.dev/wanda.m3u8?id=9fkB8aDdSik
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png",Canal 26 (1080p) [No 24/7]
 https://ythls.armelin.one/channel/UCrpMfcQNog595v5gAS-oUsQ.m3u8
@@ -604,7 +604,7 @@ https://ythls.armelin.one/channel/UCrpMfcQNog595v5gAS-oUsQ.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/YqFOB1h.png" group-title="Internacionales", DW en español | FHD | alemania
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS2mAhwkvQcQX_P9--XsY914O81KW5jeUUpVUm6F6z90DRzx8Do1DlAM9a5GrfXEhbWjg&usqp=CAU" tvg-group="PREMIUM"", A MC en español
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62fa81ccd1a7e90007c1ada0/thumbnail.jpg" tvg-group="PREMIUM"", A MC en español
 https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt-4vzngM-wvUNJGkgRP6yqF6feS06-Njj7dROmkp2dU4kNg5d8AbDZONnGV2UDm3GQhQ&usqp=CAU" tvg-group="PREMIUM", EL WAL REY MUERTO
@@ -665,20 +665,8 @@ https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 #EXTINF:-1 tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f66c8380f9a3880549a0_13cable.png" tvg-group="INFANTILES", C13 CL
 https://marine2.miplay.cl/c13/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnbbWh6H33QzEHyGa-3DW6xEse-T0-ukiVTj9BMMnzCNtnYMkOrmbmLUHPwu7PRVlSgEc&usqp=CAU" tvg-group="ARGENTINA", TELEMUNDO us
-https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.brandemia.org/wp-content/uploads/2013/02/logo_telemundo_principal.jpg" tvg-group="ARGENTINA", TELEMUNDO -1 HR
-https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8?delay=3600
-
-#EXTINF:-1 tvg-logo="https://www.brandemia.org/wp-content/uploads/2013/02/logo_telemundo_principal.jpg" tvg-group="ARGENTINA", TELEMUNDO -2 HR
-https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8?delay=7200
-
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/9c/60/52/9c60522c8605b531d55f5fd7975f9de3.jpg" tvg-group="ARGENTINA", TELEMUNDO CA LATINO
 https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-
-#EXTINF:-1 tvg-logo="https://media.telemundopr.com/2022/08/WKAQ-tvOS_App-Store-1280x768-3.png?fit=1280%2C768&quality=85&strip=all" tvg-group="ARGENTINA", TELEMUNDO PR
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8
 
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/BF6805ED-1E7C-4D7F-8380-A8FFBEE5C4DD/3-1x1.png/900" tvg-group="ARGENTINA", TELEMUNDO FLORIDA
 https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
@@ -686,8 +674,8 @@ https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 #EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/74/USBB3200016HO_20211117T100433.png" tvg-group="ARGENTINA",Telemundo Al Día
 https://d202koqm588atp.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-publica/samsungtvplus_us_telemundoaldia_001.m3u8?ads.caid=TelemundoAlDia&ads.csid=samsungtvplus_us_telemundoaldia_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=news&ads._fw_content_language=es&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2561&anuncios .xumo_contentName=TelemundoAlDia&ads.xumo_providerId=2561&ads.xumo_providerName=TelemundoAlDia&ads.xumo_channelId=9999544&ads.xumo_channelName=Telemundoaldia&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-6akr0CP9M5c/XNRaTU_xoGI/AAAAAAAAJ3c/s5HBLhlVg-wS5jzZvQJSU45v4dX8MZFAgCLcBGAs/s1600/Telemundo%2BUpFront%2B2019-2020.jpg" tvg-group="ARGENTINA", Telemundo California
-https://i.mjh.nz/SamsungTVPlus/USBC4400020H7.m3u8
+#EXTINF:-1 tvg-logo="https://media.telemundopr.com/2022/08/WKAQ-tvOS_App-Store-1280x768-3.png?fit=1280%2C768&quality=85&strip=all" tvg-group="ARGENTINA", TELEMUNDO PR
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5tBSbgQ.png" group-title="Internacionales", Azteca Internacional | HD | México azt
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
@@ -1190,13 +1178,13 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620ff0a01f9e8700076c6f
 #EXTINF: -1 tvg-logo="https://i.imgur.com/BLG2dtR.png" group-title="España", TVE Internacional | HD | España ok
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_720.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://css2.rtve.es/css/rtveplay.2021/i/compartir_tve_internacional.jpg" tvg-group="ARGENTINA",Tve Internacional America HD (geobloqueo)
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.connecttv.se/app/uploads/2020/06/channel_logo_tve_internacional.png" tvg-group="ARGENTINA",Tve Internacional America HD (geobloqueo)
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNAaGndh6jhvmWeP2nhUiwp3bHG1aWcfCjNuXvRj4-dbpvKAwMdwtnOiq7iOCUb_N3UzI&usqp=CAU" tvg-group="ARGENTINA",Star Tve HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Star-TVE-logo-300x169.png/revision/latest/scale-to-width-down/300?cb=20200124195857&path-prefix=es" tvg-group="ARGENTINA",Star Tve HD
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1334779341306212352/wAScOYnE_200x200.jpg" tvg-group="ARGENTINA",Rtvce HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Radio_Televisi%C3%B3n_Ceuta.svg/640px-Radio_Televisi%C3%B3n_Ceuta.svg.png" tvg-group="ARGENTINA",Rtvce HD
 https://cdnlive.codev8.net/rtvcelive/channel1.smil/playlist.m3u8
 
 
