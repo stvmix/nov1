@@ -704,10 +704,10 @@ https://azt-cl.otteravision.com/azt/cl/cl_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Azteca_Cinema_Logo_2023.svg/revision/latest/scale-to-width-down/280?cb=20230707174037" group-title="TV ABIERTA", AZ CINEMA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
 
-#EXTINF:-1 tvg-logo="https://www.eleconomista.com.mx/__export/1584472198786/sites/eleconomista/img/2020/03/17/imagen-tv.jpg_423682103.jpg" tvg-group="ARGENTINA",Imagen TV [No 24/7]
+#EXTINF:-1 tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/MXBC3800006MQ_20240911T125424SQUARE.png&h=250" tvg-group="ARGENTINA",Imagen TV+ [No 24/7]
 https://ythls.armelin.one/channel/UCl5JKSQsl-_WSU1rz7_BCJA.m3u8
 
-#EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/grupo_imagen_logo.jpg" group-title="TV ABIERTA", IMAGEN TV
+#EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/grupo_imagen_logo.jpg" group-title="TV ABIERTA", IMAGEN TV ok
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 
 #EXTINF:-1 tvg-logo="https://canalonce.mx/REST/data/images/logoonce3-transparent.png" group-title="TV ABIERTA", ONCE.3 Señal Digital 
@@ -1175,13 +1175,13 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492bb931054f00073c0b
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620ff0a01f9e8700076c6f9d/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/BLG2dtR.png" group-title="España", TVE Internacional | HD | España ok
+#EXTINF: -1 tvg-logo="https://www.connecttv.se/app/uploads/2020/06/channel_logo_tve_internacional.png" group-title="España", TVE Internacional | HD | España ok
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_720.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.connecttv.se/app/uploads/2020/06/channel_logo_tve_internacional.png" tvg-group="ARGENTINA",Tve Internacional America HD (geobloqueo)
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Star-TVE-logo-300x169.png/revision/latest/scale-to-width-down/300?cb=20200124195857&path-prefix=es" tvg-group="ARGENTINA",Star Tve HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.emisorasunidas.com/uploads/2024/06/STAR-TVE.webp" tvg-group="ARGENTINA",Star Tve HD
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Radio_Televisi%C3%B3n_Ceuta.svg/640px-Radio_Televisi%C3%B3n_Ceuta.svg.png" tvg-group="ARGENTINA",Rtvce HD
