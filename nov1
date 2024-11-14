@@ -12,8 +12,20 @@ https://ythls.armelin.one/channel/UC5UKMEIoqvNDMSDz2_6Sn9g.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Canal_Ocho_San_Juan_%28Logo_2018%29.png" tvg-group="ARGENTINA",8 SAN JUAN YT
 https://youtube.jitendra-kumar.workers.dev/wanda.m3u8?id=qXOEMK6wNZk
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5de91cf02fc07c0009910465/colorLogoPNG.png" group-title="Entretenimiento",Pluto TV Telefe Clásico (720p)
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5de91cf02fc07c0009910465/featuredImage.jpg?auto=&q=70&fit=fill&fill=blur&ixlib=react-9.1.5",Pluto TV Telefe Hits (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91cf02fc07c0009910465/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5c a04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=fal se&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb- b532-0242ac110002&ID de usuario=
+
+#EXTINF:-1 tvg-logo="https://telefe-static.akamaized.net/media/18233877/chiquititas_thumb.jpg",Chiquititas [Entretenimiento] [146] [AR]
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620e67a63b5e370007e06bb2/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
+
+#EXTINF:-1 tvg-logo="https://www.minutoar.com.ar/u/fotografias/m/2021/9/2/f425x230-77645_91627_5050.jpg",Susana Giménez [Entretenimiento] [147] [AR]
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6132429ec9e0db0007a91425/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
+
+#EXTINF:-1 tvg-logo="https://www.prensario.net/multimedios/imgs/45566_750.jpg",Telefe Noticias 24hs  YT
+https://youtube.jitendra-kumar.workers.dev/wanda.m3u8?id=MocwNxD7WJk
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/613237a1c9e0db0007a91350/featuredImage.jpg",Telefe Pluto TV [Entretenimiento] [144] [AR]
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/613237a1c9e0db0007a91350/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/telefe.png" group-title="Argentina",Telefe HLS
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
@@ -47,6 +59,9 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/6.png" tvg-group="ARGENTINA",06  CANAL 13 33.1
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/El_doce_tv_cba_logo.png",EL DOCE YT
+https://youtube.jitendra-kumar.workers.dev/wanda.m3u8?id=sFZe_RPnNSo
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/Canal_9_Litoral_2021.svg/revision/latest/scale-to-width-down/175?cb=20211103042017&path-prefix=es" tvg-group="ARGENTINA", CANAL 9 PARANÁ
 https://stream.arcast.live/ahora/ahora/playlist.m3u8
@@ -580,14 +595,26 @@ https://youtube.jitendra-kumar.workers.dev/wanda.m3u8?id=avly0uwZzOE
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png" tvg-group="ARGENTINA",26 YT
 https://youtube.jitendra-kumar.workers.dev/wanda.m3u8?id=9fkB8aDdSik
 
+#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_10/large.IP(2024-).png.7df9db38d1ab51e83bb4b0d7d5695e15.png",IP YT
+https://youtube.jitendra-kumar.workers.dev/wanda.m3u8?id=x8WBWMeWQWk
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png",Canal 26 (1080p) [No 24/7]
 https://ythls.armelin.one/channel/UCrpMfcQNog595v5gAS-oUsQ.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/YqFOB1h.png" group-title="Internacionales", DW en español | FHD | alemania
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS2mAhwkvQcQX_P9--XsY914O81KW5jeUUpVUm6F6z90DRzx8Do1DlAM9a5GrfXEhbWjg&usqp=CAU" tvg-group="PREMIUM"", A MC en español
+https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt-4vzngM-wvUNJGkgRP6yqF6feS06-Njj7dROmkp2dU4kNg5d8AbDZONnGV2UDm3GQhQ&usqp=CAU" tvg-group="PREMIUM", EL WAL REY MUERTO
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertis ingId=canal&embedPartner= rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
 #EXTINF: -1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/69b39fd7-04fb-40aa-bae9-2628b3885144-profile_image-300x300.png",ALF
 https://youtube.jitendra-kumar.workers.dev/wanda.m3u8?id=tOefK_J913w
+
+#EXTINF:-1 tvg-logo="https://www.miprimerfestival.es/wp-content/uploads/2022/11/PERSONAJE-MASHA-Y-EL-OSO.png",MASHA Y EL OSO YT
+https://youtube.jitendra-kumar.workers.dev/wanda.m3u8?id=ezUxQwz7Vl4
 
 #EXTINF:-1 tvg-logo="https://www.qmusica.tv/qmusica_logo_1.png",Q MUSICA YT
 https://youtube.jitendra-kumar.workers.dev/wanda.m3u8?id=8Mw0YdKN2XY
@@ -638,6 +665,30 @@ https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 #EXTINF:-1 tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f66c8380f9a3880549a0_13cable.png" tvg-group="INFANTILES", C13 CL
 https://marine2.miplay.cl/c13/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnbbWh6H33QzEHyGa-3DW6xEse-T0-ukiVTj9BMMnzCNtnYMkOrmbmLUHPwu7PRVlSgEc&usqp=CAU" tvg-group="ARGENTINA", TELEMUNDO us
+https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.brandemia.org/wp-content/uploads/2013/02/logo_telemundo_principal.jpg" tvg-group="ARGENTINA", TELEMUNDO -1 HR
+https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8?delay=3600
+
+#EXTINF:-1 tvg-logo="https://www.brandemia.org/wp-content/uploads/2013/02/logo_telemundo_principal.jpg" tvg-group="ARGENTINA", TELEMUNDO -2 HR
+https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8?delay=7200
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/9c/60/52/9c60522c8605b531d55f5fd7975f9de3.jpg" tvg-group="ARGENTINA", TELEMUNDO CA LATINO
+https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+
+#EXTINF:-1 tvg-logo="https://media.telemundopr.com/2022/08/WKAQ-tvOS_App-Store-1280x768-3.png?fit=1280%2C768&quality=85&strip=all" tvg-group="ARGENTINA", TELEMUNDO PR
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8
+
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/BF6805ED-1E7C-4D7F-8380-A8FFBEE5C4DD/3-1x1.png/900" tvg-group="ARGENTINA", TELEMUNDO FLORIDA
+https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/74/USBB3200016HO_20211117T100433.png" tvg-group="ARGENTINA",Telemundo Al Día
+https://d202koqm588atp.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-publica/samsungtvplus_us_telemundoaldia_001.m3u8?ads.caid=TelemundoAlDia&ads.csid=samsungtvplus_us_telemundoaldia_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=news&ads._fw_content_language=es&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2561&anuncios .xumo_contentName=TelemundoAlDia&ads.xumo_providerId=2561&ads.xumo_providerName=TelemundoAlDia&ads.xumo_channelId=9999544&ads.xumo_channelName=Telemundoaldia&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-6akr0CP9M5c/XNRaTU_xoGI/AAAAAAAAJ3c/s5HBLhlVg-wS5jzZvQJSU45v4dX8MZFAgCLcBGAs/s1600/Telemundo%2BUpFront%2B2019-2020.jpg" tvg-group="ARGENTINA", Telemundo California
+https://i.mjh.nz/SamsungTVPlus/USBC4400020H7.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5tBSbgQ.png" group-title="Internacionales", Azteca Internacional | HD | México azt
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
@@ -665,6 +716,9 @@ https://azt-cl.otteravision.com/azt/cl/cl_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Azteca_Cinema_Logo_2023.svg/revision/latest/scale-to-width-down/280?cb=20230707174037" group-title="TV ABIERTA", AZ CINEMA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
 
+#EXTINF:-1 tvg-logo="https://www.eleconomista.com.mx/__export/1584472198786/sites/eleconomista/img/2020/03/17/imagen-tv.jpg_423682103.jpg" tvg-group="ARGENTINA",Imagen TV [No 24/7]
+https://ythls.armelin.one/channel/UCl5JKSQsl-_WSU1rz7_BCJA.m3u8
+
 #EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/grupo_imagen_logo.jpg" group-title="TV ABIERTA", IMAGEN TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 
@@ -673,6 +727,9 @@ https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="https://canalonce.mx/REST/data/images/once-digital_2.webp" group-title="TV ABIERTA", ONCE MÉXICO 
 https://vivo.canaloncelive.tv:443/alivepkgr3/ngrp:cepro_all/chunklist_b2098304.m3u8
+
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/6b3fa6101174459.Y3JvcCwxMTQ1LDg5NiwxMjEsODQ1.jpg" tvg-group="ARGENTINA", Canal 6 CDMX 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6405 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cULf4Yd.png" group-title="Internacionales", Estrella TV | HD | Estados Unidos
 https://estrellatv-roku.amagi.tv/playlist.m3u8
@@ -727,9 +784,6 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 
 #EXTINF:-1 tvg-logo="https://d172ao1khilsti.cloudfront.net/tcsgo-mediafiles/52d436ce-feae-4c7f-93cf-cf554342b831.jpg" group-title="El Salvador", TCS+ | HD | salvador
 https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/BLG2dtR.png" group-title="España", TVE Internacional | HD | España
-https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_720.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLqIdSNF4ACGErcqc2v-3JNETwxTQYLnEhXQEPq0SxNo_fhtcffnXB83L9QOQQPQvcWX4&usqp=CAU" group-title="Guatemala", Canal 13 | HD | Esquipulas
 https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
@@ -1081,17 +1135,8 @@ https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429
 #EXTINF:-1 tvg-logo="",Death Note [Animé y juegos] [332] [AR]
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/626c2ed933a2890007e91422/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
-#EXTINF:-1 tvg-logo="",Chiquititas [Entretenimiento] [146] [AR]
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620e67a63b5e370007e06bb2/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-
-#EXTINF:-1 tvg-logo="",Susana Giménez [Entretenimiento] [147] [AR]
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6132429ec9e0db0007a91425/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-
 #EXTINF:-1 tvg-logo="",Telefe Hits [Entretenimiento] [149] [AR]
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de91cf02fc07c0009910465/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-
-#EXTINF:-1 tvg-logo="",Telefe Plutón TV [Entretenimiento] [144] [AR]
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/613237a1c9e0db0007a91350/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
 #EXTINF:-1 tvg-logo="",Tastemade [Estilo de Vida] ​​[556] [AR]
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f998c1fc54853000797bacd/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
@@ -1142,22 +1187,17 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492bb931054f00073c0b
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620ff0a01f9e8700076c6f9d/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
 
-#EXTINF:-1 tvg-logo="",7 MENDOZA YT
-https://youtube.jitendra-kumar.workers.dev/wanda.m3u8?id=Vh8xmLBJtR8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/BLG2dtR.png" group-title="España", TVE Internacional | HD | España ok
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_720.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://css2.rtve.es/css/rtveplay.2021/i/compartir_tve_internacional.jpg" tvg-group="ARGENTINA",Tve Internacional America HD (geobloqueo)
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNAaGndh6jhvmWeP2nhUiwp3bHG1aWcfCjNuXvRj4-dbpvKAwMdwtnOiq7iOCUb_N3UzI&usqp=CAU" tvg-group="ARGENTINA",Star Tve HD
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
 
-#EXTINF:-1 tvg-logo="",Telefe Noticias 24hs  YT
-https://youtube.jitendra-kumar.workers.dev/wanda.m3u8?id=MocwNxD7WJk
-
-#EXTINF:-1 tvg-logo="",IP YT
-https://youtube.jitendra-kumar.workers.dev/wanda.m3u8?id=x8WBWMeWQWk
-
-#EXTINF:-1 tvg-logo="",EL DOCE YT
-https://youtube.jitendra-kumar.workers.dev/wanda.m3u8?id=sFZe_RPnNSo
-
-#EXTINF:-1 tvg-logo="",MASHA Y EL OSO YT
-https://youtube.jitendra-kumar.workers.dev/wanda.m3u8?id=ezUxQwz7Vl4
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1334779341306212352/wAScOYnE_200x200.jpg" tvg-group="ARGENTINA",Rtvce HD
+https://cdnlive.codev8.net/rtvcelive/channel1.smil/playlist.m3u8
 
 
 
