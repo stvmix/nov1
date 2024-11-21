@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" tvg-group="ARGENTINA", 01 AMÉRICA en línea
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1120.png",América
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/America/SA_HLS/America.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/Canal_10_Jun%C3%ADn_%28Logo_2022%29.png/revision/latest/scale-to-width-down/200?cb=20221217155436" tvg-group="ARGENTINA", CANAL 10 DE JUNIN
 https://g4.mc-slo.transport.edge-access.net/a10/ngrp:canal10junin-100056_all/Playlist.m3u8
 
@@ -1189,5 +1192,225 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
 
 
 
+#EXTINF:-1, CANAL DE LA CIUDAD ythls
+https://ythls.armelin.one/channel/UCOV_Vx1baZJY9Tfvgm-UI3w.m3u8
+
+#EXTINF:-1, 012 CANAL 26
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+
+#EXTINF:-1,VORTERIX MDP
+https://vivo.solumedia.com:19360/vorterixmdp/vorterixmdp.m3u8
+
+#EXTINF:-1, ALSOLNET
+https://streamlov.alsolnet.com/radiomasterfm/live/playlist.m3u8
+
+#EXTINF:-1, YAPEYU
+https://videohd.live:19360/8094/8094.m3u8
+
+#EXTINF:-1, HYBRID
+https://tuvideoonline.com.ar:3703/hybrid/play.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cJHP7bU.png",El Nueve
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/El_Nueve/SA_HLS/El_Nueve.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vFwPhPS.png",TN
+https://delivery.cdn.rcs.net.ar/mnp/tn_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xDjOUuz.png",Canal 26
+https://delivery.cdn.rcs.net.ar/mnp/canal26_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E3pamA5.png",C5N
+https://delivery.cdn.rcs.net.ar/mnp/c5n_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k2Ku8Ib.png",Cronica
+https://is.gd/CqFhGi
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dbu9nx4.png",IP
+https://is.gd/wzGzgu
+
+#EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1124.png",El Trece
+https://is.gd/Gsefnj
+
+#EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1123.png",Telefe
+https://ssl.cloud.telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V1xZV72.png",Ciudad Magazine
+https://is.gd/fIKFdB
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EWmshtx.png",NET
+https://is.gd/Z9JkKp
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uBBZR1X.png",Encuentro
+https://delivery.cdn.rcs.net.ar/mnp/encuentro_hls/playlist.m3u8
+
+#EXTINF:-1,Telenovelas
+http://bantel.iptvperu.tv:1935/transcoder_t4/TL_Novelas_t4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.telcocom.com.ar/img/canales/telemundo-internacional.png",Telemundo
+https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL_nUZrqlQ2blHDrtAKrj_7X4_hIkW5nLFhA&s",Cartoon
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Cartoon_Network/SA_HLS/Cartoon_Network.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9JEnv7G.png",Cartoonito
+https://delivery.cdn.rcs.net.ar/mnp/boomerang_hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6vvB5g3/Disney-Channel.png",DISNEY
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Disney_Channel/SA_HLS/Disney_Channel.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/roN9yBg.png",Nickelodeon ok
+https://delivery.cdn.rcs.net.ar/mnp/nickelodeon_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.movistar.com.ar/documents/10180/92712757/fox-sports-azul.png",Fox
+https://delivery.cdn.rcs.net.ar/mnp/fox_sport_hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.movistar.com.ar/documents/10180/92712757/fox-sports-2.png",Fox 2
+https://delivery.cdn.rcs.net.ar/mnp/fox_sport2_hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.movistar.com.ar/documents/10180/92712757/fox-sports-3.png",Fox 3
+https://delivery.cdn.rcs.net.ar/mnp/fox_sport3_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1796757218559164416/JeoMjpZD_400x400.jpg",Tnt Sports
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/JKrJQV9.png",Espn Premium
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN_Premium/SA_HLS/ESPN_Premium.m3u8
+
+#EXTINF:-1 ,TNT SPORTS M
+https://delivery.cdn.rcs.net.ar/mnp/tntsports_hls/playlist.m3u8
+#EXTINF:-1 ,ESPN PREMIUM M
+https://delivery.cdn.rcs.net.ar/mnp/espnpremium_hls/playlist.m3u8
+
+#EXTINF:-1 ,TYC SPORT
+https://delivery.cdn.rcs.net.ar/mnp/tyc_hls/playlist.m3u8
+
+#EXTINF:-1, ESPN
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QKtsD5H/ESPN.png",Espn FHD
+https://is.gd/qxSx8b
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsu0Bt2fDHcTd7fwBvlclsxZeCQGDsT-HZNw&s",MTV
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/MTV/SA_HLS/MTV.m3u8
+#EXTINF:-1 tvg-logo="https://www.movistar.com.ar/documents/10180/92712757/htv.png",HTV
+https://delivery.cdn.rcs.net.ar/mnp/htv_hls/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6BP7pVF/History-Channel.png",History
+http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/History/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gmk4GHQ/Discovery-Channel.png",Discovery
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery/SA_HLS/Discovery.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j5JTGbf/Discovery-ID.png",ID
+https://router.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_ID/SA_HLS/Discovery_ID.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9ymf0C1/Discovery-Turbo.png",Turbo
+https://router.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Turbo/SA_HLS/Discovery_Turbo.m3u8
+#EXTINF:-1 tvg-logo="https://www.movistar.com.ar/documents/10180/92712757/h&h.png",H&E
+https://router.cdn.rcs.net.ar/anevia/live/localdisk/Home_Health/SA_HLS/Home_Health.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRQGeqLmd0vZCmUorVuKV4SHctgoSOcvtnqg&usqp=CAU",Cine.AR
+https://delivery.cdn.rcs.net.ar/mnp/cinear_hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.telcocom.com.ar/img/canales/tcm.png",TCM
+https://delivery.cdn.rcs.net.ar/mnp/tcm_hls/playlist.m3u8
+
+
+#EXTINF:-1 ,Discovery Turbo
+https://delivery.cdn.rcs.net.ar/mnp/dsc_turbo_hls/playlist.m3u8
+#EXTINF:-1 ,Discovery World
+https://delivery.cdn.rcs.net.ar/mnp/disc_world_hls/playlist.m3u8
+#EXTINF:-1 ,Space
+https://delivery.cdn.rcs.net.ar/mnp/space_hls/playlist.m3u8
+#EXTINF:-1 ,Syfy
+https://delivery.cdn.rcs.net.ar/mnp/syfy_hls/playlist.m3u8
+#EXTINF:-1 ,TLC
+https://delivery.cdn.rcs.net.ar/mnp/dsc_tlc_hls/playlist.m3u8
+#EXTINF:-1 ,TCM
+https://delivery.cdn.rcs.net.ar/mnp/tcm_hls/playlist.m3u8
+#EXTINF:-1 ,AMC
+https://delivery.cdn.rcs.net.ar/mnp/amc_hls/playlist.m3u8
+#EXTINF:-1 ,FX
+https://delivery.cdn.rcs.net.ar/mnp/fx_hls/playlist.m3u8
+#EXTINF:-1 ,HBO
+https://delivery.cdn.rcs.net.ar/mnp/hbo_hls/playlist.m3u8
+#EXTINF:-1 ,HBO 2
+https://delivery.cdn.rcs.net.ar/mnp/hbo2_hls/playlist.m3u8
+#EXTINF:-1 ,HBO +
+https://delivery.cdn.rcs.net.ar/mnp/hboplus_hls/playlist.m3u8
+#EXTINF:-1 ,HBO Extreme
+https://delivery.cdn.rcs.net.ar/mnp/hboxtr_hls/playlist.m3u8
+#EXTINF:-1 ,HBO Family
+https://delivery.cdn.rcs.net.ar/mnp/hbofam_hls/playlist.m3u8
+#EXTINF:-1 ,HBO Mundi
+https://delivery.cdn.rcs.net.ar/mnp/hbomund_hls/playlist.m3u8
+#EXTINF:-1 ,Cinemax
+https://delivery.cdn.rcs.net.ar/mnp/hbopop_hls/playlist.m3u8
+#EXTINF:-1 ,HBO Pop
+https://delivery.cdn.rcs.net.ar/mnp/hbosig_hls/playlist.m3u8
+#EXTINF:-1 ,TNT
+https://delivery.cdn.rcs.net.ar/mnp/tnt_hls/playlist.m3u8
+#EXTINF:-1 ,TNT Series
+https://delivery.cdn.rcs.net.ar/mnp/tntseries_hls/playlist.m3u8
+#EXTINF:-1 ,Universal Channel
+https://delivery.cdn.rcs.net.ar/mnp/universal_hls/playlist.m3u8
+#EXTINF:-1 ,Warner
+https://delivery.cdn.rcs.net.ar/mnp/warner_hls/playlist.m3u8
+#EXTINF:-1 ,Cartoon Network
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Cartoon_Network/SA_HLS/Cartoon_Network.m3u8
+#EXTINF:-1 ,Cartoonito
+https://delivery.cdn.rcs.net.ar/mnp/boomerang_hls/playlist.m3u8
+#EXTINF:-1 ,Discovery Kids
+https://delivery.cdn.rcs.net.ar/mnp/disc_kids_hls/playlist.m3u8
+#EXTINF:-1 ,Disney Channel
+https://delivery.cdn.rcs.net.ar/mnp/disney_hls/playlist.m3u8
+#EXTINF:-1 ,Disney JR
+https://delivery.cdn.rcs.net.ar/mnp/disneyjr_hls/playlist.m3u8
+#EXTINF:-1 ,Nickelodeon
+https://delivery.cdn.rcs.net.ar/mnp/nickelodeon_hls/playlist.m3u8
+#EXTINF:-1 ,Tooncast
+https://delivery.cdn.rcs.net.ar/mnp/tooncast_hls/playlist.m3u8
+#EXTINF:-1 ,A24
+https://delivery.cdn.rcs.net.ar/mnp/a24_hls/playlist.m3u8
+#EXTINF:-1 ,C5N
+https://delivery.cdn.rcs.net.ar/mnp/c5n_hls/playlist.m3u8
+#EXTINF:-1 ,Canal 9
+https://delivery.cdn.rcs.net.ar/mnp/elnueve_hls/playlist.m3u8
+#EXTINF:-1 ,Canal 13
+https://delivery.cdn.rcs.net.ar/mnp/el13_hls/playlist.m3u8
+#EXTINF:-1 ,Telefe
+https://delivery.cdn.rcs.net.ar/mnp/telefe_hls/playlist.m3u8
+#EXTINF:-1 ,Tv Publica
+https://delivery.cdn.rcs.net.ar/mnp/tvp_hls/playlist.m3u8
+
+#EXTINF:-1,Paramount
+http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/paramount/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CBSGJtb/Space.png",Space
+https://delivery.cdn.rcs.net.ar/mnp/space_hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bZWoDTg.png",Sony Cine
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5nkg2xs/TNT.png",TNT
+http://bantel-cdn1.iptvperu.tv:1935/cdnrji/tnt/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HBmqnvf/TNT-Series.png",TNT Series
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNTSeries/SA_HLS/TNTSeries.m3u8
+#EXTINF:-1 tvg-logo="https://www.movistar.com.ar/documents/10180/92712757/lifetime.png",Lifetime
+http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/lifetime/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1209.png",AXN
+http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/axn/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1508.png",Studio Universal
+http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/studiouniversal/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.fulltv.com.ar/images/tv/universal-channel-3013.png",Universal
+http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/universalchannel/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1217.png",FX
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/FX/SA_HLS/FX.m3u8
+#EXTINF:-1 tvg-logo="https://www.telcocom.com.ar/img/canales/paramount+.png",Paramount
+https://delivery.cdn.rcs.net.ar/mnp/paramount_hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DM4fxGB/Star-Channel.png",Star
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_Channel.m3u8
+#EXTINF:-1 tvg-logo="https://television-libre.online/img/sony.webp",Sony
+http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/sonychannel/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Nyy8bKZ/AMC.png",AMC
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/AMC/SA_HLS/AMC.m3u8
+#EXTINF:-1 tvg-logo="https://www.fulltv.com.ar/images/tv/cine-canal-3005.png",Cinecanal
+http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/cinecanal/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGkbzsP8X-SKvBh-CdOuSrDzI1yI7oxUzYZA&s",CINEMAX
+https://delivery.cdn.rcs.net.ar/mnp/cinemax_hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.movistar.com.ar/documents/10180/92712757/warnertv.png",Warner
+https://delivery.cdn.rcs.net.ar/mnp/warner_hls/playlist.m3u8
+#EXTINF:-1,Cinema
+https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/tracks-v1a1/mono.m3u8
 
 
