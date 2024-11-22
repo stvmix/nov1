@@ -262,6 +262,32 @@ https://marine2.miplay.cl/tateti/playlist.m3u8
 #EXTINF:-1 tvg-id="Televilla.co" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT2i8T0d2TCRe3q_xEkMWbmqoI853VmTYq39RryGevp9HHklcKQwHwBLYs9zPEo8wveeQ&usqp=CAU" tvg-group="INFANTILES",Televilla (720p) [Not 24/7]
 https://cp.panelchs.com:1936/8060/8060/playlist.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/226.png" tvg-group="INFANTILES", CARTOON NETWORK
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Cartoon_Network/SA_HLS/Cartoon_Network.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpmaIo2szuLSwPczz40eRBhhOXvyR4fuuDNWtDYTyM5BLrX5b-FL1jg_BrIrMmgvx3Usg&usqp=CAU" tvg-group="INFANTILES", CARTOONITO
+https://delivery.cdn.rcs.net.ar/mnp/boomerang_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/ecbb842d-3b93-4c7b-90fd-9a188d7b4f20" tvg-group="INFANTILES", Discovery Kids
+https://delivery.cdn.rcs.net.ar/mnp/disc_kids_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTQxX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1708456868844" tvg-group="INFANTILES", Disney OK
+https://delivery.cdn.rcs.net.ar/mnp/disney_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6vvB5g3/Disney-Channel.png",DISNEY
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Disney_Channel/SA_HLS/Disney_Channel.m3u8
+
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/756.png" tvg-group="INFANTILES", Disney Junior 
+https://delivery.cdn.rcs.net.ar/mnp/disneyjr_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/Tooncast_%28green%29.png/revision/latest?cb=20161207193208" tvg-group="INFANTILES", TOONCAST
+https://delivery.cdn.rcs.net.ar/mnp/tooncast_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1181x886/Y2gwMTAwMDAwMDAwMjI5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1181x886.png?timestamp=1708457100995" tvg-group="INFANTILES", nickelodeon 
+https://delivery.cdn.rcs.net.ar/mnp/nickelodeon_hls/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://jrsy.tmsimg.com/assets/p18368280_b_h9_aa.jpg" tvg-group="INFANTILES",Pluto TV retro Cartoons hls
 https://stitcher.pluto.tv/stitch/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=83ae8ae2-b28d-11ee-bbe9-962bf7ca3ddb
 
@@ -397,12 +423,6 @@ https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8
 
 #EXTINF:-1 tvg-id="CN City" tvg-name="CN City" tvg-logo="https://imgur.com/38F3AsR.png" group-title="INFANTILES",CN City | Chile
 https://envivo.cncity.live/hls/cncity.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Cartoon Network 
-https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/Cs4E97JIPoeHwOPoIIZ2gLxaDsAsAczo08g83fDanMHUtvoLU_So9rZIgRGDt7D7oyLgZZJCyXqRON2ETK9gSZ6Ed8DBonRozpa10sYnSB_mPMlC73gd4ZRS_gfQZnDKO7ileZBZNNxRN4Ku3uOcc6FeLClHPiIjaFxkdIUF0dUdRACxhLX25-4KtP_8tIvJMr8b7jXikGbd5dvoTi_OlrADGcFtotPnwEyUR9o16Ec1InH6LPgGoGvPzztresBhGv2FORO-JyMIq2MaKWp6vvqHuPQAPsZhFFWKdctLcYqh7cUl4FbgPmq6UxidIrAtZzL1IPedEtWGM1LmMAKpxe_Ihe-yEmzhhZIROyFitpslW0Q45CF0_Nw3afzb4UCjLbCnL0tbSqBkEo2Jmg8AO_YJ8D3kyPp5arJ5badNfggflkN6GAyBU9XT6FnrGRZ1qumwolDPQpTC9vQRsnXvzY_9ppFFtInjfH-vWISnt2_aJHAG97JWO2V8El5KdsetFdtrkLCBAhDel6bQcZsvLZBW7u4fztmOY8EY88S_dn1rwHEHFcLIlcCIV7dfc_LpbSaIAxmA0IUpMwvtC30pzafdY4c393IME1j17hJZxLywObGxqaMMP9Ud7DW6BLnPME_UakgvK7wxYGfeZiX3VcBSeyqcRiYRGx0eZmy-utJwXsiSxOTGMahu9L7M0V6HAt_gH7OoXK7dW6HOtti0j79rFmOCTKdCxrDYDmvSpfiMVy97vK0DEQ4i7iqY1IcLFh3fP9YPhSnfLwRmqjumaM4aDP7hZY7Uu-yNqHnCeyABKgl1cy1lYXN0LTIw5wo.m3u8 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Fox Kids 
-https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/Cq0EBci7wgmz4uYEf7ITuOT_dHGObOLIK5BmsvUWzC1PdCkhJk5tcv8Z2hjFWqmjfNKDwEOqdbnpoZmBEUZv-SYmydCFnlu0jHkX4UQCl4XKMtlVW2dd6ivYg2lXuGaf0mffpgwAHOmD1xRGzm_jI9FSrCxL3jb-FWjfZq7rroq_r5R_juWFHnsREe2JTKp82e2vzdLnVZYOFsVz1yO24lfKbXtxvmsXjdmcjbrDznHkQdsw4TYYSGc2hK85v1oKkNpWLbULT3zMxPLDRjpttVXgc2L5AnyeJu7srbBI-lQBnSQCBGrtf7JAosHT03BAbWWLYoPtydJZ_bAc0C3acg7pDUFE06wprGeGjrFZuX0dh3JJncifRjhHBYcfqfuC0VaUnimci8qykOS8xo0pseqCkcx2r0BdhzsKBCfZCLjV2jtxpfwAIsGQzIuqgWhJgDG2FI28BoBe1CbEFWn1KWvOHD3NL3H9LLGqqsLjtIZMFr3N4YjcAqqkh0-J1D94Oa5XjHfGtYab6U5kAEwYb1NardTUBh8ZVeLuuI-49HBgYSauVAL4XWa9veaaQdJ_rHAWCplHX0sdPqtBEvxzxFIjsg1hfiJVfeRMr6Q672IQ2YozaV5erEjIohElvOtn1a6GMEFx0WJkdqkf0U5qB14jRx3Ty-33bMlly2MGULkcsm0DIxLTe_IrFRrg7oW9QevK6MjimHugUM1MQ6x0npKRiCa5gCe06MTYYf9By5AaDE1HAq_RXCT7DkJ5lCABKgl1cy1lYXN0LTIw5wo.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p4gTy4Y/Logo-Clan-HD.png" group-title="TV PREMIUM",Clan Latinoamerica HD (geobloqueo)
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_dvr_1080.m3u8
@@ -1294,30 +1314,6 @@ https://delivery.cdn.rcs.net.ar/mnp/tntseries_hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/3200x2400/Y2gwMTAwMDAwMDAwMDMxX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_3200x2400.png?timestamp=1708456808952" tvg-group="PREMIUM", UNIVERSAL
 https://delivery.cdn.rcs.net.ar/mnp/universal_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/226.png" tvg-group="INFANTILES", CARTOON NETWORK
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Cartoon_Network/SA_HLS/Cartoon_Network.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpmaIo2szuLSwPczz40eRBhhOXvyR4fuuDNWtDYTyM5BLrX5b-FL1jg_BrIrMmgvx3Usg&usqp=CAU" tvg-group="INFANTILES", CARTOONITO
-https://delivery.cdn.rcs.net.ar/mnp/boomerang_hls/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/ecbb842d-3b93-4c7b-90fd-9a188d7b4f20" tvg-group="INFANTILES", Discovery Kids
-https://delivery.cdn.rcs.net.ar/mnp/disc_kids_hls/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTQxX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1708456868844" tvg-group="INFANTILES", Disney OK
-https://delivery.cdn.rcs.net.ar/mnp/disney_hls/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6vvB5g3/Disney-Channel.png",DISNEY
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Disney_Channel/SA_HLS/Disney_Channel.m3u8
-
-#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/756.png" tvg-group="INFANTILES", Disney Junior 
-https://delivery.cdn.rcs.net.ar/mnp/disneyjr_hls/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg6d_F-DT3DomoHVAnE_BJQlsBtxDBzlqfQKUe97DLmTL_EF1Xvyxy8OLARNJ9MSpJjRM&usqp=CAU" tvg-group="INFANTILES", TOONCAST
-https://delivery.cdn.rcs.net.ar/mnp/tooncast_hls/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1181x886/Y2gwMTAwMDAwMDAwMjI5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1181x886.png?timestamp=1708457100995" tvg-group="INFANTILES", nickelodeon 
-https://delivery.cdn.rcs.net.ar/mnp/nickelodeon_hls/playlist.m3u8
-
 #EXTINF:-1 ,A24
 https://delivery.cdn.rcs.net.ar/mnp/a24_hls/playlist.m3u8
 #EXTINF:-1 ,C5N
@@ -1359,25 +1355,23 @@ https://delivery.cdn.rcs.net.ar/mnp/warner_hls/playlist.m3u8
 #EXTINF:-1,Cinema
 https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/tracks-v1a1/mono.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://www.movistar.com.ar/documents/10180/92712757/fox-sports-azul.png",Fox
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/FoxSports.png" tvg-group="Deportes", Fox Sports
 https://delivery.cdn.rcs.net.ar/mnp/fox_sport_hls/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistar.com.ar/documents/10180/92712757/fox-sports-2.png",Fox 2
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/FoxSports2.png" tvg-group="Deportes", Fox Sports 2
 https://delivery.cdn.rcs.net.ar/mnp/fox_sport2_hls/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistar.com.ar/documents/10180/92712757/fox-sports-3.png",Fox 3
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/FoxSports3.png" tvg-group="Deportes", Fox Sports 3
 https://delivery.cdn.rcs.net.ar/mnp/fox_sport3_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2024_06/large.TNTSports.png.9d3a1d767a4697781ed3eddabfc3c247.png",Tnt Sports
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports.m3u8
-
-#EXTINF:-1 tvg-logo="https://iili.io/JKrJQV9.png",Espn Premium
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN_Premium/SA_HLS/ESPN_Premium.m3u8
-
-#EXTINF:-1 tvg-logo="", TYC
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TYC/SA_HLS/TYC.m3u8
-
-#EXTINF:-1, ESPN
+#EXTINF:-1 tvg-logo="https://i.ibb.co/D4XMJV0/espnar.png" tvg-group="Deportes", ESPN AR
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QKtsD5H/ESPN.png",Espn FHD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/D4XMJV0/espnar.png" tvg-group="Deportes", ESPN FHD
 https://is.gd/qxSx8b
+
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2024_06/large.TNTSports.png.9d3a1d767a4697781ed3eddabfc3c247.png",TNT Sports
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/JKrJQV9.png",ESPN Premium
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN_Premium/SA_HLS/ESPN_Premium.m3u8
