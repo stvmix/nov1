@@ -1443,17 +1443,35 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TyC/SA_HLS/TyC.m3u8
 #EXTINF:-1 ,gourmet
 https://delivery.cdn.rcs.net.ar/mnp/gourmet_hls/playlist.m3u8
 
-#EXTINF:-1 ,hbo
-https://delivery.cdn.rcs.net.ar/mnp/hbo_hls/playlist.m3u8
-
-
 #EXTINF:-1, EL GOURMET
 https://router.cdn.rcs.net.ar/anevia/live/localdisk/El_Gourmet/SA_HLS/El_Gourmet.m3u8
 
+#EXTINF:-1 tvg-id="ES900001SH" tvg-name="" group-title="Kids & Gaming 🧒🎮" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Mr%20Bean.webp",Mr. Bean 🇪🇸
+https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Funbox.(FUNBOX).cl" tvg-name="" group-title="Kids & Gaming 🧒🎮" tvg-logo="https://sck.pm/64sy",FunBox 🇵🇪
+https://live-evg25.tv360.bitel.com.pe/bitel/funbox/playlist.m3u8
 
+#EXTINF:-1 tvg-name="Antena 3" tvg-id="Antena.3.es" group-title="Espanha 🇪🇸" tvg-logo="https://www.antena3.com/public/img/a3com/favicon/icon160.webp",Antena 3 🇪🇸
+https://tvnoov.com/fadoo/antena3hd.m3u8
 
+#EXTINF:-1, chvchile
+https://marine2.miplay.cl/chvchile/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bZWoDTg.png",Sony Cine
+http://bantel.iptvperu.tv:1935/cdnnjf/sonymovies/chunks.m3u8
+
+#EXTINF:-1, global HD
+https://live-evg25.tv360.bitel.com.pe/bitel/global/playlist.m3u8
+
+#EXTINF:-1, americatv HD
+https://live-evg25.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8
+
+#EXTINF:-1, AMERICA PE
+https://live-evg25.tv360.bitel.com.pe/bitel/americatv/bitel/americatv_ori_360p/chunks.m3u8
+
+#EXTINF:-1, CANAL LATINA PE
+https://live-evg25.tv360.bitel.com.pe/bitel/latina/bitel/latina_ori_360p/chunks.m3u8
 
 
 
