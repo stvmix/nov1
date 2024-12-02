@@ -99,110 +99,38 @@ https://unlimited6-cl.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Am%C3%A9rica_Tucum%C3%A1n_Canal_28.1_%282019-1%29.png" tvg-group="ARGENTINA", AMERICA TUCUMAN
 https://ythls.armelin.one/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/u1dnEVv.png" tvg-group="ARGENTINA", PANC TV | Arkansas
-https://panel.host-live.com:19360/81500/81500.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/FoxSports.png" tvg-group="Deportes", Fox Sports
+https://delivery.cdn.rcs.net.ar/mnp/fox_sport_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="1143" tvg-name="Cosmos TV" tvg-logo="https://cdn.m3u.cl/logo/1143_Cosmos_TV.png" tvg-group="ARGENTINA", Cosmos televisión | Arkansas
-https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8?PlaylistM3UCLL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/FoxSports2.png" tvg-group="Deportes", Fox Sports 2
+https://delivery.cdn.rcs.net.ar/mnp/fox_sport2_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ssiptvarg.weebly.com/uploads/1/3/9/6/139612966/neo-tv-digital-16-1_orig.png" tvg-group="ARGENTINA", NEO TV DIGITAL 16.1
-https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/FoxSports3.png" tvg-group="Deportes", Fox Sports 3
+https://delivery.cdn.rcs.net.ar/mnp/fox_sport3_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OFSOvpd.jpg" tvg-group="ARGENTINA", TDtv (720p)
-https://cloudvideo.servers10.com:8081/8230/index.m3u8
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2024_06/large.TNTSports.png.9d3a1d767a4697781ed3eddabfc3c247.png",TNT Sports
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/55658a680c893a358e806abf1604d905.webp" tvg-group="ARGENTINA", SPTV Digital OK
-https://srv2.zcast.com.br/sptv32/sptv32/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://logo.iptveditor.com/espnpremium.png" group-title="DEPORTES"ESPN Premium
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN_Premium/SA_HLS/ESPN_Premium.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLPm5rd0FUSZxyXSD9S0M3HTUrDBfVJhY5zhGubVbN_w0f_BPW4x0VRVQzhRQGWkr0VZk&usqp=CAU" tvg-group="ARGENTINA", Neox TV (4 80p)
-https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/D4XMJV0/espnar.png" tvg-group="Deportes", ESPN FHD
+https://is.gd/qxSx8b
 
-#EXTINF:-1 tvg-logo="https://www.cablesur.com.co/wp-content/uploads/2022/08/LOGOTIPO-EN-BLANCO-1.png" tvg-group="ARGENTINA", Cable Sur TV (720p)
-https://tvlatina.live:1936/8012/8012/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/espn.png" group-title="DEPORTES",ESPN
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN.m3u8
 
-#EXTINF:-1 tvg-logo="https://cincotv.com.ar/wp-content/uploads/2022/05/LOGO-SOLO.png" tvg-group="ARGENTINA",Cinco TV (480p) OK
-https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
+#EXTINF:-1  tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/espn2.png" group-title="DEPORTES",ESPN2
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2.m3u8
 
-#EXTINF:-1 tvg-id="1544" tvg-name="TV Megaclásico" tvg-logo="https://cdn.m3u.cl/logo/1544_Megaclassic_TV.png" tvg-group="ARGENTINA", Megaclásico televisión | Arkansas
-https://stmvideo1.livecastv.com/megaclassic/megaclassic/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/espn3.png" group-title="DEPORTES",ESPN3
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN3/SA_HLS/ESPN3.m3u8
 
-#EXTINF:-1 tvg-logo="https://tv.enfoquedigital.cl/assets/images/LOGO-ED.png" tvg-group="ARGENTINA", Enfoque Digital TV | CL
-https://5eaccbab48461.streamlock.net:1936/8074/8074/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/espn4.png" group-title="DEPORTES",Espn 4 mnp
+https://delivery.cdn.rcs.net.ar/mnp/espn_extra_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx2y9tTACXMU_ANAXnoqWx81CvxY-S-KcID7Ch1HbVyVoB1NEFJHmO9Dcm9vmDg5Eme_w&usqp=CAU" tvg-group="ARGENTINA", CANAL 12 MISIONES HD
-https://iptv.ixfo.com.ar:30443/vivo/canal12/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://radiodigitaltv.com/wp-content/uploads/2021/12/Logo-Reina-tv-bien.jpg" tvg-group="ARGENTINA",La Reina (Rep. Dominicana) (🇩🇴)
-https://cloud2.streaminglivehd.com:1936/lareinatv/lareinatv/.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1348_Canal_40_Caucete.png" tvg-group="ARGENTINA", Canal 40 Caucete | Arkansas
-https://canalsj.kozow.com/canal40/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="765" tvg-name="Canal 4 Telecondor" tvg-logo="https://cdn.m3u.cl/logo/765_Canal_4_Telecondor.png" tvg-group="ARGENTINA", Canal 4 Telecondor ✪ | AR
-https://videostream.shockmedia.com.ar:19360/canal4telecondor/canal4telecondor.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="1200" tvg-name="Bayres TV" tvg-logo="https://cdn.m3u.cl/logo/1200_Bayres_TV.png" tvg-group="ARGENTINA", Bayres TV | AR
-https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="1549" tvg-name="Somos TV" tvg-logo="https://cdn.m3u.cl/logo/1549_Somos_TV.png" tvg-group="ARGENTINA", Somos TV ✪ | CL
-https://v1.tustreaming.cl:443/somostv/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://www.canal26.com/images/open-graph/tierramia_logo.png" tvg-group="ARGENTINA", TierramiaTV
-https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRndtw6JY8nOLcPzvBtIZMNBjSAb0JM0ymjIDbQ_WAzRoMtbwHXNKRzUAn_t8UW8uDuI7c&usqp=CAU" tvg-group="ARGENTINA", DEJANDO HUELLAS (Folklore Radio)
-https://inliveserver.com:1936/9014/9014/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/09/Chamame-TV-en-vivo-Online.png" tvg-group="ARGENTINA", CHAMAME TV 
-https://srv2.zcast.com.br/chamame/chamame/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-dvo619HWccMu2_XQwb1m5yrnnAgyFz6I3y0eTyMCEAf-W5diE-Jhk1AU_JRwc9lquL4&usqp=CAU" tvg-group="ARGENTINA", ARGENTINISIMA
-https://stream1.sersat.com/hls/argentinisima.m3u8
-
-#EXTINF:-1 tvg-logo="https://wikiwandv2-19431.kxcdn.com/_next/image?url=https://upload.wikimedia.org/wikipedia/commons/d/d0/Logocmtvargentina.png&w=640&q=50" tvg-group="ARGENTINA", CM ARG
-https://g5.proy-hor.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/MU6fuDOAnd2aa-iFNvOH5443YFclaZ2PSzPjKfGJluoUJln7cPgfxXgtllijU5R2CSNyvt2t=s900-c-k-c0x00ffffff-no-rj" tvg-group="ARGENTINA", VIVO TV (1080p)
-https://stream.vivotv.uy/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJr7jvKjhktVW0FJWCSlEV7JqEw3u2mJVWmSDdEiIo2oj3MZSfzO69Q2nibp23sqSxbxE&usqp=CAU" tvg-group="ARGENTINA",Vision Television (720p)
-https://cloudvideo.servers10.com:8081/8016/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bd2afET.png" tvg-group="ARGENTINA", CANAL 3 LAS HERAS
-https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://television-libre.online/img/telemax.webp" tvg-group="ARGENTINA", TELEMAX 26.3
-https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/01/america-teve.png?fit=500%2C300&ssl=1" tvg-group="ARGENTINA", América TeVé Estados Unidos
-https://live.gideo.video/americateve2/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG_-9OLcshLXr1ZVoEV1lxj9CMF7AMmiPAgWePoUHY2k6ysdNpTqaskZ6E7HHxSCIIDsU&usqp=CAU" tvg-group="ARGENTINA",Inti TV (1080) p)
-https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/.m3u8
-
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/09/Canal-2-Gualeguay-en-vivo-Online.png" tvg-group="ARGENTINA", CANAL 2 GUALEGUAY ENTRE RIOS
-https://stream.arcast.host:8443/gualeguay/gualeguay/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM-2IfdVtxpoPdDgkiNso_u47pZkjdmCzEElOp3K1D-NdXd_zrq-ztLslL1nGmheGyXlY&usqp=CAU" tvg-group="ARGENTINA", CANAL 2 MAR DEL PLATA
-https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
-
-#EXTINF:-1 tvg-id="Canal10Cordoba.ar" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/09/Canal-10-Cordoba-en-vivo-Online.png?fit=1920%2C1080&ssl=1" tvg-group="ARGENTINA", CANAL 10 CORDOBA
-https://stream.arcast.net:4443/canal10/ngrp:canal10_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logotrececanal.png/512px-Logotrececanal.png" tvg-group="ARGENTINA",Trece Paraguay (1080p) ok
-https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BmTrRtV.png" group-title="Perú", ATV | HD | Lima
-https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2225111415/avatar_400x400.jpg" tvg-group="ARGENTINA", PANAMERICANA TV
-https://cdnhd.iblups.com/hls/ptv5.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d361f1f51796136d9f931586c45f4a33.webp" tvg-group="ARGENTINA", 7.2 | TV Perú Internacional
-https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxw57SYgj-1pxS9e61G4yy4vaVDcpjivz024XDAxMw0rbF4zIM0tbkUqrwhKOJBsldTfI&usqp=CAU" tvg-group="ARGENTINA", 7.3 | TV Perú Noticias
-https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
+#EXTINF:-1  tvg-logo="https://tycsports.hiringroom.com/data/accounts/tycsports/microsite/cfb58ca8d62e9685391d991717b44fb6.png" group-title="DEPORTES", TyC
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TyC/SA_HLS/TyC.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/FhOQWiELN6RRFwFbxKWWWEBLgGhXifnJfWT8SWtHZUdSH6fT3Jc_IC88xtebGFXTbQ" tvg-group="Deportes",TYC Sports Play 🇦🇷 ⚽
 https://d1scuk1wvkchtc.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index.m3u8
@@ -251,17 +179,107 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRaQmT4aA6_583JXa_LrNbrSa3bd6Z3ydfHflERewVSLvqwwguHttbQzrRoPHc6l52eRU&usqp=CAU" tvg-group="Deportes",ITV Deportes
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=495e9b096e96cee4e541b0c2695a0fcb&app_bundle=com.canela.ott&app_store_url=https% 3A%2F%2Fwww.canela. tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&site_page=https%253A%25 2F%252Fwww.canela.tv%252F&gender=not_specified&yob=0&livestream = 1&custom_param_0=&custom_param_1=teléfono&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%20America×tamp=1656899342&id=34434&ip=45.188.78.93&override_expiration=150 0 &sign=TxhnXtTkkmuchk54BrTTN4p4AevpD8%2Bnm3lscX9lXPg%3D
+#EXTINF:-1 tvg-logo="https://www.canal26.com/images/open-graph/tierramia_logo.png" tvg-group="ARGENTINA", TierramiaTV
+https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRndtw6JY8nOLcPzvBtIZMNBjSAb0JM0ymjIDbQ_WAzRoMtbwHXNKRzUAn_t8UW8uDuI7c&usqp=CAU" tvg-group="ARGENTINA", DEJANDO HUELLAS (Folklore Radio)
+https://inliveserver.com:1936/9014/9014/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5cf96dad1652631e36d43320/thumbnail.jpg",Comedy Central en español
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c280717 -30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=970b3112-4df5-46fc-83e4-cefce01e5024
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/09/Chamame-TV-en-vivo-Online.png" tvg-group="ARGENTINA", CHAMAME TV 
+https://srv2.zcast.com.br/chamame/chamame/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/tvmas2.jpg",TV MÁS 2 cl (480p)
-https://marine2.miplay.cl/tateti/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-dvo619HWccMu2_XQwb1m5yrnnAgyFz6I3y0eTyMCEAf-W5diE-Jhk1AU_JRwc9lquL4&usqp=CAU" tvg-group="ARGENTINA", ARGENTINISIMA
+https://stream1.sersat.com/hls/argentinisima.m3u8
+
+#EXTINF:-1 tvg-logo="https://wikiwandv2-19431.kxcdn.com/_next/image?url=https://upload.wikimedia.org/wikipedia/commons/d/d0/Logocmtvargentina.png&w=640&q=50" tvg-group="ARGENTINA", CM ARG
+https://g5.proy-hor.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/MU6fuDOAnd2aa-iFNvOH5443YFclaZ2PSzPjKfGJluoUJln7cPgfxXgtllijU5R2CSNyvt2t=s900-c-k-c0x00ffffff-no-rj" tvg-group="ARGENTINA", VIVO TV (1080p)
+https://stream.vivotv.uy/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u1dnEVv.png" tvg-group="ARGENTINA", PANC TV | Arkansas
+https://panel.host-live.com:19360/81500/81500.m3u8
+
+#EXTINF:-1 tvg-id="1143" tvg-name="Cosmos TV" tvg-logo="https://cdn.m3u.cl/logo/1143_Cosmos_TV.png" tvg-group="ARGENTINA", Cosmos televisión | Arkansas
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8?PlaylistM3UCLL
+
+#EXTINF:-1 tvg-logo="https://ssiptvarg.weebly.com/uploads/1/3/9/6/139612966/neo-tv-digital-16-1_orig.png" tvg-group="ARGENTINA", NEO TV DIGITAL 16.1
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OFSOvpd.jpg" tvg-group="ARGENTINA", TDtv (720p)
+https://cloudvideo.servers10.com:8081/8230/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/55658a680c893a358e806abf1604d905.webp" tvg-group="ARGENTINA", SPTV Digital OK
+https://srv2.zcast.com.br/sptv32/sptv32/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLPm5rd0FUSZxyXSD9S0M3HTUrDBfVJhY5zhGubVbN_w0f_BPW4x0VRVQzhRQGWkr0VZk&usqp=CAU" tvg-group="ARGENTINA", Neox TV (4 80p)
+https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cablesur.com.co/wp-content/uploads/2022/08/LOGOTIPO-EN-BLANCO-1.png" tvg-group="ARGENTINA", Cable Sur TV (720p)
+https://tvlatina.live:1936/8012/8012/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cincotv.com.ar/wp-content/uploads/2022/05/LOGO-SOLO.png" tvg-group="ARGENTINA",Cinco TV (480p) OK
+https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
+
+#EXTINF:-1 tvg-id="1544" tvg-name="TV Megaclásico" tvg-logo="https://cdn.m3u.cl/logo/1544_Megaclassic_TV.png" tvg-group="ARGENTINA", Megaclásico televisión | Arkansas
+https://stmvideo1.livecastv.com/megaclassic/megaclassic/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://tv.enfoquedigital.cl/assets/images/LOGO-ED.png" tvg-group="ARGENTINA", Enfoque Digital TV | CL
+https://5eaccbab48461.streamlock.net:1936/8074/8074/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx2y9tTACXMU_ANAXnoqWx81CvxY-S-KcID7Ch1HbVyVoB1NEFJHmO9Dcm9vmDg5Eme_w&usqp=CAU" tvg-group="ARGENTINA", CANAL 12 MISIONES HD
+https://iptv.ixfo.com.ar:30443/vivo/canal12/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://radiodigitaltv.com/wp-content/uploads/2021/12/Logo-Reina-tv-bien.jpg" tvg-group="ARGENTINA",La Reina (Rep. Dominicana) (🇩🇴)
+https://cloud2.streaminglivehd.com:1936/lareinatv/lareinatv/.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1348_Canal_40_Caucete.png" tvg-group="ARGENTINA", Canal 40 Caucete | Arkansas
+https://canalsj.kozow.com/canal40/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="765" tvg-name="Canal 4 Telecondor" tvg-logo="https://cdn.m3u.cl/logo/765_Canal_4_Telecondor.png" tvg-group="ARGENTINA", Canal 4 Telecondor ✪ | AR
+https://videostream.shockmedia.com.ar:19360/canal4telecondor/canal4telecondor.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="1200" tvg-name="Bayres TV" tvg-logo="https://cdn.m3u.cl/logo/1200_Bayres_TV.png" tvg-group="ARGENTINA", Bayres TV | AR
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="1549" tvg-name="Somos TV" tvg-logo="https://cdn.m3u.cl/logo/1549_Somos_TV.png" tvg-group="ARGENTINA", Somos TV ✪ | CL
+https://v1.tustreaming.cl:443/somostv/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJr7jvKjhktVW0FJWCSlEV7JqEw3u2mJVWmSDdEiIo2oj3MZSfzO69Q2nibp23sqSxbxE&usqp=CAU" tvg-group="ARGENTINA",Vision Television (720p)
+https://cloudvideo.servers10.com:8081/8016/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/01/america-teve.png?fit=500%2C300&ssl=1" tvg-group="ARGENTINA", América TeVé Estados Unidos
+https://live.gideo.video/americateve2/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG_-9OLcshLXr1ZVoEV1lxj9CMF7AMmiPAgWePoUHY2k6ysdNpTqaskZ6E7HHxSCIIDsU&usqp=CAU" tvg-group="ARGENTINA",Inti TV (1080) p)
+https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/.m3u8
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/09/Canal-2-Gualeguay-en-vivo-Online.png" tvg-group="ARGENTINA", CANAL 2 GUALEGUAY ENTRE RIOS
+https://stream.arcast.host:8443/gualeguay/gualeguay/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM-2IfdVtxpoPdDgkiNso_u47pZkjdmCzEElOp3K1D-NdXd_zrq-ztLslL1nGmheGyXlY&usqp=CAU" tvg-group="ARGENTINA", CANAL 2 MAR DEL PLATA
+https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
+
+#EXTINF:-1 tvg-id="Canal10Cordoba.ar" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/09/Canal-10-Cordoba-en-vivo-Online.png?fit=1920%2C1080&ssl=1" tvg-group="ARGENTINA", CANAL 10 CORDOBA
+https://stream.arcast.net:4443/canal10/ngrp:canal10_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logotrececanal.png/512px-Logotrececanal.png" tvg-group="ARGENTINA",Trece Paraguay (1080p) ok
+https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BmTrRtV.png" group-title="Perú", ATV | HD | Lima
+https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2225111415/avatar_400x400.jpg" tvg-group="ARGENTINA", PANAMERICANA TV
+https://cdnhd.iblups.com/hls/ptv5.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d361f1f51796136d9f931586c45f4a33.webp" tvg-group="ARGENTINA", 7.2 | TV Perú Internacional
+https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxw57SYgj-1pxS9e61G4yy4vaVDcpjivz024XDAxMw0rbF4zIM0tbkUqrwhKOJBsldTfI&usqp=CAU" tvg-group="ARGENTINA", 7.3 | TV Perú Noticias
+https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
 
 #EXTINF:-1 tvg-id="Televilla.co" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT2i8T0d2TCRe3q_xEkMWbmqoI853VmTYq39RryGevp9HHklcKQwHwBLYs9zPEo8wveeQ&usqp=CAU" tvg-group="INFANTILES",Televilla (720p) [Not 24/7]
 https://cp.panelchs.com:1936/8060/8060/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/226.png" tvg-group="INFANTILES", CARTOON NETWORK
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Cartoon_Network/SA_HLS/Cartoon_Network.m3u8
@@ -525,6 +543,9 @@ https://stream-cdn-iad.vaughnsoft.net/play/live_shay_saheed.flv
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kwIrTSI.png" tvg-group="INFANTILES",Futurama stream
 https://stream-cdn-iad.vaughnsoft.net/play/live_futurama_mania_.flv?android_vs.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5cf96dad1652631e36d43320/thumbnail.jpg",Comedy Central en español
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c280717 -30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=970b3112-4df5-46fc-83e4-cefce01e5024
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTAxNDczOTY4NDBeQTJeQWpwZ15BbWU4MDI4MjM1OTYx._V1_.jpg" tvg-group="INFANTILES", South Park flv
 
@@ -983,6 +1004,36 @@ https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/3dSTXEv.png" group-title="Chile", Teleserie Canal 13 | FHD | Santiago
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 
+#EXTINF:-1  tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/13cable.png" group-title="NACIONALES", 13C 1
+https://marine2.miplay.cl/canal13cable/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/canal13.png" group-title="NACIONALES", CL C13 OK
+https://marine2.miplay.cl/c13/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/lared.png" group-title="NACIONALES",La Red | CL
+https://marine2.miplay.cl/lared/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/tvmas2.jpg" group-title="NACIONALES",TV MÁS 2 cl (480p)
+https://marine2.miplay.cl/tateti/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/chv.png" group-title="NACIONALES", Chilevisión
+https://marine2.miplay.cl/chvchile/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/tvn.png" group-title="NACIONALES", TVN 1
+https://marine2.miplay.cl/tvnchile/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/mega.png" group-title="NACIONALES", Mega 1
+https://marine2.miplay.cl/megacl/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/chv.png" group-title="NACIONALES", Chilevisión 
+https://marine2.miplay.cl/chvchile/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/canal13.png" group-title="NACIONALES", Canal 13 
+https://marine2.miplay.cl/c13/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/tvmas.png" group-title="NACIONALES", Tv Mas
+https://marine2.miplay.cl/tvmas/playlist.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Lwhe58T.png" group-title="Chile", +Cine | HD | Chile
 https://tv.streaming-chile.com:19360/8142/8142.m3u8
 
@@ -1364,27 +1415,6 @@ https://delivery.cdn.rcs.net.ar/mnp/warner_hls/playlist.m3u8
 #EXTINF:-1,Cinema
 https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/FoxSports.png" tvg-group="Deportes", Fox Sports
-https://delivery.cdn.rcs.net.ar/mnp/fox_sport_hls/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/FoxSports2.png" tvg-group="Deportes", Fox Sports 2
-https://delivery.cdn.rcs.net.ar/mnp/fox_sport2_hls/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/FoxSports3.png" tvg-group="Deportes", Fox Sports 3
-https://delivery.cdn.rcs.net.ar/mnp/fox_sport3_hls/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/D4XMJV0/espnar.png" tvg-group="Deportes", ESPN AR
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/D4XMJV0/espnar.png" tvg-group="Deportes", ESPN FHD
-https://is.gd/qxSx8b
-
-#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2024_06/large.TNTSports.png.9d3a1d767a4697781ed3eddabfc3c247.png",TNT Sports
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports.m3u8
-
-#EXTINF:-1 tvg-logo="https://iili.io/JKrJQV9.png",ESPN Premium
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN_Premium/SA_HLS/ESPN_Premium.m3u8
-
 
 #EXTINF:-1 tvg-id="LASESTRELLAS" tvg-name="LAS ESTRELLAS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Las_Estrellas_2017_Navidad.svg/revision/latest/scale-to-width-down/250?cb=20230202024114&path-prefix=es" group-title="TV ABIERTA", LAS ESTRELLAS 2.1 
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
@@ -1407,38 +1437,15 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-60b0f65c0c8f
 #EXTINF:-1 group-title="TV ABIERTA", UNIFE TV
 https://cdn.mycloudstream.io/hls/live/broadcast/xundwjvp/index.m3u8
 
-#EXTINF:-1 group-title="TV ABIERTA", CL C13 OK
-https://marine2.miplay.cl/c13/playlist.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", FLASH
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-ono/playlist.m3u8?player_height=1080&player_width=1920&min_ad_duration=6&max_ad_duration=120
-
-#EXTINF:-1 tvg-id="790" tvg-logo="https://lh3.googleusercontent.com/-w3BIhImK3PM/YKLYqeFgJlI/AAAAAAABCXk/cJQItXH6BeII2A19RmryccG1o54twOSvACK8BGAsYHg/s512/2021-05-17.jpg" group-title="TV", La Red | CL
-https://marine2.miplay.cl/lared/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 ,Animal Planet mnp
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_HLS/Animal_Planet.m3u8
 
 #EXTINF:-1 ,Comedy Central
 https://delivery.cdn.rcs.net.ar/mnp/comedy_hls/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/zZcX7bircVzUPkIPYDRYIKIkvCU5nOP6Gym5wLJcSQQrJfsR_2l0tHjJkE4-Fqz28XfM5UB_hw=s48-c-k-c0x00ffffff-no-rj", CASM LACLASICA  YT
-https://youtube.jitendra-kumar.workers.dev/wanda.m3u8?id=SzfIcXDPTCc
-
-#EXTINF:-1 ,ESPN
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN.m3u8
-
-#EXTINF:-1 ,ESPN2
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2.m3u8
-
-#EXTINF:-1 ,ESPN3
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN3/SA_HLS/ESPN3.m3u8
-
-#EXTINF:-1 ,Espn 4 mnp
-https://delivery.cdn.rcs.net.ar/mnp/espn_extra_hls/playlist.m3u8
-
-#EXTINF:-1 ,TyC
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TyC/SA_HLS/TyC.m3u8
 
 #EXTINF:-1 ,gourmet
 https://delivery.cdn.rcs.net.ar/mnp/gourmet_hls/playlist.m3u8
@@ -1451,12 +1458,6 @@ https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg0
 
 #EXTINF:-1 tvg-id="Funbox.(FUNBOX).cl" tvg-name="" group-title="Kids & Gaming 🧒🎮" tvg-logo="https://sck.pm/64sy",FunBox 🇵🇪
 https://live-evg25.tv360.bitel.com.pe/bitel/funbox/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Antena 3" tvg-id="Antena.3.es" group-title="Espanha 🇪🇸" tvg-logo="https://www.antena3.com/public/img/a3com/favicon/icon160.webp",Antena 3 🇪🇸
-https://tvnoov.com/fadoo/antena3hd.m3u8
-
-#EXTINF:-1, chvchile
-https://marine2.miplay.cl/chvchile/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bZWoDTg.png",Sony Cine
 http://bantel.iptvperu.tv:1935/cdnnjf/sonymovies/chunks.m3u8
@@ -1834,4 +1835,6 @@ http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/94860.ts
 http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/94864.ts
 #EXTINF:-1 tvg-id="" tvg-name="USA | Discovery Familia (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Discovery_Familia.png" group-title="DOCUMENTALES",USA | Discovery Familia (HD)
 http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/69840.ts
+
+
 
