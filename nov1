@@ -320,7 +320,7 @@ http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/94843.ts
 #EXTINF:-1 tvg-logo="https://clarovideocdn7.clarovideo.net/HBO/PELICULAS/HBOPLUSHD/EXPORTACION_WEB/SS/HBOPLUSHD_t-290x163.png" tvg-group="PREMIUM",HBO Plus (Z)(1080)
 http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/94844.ts
 
-#EXTINF:-1 tvg-logo="https://clarovideocdn1.clarovideo.net/HBO/PELICULAS/HBOPOP/EXPORTACION_WEB/SS/HBOPOP_t-290x163.png%22" tvg-group="PREMIUM",HBO POP (Z)(720) -
+#EXTINF:-1 tvg-logo="https://www.codice.tv/wp-content/uploads/2022/04/hbo-pop1-300x300.png" tvg-group="PREMIUM",HBO POP (Z)(720) -
 http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/94845.ts
 
 #EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMjAxX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1708456926578" tvg-group="PREMIUM",HBO Signature (Z)(720)
@@ -340,6 +340,9 @@ http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/94820.ts
 
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/small.1365450986_UniversalReality-Claro.png.f81d451e3c0704d97dad0839c8fb4eb3.png" tvg-group="PREMIUM",Universal Reality (Z)(720)
 http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/94819.ts
+
+#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.701883225_UniversalCrime-Claro.png.4aae93a0b99c367cbf5a8009be92aa7d.png" tvg-group="PREMIUM", Universal Crime (Z)(720)
+http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/94817.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/golden_m.png" tvg-group="PREMIUM",Golden (Z)(1080)
 http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/94836.ts
@@ -1838,9 +1841,9 @@ http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/94884.ts
 http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/94885.ts
 #EXTINF:-1 tvg-id="" tvg-name="DOC - Casa & Pezca (Z)(1080)" tvg-logo="https://i.imgur.com/X18tLOR.png" group-title="DOCUMENTALES",DOC - Casa & Pezca (Z)(1080)
 http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/94860.ts
-#EXTINF:-1 tvg-id="" tvg-name="DOC - Discovery FAMILIA (Z)(1080)" tvg-logo="https://static.epg.best/us/DiscoveryFamilia.us.png" group-title="DOCUMENTALES",DOC - Discovery FAMILIA (Z)(1080)
+#EXTINF:-1 tvg-id="" tvg-name="DOC - Discovery FAMILIA (Z)(1080)" tvg-logo="https://static.wikia.nocookie.net/doki-la-serie/images/2/2b/DiscoveryFamiliaLogo_2022-Presente.png/revision/latest?cb=20220605152728&path-prefix=es" group-title="DOCUMENTALES",DOC - Discovery FAMILIA (Z)(1080)
 http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/94864.ts
-#EXTINF:-1 tvg-id="" tvg-name="USA | Discovery Familia (HD)" tvg-logo="https://clarovideocdn3.clarovideo.net/HBO/PELICULAS/HBOSIGNATUREHDNEW/EXPORTACION_WEB/SS/HBOSIGNATUREHDNEW_t-290x163.png" group-title="DOCUMENTALES",USA | Discovery Familia (HD)
+#EXTINF:-1 tvg-id="" tvg-name="USA | Discovery Familia (HD)" tvg-logo="https://static.wikia.nocookie.net/discovery-kids/images/9/9f/Discovery_Familia_2022_-_Actual.png/revision/latest?cb=20220526160750&path-prefix=es" group-title="DOCUMENTALES",USA | Discovery Familia (HD)
 http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/69840.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/512px-Am%C3%A9rica_TV_% 28Nuevo_logo_Junio_2020%29.png", América TV
