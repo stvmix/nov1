@@ -356,21 +356,23 @@ http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/94837.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/golden-premier_m.png" tvg-group="PREMIUM",Golden Premier (Z)(720)
 http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/94838.ts
 
-#EXTINF:-1 tvg-id="CL | Familia MX" tvg-name="CL | Familia MX" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/FAMILIA-MX-FONDO-2-300x169.jpg" tvg-group="PREMIUM", | Familia MX
+#EXTINF:-1 tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-FAMILY-FONDO-2-300x169.jpg" tvg-group="PREMIUM", | Familia MX
 https://marine2.miplay.cl/mxfamily/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-CLASIC-FONDO-2-300x169.jpg" tvg-group="PREMIUM", | MX Clásico
 https://marine2.miplay.cl/mxclassic/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-FONDO-2-300x169.jpg" tvg-group="PREMIUM", | MX Prime
-https://marine2.miplay.cl/mxprime/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/OLD-FONDO-2-300x169.jpg" tvg-group="PREMIUM", OLD
+https://marine2.miplay.cl/old/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tavilatam.com/wp-content/uploads/2024/09/TAVI_PocornCentral-Olympusat.png" tvg-group="PREMIUM",POPCORN CENTRAL 6.4
+https://freetv.stream.olympusatmedia.com:443/index1080p/partial.m3u8
 
 #EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/u9S0l7vCtlJ_y6Iii4AzfsKBeWiNwfGocWnNTDTq9RMrYl01KhWRFWixnS_mNkSh_1sQ1MJV=s900-c-k-c0x00ffffff-no-rj",Disney Channel (España) (🇪🇸)
 http://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:21_HD.smil/.m3u8
 
 #EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTQxX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1708456868844" tvg-group="INFANTILES", Disney OK
 https://delivery.cdn.rcs.net.ar/mnp/disney_hls/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6vvB5g3/Disney-Channel.png",DISNEY
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Disney_Channel/SA_HLS/Disney_Channel.m3u8
@@ -972,7 +974,7 @@ https://servilive.com:3114/live/liveulive.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Just_For_Laughs_Gags.png",Just For Laughs (España) (🇪🇸)
 https://is.gd/LY1YZl?profile=corgol.m3u8
 
-#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/concepto-musica-k-pop_23-2148611417.jpg",K Pop (Chile) (🇨🇱)
+#EXTINF:0 tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/KPOP-FONDO-2-300x169.jpg",K Pop (Chile) (🇨🇱)
 https://marine2.miplay.cl/kpop/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/HbYvNMgdv_Xb5jexed0PGztmGol1xuZ7aEKXbp7M19JnNU25tVnbj9FMeTbYQ3AMyamVYsUv=s900-c-k-c0x00ffffff-no-rj",Kandela (Venezuela) (🇻🇪)
@@ -1467,23 +1469,19 @@ https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8?
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx.png" group-title="TV ABIERTA", IMAGEN TV+ stream
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 
-#EXTINF:-1 group-title="TV ABIERTA", POPCORN CENTRAL 6.4
-https://freetv.stream.olympusatmedia.com:443/index1080p/partial.m3u8
+#EXTINF:-1 tvg-logo="https://media.istockphoto.com/id/1393574883/es/v%C3%ADdeo/cinta-de-audio-vintage-con-una-etiqueta-en-blanco-girando-en-la-grabadora-de-casete-primer.jpg?s=640x640&k=20&c=d0g3UNrgbmTqFunt9lxgBPFs4gNziuFYOEdxaNQ5V3s=", OLD MUSIC
+https://marine2.miplay.cl/oldmusic/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CL | Old" tvg-name="CL | Old" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/OLD-FONDO-2-300x169.jpg" group-title="TV ABIERTA", OLD
-https://marine2.miplay.cl/old/playlist.m3u8
-
-#EXTINF:-1 group-title="TV ABIERTA", QWESTtv
+#EXTINF:-1 tvg-logo="https://cdn.prod.website-files.com/6058a55e7bf32c592084ed88/6059be4e542a774d2917fcbb_newLogo-white.png",QWESTtv
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-60b0f65c0c8ffb002c821a75.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=f2oxkmDu5b_C-PGMFKEs
 
-#EXTINF:-1 group-title="TV ABIERTA", UNIFE TV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/9/9a/Unife_2023_logo.png/revision/latest/scale-to-width-down/230?cb=20230201072513&path-prefix=es",UNIFE TV
 https://cdn.mycloudstream.io/hls/live/broadcast/xundwjvp/index.m3u8
 
-
-#EXTINF:-1 group-title="TV ABIERTA", FLASH
+#EXTINF:-1 tvg-logo="https://ml.globenewswire.com/Resource/Download/16f10019-6a5e-4ee6-af51-529ad40e2608?size=3", FLASH
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-ono/playlist.m3u8?player_height=1080&player_width=1920&min_ad_duration=6&max_ad_duration=120
 
-#EXTINF:-1 ,Animal Planet mnp
+#EXTINF:-1 tvg-logo="",,Animal Planet mnp
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_HLS/Animal_Planet.m3u8
 
 #EXTINF:-1 ,Comedy Central
@@ -1849,5 +1847,10 @@ http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/69840.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/512px-Am%C3%A9rica_TV_% 28Nuevo_logo_Junio_2020%29.png", América TV
 http://g1.vxral-hor.transport.edge-access.net/a07/ngrp:americahls-100056_all/Playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/52eec929-086c-47bf-9ae2-e449b99d006a/Electric_Now_ES_Channel_Art_Horizontal.jpg",ELECTRIC NOW ESPAÑOL 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4735
+
+#EXTINF:-1 tvg-logo="https://ghofi.com/media/img/film-and-co.cb3fcad.png", FILM&CO
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5625
 
 
