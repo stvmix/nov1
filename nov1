@@ -1847,25 +1847,64 @@ http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/69840.ts
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/52eec929-086c-47bf-9ae2-e449b99d006a/Electric_Now_ES_Channel_Art_Horizontal.jpg",ELECTRIC NOW ESPAÑOL 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4735
 
-#EXTINF:-1 tvg-logo="https://ghofi.com/media/img/film-and-co.cb3fcad.png", FILM&CO
+#EXTINF:-1 tvg-logo="https://g.top4top.io/p_2502a6qpb1.png", FILM&CO
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5625
 
 
-#EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="Iɴғᴀɴᴛɪʟ" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/TomandJerry.png",Tom & Jerry 🇺🇸
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB_T3QPiTLA_Cr6xXHsJmZl9YvIYQIElADnBLb7PTa47g-GR81C_zQcqJ6tVIrBmw7lg&usqp=CAU",Tom & Jerry 🇺🇸
 http://24hrs.homelinux.com:80/24H-tom-e-jerry/video.m3u8
 
-#EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="Iɴғᴀɴᴛɪʟ" tvg-logo="https://sck.pm/sc9k",FunBox 🇵🇪
+#EXTINF:-1 tvg-logo="https://sck.pm/sc9k",FunBox 🇵🇪
 https://live-evg4.tv360.bitel.com.pe/bitel/funbox/playlist.m3u8
 
-#EXTINF:-1 tvg-id="VE | 1·2·3 TV" tvg-name="VE | 1·2·3 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/123TV_logo_2022.jpg/320px-123TV_logo_2022.jpg" group-title="INFANTILES", 145 | 1·2·3 TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/123TV_logo_2022.jpg/320px-123TV_logo_2022.jpg" group-title="INFANTILES", 145 | 1·2·3 TV
 http://38.41.8.1:8000/play/a03o
 
-#EXTINF:-1 tvg-id="USA | El Conflicto Tribunal del Pueblo TV" tvg-name="USA | El Conflicto Tribunal del Pueblo TV" tvg-logo="https://www.distro.tv/espanol-latam/img/elconflicto_600x600.jpg" group-title="CANALES 24/7", 165 | El Conflicto Tribunal del Pueblo TV
+#EXTINF:-1 tvg-logo="https://www.distro.tv/espanol-latam/img/elconflicto_600x600.jpg" group-title="CANALES 24/7",El Conflicto Tribunal del Pueblo TV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1965
-
-#EXTINF:-1 tvg-id="USA | Tom y Jerry TV" tvg-name="USA | Tom y Jerry TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB_T3QPiTLA_Cr6xXHsJmZl9YvIYQIElADnBLb7PTa47g-GR81C_zQcqJ6tVIrBmw7lg&usqp=CAU" group-title="CANALES 24/7", 169 | Tom y Jerry TV
 
 #EXTINF:-1 tvg-id="USA | Bob Esponja TV" tvg-name="USA | Bob Esponja TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bob_esponja_logotipo.svg/2560px-Bob_esponja_logotipo.svg.png" group-title="CANALES 24/7", 171 | Bob Esponja TV
 
+#EXTINF:-1 tvg-id="Dreamworks HD" tvg-name="ES: DREAMWORKS HD" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_750D_420_1_C00000_0_0_0.png" group-title="ES   MOVISTAR+",ES: DREAMWORKS HD
+http://400520923797321229.ofd0219.xyz:80/play/vi0105819/@Dk@GPx7vrQ/321229.ts
+#EXTINF:-1 tvg-id="Dreamworks HD" tvg-name="ES: DREAM WORKS HD" tvg-logo="https://miguia.tv/channels/big_335.png" group-title="ES   MOVISTAR+",ES: DREAM WORKS HD
+http://400520923797336304.ofd0219.xyz:80/play/vi0105819/@Dk@GPx7vrQ/336304.ts
+#EXTINF:-1 tvg-id="canalpanda.es" tvg-name="ES: CANAL PANDA SD" tvg-logo="http://fanc.tmsimg.com/assets/s53736_ll_h3_aa.png" group-title="ES   MOVISTAR+",ES: CANAL PANDA SD
+http://400520923797321163.ofd0219.xyz:80/play/vi0105819/@Dk@GPx7vrQ/321163.ts
+#EXTINF:-1 tvg-id="canalpanda.es" tvg-name="ES: CANAL PANDA HD" tvg-logo="http://fanc.tmsimg.com/assets/s53736_ll_h3_aa.png" group-title="ES   MOVISTAR+",ES: CANAL PANDA HD
+http://400520923797683907.ofd0219.xyz:80/play/vi0105819/@Dk@GPx7vrQ/683907.ts
+
+
+#EXTINF:-1 tvg-id="La 2" tvg-name="ES: LA 2 HD" tvg-logo="https://miguia.tv/channels/big_99.png" group-title="ES   MOVISTAR+",ES: LA 2 HD
+http://400520923797321280.ofd0219.xyz:80/play/vi0105819/@Dk@GPx7vrQ/321280.ts
+#EXTINF:-1 tvg-id="Antena 3 HD" tvg-name="ES: ANTENA 3 HD" tvg-logo="https://miguia.tv/channels/big_10.png" group-title="ES   MOVISTAR+",ES: ANTENA 3 HD
+http://400520923797321106.ofd0219.xyz:80/play/vi0105819/@Dk@GPx7vrQ/321106.ts
+#EXTINF:-1 tvg-id="atreseries.es" tvg-name="ES: A3 SERIES HD" tvg-logo="http://vpsapache.hopto.org/images/a3s.png" group-title="ES   MOVISTAR+",ES: A3 SERIES HD
+http://400520923797321087.ofd0219.xyz:80/play/vi0105819/@Dk@GPx7vrQ/321087.ts
+#EXTINF:-1 tvg-id="Atreseries" tvg-name="ES: ATRESERIES HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ATRESS" group-title="ES   MOVISTAR+",ES: ATRESERIES HD
+http://400520923797383249.ofd0219.xyz:80/play/vi0105819/@Dk@GPx7vrQ/383249.ts
+
+#EXTINF:-1 tvg-id="M+ Documentales HD" tvg-name="ES: M+ DOCUMENTALES HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MDOC" group-title="ES   MOVISTAR+",ES: M+ DOCUMENTALES HD
+http://400520923797552955.ofd0219.xyz:80/play/vi0105819/@Dk@GPx7vrQ/552955.ts
+#EXTINF:-1 tvg-id="National Geographic HD" tvg-name="ES: NATIONAL GEOGRAPHIC HD" tvg-logo="https://miguia.tv/channels/big_124.png" group-title="ES   MOVISTAR+",ES: NATIONAL GEOGRAPHIC HD
+http://400520923797321372.ofd0219.xyz:80/play/vi0105819/@Dk@GPx7vrQ/321372.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: NATIONAL GEOGRAPHIC WILD HD" tvg-logo="https://miguia.tv/channels/big_123.png" group-title="ES   MOVISTAR+",ES: NATIONAL GEOGRAPHIC WILD HD
+http://400520923797687033.ofd0219.xyz:80/play/vi0105819/@Dk@GPx7vrQ/687033.ts
+#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="ES: NATIONAL GEOGRAPHIC WILD SD" tvg-logo="https://miguia.tv/channels/big_123.png" group-title="ES   MOVISTAR+",ES: NATIONAL GEOGRAPHIC WILD SD
+http://400520923797383264.ofd0219.xyz:80/play/vi0105819/@Dk@GPx7vrQ/383264.ts
+#EXTINF:-1 tvg-id="viajar.es" tvg-name="ES: VIAJAR HD" tvg-logo="" group-title="ES   MOVISTAR+",ES: VIAJAR HD
+http://400520923797383270.ofd0219.xyz:80/play/vi0105819/@Dk@GPx7vrQ/383270.ts
+#EXTINF:-1 tvg-id="NatureTime" tvg-name="ES: NATURE TIME HD" tvg-logo="https://images.pluto.tv/channels/60dd6b1da79e4d0007309455/colorLogoPNG.png" group-title="ES   MOVISTAR+",ES: NATURE TIME HD
+http://400520923797738346.ofd0219.xyz:80/play/vi0105819/@Dk@GPx7vrQ/738346.ts
+#EXTINF:-1 tvg-id="Love The Planet" tvg-name="ES: LOVE THE PLANET FHD" tvg-logo="http://vpsapache.hopto.org/images/love_the_planet.png" group-title="ES   MOVISTAR+",ES: LOVE THE PLANET FHD
+http://400520923797706115.ofd0219.xyz:80/play/vi0105819/@Dk@GPx7vrQ/706115.ts
+
+16:25 5/12/2024#EXTINF:-1 tvg-id="" tvg-name="ES: MLS MESSI" tvg-logo="https://cdn.freebiesupply.com/images/large/2x/mls-logo-png-transparent.png" group-title="SVIP MLS Messi",ES: MLS MESSI
+http://400520923797585364.ofd0219.xyz:80/play/vi0105819/@Dk@GPx7vrQ/585364.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: MLS MESSI Pro" tvg-logo="https://cdn.freebiesupply.com/images/large/2x/mls-logo-png-transparent.png" group-title="SVIP MLS Messi",ES: MLS MESSI Pro
+http://400520923797585369.ofd0219.xyz:80/play/vi0105819/@Dk@GPx7vrQ/585369.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: GRAN HERMANO VIP 24H HD" tvg-logo="https://up6.cc/2023/11/170109897695831.png" group-title="ES   MOVISTAR+",ES: GRAN HERMANO VIP 24H HD
+http://400520923797693489.ofd0219.xyz:80/play/vi0105819/@Dk@GPx7vrQ/693489.ts
 
 
