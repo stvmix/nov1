@@ -1844,13 +1844,28 @@ http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/94864.ts
 #EXTINF:-1 tvg-id="" tvg-name="USA | Discovery Familia (HD)" tvg-logo="https://static.wikia.nocookie.net/discovery-kids/images/9/9f/Discovery_Familia_2022_-_Actual.png/revision/latest?cb=20220526160750&path-prefix=es" group-title="DOCUMENTALES",USA | Discovery Familia (HD)
 http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/69840.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/512px-Am%C3%A9rica_TV_% 28Nuevo_logo_Junio_2020%29.png", América TV
-http://g1.vxral-hor.transport.edge-access.net/a07/ngrp:americahls-100056_all/Playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/52eec929-086c-47bf-9ae2-e449b99d006a/Electric_Now_ES_Channel_Art_Horizontal.jpg",ELECTRIC NOW ESPAÑOL 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4735
 
 #EXTINF:-1 tvg-logo="https://ghofi.com/media/img/film-and-co.cb3fcad.png", FILM&CO
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5625
+
+
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="Iɴғᴀɴᴛɪʟ" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/TomandJerry.png",Tom & Jerry 🇺🇸
+http://24hrs.homelinux.com:80/24H-tom-e-jerry/video.m3u8
+
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="Iɴғᴀɴᴛɪʟ" tvg-logo="https://sck.pm/sc9k",FunBox 🇵🇪
+https://live-evg4.tv360.bitel.com.pe/bitel/funbox/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VE | 1·2·3 TV" tvg-name="VE | 1·2·3 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/123TV_logo_2022.jpg/320px-123TV_logo_2022.jpg" group-title="INFANTILES", 145 | 1·2·3 TV
+http://38.41.8.1:8000/play/a03o
+
+#EXTINF:-1 tvg-id="USA | El Conflicto Tribunal del Pueblo TV" tvg-name="USA | El Conflicto Tribunal del Pueblo TV" tvg-logo="https://www.distro.tv/espanol-latam/img/elconflicto_600x600.jpg" group-title="CANALES 24/7", 165 | El Conflicto Tribunal del Pueblo TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1965
+
+#EXTINF:-1 tvg-id="USA | Tom y Jerry TV" tvg-name="USA | Tom y Jerry TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB_T3QPiTLA_Cr6xXHsJmZl9YvIYQIElADnBLb7PTa47g-GR81C_zQcqJ6tVIrBmw7lg&usqp=CAU" group-title="CANALES 24/7", 169 | Tom y Jerry TV
+
+#EXTINF:-1 tvg-id="USA | Bob Esponja TV" tvg-name="USA | Bob Esponja TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bob_esponja_logotipo.svg/2560px-Bob_esponja_logotipo.svg.png" group-title="CANALES 24/7", 171 | Bob Esponja TV
+
 
 
