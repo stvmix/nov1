@@ -1742,7 +1742,7 @@ http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/2004.ts
 http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/2033.ts
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="MEX-Las Estrellas (L2)(720)" tvg-logo="https://logos.xbots.com.mx/3931.png" group-title="MEXICO",MEX-Las Estrellas (L2)(720)
 http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/97981.ts
-#EXTINF:-1 tvg-id="" tvg-name="MEX_Las Estrellas -hr (M2)(720)" tvg-logo="" group-title="MEXICO",MEX_Las Estrellas -hr (M2)(720)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Las_Estrellas_blanco.png/revision/latest?cb=20220315231324&path-prefix=es" group-title="MEXICO",MEX_Las Estrellas -hr (M2)(720)
 http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/97983.ts
 #EXTINF:-1 tvg-id="" tvg-name="MEX-Las Estrellas -2 Horas (L2)(SD)" tvg-logo="https://logos.xbots.com.mx/canal2-estrellas-2.png" group-title="MEXICO",MEX-Las Estrellas -2 Horas (L2)(SD)
 http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/97984.ts
@@ -1760,7 +1760,7 @@ http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/97998.ts
 #EXTINF:-1 tvg-id="" tvg-name="MEX-Canal 5 (L2)(720)" tvg-logo="https://logos.xbots.com.mx/2416.png" group-title="MEXICO",MEX-Canal 5 (L2)(720)
 http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/98000.ts
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUCfHKPe5iYriyYKfjkO6127CPuQ6a3RaS6HiG1PidjJIzinO_UpNGZ4ilgHlYkbKtlao&usqp=CAU" group-title="MEXICO",MEX-BitMe (M2)(720)
+#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/dc270200-bf86-4cd5-86ce-ec11b4bd9b1e/ddt8etp-2446086d-08d4-46e5-91f0-9c5c6908fba4.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2RjMjcwMjAwLWJmODYtNGNkNS04NmNlLWVjMTFiNGJkOWIxZVwvZGR0OGV0cC0yNDQ2MDg2ZC0wOGQ0LTQ2ZTUtOTFmMC05YzVjNjkwOGZiYTQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.0btkBSJ1AYNjuYKYHKVmF7lzOII2woePnREKOhiQVUo" group-title="MEXICO",MEX-BitMe (M2)(720)
 http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/97994.ts
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/caballeroszodiaco.png" group-title="24/7 JUVENILES",24/7 Los Caballeros del Zodiaco (e)
@@ -1769,9 +1769,9 @@ http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/117857.ts
 http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/118640.ts
 #EXTINF:-1 tvg-logo="https://dragonballsuper-france.fr/wp-content/uploads/2016/12/logo-site.png" group-title="24/7 JUVENILES",24/7 Boruto: Naruto Next Generations (e)
 http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/107564.ts
-#EXTINF:-1 tvg-logo="https://www.pngkit.com/png/full/237-2379662_transparent-naruto-shippuden-ultimate-ninja-storm-2.png" group-title="24/7 JUVENILES",24/7 Naruto (e)
+#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8a156873-a830-43b1-9b31-3becb2f788fb/dfk1e26-1b9f86fb-13f9-4cd0-9746-ab8fb7ed67bd.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzhhMTU2ODczLWE4MzAtNDNiMS05YjMxLTNiZWNiMmY3ODhmYlwvZGZrMWUyNi0xYjlmODZmYi0xM2Y5LTRjZDAtOTc0Ni1hYjhmYjdlZDY3YmQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0._J-SC0o3OS2Lu0HLr0JSIZqtQqtumzEg5rCkMMrHvjM" group-title="24/7 JUVENILES",24/7 Naruto (e)
 http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/115591.ts
-#EXTINF:-1 tvg-logo="https://www.pngkit.com/png/full/237-2379662_transparent-naruto-shippuden-ultimate-ninja-storm-2.png" group-title="24/7 JUVENILES",24/7 Naruto Shippude 1al10 (e)
+#EXTINF:-1 tvg-logo="https://www.pngarts.com/files/11/Naruto-Shippuden-Logo-PNG-Pic.png" group-title="24/7 JUVENILES",24/7 Naruto Shippude 1al10 (e)
 http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/115770.ts
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/738c374a-8fda-4437-84ce-f9923418cc65-profile_image-70x70.png" group-title="24/7 JUVENILES",24/7 Naruto Shippude 11al20 (e)
 http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/115821.ts
@@ -1793,13 +1793,13 @@ http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/115067.ts
 http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/115068.ts
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballgt.png"" group-title="24/7 JUVENILES",24/7 Dragon Ball GT (e)
 http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/115069.ts
-#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/181-1814830_la-historia-del-anime-se-inicia-6-meses.png" group-title="24/7 JUVENILES",24/7 Dragon Ball Super (e)
+#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/87130cc4-b297-4d4c-8fbf-5a26937514c3/daxn5se-22da1e01-7201-4535-a123-44d391e6bac1.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg3MTMwY2M0LWIyOTctNGQ0Yy04ZmJmLTVhMjY5Mzc1MTRjM1wvZGF4bjVzZS0yMmRhMWUwMS03MjAxLTQ1MzUtYTEyMy00NGQzOTFlNmJhYzEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.px7MSPTjBkT-z7N8UZFJOuV41xYDcDy6d5PdtekTxQg" group-title="24/7 JUVENILES",24/7 Dragon Ball Super (e)
 http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/115071.ts
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/PO47HbOlemo/hqdefault_live.jpg" group-title="24/7 JUVENILES",24/7 Los Simpson - 1al10 (e)
 http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/105584.ts
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ju9iVHOeZRo/hqdefault.jpg?v=5c070693" group-title="24/7 JUVENILES",24/7 Los Simpson - 11al20 (e)
 http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/105656.ts
-#EXTINF:-1 tvg-logo="https://www.elheraldo.co/sites/default/files/articulo/2023/07/28/los_simpson_4.jpg" group-title="24/7 JUVENILES",24/7 Los Simpson - 21al35 (e)
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/5b/c4/8e/5bc48eec6fb66fd17efc5430c1fb48e5.jpg" group-title="24/7 JUVENILES",24/7 Los Simpson - 21al35 (e)
 http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/105713.ts
 #EXTINF:-1 tvg-logo="https://frontend-assets.clipsource.com/63d903db4e67d/war-63d930a462b9e/2023/11/28/6565bc5a7def7_thumbnail.jpg" group-title="24/7 JUVENILES",24/7 Young Sheldon (e)
 http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/101957.ts
@@ -1852,7 +1852,7 @@ http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/69840.ts
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/52eec929-086c-47bf-9ae2-e449b99d006a/Electric_Now_ES_Channel_Art_Horizontal.jpg",ELECTRIC NOW ESPAÑOL 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4735
 
-#EXTINF:-1 tvg-logo="https://g.top4top.io/p_2502a6qpb1.png", FILM&CO
+#EXTINF:-1 tvg-logo="https://www.cineytele.com/wp-content/uploads/2023/07/FilmCo-1.jpg", FILM&CO
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5625
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/12/b6/bd/12b6bd3aff136e7fa05ce6929d44d4d4.png",Tom & Jerry 🇺🇸
@@ -1861,7 +1861,7 @@ http://24hrs.homelinux.com:80/24H-tom-e-jerry/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/FunBox_TV_logo.svg/120px-FunBox_TV_logo.svg.png",FunBox 🇵🇪
 https://live-evg4.tv360.bitel.com.pe/bitel/funbox/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/123TV_logo_2022.jpg/320px-123TV_logo_2022.jpg" group-title="INFANTILES", 145 | 1·2·3 TV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/123TV_%282022%29.png/revision/latest/scale-to-width-down/200?cb=20220903004013&path-prefix=es" group-title="INFANTILES", 145 | 1·2·3 TV
 http://38.41.8.1:8000/play/a03o
 
 #EXTINF:-1 tvg-logo="https://www.distro.tv/espanol-latam/img/elconflicto_600x600.jpg" group-title="CANALES 24/7",El Conflicto Tribunal del Pueblo TV
@@ -1869,8 +1869,7 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1965
 
 #EXTINF:-1 tvg-id="Antena 3 HD" tvg-name="ES: ANTENA 3 HD" tvg-logo="https://miguia.tv/channels/big_10.png" group-title="ES   MOVISTAR+",ES: ANTENA 3 HD
 http://400520923797321106.ofd0219.xyz:80/play/vi0105819/@Dk@GPx7vrQ/321106.ts
-#EXTINF:-1 tvg-id="atreseries.es" tvg-name="ES: A3 SERIES HD" tvg-logo="http://vpsapache.hopto.org/images/a3s.png" group-title="ES   MOVISTAR+",ES: A3 SERIES HD
-http://400520923797321087.ofd0219.xyz:80/play/vi0105819/@Dk@GPx7vrQ/321087.ts
+
 #EXTINF:-1 tvg-id="Atreseries" tvg-name="ES: ATRESERIES HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ATRESS" group-title="ES   MOVISTAR+",ES: ATRESERIES HD
 http://400520923797383249.ofd0219.xyz:80/play/vi0105819/@Dk@GPx7vrQ/383249.ts
 
