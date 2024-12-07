@@ -619,6 +619,9 @@ https://stream-cdn-iad.vaughnsoft.net/play/live_shay_saheed.flv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kwIrTSI.png" tvg-group="INFANTILES",Futurama stream
 https://stream-cdn-iad.vaughnsoft.net/play/live_futurama_mania_.flv?android_vs.ts.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhU7iZpzdpM40DfyveaO98h_pBYadlL9SSCsdatIVlsitCBdD7oWjYAb4IuQHzCtB8oQw&usqp=CAU" tvg-group="INFANTILES",Comedy Central
+https://delivery.cdn.rcs.net.ar/mnp/comedy_hls/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5cf96dad1652631e36d43320/thumbnail.jpg",Comedy Central en español
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c280717 -30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=970b3112-4df5-46fc-83e4-cefce01e5024
 
@@ -719,6 +722,9 @@ https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-10005
 
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3361-320x180-000000.jpg",A24 (720p)
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
+
+#EXTINF:-1 ,A24 D
+https://delivery.cdn.rcs.net.ar/mnp/a24_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vFwPhPS.png",TN
 https://delivery.cdn.rcs.net.ar/mnp/tn_hls/playlist.m3u8
@@ -1410,16 +1416,9 @@ https://delivery.cdn.rcs.net.ar/mnp/tntseries_hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/3200x2400/Y2gwMTAwMDAwMDAwMDMxX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_3200x2400.png?timestamp=1708456808952" tvg-group="PREMIUM", UNIVERSAL
 https://delivery.cdn.rcs.net.ar/mnp/universal_hls/playlist.m3u8
 
-#EXTINF:-1 ,A24
-https://delivery.cdn.rcs.net.ar/mnp/a24_hls/playlist.m3u8
-#EXTINF:-1 ,C5N
-https://delivery.cdn.rcs.net.ar/mnp/c5n_hls/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CBSGJtb/Space.png",Space
 https://delivery.cdn.rcs.net.ar/mnp/space_hls/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bZWoDTg.png",Sony Cine
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5nkg2xs/TNT.png",TNT
 http://bantel-cdn1.iptvperu.tv:1935/cdnrji/tnt/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HBmqnvf/TNT-Series.png",TNT Series
@@ -1473,27 +1472,14 @@ https://cdn.mycloudstream.io/hls/live/broadcast/xundwjvp/index.m3u8
 #EXTINF:-1 tvg-logo="https://ml.globenewswire.com/Resource/Download/16f10019-6a5e-4ee6-af51-529ad40e2608?size=3", FLASH
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-ono/playlist.m3u8?player_height=1080&player_width=1920&min_ad_duration=6&max_ad_duration=120
 
-#EXTINF:-1 tvg-logo="",,Animal Planet mnp
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_HLS/Animal_Planet.m3u8
-
-#EXTINF:-1 ,Comedy Central
-https://delivery.cdn.rcs.net.ar/mnp/comedy_hls/playlist.m3u8
-
-#EXTINF:-1 ,gourmet
-https://delivery.cdn.rcs.net.ar/mnp/gourmet_hls/playlist.m3u8
-
-#EXTINF:-1, EL GOURMET
-https://router.cdn.rcs.net.ar/anevia/live/localdisk/El_Gourmet/SA_HLS/El_Gourmet.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bZWoDTg.png",Sony Cine
-http://bantel.iptvperu.tv:1935/cdnnjf/sonymovies/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bZWoDTg.png",Sony Cine klowdtv OK
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bZWoDTg.png",Sony Cine
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://davinci.zappingtv.com/gato/media/450/canales/white/sonymovies.png",Sony Movies
+http://bantel.iptvperu.tv:1935/cdnnjf/sonymovies/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/Sony_Movies_2019_%28Print%29.png/revision/latest/scale-to-width-down/250?cb=20190917082854",Sony Channel P
 http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/sonychannel/chunks.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/512px-Am%C3%A9rica_Televisi%C3%B3n.svg.png",América TV Perú
 https://live-zlr1.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8
@@ -1597,6 +1583,15 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/aye/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/512px-InvestigationDiscoveryLogo2020.svg.png",Investigación Discovery
 https://router.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_ID/SA_HLS/Discovery_ID.m3u8
+
+#EXTINF:-1 tvg-logo="",,Animal Planet mnp
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_HLS/Animal_Planet.m3u8
+
+#EXTINF:-1 ,gourmet
+https://delivery.cdn.rcs.net.ar/mnp/gourmet_hls/playlist.m3u8
+
+#EXTINF:-1, EL GOURMET
+https://router.cdn.rcs.net.ar/anevia/live/localdisk/El_Gourmet/SA_HLS/El_Gourmet.m3u8
 
 
 #EXTINF:-1 tvg-logo=&quot;https://static.wixstatic.com/media/526a76_01ad709796564458b269e38924632cba~mv2.jpg&quot; group-title=&quot;ABSOLUTAMENTE CINE&quot;,RUN:TIME CINE | ESP
