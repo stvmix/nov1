@@ -1564,11 +1564,10 @@ https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 #EXTINF:0,Anger Management (España) (🇪🇸)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01264-vidaausainc-angermanagementespanol-vidaa/playlist.m3u8
 
-
-#EXTINF:-1 tvg-id="UK:.Rakuten.VIKI.en" tvg-name="" group-title="Novelas Channels" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/rakutenviki.webp",Rakuten viki 🇲🇽🇰🇷
+#EXTINF:-1 tvg-id="UK:.Rakuten.VIKI.en" tvg-name="" group-title="Novelas Channels" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/rakutenviki.webp",Rakuten viki Sub 🇲🇽
 https://newidco-rakutenviki-3-mx.lg.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="US27000033D" group-title="Novelas Channels"  tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US27000033D_20240826T235549SQUARE.png",Novelas Turcas 🇺🇸🇲🇽
+#EXTINF:-1 tvg-name="" tvg-id="US27000033D" group-title="Novelas Channels"  tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US27000033D_20240826T235549SQUARE.png",Novelas Turcas 🇲🇽
 https://d3tqgr18sdql14.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pgcp345otohoa/Novelas_Turcas.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=US27000033D
 
 #EXTINF:-1 tvg-name="" tvg-id="USBB44000099N" group-title="Novelas Channels" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB44000099N_20240520T212704SQUARE.png",ViX Novelas de Romance 🇺🇸🇲🇽
@@ -1593,10 +1592,6 @@ https://router.cdn.rcs.net.ar/anevia/live/localdisk/Home_Health/SA_HLS/Home_Heal
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/A%26E_Network_%28Australia%29_logo.svg/512px-A%26E_Network_%28Australia%29_logo.svg.png",AandE
 http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/aye/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png",AMC
-http://stklatino.dynns.com:2082/azplay1682/9010383728/2619
-
-
 #EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1120.png",América TV Arg
 https://dsr.ride.com.ar/tvmia/an25/playlist.m3u8
 
@@ -1615,12 +1610,6 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/sonychannel/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bZWoDTg.png",Sony Cine klowdtv OK
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
-#EXTINF:-1 group-title="Movie Channel", Sony One
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
-
-#EXTINF:-1 group-title="Movie Channel", Sony Movies
-http://n1.klowdtv.net/live1/smc_720p/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo=&quot;https://static.wixstatic.com/media/526a76_01ad709796564458b269e38924632cba~mv2.jpg&quot; group-title=&quot;ABSOLUTAMENTE CINE&quot;,RUN:TIME CINE | ESP
 https://run-rt-es.otteravision.com/run/rt_es/rt_es.m3u8
@@ -1638,6 +1627,46 @@ https://run-rc-es.otteravision.com/run/rc_es/rc_es.m3u8
 https://run-cl-es.otteravision.com/run/cl_es/cl_es.m3u8
 #EXTINF:-1 tvg-logo=&quot;https://static.wixstatic.com/media/526a76_642c984b9e5b42eebeda744272ff4998~mv2.jpg&quot; group-title=&quot;ABSOLUTAMENTE CINE&quot;,RUN:TIME TRASH | ESP
 https://run-rt-tr-es.otteravision.com/run/rt_tr_es/rt_tr_es.m3u8
+
+
+
+#EXTINF:0 type="stream" channelId="3209" group="PREMIUM" logo="https://tl.vhv.rs/dpng/s/34-348140_logo-de-univision-hd-png-download.png", UNIVISION v
+http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=sd&.m3u8
+
+#EXTINF:-1 tvg-id="UniMas(East)(Spanish).us" tvg-name="Unimas USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/2669px-Logo_UniM%C3%A1s_2021.svg.png"  group-title="", Unimas USA
+http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASEAST&calidad=sd&.m3u8
+
+#EXTINF:-1 tvg-id="I404.10222.zap2it.com" group-title="" tvg-logo="http://ceoapps.org/logos/galavision.png",Galavision
+http://23.237.66.106:25461/now_160322/now2.php?id=GALAVISIONMIAMI&calidad=sd&.m3u8
+
+#EXTINF:-1 tvg-id="Galavision.us" group-title="" tvg-logo="http://ceoapps.org/logos/galavision.png",Galavision Oeste
+http://23.237.66.106:25461/now_160322/now2.php?id=GALAVISIONWEST&calidad=hd&.m3u8
+
+
+#EXTINF:-1 group-title="TV ABIERTA", UNIVISION UHD ts
+http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=hd&.ts
+
+#EXTINF:-1 group-title="TV ABIERTA", UNIVISION ts
+http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=sd&.ts
+
+#EXTINF:-1 group-title="TV ABIERTA", UNIMAS UHD ts
+http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASMIAMI&calidad=hd&.ts
+
+#EXTINF:-1 group-title="TV ABIERTA", UNIMAS ts
+http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASMIAMI&calidad=sd&.ts
+
+
+#EXTINF:-1 título del grupo="", HECHO A MANO
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadees16international24i-ono/playlist.m3u8
+
+#EXTINF:-1 título del grupo="", CNN
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/zoomoo.png"group-title="", ZOO MOO
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+
+
 
 
 
