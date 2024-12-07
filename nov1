@@ -143,10 +143,9 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN3/SA_HLS/ESPN3.m3u8
 https://delivery.cdn.rcs.net.ar/mnp/espn_extra_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/ESPN-Deportes-White.png.webp" group-title="DEPORTES",Espn Deportes (Z)(FHD)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/96329.ts
 
 #EXTINF:-1 tvg-logo="https://images.vexels.com/media/users/3/158703/isolated/lists/28c7cb429bd2a66c42d7507936405281-silueta-de-futbol-del-pentagono.png", (EVENTOS) EN ESPAñO
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141433.ts
+
 
 #EXTINF:-1  tvg-logo="https://tycsports.hiringroom.com/data/accounts/tycsports/microsite/cfb58ca8d62e9685391d991717b44fb6.png" group-title="DEPORTES", TyC
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TyC/SA_HLS/TyC.m3u8
@@ -310,78 +309,30 @@ https://cp.panelchs.com:1936/8060/8060/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/elXndpw.png" group-title="Samsung TV", Rakuten  TV Familia | HD | España
 https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTk2X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1708456922509" tvg-group="PREMIUM", HBO 2
 https://delivery.cdn.rcs.net.ar/mnp/hbo2_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="",HBO 2
+#EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTk2X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1708456922509" tvg-group="PREMIUM", HBO 2 P
 http://bantel-cdn1.iptvperu.tv:1935/cdnrji/HBO2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDE3X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1708456806050" tvg-group="PREMIUM", HBO SUR (Z)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/94841.ts
-
-#EXTINF:-1 tvg-logo="",HBO 
 http://bantel-cdn1.iptvperu.tv:1935/cdnrji/HBO/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://clarovideocdn1.clarovideo.net/HBO/PELICULAS/HBOFAMILYCHANNEL/EXPORTACION_WEB/SS/HBOFAMILYCHANNEL_t-290x163.png" tvg-group="PREMIUM", HBO Family (Z)(1080)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/94840.ts
 
 #EXTINF:-1 tvg-logo="https://television-libre.net/img/hbomundi.webp" tvg-group="PREMIUM",HBO Mundi (Z)(720)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/94843.ts
 
-#EXTINF:-1 tvg-logo="https://clarovideocdn7.clarovideo.net/HBO/PELICULAS/HBOPLUSHD/EXPORTACION_WEB/SS/HBOPLUSHD_t-290x163.png" tvg-group="PREMIUM",HBO Plus (Z)(1080)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/94844.ts
-
-#EXTINF:-1 tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2021/03/HBO-plus.png",HBO+
+#EXTINF:-1 tvg-logo="https://clarovideocdn7.clarovideo.net/HBO/PELICULAS/HBOPLUSHD/EXPORTACION_WEB/SS/HBOPLUSHD_t-290x163.png" tvg-group="PREMIUM",HBO Plus
 http://bantel-cdn1.iptvperu.tv:1935/cdnrji/hboplus/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.codice.tv/wp-content/uploads/2022/04/hbo-pop1-300x300.png" tvg-group="PREMIUM",HBO POP (Z)(720) -
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/94845.ts
 
-#EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMjAxX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1708456926578" tvg-group="PREMIUM",HBO Signature (Z)(720)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/94846.ts
-
-#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/153-1531080_hbo-signature-hbo-signature-logo-hd-png-download.png",HBO SIGNATURE
+#EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMjAxX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1708456926578" tvg-group="PREMIUM",HBO SIGNATURE
 http://bantel-cdn1.iptvperu.tv:1935/cdnrji/hbosignature/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.codice.tv/wp-content/uploads/2022/04/hbo-xtreme1.png" tvg-group="PREMIUM",HBO Xtreme (Z)(720)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/94847.ts
 
-#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.1316118004_UniversalPremiere-Claro.png.dd093e77a73e1cc71ccb2e3b7983d187.png" tvg-group="PREMIUM",Universal Premiere (Z)(720)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/94821.ts
 
-#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.1316118004_UniversalPremiere-Claro.png.dd093e77a73e1cc71ccb2e3b7983d187.png" tvg-group="PREMIUM",Universal Premiere Sur (Z)(720)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/94818.ts
-
-#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.1490211344_UniversalComedy-Claro.png.61669777e8ebe4f90876b91db5ef8466.png" tvg-group="PREMIUM",Universal Comedy (Z)(720)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/94820.ts
-
-#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/small.1365450986_UniversalReality-Claro.png.f81d451e3c0704d97dad0839c8fb4eb3.png" tvg-group="PREMIUM",Universal Reality (Z)(720)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/94819.ts
-
-#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.701883225_UniversalCrime-Claro.png.4aae93a0b99c367cbf5a8009be92aa7d.png" tvg-group="PREMIUM", Universal Crime (Z)(720)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/94817.ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/golden_m.png" tvg-group="PREMIUM",Golden (Z)(1080)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/94836.ts
-
-#EXTINF:-1 tvg-logo="https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/GOLDENEDGE/EXPORTACION_WEB/SS/GOLDENEDGE_t-290x163.png" tvg-group="PREMIUM",Golden Edge (Z)(1080)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/94835.ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/golden-plus_m.png" tvg-group="PREMIUM",Golden Plus (Z)(1080) -
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/94837.ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/golden-premier_m.png" tvg-group="PREMIUM",Golden Premier (Z)(720)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/94838.ts
-
-#EXTINF:-1 tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-FAMILY-FONDO-2-300x169.jpg" tvg-group="PREMIUM", | Familia MX
-https://marine2.miplay.cl/mxfamily/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-CLASIC-FONDO-2-300x169.jpg" tvg-group="PREMIUM", | MX Clásico
-https://marine2.miplay.cl/mxclassic/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/OLD-FONDO-2-300x169.jpg" tvg-group="PREMIUM", OLD
-https://marine2.miplay.cl/old/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tavilatam.com/wp-content/uploads/2024/09/TAVI_PocornCentral-Olympusat.png" tvg-group="PREMIUM",POPCORN CENTRAL 6.4
 https://freetv.stream.olympusatmedia.com:443/index1080p/partial.m3u8
@@ -1541,326 +1492,6 @@ https://live-evg25.tv360.bitel.com.pe/bitel/atv/playlist.m3u8
 #EXTINF:-1, panamericana HD
 https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
 
-
-#EXTINF:-1 tvg-id="" tvg-name="06:55 AM | EN ESPAñOL - VILLARREAL VS GIRONA (LALIGA)" tvg-logo="https://assets.laliga.com/assets/logos/LALIGA_EA_SPORTS_RGB_h_color/LALIGA_EA_SPORTS_RGB_h_color.png" group-title="Pay Per View (EVENTOS)",06:55 AM | EN ESPAñOL - VILLARREAL VS GIRONA (LALIGA)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141432.ts
-#EXTINF:-1 tvg-id="" tvg-name="11:15 AM | EN ESPAñOL - RAYO VALLECANO VS ATHLETIC CLUB (LALIGA)" tvg-logo="https://assets.laliga.com/assets/logos/LALIGA_EA_SPORTS_RGB_h_color/LALIGA_EA_SPORTS_RGB_h_color.png" group-title="Pay Per View (EVENTOS)",11:15 AM | EN ESPAñOL - RAYO VALLECANO VS ATHLETIC CLUB (LALIGA)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141434.ts
-#EXTINF:-1 tvg-id="" tvg-name="01:30 PM | EN ESPAñOL - REAL SOCIEDAD VS REAL BETIS (LALIGA)" tvg-logo="https://assets.laliga.com/assets/logos/LALIGA_EA_SPORTS_RGB_h_color/LALIGA_EA_SPORTS_RGB_h_color.png" group-title="Pay Per View (EVENTOS)",01:30 PM | EN ESPAñOL - REAL SOCIEDAD VS REAL BETIS (LALIGA)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141435.ts
-#EXTINF:-1 tvg-id="" tvg-name="Serie A 5:30 Udinese vs Genoa" tvg-logo="https://www.fifplay.com/img/public/serie-a-logo-transparent.png" group-title="Pay Per View (EVENTOS)",Serie A 5:30 Udinese vs Genoa
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141436.ts
-#EXTINF:-1 tvg-id="" tvg-name="Serie A 8:00 Parma vs Lazio" tvg-logo="https://www.fifplay.com/img/public/serie-a-logo-transparent.png" group-title="Pay Per View (EVENTOS)",Serie A 8:00 Parma vs Lazio
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141437.ts
-#EXTINF:-1 tvg-id="" tvg-name="Serie A 8:00 Torino vs Napoli" tvg-logo="https://www.fifplay.com/img/public/serie-a-logo-transparent.png" group-title="Pay Per View (EVENTOS)",Serie A 8:00 Torino vs Napoli
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141438.ts
-#EXTINF:-1 tvg-id="" tvg-name="Serie A 11:00 Fiorentina vs Internazionale" tvg-logo="https://www.fifplay.com/img/public/serie-a-logo-transparent.png" group-title="Pay Per View (EVENTOS)",Serie A 11:00 Fiorentina vs Internazionale
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141439.ts
-#EXTINF:-1 tvg-id="" tvg-name="Serie A 13:45 Lecce vs Juventus" tvg-logo="https://www.fifplay.com/img/public/serie-a-logo-transparent.png" group-title="Pay Per View (EVENTOS)",Serie A 13:45 Lecce vs Juventus
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141440.ts
-#EXTINF:-1 tvg-id="" tvg-name="08:20 AM | EN ESPAñOL - 1 FSV MAINZ 05 VS TSG HOFFENHEIM (BUNDESLIGA)" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/German-Bundesliga-logo.png" group-title="Pay Per View (EVENTOS)",08:20 AM | EN ESPAñOL - 1 FSV MAINZ 05 VS TSG HOFFENHEIM (BUNDESLIGA)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141441.ts
-#EXTINF:-1 tvg-id="" tvg-name="10:20 AM | EN ESPAñOL - 1 FC HEIDENHEIM 1846 VS EINTRACHT FRANKFURT (BUNDESLIGA)" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/German-Bundesliga-logo.png" group-title="Pay Per View (EVENTOS)",10:20 AM | EN ESPAñOL - 1 FC HEIDENHEIM 1846 VS EINTRACHT FRANKFURT (BUNDESLIGA)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141442.ts
-#EXTINF:-1 tvg-id="" tvg-name="Ligue 1 8:00 Montpellier vs Lille" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png" group-title="Pay Per View (EVENTOS)",Ligue 1 8:00 Montpellier vs Lille
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141443.ts
-#EXTINF:-1 tvg-id="" tvg-name="Ligue 1 10:00 Toulouse vs Auxerre" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png" group-title="Pay Per View (EVENTOS)",Ligue 1 10:00 Toulouse vs Auxerre
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141444.ts
-#EXTINF:-1 tvg-id="" tvg-name="Ligue 1 10:00 Le Havre vs Angers SCO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png" group-title="Pay Per View (EVENTOS)",Ligue 1 10:00 Le Havre vs Angers SCO
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141445.ts
-#EXTINF:-1 tvg-id="" tvg-name="Ligue 1 10:00 Olympique Lyonnais vs Nice" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png" group-title="Pay Per View (EVENTOS)",Ligue 1 10:00 Olympique Lyonnais vs Nice
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141446.ts
-#EXTINF:-1 tvg-id="" tvg-name="Ligue 1 13:45 Olympique Marseille vs Monaco" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png" group-title="Pay Per View (EVENTOS)",Ligue 1 13:45 Olympique Marseille vs Monaco
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141447.ts
-#EXTINF:-1 tvg-id="" tvg-name="Argentina 14:00 Independiente vs Central Córdoba SdE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logotipo_de_la_Superliga_Argentina_de_F%C3%BAtbol.svg/1200px-Logotipo_de_la_Superliga_Argentina_de_F%C3%BAtbol.svg.png" group-title="Pay Per View (EVENTOS)",Argentina 14:00 Independiente vs Central Córdoba SdE
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141448.ts
-#EXTINF:-1 tvg-id="" tvg-name="Argentina 16:15 Vélez Sarsfield vs Sarmiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logotipo_de_la_Superliga_Argentina_de_F%C3%BAtbol.svg/1200px-Logotipo_de_la_Superliga_Argentina_de_F%C3%BAtbol.svg.png" group-title="Pay Per View (EVENTOS)",Argentina 16:15 Vélez Sarsfield vs Sarmiento
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141449.ts
-#EXTINF:-1 tvg-id="" tvg-name="Argentina 18:45 Boca Juniors vs Gimnasia La Plata" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logotipo_de_la_Superliga_Argentina_de_F%C3%BAtbol.svg/1200px-Logotipo_de_la_Superliga_Argentina_de_F%C3%BAtbol.svg.png" group-title="Pay Per View (EVENTOS)",Argentina 18:45 Boca Juniors vs Gimnasia La Plata
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141450.ts
-#EXTINF:-1 tvg-id="" tvg-name="Brasileirão 13:00 Flamengo vs Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Uqiqiqiiq.png" group-title="Pay Per View (EVENTOS)",Brasileirão 13:00 Flamengo vs Internacional
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141451.ts
-#EXTINF:-1 tvg-id="" tvg-name="Brasileirão 13:00 Grêmio vs São Paulo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Uqiqiqiiq.png" group-title="Pay Per View (EVENTOS)",Brasileirão 13:00 Grêmio vs São Paulo
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141452.ts
-#EXTINF:-1 tvg-id="" tvg-name="Brasileirão 15:30 Vitória vs Fortaleza" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Uqiqiqiiq.png" group-title="Pay Per View (EVENTOS)",Brasileirão 15:30 Vitória vs Fortaleza
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141453.ts
-#EXTINF:-1 tvg-id="" tvg-name="Colombia 15:00 América de Cali vs Deportes Tolima" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/BetPlay-Dimayor_logo.svg/1200px-BetPlay-Dimayor_logo.svg.png" group-title="Pay Per View (EVENTOS)",Colombia 15:00 América de Cali vs Deportes Tolima
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141454.ts
-#EXTINF:-1 tvg-id="" tvg-name="Colombia 17:30 Junior vs Once Caldas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/BetPlay-Dimayor_logo.svg/1200px-BetPlay-Dimayor_logo.svg.png" group-title="Pay Per View (EVENTOS)",Colombia 17:30 Junior vs Once Caldas
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141455.ts
-#EXTINF:-1 tvg-id="" tvg-name="Ecuador 14:30 El Nacional vs Técnico Universitario" tvg-logo="https://lanacion.com.ec/wp-content/uploads/2023/12/800px-Football_of_Ecuador_-_Liga_Pro_logo_normal.svg_.png" group-title="Pay Per View (EVENTOS)",Ecuador 14:30 El Nacional vs Técnico Universitario
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141456.ts
-#EXTINF:-1 tvg-id="" tvg-name="Ecuador 14:30 Barcelona vs Mushuc Runa" tvg-logo="https://lanacion.com.ec/wp-content/uploads/2023/12/800px-Football_of_Ecuador_-_Liga_Pro_logo_normal.svg_.png" group-title="Pay Per View (EVENTOS)",Ecuador 14:30 Barcelona vs Mushuc Runa
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141457.ts
-#EXTINF:-1 tvg-id="" tvg-name="Ecuador 14:30 Orense vs Independiente del Valle" tvg-logo="https://lanacion.com.ec/wp-content/uploads/2023/12/800px-Football_of_Ecuador_-_Liga_Pro_logo_normal.svg_.png" group-title="Pay Per View (EVENTOS)",Ecuador 14:30 Orense vs Independiente del Valle
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141458.ts
-#EXTINF:-1 tvg-id="" tvg-name="Ecuador 14:30 LDU Quito vs Deportivo Cuenca" tvg-logo="https://lanacion.com.ec/wp-content/uploads/2023/12/800px-Football_of_Ecuador_-_Liga_Pro_logo_normal.svg_.png" group-title="Pay Per View (EVENTOS)",Ecuador 14:30 LDU Quito vs Deportivo Cuenca
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141459.ts
-#EXTINF:-1 tvg-id="" tvg-name="EFL 9:00 Derby County vs Sheffield Wednesday" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/24.png" group-title="Pay Per View (EVENTOS)",EFL 9:00 Derby County vs Sheffield Wednesday
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141460.ts
-#EXTINF:-1 tvg-id="" tvg-name="FA Cup 6:00 Kettering Town vs Doncaster Rovers" tvg-logo="https://seeklogo.com/images/E/emirates-fa-cup-logo-4A51E1714E-seeklogo.com.png" group-title="Pay Per View (EVENTOS)",FA Cup 6:00 Kettering Town vs Doncaster Rovers
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141461.ts
-#EXTINF:-1 tvg-id="" tvg-name="FA Cup 8:00 Burton Albion vs Tamworth" tvg-logo="https://seeklogo.com/images/E/emirates-fa-cup-logo-4A51E1714E-seeklogo.com.png" group-title="Pay Per View (EVENTOS)",FA Cup 8:00 Burton Albion vs Tamworth
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141462.ts
-#EXTINF:-1 tvg-id="" tvg-name="FA Cup 8:00 Reading vs Harborough Town" tvg-logo="https://seeklogo.com/images/E/emirates-fa-cup-logo-4A51E1714E-seeklogo.com.png" group-title="Pay Per View (EVENTOS)",FA Cup 8:00 Reading vs Harborough Town
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141463.ts
-#EXTINF:-1 tvg-id="" tvg-name="FA Cup 9:15 Solihull Moors vs Bromley" tvg-logo="https://seeklogo.com/images/E/emirates-fa-cup-logo-4A51E1714E-seeklogo.com.png" group-title="Pay Per View (EVENTOS)",FA Cup 9:15 Solihull Moors vs Bromley
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141464.ts
-#EXTINF:-1 tvg-id="" tvg-name="Eredivisie 05:00 AM | EN ESPAñOL - FC UTRECHT VS PSV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Eredivisie_nuovo_logo.png" group-title="Pay Per View (EVENTOS)",Eredivisie 05:00 AM | EN ESPAñOL - FC UTRECHT VS PSV
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141465.ts
-#EXTINF:-1 tvg-id="" tvg-name="Eredivisie 07:25 AM | AZ VS HERACLES ALMELO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Eredivisie_nuovo_logo.png" group-title="Pay Per View (EVENTOS)",Eredivisie 07:25 AM | AZ VS HERACLES ALMELO
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141466.ts
-#EXTINF:-1 tvg-id="" tvg-name="Eredivisie 09:30 AM | EN ESPAñOL - NEC VS AJAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Eredivisie_nuovo_logo.png" group-title="Pay Per View (EVENTOS)",Eredivisie 09:30 AM | EN ESPAñOL - NEC VS AJAX
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141467.ts
-#EXTINF:-1 tvg-id="" tvg-name="Uruguay 6:45 Racing vs River Plate" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Campeonato_Uruguayo_Primera_Divisi%C3%B3n_%28cropped%29.png" group-title="Pay Per View (EVENTOS)",Uruguay 6:45 Racing vs River Plate
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141468.ts
-#EXTINF:-1 tvg-id="" tvg-name="Uruguay 14:00 Nacional vs Boston River" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Campeonato_Uruguayo_Primera_Divisi%C3%B3n_%28cropped%29.png" group-title="Pay Per View (EVENTOS)",Uruguay 14:00 Nacional vs Boston River
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141469.ts
-#EXTINF:-1 tvg-id="" tvg-name="Uruguay 14:00 Peñarol vs Fénix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Campeonato_Uruguayo_Primera_Divisi%C3%B3n_%28cropped%29.png" group-title="Pay Per View (EVENTOS)",Uruguay 14:00 Peñarol vs Fénix
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141470.ts
-#EXTINF:-1 tvg-id="" tvg-name="NHL 11:00 AM | VANCOUVER CANUCKS VS DETROIT RED WINGS" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo-1946.png" group-title="PPV (NBA-NHL-MLS-NFL)",NHL 11:00 AM | VANCOUVER CANUCKS VS DETROIT RED WINGS
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141471.ts
-#EXTINF:-1 tvg-id="" tvg-name="NHL 01:30 PM | COLUMBUS BLUE JACKETS VS CHICAGO BLACKHAWKS" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo-1946.png" group-title="PPV (NBA-NHL-MLS-NFL)",NHL 01:30 PM | COLUMBUS BLUE JACKETS VS CHICAGO BLACKHAWKS
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141472.ts
-#EXTINF:-1 tvg-id="" tvg-name="NHL 02:00 PM | MONTREAL CANADIENS VS BOSTON BRUINS" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo-1946.png" group-title="PPV (NBA-NHL-MLS-NFL)",NHL 02:00 PM | MONTREAL CANADIENS VS BOSTON BRUINS
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141473.ts
-#EXTINF:-1 tvg-id="" tvg-name="NHL 03:00 PM | WINNIPEG JETS VS DALLAS STARS" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo-1946.png" group-title="PPV (NBA-NHL-MLS-NFL)",NHL 03:00 PM | WINNIPEG JETS VS DALLAS STARS
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141474.ts
-#EXTINF:-1 tvg-id="" tvg-name="NHL 06:30 PM | OTTAWA SENATORS VS ANAHEIM DUCKS" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo-1946.png" group-title="PPV (NBA-NHL-MLS-NFL)",NHL 06:30 PM | OTTAWA SENATORS VS ANAHEIM DUCKS
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141475.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAA Basket 11:00 AM | NJIT VS MASSACHUSETTS" tvg-logo="https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/basketball-men.png" group-title="PPV (NBA-NHL-MLS-NFL)",NCAA Basket 11:00 AM | NJIT VS MASSACHUSETTS
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141476.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAA Basket 11:00 AM | MAINE VS NAVY" tvg-logo="https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/basketball-men.png" group-title="PPV (NBA-NHL-MLS-NFL)",NCAA Basket 11:00 AM | MAINE VS NAVY
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141477.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAA Basket 11:00 AM | NIAGARA VS LONG ISLAND UNIVERSITY" tvg-logo="https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/basketball-men.png" group-title="PPV (NBA-NHL-MLS-NFL)",NCAA Basket 11:00 AM | NIAGARA VS LONG ISLAND UNIVERSITY
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141478.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAA Basket 12:00 PM | REGENT UNIVERSITY VS LONGWOOD" tvg-logo="https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/basketball-men.png" group-title="PPV (NBA-NHL-MLS-NFL)",NCAA Basket 12:00 PM | REGENT UNIVERSITY VS LONGWOOD
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141479.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAA Basket 01:00 PM | ARKANSAS - PINE BLUFF VS KANSAS STATE" tvg-logo="https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/basketball-men.png" group-title="PPV (NBA-NHL-MLS-NFL)",NCAA Basket 01:00 PM | ARKANSAS - PINE BLUFF VS KANSAS STATE
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141480.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAA Basket 01:00 PM | NEW HAMPSHIRE VS FORDHAM" tvg-logo="https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/basketball-men.png" group-title="PPV (NBA-NHL-MLS-NFL)",NCAA Basket 01:00 PM | NEW HAMPSHIRE VS FORDHAM
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141481.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAA Basket 01:00 PM | FAIRLEIGH DICKINSON VS FAIRFIELD" tvg-logo="https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/basketball-men.png" group-title="PPV (NBA-NHL-MLS-NFL)",NCAA Basket 01:00 PM | FAIRLEIGH DICKINSON VS FAIRFIELD
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141482.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAA Basket 01:00 PM | PURDUE NORTHWEST VS CENTRAL MICHIGAN" tvg-logo="https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/basketball-men.png" group-title="PPV (NBA-NHL-MLS-NFL)",NCAA Basket 01:00 PM | PURDUE NORTHWEST VS CENTRAL MICHIGAN
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141483.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAA Basket 01:30 PM | BINGHAMTON VS LAFAYETTE" tvg-logo="https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/basketball-men.png" group-title="PPV (NBA-NHL-MLS-NFL)",NCAA Basket 01:30 PM | BINGHAMTON VS LAFAYETTE
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141484.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAA Basket 01:30 PM | ELON VS PENNSYLVANIA" tvg-logo="https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/basketball-men.png" group-title="PPV (NBA-NHL-MLS-NFL)",NCAA Basket 01:30 PM | ELON VS PENNSYLVANIA
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141485.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAA Basket 02:00 PM | EASTERN KENTUCKY VS TROY" tvg-logo="https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/basketball-men.png" group-title="PPV (NBA-NHL-MLS-NFL)",NCAA Basket 02:00 PM | EASTERN KENTUCKY VS TROY
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141486.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAA Basket 03:00 PM | NORTH ALABAMA VS WOFFORD" tvg-logo="https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/basketball-men.png" group-title="PPV (NBA-NHL-MLS-NFL)",NCAA Basket 03:00 PM | NORTH ALABAMA VS WOFFORD
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141487.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAA Basket 03:00 PM | SACRED HEART VS BOSTON UNIVERSITY" tvg-logo="https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/basketball-men.png" group-title="PPV (NBA-NHL-MLS-NFL)",NCAA Basket 03:00 PM | SACRED HEART VS BOSTON UNIVERSITY
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141488.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAA Basket 03:00 PM | CALIFORNIA BAPTIST VS UCF" tvg-logo="https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/basketball-men.png" group-title="PPV (NBA-NHL-MLS-NFL)",NCAA Basket 03:00 PM | CALIFORNIA BAPTIST VS UCF
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141489.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAA Basket 03:00 PM | NOTRE DAME OF MARYLAND VS AMERICAN UNIVERSITY" tvg-logo="https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/basketball-men.png" group-title="PPV (NBA-NHL-MLS-NFL)",NCAA Basket 03:00 PM | NOTRE DAME OF MARYLAND VS AMERICAN UNIVERSITY
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141490.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAA Basket 04:00 PM | DENVER VS PORTLAND" tvg-logo="https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/basketball-men.png" group-title="PPV (NBA-NHL-MLS-NFL)",NCAA Basket 04:00 PM | DENVER VS PORTLAND
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141491.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAA Basket 06:00 PM | MERCYHURST VS SAN FRANCISCO" tvg-logo="https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/basketball-men.png" group-title="PPV (NBA-NHL-MLS-NFL)",NCAA Basket 06:00 PM | MERCYHURST VS SAN FRANCISCO
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141492.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAA Basket W 10:00 AM | WAGNER VS SACRAMENTO STATE" tvg-logo="https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/basketball-women.png" group-title="PPV (NBA-NHL-MLS-NFL)",NCAA Basket W 10:00 AM | WAGNER VS SACRAMENTO STATE
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141493.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAA Basket W 11:00 AM | BLOOMSBURG VS NIAGARA" tvg-logo="https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/basketball-women.png" group-title="PPV (NBA-NHL-MLS-NFL)",NCAA Basket W 11:00 AM | BLOOMSBURG VS NIAGARA
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141494.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAA Basket W 11:00 AM | SOUTHERN MISS VS UAB" tvg-logo="https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/basketball-women.png" group-title="PPV (NBA-NHL-MLS-NFL)",NCAA Basket W 11:00 AM | SOUTHERN MISS VS UAB
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141495.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAA Basket W 12:00 PM | GEORGE MASON VS NAVY" tvg-logo="https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/basketball-women.png" group-title="PPV (NBA-NHL-MLS-NFL)",NCAA Basket W 12:00 PM | GEORGE MASON VS NAVY
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141496.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAA Basket W 12:00 PM | CENTRAL CONNECTICUT VS DAYTON" tvg-logo="https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/basketball-women.png" group-title="PPV (NBA-NHL-MLS-NFL)",NCAA Basket W 12:00 PM | CENTRAL CONNECTICUT VS DAYTON
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141497.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAA Basket W 12:00 PM | RIDER VS BOSTON UNIVERSITY" tvg-logo="https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/basketball-women.png" group-title="PPV (NBA-NHL-MLS-NFL)",NCAA Basket W 12:00 PM | RIDER VS BOSTON UNIVERSITY
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141498.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAA Basket W 12:00 PM | ABILENE CHRISTIAN VS FLORIDA INTERNATIONAL" tvg-logo="https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/basketball-women.png" group-title="PPV (NBA-NHL-MLS-NFL)",NCAA Basket W 12:00 PM | ABILENE CHRISTIAN VS FLORIDA INTERNATIONAL
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141499.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAA Basket W 12:00 PM | SOUTH ALABAMA VS CHARLESTON SOUTHERN" tvg-logo="https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/basketball-women.png" group-title="PPV (NBA-NHL-MLS-NFL)",NCAA Basket W 12:00 PM | SOUTH ALABAMA VS CHARLESTON SOUTHERN
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141500.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAA Basket W 12:00 PM | SALEM VS MARSHALL" tvg-logo="https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/basketball-women.png" group-title="PPV (NBA-NHL-MLS-NFL)",NCAA Basket W 12:00 PM | SALEM VS MARSHALL
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141501.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAA Basket W 12:00 PM | SOUTH DAKOTA STATE VS BALL STATE" tvg-logo="https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/basketball-women.png" group-title="PPV (NBA-NHL-MLS-NFL)",NCAA Basket W 12:00 PM | SOUTH DAKOTA STATE VS BALL STATE
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141502.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAA Basket W 01:00 PM | TEMPLE VS LA SALLE" tvg-logo="https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/basketball-women.png" group-title="PPV (NBA-NHL-MLS-NFL)",NCAA Basket W 01:00 PM | TEMPLE VS LA SALLE
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141503.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAA Basket W 01:00 PM | MEMPHIS VS EAST TENNESSEE STATE" tvg-logo="https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/basketball-women.png" group-title="PPV (NBA-NHL-MLS-NFL)",NCAA Basket W 01:00 PM | MEMPHIS VS EAST TENNESSEE STATE
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141504.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAA Basket W 01:00 PM | XAVIER VS EASTERN MICHIGAN" tvg-logo="https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/basketball-women.png" group-title="PPV (NBA-NHL-MLS-NFL)",NCAA Basket W 01:00 PM | XAVIER VS EASTERN MICHIGAN
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141505.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAA Basket W 01:00 PM | NEW HAMPSHIRE VS DARTMOUTH" tvg-logo="https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/basketball-women.png" group-title="PPV (NBA-NHL-MLS-NFL)",NCAA Basket W 01:00 PM | NEW HAMPSHIRE VS DARTMOUTH
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141506.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAA Basket W 01:00 PM | CREIGHTON VS TULSA" tvg-logo="https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/basketball-women.png" group-title="PPV (NBA-NHL-MLS-NFL)",NCAA Basket W 01:00 PM | CREIGHTON VS TULSA
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141507.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAA Basket W 01:00 PM | NJIT VS SAINT PETER'S" tvg-logo="https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/basketball-women.png" group-title="PPV (NBA-NHL-MLS-NFL)",NCAA Basket W 01:00 PM | NJIT VS SAINT PETER'S
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141508.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAA Basket W 01:00 PM | GEORGETOWN VS HOWARD" tvg-logo="https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/basketball-women.png" group-title="PPV (NBA-NHL-MLS-NFL)",NCAA Basket W 01:00 PM | GEORGETOWN VS HOWARD
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141509.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAA Basket W 01:00 PM | AUSTIN PEAY VS FLORIDA ATLANTIC" tvg-logo="https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/basketball-women.png" group-title="PPV (NBA-NHL-MLS-NFL)",NCAA Basket W 01:00 PM | AUSTIN PEAY VS FLORIDA ATLANTIC
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141510.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAA Basket W 01:00 PM | VILLANOVA VS SAINT JOSEPH'S" tvg-logo="https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/basketball-women.png" group-title="PPV (NBA-NHL-MLS-NFL)",NCAA Basket W 01:00 PM | VILLANOVA VS SAINT JOSEPH'S
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141511.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAA Basket W 01:00 PM | MASSACHUSETTS VS SIENA" tvg-logo="https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/basketball-women.png" group-title="PPV (NBA-NHL-MLS-NFL)",NCAA Basket W 01:00 PM | MASSACHUSETTS VS SIENA
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141512.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAA Basket W 01:00 PM | SAINT FRANCIS (PA) VS DUQUESNE" tvg-logo="https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/basketball-women.png" group-title="PPV (NBA-NHL-MLS-NFL)",NCAA Basket W 01:00 PM | SAINT FRANCIS (PA) VS DUQUESNE
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141513.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAA Basket W 01:30 PM | VALPARAISO VS LEHIGH" tvg-logo="https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/basketball-women.png" group-title="PPV (NBA-NHL-MLS-NFL)",NCAA Basket W 01:30 PM | VALPARAISO VS LEHIGH
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141514.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAA Basket W 02:00 PM | LOUISIANA TECH VS BAYLOR" tvg-logo="https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/basketball-women.png" group-title="PPV (NBA-NHL-MLS-NFL)",NCAA Basket W 02:00 PM | LOUISIANA TECH VS BAYLOR
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141515.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAA Basket W 02:00 PM | MIAMI (OH) VS WESTERN KENTUCKY" tvg-logo="https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/basketball-women.png" group-title="PPV (NBA-NHL-MLS-NFL)",NCAA Basket W 02:00 PM | MIAMI (OH) VS WESTERN KENTUCKY
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141516.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAA Basket W 02:30 PM | #10 MARYLAND VS TOLEDO" tvg-logo="https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/basketball-women.png" group-title="PPV (NBA-NHL-MLS-NFL)",NCAA Basket W 02:30 PM | #10 MARYLAND VS TOLEDO
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141517.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAA Basket W 03:00 PM | SOUTHWESTERN VS HOUSTON CHRISTIAN" tvg-logo="https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/basketball-women.png" group-title="PPV (NBA-NHL-MLS-NFL)",NCAA Basket W 03:00 PM | SOUTHWESTERN VS HOUSTON CHRISTIAN
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141518.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAA Basket W 03:30 PM | CENTRAL ARKANSAS VS #9 KANSAS STATE" tvg-logo="https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/basketball-women.png" group-title="PPV (NBA-NHL-MLS-NFL)",NCAA Basket W 03:30 PM | CENTRAL ARKANSAS VS #9 KANSAS STATE
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141519.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAA Basket W 04:00 PM | PEPPERDINE VS LONG BEACH STATE" tvg-logo="https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/basketball-women.png" group-title="PPV (NBA-NHL-MLS-NFL)",NCAA Basket W 04:00 PM | PEPPERDINE VS LONG BEACH STATE
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141520.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAA Basket W 06:30 PM | #1 UCLA VS HAWAI'I" tvg-logo="https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/basketball-women.png" group-title="PPV (NBA-NHL-MLS-NFL)",NCAA Basket W 06:30 PM | #1 UCLA VS HAWAI'I
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141521.ts
-#EXTINF:-1 tvg-id="" tvg-name="Liga Pro 4 - LDU Quito Vs. Dep. Cuenca (e)(1080)" tvg-logo="https://i.postimg.cc/1tTgCTFc/zapping-ipro.png" group-title="ECUADOR",Liga Pro 4 - LDU Quito Vs. Dep. Cuenca (e)(1080)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141522.ts
-#EXTINF:-1 tvg-id="" tvg-name="Liga Pro 5 - LDU Quito Vs. Dep. Cuenca (e)(720)" tvg-logo="https://i.postimg.cc/1tTgCTFc/zapping-ipro.png" group-title="ECUADOR",Liga Pro 5 - LDU Quito Vs. Dep. Cuenca (e)(720)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141523.ts
-#EXTINF:-1 tvg-id="" tvg-name="Liga Pro 6 - El Nacional Vs. T. Universitario (e)(1080)" tvg-logo="https://i.postimg.cc/1tTgCTFc/zapping-ipro.png" group-title="ECUADOR",Liga Pro 6 - El Nacional Vs. T. Universitario (e)(1080)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141524.ts
-#EXTINF:-1 tvg-id="" tvg-name="Liga Pro 7 - El Nacional Vs. T. Universitario (e)(720)" tvg-logo="https://i.postimg.cc/1tTgCTFc/zapping-ipro.png" group-title="ECUADOR",Liga Pro 7 - El Nacional Vs. T. Universitario (e)(720)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141525.ts
-#EXTINF:-1 tvg-id="" tvg-name="Liga Pro 8 - Orenses Vs. Independiente del Valle (e)(1080)" tvg-logo="https://i.postimg.cc/1tTgCTFc/zapping-ipro.png" group-title="ECUADOR",Liga Pro 8 - Orenses Vs. Independiente del Valle (e)(1080)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141526.ts
-#EXTINF:-1 tvg-id="" tvg-name="Liga Pro 9 - Orenses Vs. Independiente del Valle (e)(720)" tvg-logo="https://i.postimg.cc/1tTgCTFc/zapping-ipro.png" group-title="ECUADOR",Liga Pro 9 - Orenses Vs. Independiente del Valle (e)(720)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141527.ts
-#EXTINF:-1 tvg-id="" tvg-name="Liga Pro 10 - Barcelona Vs. Mushuc Runa (e)(1080)" tvg-logo="https://i.postimg.cc/1tTgCTFc/zapping-ipro.png" group-title="ECUADOR",Liga Pro 10 - Barcelona Vs. Mushuc Runa (e)(1080)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141528.ts
-#EXTINF:-1 tvg-id="" tvg-name="Liga Pro 11 - Barcelona Vs. Mushuc Runa (e)(720)" tvg-logo="https://i.postimg.cc/1tTgCTFc/zapping-ipro.png" group-title="ECUADOR",Liga Pro 11 - Barcelona Vs. Mushuc Runa (e)(720)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/141529.ts
-#EXTINF:-1 tvg-id="" tvg-name="SKY Sports Bundesliga (Z2)(FHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/1280px-Sky_Sport_-_Logo_2020.svg.png" group-title="DEPORTIVOS",SKY Sports Bundesliga (Z2)(FHD)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/94804.ts
-
-#EXTINF:-1 tvg-id="NBCUniverso.us" tvg-name="Universo (HD)(T2)" tvg-logo="https://lh3.googleusercontent.com/-dZ5cstSycKY/YfHA6jNzCfI/AAAAAAAADBw/y4bFZcI2yrg1jO0r7NNoR1hOjpdcNWo4ACNcBGAsYHQ/w320-h320/1643233512243375-4.png" group-title="NOVELAS",Universo (HD)(T2)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/2034.ts
-#EXTINF:-1 tvg-id="UnivisionCanada.ca" tvg-name="Univision (HD)(T2)" tvg-logo="https://lh3.googleusercontent.com/-Qk_nqd8JzMQ/YfHA64TBhRI/AAAAAAAADB0/GYFl6dXa_p4lH874NyJzGztd5TqTLRdqwCNcBGAsYHQ/w320-h320/1643233514029368-3.png" group-title="NOVELAS",Univision (HD)(T2)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/2035.ts
-#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="Univision 14 San Francisco (HD)(T2)" tvg-logo="https://lh3.googleusercontent.com/-JpywQgv6yVQ/YfHA8RqzuRI/AAAAAAAADCA/2Yt5TXw5aUwzI2q8MgtIq7jGQQJM_Ox4QCNcBGAsYHQ/w320-h320/1643233519804566-0.png" group-title="NOVELAS",Univision 14 San Francisco (HD)(T2)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/2037.ts
-#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="Univision 23 Miami (HD)(T2)" tvg-logo="https://lh3.googleusercontent.com/-nvmgi837a8k/YfHA7areKpI/AAAAAAAADB4/SRvU9OnR0B4zkxQyE47QL-fR3m6sh3BFQCNcBGAsYHQ/w320-h320/1643233515927635-2.png" group-title="NOVELAS",Univision 23 Miami (HD)(T2)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/2036.ts
-#EXTINF:-1 tvg-id="Galavision.us" tvg-name="Galavision NY (HD)(T2)" tvg-logo="https://lh3.googleusercontent.com/-VNtV-r9gt9c/YfHAsjCLQ9I/AAAAAAAADAY/My-ljjO_iTgH4iI-nQDrczTje0w0Y8BVwCNcBGAsYHQ/w320-h320/1643233456853871-26.png" group-title="NOVELAS",Galavision NY (HD)(T2)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/2004.ts
-
-#EXTINF:-1 tvg-id="UniMas.us" tvg-name="Unimas (HD)(T2)" tvg-logo="https://lh3.googleusercontent.com/-rVr582MR5v8/YfHA5_nbdKI/AAAAAAAADBs/J0akuaM-f-U4tVTGeaUAfxcojwE-EEqMACNcBGAsYHQ/w320-h320/1643233509550520-5.png" group-title="NOVELAS",Unimas (HD)(T2)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/2033.ts
-#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="MEX-Las Estrellas (L2)(720)" tvg-logo="https://logos.xbots.com.mx/3931.png" group-title="MEXICO",MEX-Las Estrellas (L2)(720)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/97981.ts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Las_Estrellas_blanco.png/revision/latest?cb=20220315231324&path-prefix=es" group-title="MEXICO",MEX_Las Estrellas -hr (M2)(720)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/97983.ts
-#EXTINF:-1 tvg-id="" tvg-name="MEX-Las Estrellas -2 Horas (L2)(SD)" tvg-logo="https://logos.xbots.com.mx/canal2-estrellas-2.png" group-title="MEXICO",MEX-Las Estrellas -2 Horas (L2)(SD)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/97984.ts
-#EXTINF:-1 tvg-id="" tvg-name="MEX-Las Estrellas -2 Horas (L2)(720)" tvg-logo="https://logos.xbots.com.mx/canal2-estrellas-2.png" group-title="MEXICO",MEX-Las Estrellas -2 Horas (L2)(720)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/97985.ts
-#EXTINF:-1 tvg-id="" tvg-name="MEX-Unicable (L2)(1080)" tvg-logo="https://logos.xbots.com.mx/3928.png" group-title="MEXICO",MEX-Unicable (L2)(1080)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/98014.ts
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Azteca_7_white_3.png/revision/latest?cb=20211222015029&path-prefix=es" group-title="MEXICO",MEX-Azteca 7 (M2)(720)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/97971.ts
-#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="MEX-Azteca 7 (L2)(720)" tvg-logo="https://logos.xbots.com.mx/41115.png" group-title="MEXICO",MEX-Azteca 7 (L2)(720)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/97974.ts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/Canal_5_Navidad_2014.svg/revision/latest/scale-to-width-down/250?cb=20220224203852" group-title="MEXICO",MEX_Canal 5 (M2)(720)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/97998.ts
-#EXTINF:-1 tvg-id="" tvg-name="MEX-Canal 5 (L2)(720)" tvg-logo="https://logos.xbots.com.mx/2416.png" group-title="MEXICO",MEX-Canal 5 (L2)(720)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/98000.ts
-
-#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/dc270200-bf86-4cd5-86ce-ec11b4bd9b1e/ddt8etp-2446086d-08d4-46e5-91f0-9c5c6908fba4.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2RjMjcwMjAwLWJmODYtNGNkNS04NmNlLWVjMTFiNGJkOWIxZVwvZGR0OGV0cC0yNDQ2MDg2ZC0wOGQ0LTQ2ZTUtOTFmMC05YzVjNjkwOGZiYTQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.0btkBSJ1AYNjuYKYHKVmF7lzOII2woePnREKOhiQVUo" group-title="MEXICO",MEX-BitMe (M2)(720)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/97994.ts
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/caballeroszodiaco.png" group-title="24/7 JUVENILES",24/7 Los Caballeros del Zodiaco (e)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/117857.ts
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/yugioh.png" group-title="24/7 JUVENILES",24/7 Yu-Gi-Oh (e)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/118640.ts
-#EXTINF:-1 tvg-logo="https://dragonballsuper-france.fr/wp-content/uploads/2016/12/logo-site.png" group-title="24/7 JUVENILES",24/7 Boruto: Naruto Next Generations (e)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/107564.ts
-#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8a156873-a830-43b1-9b31-3becb2f788fb/dfk1e26-1b9f86fb-13f9-4cd0-9746-ab8fb7ed67bd.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzhhMTU2ODczLWE4MzAtNDNiMS05YjMxLTNiZWNiMmY3ODhmYlwvZGZrMWUyNi0xYjlmODZmYi0xM2Y5LTRjZDAtOTc0Ni1hYjhmYjdlZDY3YmQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0._J-SC0o3OS2Lu0HLr0JSIZqtQqtumzEg5rCkMMrHvjM" group-title="24/7 JUVENILES",24/7 Naruto (e)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/115591.ts
-#EXTINF:-1 tvg-logo="https://www.pngarts.com/files/11/Naruto-Shippuden-Logo-PNG-Pic.png" group-title="24/7 JUVENILES",24/7 Naruto Shippude 1al10 (e)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/115770.ts
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/738c374a-8fda-4437-84ce-f9923418cc65-profile_image-70x70.png" group-title="24/7 JUVENILES",24/7 Naruto Shippude 11al20 (e)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/115821.ts
-#EXTINF:-1 tvg-logo="https://occ-0-8407-116.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABdJVIvPW8kVElLF6adcuMyLW22E0UXsmlfct286ylTk9_JAjy8aq8e-elWZRIuiFYmpAFcVWUEy8242zORMCeSBLvgkN3_Ax5Y-O.jpg?r=9eb" group-title="24/7 JUVENILES",24/7 Pokemon 1al9 (e)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/116374.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Pok%C3%A9mon_logo.svg/800px-International_Pok%C3%A9mon_logo.svg.png" group-title="24/7 JUVENILES",24/7 Pokemon 10al18 (e)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/116615.ts
-#EXTINF:-1 tvg-logo="https://www.pngall.com/wp-content/uploads/2/Digimon-Logo-PNG-Free-Download.png" group-title="24/7 JUVENILES",24/7 Digimon (e)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/109047.ts
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonball.png" group-title="24/7 JUVENILES",24/7 Dragon Ball (e)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/109181.ts
-#EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/744a0c1702a65fdec67751ba64b6e23b.png" group-title="24/7 JUVENILES",24/7 Dragon Ball Z - Saga Saiyajin (e)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/109221.ts
-#EXTINF:-1 tvg-logo="https://data.topquizz.com/distant/quizz/big/3/9/1/6/246193_e3c3856aa3.jpg" group-title="24/7 JUVENILES",24/7 Dragon Ball Z - Frezzer (e)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/109533.ts
-#EXTINF:-1 tvg-logo="https://images6.alphacoders.com/676/thumb-1920-676458.png" group-title="24/7 JUVENILES",24/7 Dragon Ball Z - Saga Cell (e)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/115067.ts
-#EXTINF:-1 tvg-logo="https://images4.alphacoders.com/676/676442.png" group-title="24/7 JUVENILES",24/7 Dragon Ball Z - Saga Majin Buu (e)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/115068.ts
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballgt.png"" group-title="24/7 JUVENILES",24/7 Dragon Ball GT (e)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/115069.ts
-#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/87130cc4-b297-4d4c-8fbf-5a26937514c3/daxn5se-22da1e01-7201-4535-a123-44d391e6bac1.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg3MTMwY2M0LWIyOTctNGQ0Yy04ZmJmLTVhMjY5Mzc1MTRjM1wvZGF4bjVzZS0yMmRhMWUwMS03MjAxLTQ1MzUtYTEyMy00NGQzOTFlNmJhYzEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.px7MSPTjBkT-z7N8UZFJOuV41xYDcDy6d5PdtekTxQg" group-title="24/7 JUVENILES",24/7 Dragon Ball Super (e)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/115071.ts
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/PO47HbOlemo/hqdefault_live.jpg" group-title="24/7 JUVENILES",24/7 Los Simpson - 1al10 (e)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/105584.ts
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ju9iVHOeZRo/hqdefault.jpg?v=5c070693" group-title="24/7 JUVENILES",24/7 Los Simpson - 11al20 (e)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/105656.ts
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/5b/c4/8e/5bc48eec6fb66fd17efc5430c1fb48e5.jpg" group-title="24/7 JUVENILES",24/7 Los Simpson - 21al35 (e)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/105713.ts
-#EXTINF:-1 tvg-logo="https://frontend-assets.clipsource.com/63d903db4e67d/war-63d930a462b9e/2023/11/28/6565bc5a7def7_thumbnail.jpg" group-title="24/7 JUVENILES",24/7 Young Sheldon (e)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/101957.ts
-#EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p184132_b_h8_an.jpg?w=1280&h=720" group-title="24/7 JUVENILES",24/7 Xena: La princesa guerrera (e)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/136462.ts
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-AOuztGLz0Bg/Uo4ebJKGEII/AAAAAAAAinY/vLTN83SApmQ/s1600/00.png" group-title="24/7 JUVENILES",24/7 Los locos Addams
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/136455.ts
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-vDxo7-wHfbc/YHHDvQrfhlI/AAAAAAAAGak/xcE1EON9w4wPuJigdledbvM5avRfVINdACLcBGAsYHQ/s656/munsters.jpg" group-title="24/7 JUVENILES",24/7 La familia Monster (e)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/136458.ts
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f85f1dc1418bd0007e11eb9/colorLogoPNG.png" group-title="24/7 JUVENILES",24/7 Los Tres Chiflados (e)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/136459.ts
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/losaniosmaravillosos.png" group-title="24/7 JUVENILES",24/7 Los años maravillosos (e)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/136460.ts
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/ae441423-6ce9-4322-bcd1-e42ed8159617-profile_image-70x70.png" group-title="24/7 JUVENILES",24/7 Chespirito (e)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/128672.ts
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/chapulincolorado.png" group-title="24/7 JUVENILES",24/7 El Chapulin Colorado (e)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/128674.ts
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/a78f72eb025464f327c8628a20cc4811.png" group-title="24/7 JUVENILES",24/7 El Chavo del Ocho HD (e)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/128675.ts
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elchavodel8.png" group-title="24/7 JUVENILES",24/7 El Chavo del Ocho HQ (e)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/101931.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="INF-Baby TV (Z)(1080)" tvg-logo="https://lh3.googleusercontent.com/-s9FmIWeTUIY/Ye9-tC2CylI/AAAAAAAAC9s/Ryv5_uU8hE4S2jycJj7IseBspbdUCRsNgCNcBGAsYHQ/w320-h320/1643085491467542-7.png" group-title="INFANTILES",INF-Baby TV (Z)(1080)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/94790.ts
-#EXTINF:-1 tvg-id="" tvg-name="INF-Boomerang (Z)" tvg-logo="https://lh3.googleusercontent.com/-xCy9ssXjY68/Ye9-tsFwdmI/AAAAAAAAC9w/S4YA4FQS51UZ2pUil85ZwTJ3bZ2pidz2QCNcBGAsYHQ/w320-h320/1643085493451108-6.png" group-title="INFANTILES",INF-Boomerang (Z)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/94798.ts
-#EXTINF:-1 tvg-id="" tvg-name="INF-Cartoon Network (Z)(720)" tvg-logo="https://lh3.googleusercontent.com/--ABsIqZpaQ4/Ye9-uHK0IiI/AAAAAAAAC90/WmlKc5DBDKQ9XNipngjQhFjI0x3UJrHiwCNcBGAsYHQ/w320-h320/1643085495419505-5.png" group-title="INFANTILES",INF-Cartoon Network (Z)(720)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/94799.ts
-#EXTINF:-1 tvg-id="" tvg-name="INF-Disney JR (Z)(720)" tvg-logo="https://lh3.googleusercontent.com/-Tl8BYi-aqAA/Ye9-vt1MRTI/AAAAAAAAC-A/8CbHB2Ngi98Lt1MKjTBCHpV0yu2N1Xu8ACNcBGAsYHQ/w320-h320/1643085500943173-2.png" group-title="INFANTILES",INF-Disney JR (Z)(720)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/94794.ts
-#EXTINF:-1 tvg-id="" tvg-name="INF-Tooncast (Z)(720)" tvg-logo="https://lh3.googleusercontent.com/-lQReJf9XEBY/Ye99U5VdnRI/AAAAAAAAC9Q/D9u3FjBA_8AjoPE4w7nObWtxtV15YDQNACNcBGAsYHQ/s1600/1643085138483502-2.png" group-title="INFANTILES",INF-Tooncast (Z)(720)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/94797.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="DOC - Glitz (Z)(1080)" tvg-logo="http://fanc.tmsimg.com/assets/s61514_ll_h3_aa.png" group-title="DOCUMENTALES",DOC - Glitz (Z)(1080)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/94874.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="DOC - History 2 (Z)(1080)." tvg-logo="https://static.epg.best/pa/History2LatinAmerica.pa.png" group-title="DOCUMENTALES",DOC - History 2 (Z)(1080).
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/94876.ts
-#EXTINF:-1 tvg-id="" tvg-name="DOC - Natgeo (Z)(1080)" tvg-logo="https://static.epg.best/mx/NatGeo.mx.png" group-title="DOCUMENTALES",DOC - Natgeo (Z)(1080)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/94884.ts
-#EXTINF:-1 tvg-id="" tvg-name="DOC - Natgeo Wild (Z)(1080)" tvg-logo="https://static.epg.best/mx/NatGeo.mx.png" group-title="DOCUMENTALES",DOC - Natgeo Wild (Z)(1080)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/94885.ts
-#EXTINF:-1 tvg-id="" tvg-name="DOC - Casa & Pezca (Z)(1080)" tvg-logo="https://i.imgur.com/X18tLOR.png" group-title="DOCUMENTALES",DOC - Casa & Pezca (Z)(1080)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/94860.ts
-#EXTINF:-1 tvg-id="" tvg-name="DOC - Discovery FAMILIA (Z)(1080)" tvg-logo="https://static.wikia.nocookie.net/doki-la-serie/images/2/2b/DiscoveryFamiliaLogo_2022-Presente.png/revision/latest?cb=20220605152728&path-prefix=es" group-title="DOCUMENTALES",DOC - Discovery FAMILIA (Z)(1080)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/94864.ts
-#EXTINF:-1 tvg-id="" tvg-name="USA | Discovery Familia (HD)" tvg-logo="https://static.wikia.nocookie.net/discovery-kids/images/9/9f/Discovery_Familia_2022_-_Actual.png/revision/latest?cb=20220526160750&path-prefix=es" group-title="DOCUMENTALES",USA | Discovery Familia (HD)
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/69840.ts
-
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/52eec929-086c-47bf-9ae2-e449b99d006a/Electric_Now_ES_Channel_Art_Horizontal.jpg",ELECTRIC NOW ESPAÑOL 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4735
 
@@ -1887,9 +1518,9 @@ http://400520923797383249.ofd0219.xyz:80/play/vi0105819/@Dk@GPx7vrQ/383249.ts
 
 #EXTINF:-1 tvg-id="M+ Documentales HD" tvg-name="ES: M+ DOCUMENTALES HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MDOC" group-title="ES   MOVISTAR+",ES: M+ DOCUMENTALES HD
 http://400520923797552955.ofd0219.xyz:80/play/vi0105819/@Dk@GPx7vrQ/552955.ts
-#EXTINF:-1 tvg-id="National Geographic HD" tvg-name="ES: NATIONAL GEOGRAPHIC HD" tvg-logo="https://miguia.tv/channels/big_124.png" group-title="ES   MOVISTAR+",ES: NATIONAL GEOGRAPHIC HD
+#EXTINF:-1 tvg-id="National Geographic HD" tvg-name="ES: NATIONAL GEOGRAPHIC HD" tvg-logo="https://miguia.tv/channels/big_124.png" group-title="ES   MOVISTAR+",ES: NATIONAL GEOGRAPHIC sd
 http://400520923797321372.ofd0219.xyz:80/play/vi0105819/@Dk@GPx7vrQ/321372.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: NATIONAL GEOGRAPHIC WILD HD" tvg-logo="https://miguia.tv/channels/big_123.png" group-title="ES   MOVISTAR+",ES: NATIONAL GEOGRAPHIC WILD HD
+#EXTINF:-1 tvg-id="" tvg-name="ES: NATIONAL GEOGRAPHIC WILD HD" tvg-logo="https://miguia.tv/channels/big_123.png" group-title="ES   MOVISTAR+",ES: NATIONAL GEOGRAPHIC WILD sdd
 http://400520923797687033.ofd0219.xyz:80/play/vi0105819/@Dk@GPx7vrQ/687033.ts
 #EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="ES: NATIONAL GEOGRAPHIC WILD SD" tvg-logo="https://miguia.tv/channels/big_123.png" group-title="ES   MOVISTAR+",ES: NATIONAL GEOGRAPHIC WILD SD
 http://400520923797383264.ofd0219.xyz:80/play/vi0105819/@Dk@GPx7vrQ/383264.ts
@@ -1904,6 +1535,120 @@ http://400520923797321280.ofd0219.xyz:80/play/vi0105819/@Dk@GPx7vrQ/321280.ts
  
 #EXTINF:-1 tvg-logo="https://www.movistar.com.ar/documents/10180/92712757/htv.png",HTV
 
+
+#EXTINF:-1 tvg-id="America" tvg-logo="https://lh3.googleusercontent.com/-fHUFZgkXp4k/ZgTWyEgPzsI/AAAAAAAABHE/3risgYCtUGUN2ZEsf90LEMo0qWmdbrudQCNcBGAsYHQ/h120/America.png" group-title="Televisión",América Televisión
+https://live-evg4.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8
+#EXTINF:-1 tvg-id="Latina" tvg-logo="https://lh3.googleusercontent.com/--Zd9Jw1EVgA/ZgTW25ayqdI/AAAAAAAABHI/d_PnELWw_TkERdXLpPAWcW7nTPvizWVXACNcBGAsYHQ/h120/Latina.png" group-title="Televisión",Latina Televisión
+https://live-evg4.tv360.bitel.com.pe/bitel/latina/playlist.m3u8
+#EXTINF:-1 tvg-id="Panamericana" tvg-logo="https://lh3.googleusercontent.com/-tsIUzwIDDh8/ZgTW6fwnaUI/AAAAAAAABHM/fGPi-ekRRskNeoKn8zTfoGHv46GT5wjjwCNcBGAsYHQ/h120/Panamericana.png" group-title="Televisión",Panamericana
+https://live-evg4.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
+#EXTINF:-1 tvg-id="CTV TV" tvg-logo="https://lh3.googleusercontent.com/-C8EpD545q5Y/ZgTa02Z4GiI/AAAAAAAABIA/jJloGJe-ORU277XvufpOlRpl8fuV910AgCNcBGAsYHQ/h120/CTV%2BTV.png" group-title="Televisión",CTV TV
+https://live-evg4.tv360.bitel.com.pe/bitel/ctv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dramas coreanos (pluto tv)" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/dramas_coreanos.jpg" group-title="Televisión",Dramas coreanos (pluto tv)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6185a9a88b2ce30007de5128/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PS
+
+
+#EXTINF:0,Universal Cinema (Argentina) (🇦🇷)
+http://244285498241948170.ofds1114.xyz:80/live/zh917087/utFFceNB@SQ/948170.ts
+
+#EXTINF:0,Univision 24/7 (USA) (🇺🇸)
+https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8
+
+#EXTINF:0,UNLP (Argentina) (🇦🇷)
+https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
+
+#EXTINF:0,Anger Management (España) (🇪🇸)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01264-vidaausainc-angermanagementespanol-vidaa/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="UK:.Rakuten.VIKI.en" tvg-name="" group-title="Novelas Channels" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/rakutenviki.webp",Rakuten viki 🇲🇽🇰🇷
+https://newidco-rakutenviki-3-mx.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="US27000033D" group-title="Novelas Channels"  tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US27000033D_20240826T235549SQUARE.png",Novelas Turcas 🇺🇸🇲🇽
+https://d3tqgr18sdql14.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pgcp345otohoa/Novelas_Turcas.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=US27000033D
+
+#EXTINF:-1 tvg-name="" tvg-id="USBB44000099N" group-title="Novelas Channels" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB44000099N_20240520T212704SQUARE.png",ViX Novelas de Romance 🇺🇸🇲🇽
+https://dm44c2ycmsees.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awtur5jypeo4b/server/distrib/AwpWpKfpemEGixBj/zuvPJYoOOdEMDNF2j2mvmg.XD-5XW7bmDpD5yWfV328oU9NWPX1Y7dhiYqJY3ymkerRKjKvBm9YaKmRu09CS8ak3vKkgVwPUO3_k0fGhRTEqichOfESE0Mvx1Jtn81PnLjGdX8c5rM6Wbz0X-r4kuUokXxDkVNpGrQXJTNlajn8qyE95SuHf6gHV8f03sl1yUQPzBd2gJbrGfq1mHgoJOVVQC8UfN_6AliJQgUcTWDV5ZOF4aiSuTPOG1p4BgbFAnlCS7ZWKyFTBksAnep57l4OGJUnnpzLB5grmYE-eSo9WA/manifest.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBB44000099N
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6BP7pVF/History-Channel.png",History
+http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/History/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gmk4GHQ/Discovery-Channel.png",Discovery
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery/SA_HLS/Discovery.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j5JTGbf/Discovery-ID.png",ID
+https://router.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_ID/SA_HLS/Discovery_ID.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9ymf0C1/Discovery-Turbo.png",Turbo
+https://router.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Turbo/SA_HLS/Discovery_Turbo.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.movistar.com.ar/documents/10180/92712757/h&h.png",H&E
+https://router.cdn.rcs.net.ar/anevia/live/localdisk/Home_Health/SA_HLS/Home_Health.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/A%26E_Network_%28Australia%29_logo.svg/512px-A%26E_Network_%28Australia%29_logo.svg.png",AandE
+http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/aye/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png",AMC
+http://stklatino.dynns.com:2082/azplay1682/9010383728/2619
+
+
+#EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1120.png",América TV Arg
+https://dsr.ride.com.ar/tvmia/an25/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/512px-Am%C3%A9rica_Televisi%C3%B3n.svg.png",América TV Perú
+https://live-zlr1.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png",AXN
+http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/axn/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Iozv4tT.png",CineAr
+https://delivery.cdn.rcs.net.ar/mnp/cinear_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_01/large.CrónicaTV(Recreación).png.5277db1c95ca486ee7df3c174d5058b1.png",Crónica
+https://ythls.armelin.one/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/512px-2019_Discovery_logo.svg.png",Descubrimiento
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery/SA_HLS/Discovery.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Discovery_H%26H_Logo_2022.webp/512px-Discovery_H%26H_Logo_2022.webp.png",Discovery Hogar y Salud
+https://router.cdn.rcs.net.ar/anevia/live/localdisk/Home_Health/SA_HLS/Home_Health.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Nuevo_logotipo_de_Discovery_science_2017.png/512px-Nuevo_logotipo_de_Discovery_science_2017.png",Discovery SCI 1
+https://delivery.cdn.rcs.net.ar/mnp/dsc_sci_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jF2BabI.png",DNoticias
+https://ythls.armelin.one/channel/UC4dWvSKVWJ36tJyhjDQCCaQ.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/512px-InvestigationDiscoveryLogo2020.svg.png",Investigación Discovery
+https://router.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_ID/SA_HLS/Discovery_ID.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dbu9nx4.png",IP Noticias
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/IP_Noticias/SA_HLS/IP_Noticias.m3u8
+
+#EXTINF:-1 tvg-logo="https://television-libre.online/img/sony.webp",Sony
+http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/sonychannel/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bZWoDTg.png",Sony Cine
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logotipo_de_películas_de_Sony.svg/512px-Logotipo_de_películas_de_Sony.svg.png",Películas de Sony 1
+http://bantel.iptvperu.tv:1935/cdnnjf/sonymovies/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.telcocom.com.ar/img/canales/tcm.png",TCM
+https://delivery.cdn.rcs.net.ar/mnp/tcm_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vFwPhPS.png",TN
+https://delivery.cdn.rcs.net.ar/mnp/tn_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WuOhLl4.png",Turbo
+https://router.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Turbo/SA_HLS/Discovery_Turbo.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jnjvR5f.png",Universal 1
+http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/universalchannel/chunks.m3u8
 
 
 
