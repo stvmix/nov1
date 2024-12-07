@@ -310,12 +310,18 @@ https://cp.panelchs.com:1936/8060/8060/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/elXndpw.png" group-title="Samsung TV", Rakuten  TV Familia | HD | España
 https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTk2X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1708456922509" tvg-group="PREMIUM", HBO 2
 https://delivery.cdn.rcs.net.ar/mnp/hbo2_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="",HBO 2
+http://bantel-cdn1.iptvperu.tv:1935/cdnrji/HBO2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDE3X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1708456806050" tvg-group="PREMIUM", HBO SUR (Z)
 http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/94841.ts
 
+#EXTINF:-1 tvg-logo="",HBO 
+http://bantel-cdn1.iptvperu.tv:1935/cdnrji/HBO/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://clarovideocdn1.clarovideo.net/HBO/PELICULAS/HBOFAMILYCHANNEL/EXPORTACION_WEB/SS/HBOFAMILYCHANNEL_t-290x163.png" tvg-group="PREMIUM", HBO Family (Z)(1080)
 http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/94840.ts
@@ -326,11 +332,17 @@ http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/94843.ts
 #EXTINF:-1 tvg-logo="https://clarovideocdn7.clarovideo.net/HBO/PELICULAS/HBOPLUSHD/EXPORTACION_WEB/SS/HBOPLUSHD_t-290x163.png" tvg-group="PREMIUM",HBO Plus (Z)(1080)
 http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/94844.ts
 
+#EXTINF:-1 tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2021/03/HBO-plus.png",HBO+
+http://bantel-cdn1.iptvperu.tv:1935/cdnrji/hboplus/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.codice.tv/wp-content/uploads/2022/04/hbo-pop1-300x300.png" tvg-group="PREMIUM",HBO POP (Z)(720) -
 http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/94845.ts
 
 #EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMjAxX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1708456926578" tvg-group="PREMIUM",HBO Signature (Z)(720)
 http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/94846.ts
+
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/153-1531080_hbo-signature-hbo-signature-logo-hd-png-download.png",HBO SIGNATURE
+http://bantel-cdn1.iptvperu.tv:1935/cdnrji/hbosignature/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.codice.tv/wp-content/uploads/2022/04/hbo-xtreme1.png" tvg-group="PREMIUM",HBO Xtreme (Z)(720)
 http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/94847.ts
@@ -1884,5 +1896,14 @@ http://400520923797383264.ofd0219.xyz:80/play/vi0105819/@Dk@GPx7vrQ/383264.ts
 
 #EXTINF:-1 tvg-id="La 2" tvg-name="ES: LA 2 HD" tvg-logo="https://miguia.tv/channels/big_99.png" group-title="ES   MOVISTAR+",ES: LA 2 HD
 http://400520923797321280.ofd0219.xyz:80/play/vi0105819/@Dk@GPx7vrQ/321280.ts
+
+
+
+
+#EXTINF:-1 tvg-logo="https://telearg.weebly.com/uploads/1/3/1/2/131240845/quiero-musica_1.png",Quiero
+ 
+#EXTINF:-1 tvg-logo="https://www.movistar.com.ar/documents/10180/92712757/htv.png",HTV
+
+
 
 
