@@ -1613,20 +1613,14 @@ http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASEAST&calidad=hd&.m3u8
 #EXTINF:-1 group-title="TV ABIERTA", UNIMAS UHD ts
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASMIAMI&calidad=hd&.ts
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k3hgRpj/logo-Adult-Swim.png" group-title="JÓVENES Y ADULTOS", Adult Swim 190.61.42.218:9000
+http://190.61.42.218:9000/play/a00u
+
 #EXTINF:-1 título del grupo="", HECHO A MANO
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadees16international24i-ono/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/f8hSs6J/Punto-99-Logo-Reducido.png" group-title="", PUNTO 99
 https://stmv5.voxtvhd.com.br/99online/99online/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k3hgRpj/logo-Adult-Swim.png" group-title="JÓVENES Y ADULTOS", Adult Swim 190.61.42.218:9000
-http://190.61.42.218:9000/play/a00u
-
-EXTINF:-1 tvg-logo="https://i.ibb.co/HpCtLzy/logo-Wow-Movies.jpg", Wow Movies
-https://ssh101.bozztv.com/ssh101/wowchannelsd/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HCrNGr7/Logo-Mundo-Series.png" group-title="JOVENES Y ADULTOS",Mundo Series
-https://daiconnect.com/live/hls/tvup/tvfy-mundoseries/.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Conectate TV" tvg-logo="https://i.ibb.co/XsB3DYg/logo-Con-ctate-TV.png" grouptitle="Familiares",Conectate TV
 https://5790d294af2dc.streamlock.net/conectatetv/conectatetv/playlist.m3u8
@@ -1650,3 +1644,8 @@ https://panel.tvstream.cl:1936/8070/8070/playlist.m3u8
 https://dsr.ride.com.ar/tvmia/an18/playlist.m3u8
 
 
+EXTINF:-1 tvg-logo="https://i.ibb.co/HpCtLzy/logo-Wow-Movies.jpg", Wow Movies
+https://ssh101.bozztv.com/ssh101/wowchannelsd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HCrNGr7/Logo-Mundo-Series.png" group-title="JOVENES Y ADULTOS",Mundo Series
+https://daiconnect.com/live/hls/tvup/tvfy-mundoseries/.m3u8
