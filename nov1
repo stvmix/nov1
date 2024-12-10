@@ -257,7 +257,7 @@ https://daiconnect.com/live/hls/tvup/tvfy-mundoseries/.m3u8
 #EXTINF:-1 tvg-logo="https://www.fmh.la/images/team/logo_family.png" tvg-group="PREMIUM", FMH Family
 http://160.20.165.246:8000/play/a01j/index.m3u8
 
-#EXTINF:-1 tvg-https://www.fmh.la/images/logos_slider/movies.png" group-title="PELICULAS Y SERIES", 122 | FMH Movies
+#EXTINF:-1 tvg-logo="https://www.fmh.la/images/team/logo_movies.png" tvg-group="PREMIUM", FMH Movies
 http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/FMH_Movies/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rarter/images/f/fc/Skskskksks.png/revision/latest?cb=20240430152411" group-title="PELICULAS Y SERIES", 119 | Cine Premium
