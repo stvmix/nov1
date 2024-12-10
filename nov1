@@ -240,6 +240,18 @@ https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Televilla.co" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT2i8T0d2TCRe3q_xEkMWbmqoI853VmTYq39RryGevp9HHklcKQwHwBLYs9zPEo8wveeQ&usqp=CAU" tvg-group="INFANTILES",Televilla (720p) [Not 24/7]
 https://cp.panelchs.com:1936/8060/8060/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Conectate TV" tvg-logo="https://i.ibb.co/XsB3DYg/logo-Con-ctate-TV.png" grouptitle="Familiares",Conectate TV
+https://5790d294af2dc.streamlock.net/conectatetv/conectatetv/playlist.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="FMTV.uk" tvg-logo="https://i.imgur.com/vPxvbVv.png" ,Frecuencia Musical TV [Not 24/7]
+https://s2.tvdatta.com:3307/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Canaltv_logo_2006.png" tvg-group="ARGENTINA",canalevolución
+https://cdnhd.iblups.com/hls/SJWxXEWwUd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qGddRW4.png" tvg-group="ARGENTINA",GenTV HD
+https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HCrNGr7/Logo-Mundo-Series.png" group-title="JOVENES Y ADULTOS",Mundo Series
 https://daiconnect.com/live/hls/tvup/tvfy-mundoseries/.m3u8
 
@@ -320,6 +332,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b0007
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EaYYKb7.png" tvg-group="INFANTILES",Planeta Junior TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4311&checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Rv7T3bF/Logo-Planeta-Junior-TV.png"group-title="Familiares",Planeta Junior TV HD
+https://daiconnect.com/live/hls/tvup/tvfy-pljr/.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-_Z008vfbTzU/YLFmmFBX6qI/AAAAAAAAD4s/1gAWpUIrEUU3s1hnLbTSffX4XnOOT_A3wCLcBGAsYHQ/s540/happykids.tv-espa%25C3%25B1ol-logoroku.png" tvg-group="INFANTILES",Kids Es
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=514
@@ -1530,13 +1545,6 @@ http://400520923797321280.ofd0219.xyz:80/play/vi0105819/@Dk@GPx7vrQ/321280.ts
 #EXTINF:-1, LA 2 W
 https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
 
-#EXTINF:-1 tvg-logo="https://telearg.weebly.com/uploads/1/3/1/2/131240845/quiero-musica_1.png",Quiero
- 
-#EXTINF:-1 tvg-logo="https://www.movistar.com.ar/documents/10180/92712757/htv.png",HTV
-
-#EXTINF:0,Universal Cinema (Argentina) (🇦🇷)
-http://244285498241948170.ofds1114.xyz:80/live/zh917087/utFFceNB@SQ/948170.ts
-
 #EXTINF:0,Univision 24/7 (USA) (🇺🇸)
 https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8
 
@@ -1577,16 +1585,19 @@ https://router.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_ID/SA_HLS/Discover
 #EXTINF:-1 tvg-logo="",Animal Planet mnp
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_HLS/Animal_Planet.m3u8
 
+#EXTINF:-1 tvg-id="Caza y Pesca HD" tvg-name="ES: CAZA Y PESCA FHD" tvg-logo="https://miguia.tv/channels/big_60.png" group-title="ES   MOVISTAR+",ES: CAZA Y PESCA FHD
+http://400520923797321168.ofd0219.xyz:80/play/vi0105819/@Dk@GPx7vrQ/321168.ts
+#EXTINF:-1 tvg-id="Caza y Pesca HD" tvg-name="ES: CAZA Y PESCA HD" tvg-logo="https://miguia.tv/channels/big_60.png" group-title="ES   MOVISTAR+",ES: CAZA Y PESCA HD
+http://400520923797321169.ofd0219.xyz:80/play/vi0105819/@Dk@GPx7vrQ/321169.ts
+
 #EXTINF:-1 ,gourmet
 https://delivery.cdn.rcs.net.ar/mnp/gourmet_hls/playlist.m3u8
 
 #EXTINF:-1, EL GOURMET
 https://router.cdn.rcs.net.ar/anevia/live/localdisk/El_Gourmet/SA_HLS/El_Gourmet.m3u8
 
-#EXTINF:-1 tvg-id="Caza y Pesca HD" tvg-name="ES: CAZA Y PESCA FHD" tvg-logo="https://miguia.tv/channels/big_60.png" group-title="ES   MOVISTAR+",ES: CAZA Y PESCA FHD
-http://400520923797321168.ofd0219.xyz:80/play/vi0105819/@Dk@GPx7vrQ/321168.ts
-#EXTINF:-1 tvg-id="Caza y Pesca HD" tvg-name="ES: CAZA Y PESCA HD" tvg-logo="https://miguia.tv/channels/big_60.png" group-title="ES   MOVISTAR+",ES: CAZA Y PESCA HD
-http://400520923797321169.ofd0219.xyz:80/play/vi0105819/@Dk@GPx7vrQ/321169.ts
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/all-channels/10272020/Tastemade_en_Espanol_190x190.png?raw=true" tvg-group="CIENCIA Y CULTURA",Tastemade En Espanol HECHO A MANO
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadees16international24i-ono/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=&quot;https://static.wixstatic.com/media/526a76_01ad709796564458b269e38924632cba~mv2.jpg&quot; group-title=&quot;ABSOLUTAMENTE CINE&quot;,RUN:TIME CINE | ESP
 https://run-rt-es.otteravision.com/run/rt_es/rt_es.m3u8
@@ -1605,34 +1616,13 @@ https://run-cl-es.otteravision.com/run/cl_es/cl_es.m3u8
 #EXTINF:-1 tvg-logo=&quot;https://static.wixstatic.com/media/526a76_642c984b9e5b42eebeda744272ff4998~mv2.jpg&quot; group-title=&quot;ABSOLUTAMENTE CINE&quot;,RUN:TIME TRASH | ESP
 https://run-rt-tr-es.otteravision.com/run/rt_tr_es/rt_tr_es.m3u8
 
-#EXTINF:-1 título del grupo="", HECHO A MANO
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadees16international24i-ono/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YDQQng7/Logo-Unetev.png" grupo -title="JOVENES Y ADULTOS",Unetev HD
+https://panel.tvstream.cl:1936/8070/8070/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZm-dggvoUSGFF_u8kewIsigHkTt1XffYfeYVA_dZqyT778yrmaxGZNbjFYrKrY0ZO7Xk&usqp=CAU" tvg-group="ARGENTINA", VOLVER
+https://dsr.ride.com.ar/tvmia/an18/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/f8hSs6J/Punto-99-Logo-Reducido.png" group-title="", PUNTO 99
 https://stmv5.voxtvhd.com.br/99online/99online/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Conectate TV" tvg-logo="https://i.ibb.co/XsB3DYg/logo-Con-ctate-TV.png" grouptitle="Familiares",Conectate TV
-https://5790d294af2dc.streamlock.net/conectatetv/conectatetv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Rv7T3bF/Logo-Planeta-Junior-TV.png"group-title="Familiares",Planeta Junior TV HD
-https://daiconnect.com/live/hls/tvup/tvfy-pljr/.m3u8
-
-#EXTINF:-1 group-title="Music" tvg-id="FMTV.uk" tvg-logo="https://i.imgur.com/vPxvbVv.png" ,Frecuencia Musical TV [Not 24/7]
-https://s2.tvdatta.com:3307/hybrid/play.m3u8
-
-#EXTINF:-1 tvg-logo=""- title="nuevos jb",canalevolución
-https://cdnhd.iblups.com/hls/SJWxXEWwUd.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1dVxv5h/Logo-gen-tv-5.png",gen tv
-https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
-
-#EXTINF:-1 ,VOLVER
-https://dsr.ride.com.ar/tvmia/an18/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k3hgRpj/logo-Adult-Swim.png" group-title="JÓVENES Y ADULTOS", Adult Swim 190.61.42.218:9000
-http://190.61.42.218:9000/play/a00u
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YDQQng7/Logo-Unetev.png" grupo -title="JOVENES Y ADULTOS",Unetev HD
-https://panel.tvstream.cl:1936/8070/8070/playlist.m3u8
 
 
