@@ -33,7 +33,7 @@ https://youtube.jitendra-kumar.workers.dev/wanda.m3u8?id=MocwNxD7WJk
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/613237a1c9e0db0007a91350/featuredImage.jpg",Telefe Pluto TV [Entretenimiento] [144] [AR]
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/613237a1c9e0db0007a91350/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telefe.png" group-title="Argentina",Telefe HLS
+#EXTINF:-1 tvg-logo="https://media.c5n.com/p/eee57358a90be0357b9f81ad96743480/adjuntos/326/imagenes/000/261/0000261262/790x0/smart/telefe-logo-negro.jpg" group-title="Argentina",Telefe HLS
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1123.png",Telefe ssl
@@ -1628,24 +1628,13 @@ https://stmv5.voxtvhd.com.br/99online/99online/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/9/9a/Unife_2023_logo.png/revision/latest/scale-to-width-down/230?cb=20230201072513&path-prefix=es",UNIFE TV
 https://cdn.mycloudstream.io/hls/live/broadcast/xundwjvp/index.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/t3mb97M.png" group-title="CANALES INDEPENDIENTES",Canal Más | Uruguay
+#EXTINF:-1 tvg-logo="https://stream-tools.zenomedia.com/content/stations/be08dcc3-df96-4c40-8eef-488bc5eb4fe5/image/?keep=w&lu=1715369392000&resize=350x350" group-title="CANALES INDEPENDIENTES",Canal Más | Uruguay
 https://clientestv.bachistreaming.com:3721/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ydqK2H0.png" group-title="CANALES INDEPENDIENTES",Ciudad Mágica Tv | Argentina
 https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://radiotv.ar/img/l/dititv.jpg" group-title="CANALES INDEPENDIENTE",Diti TV | Argentina
+#EXTINF:-1 tvg-logo="https://dititvok.weebly.com/uploads/1/4/6/7/146735941/editor/logo-png-con-sombra.png?1713294223" group-title="CANALES INDEPENDIENTE",Diti TV | Argentina
 https://fl1001.bozztv.com/ssh101/dititv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.animeonegai.com/assets/img/anime/general/ao3.png" group-title="JÓVENES Y ADULTOS",Anime Onegai Deportes | ND
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11057
-
-#EXTINF:-1 tvg-logo="https://www.animeonegai.com/assets/img/anime/general/ao3.png" group-title="JÓVENES Y ADULTOS",Anime Onegai Acción | ND
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11058
-
-#EXTINF:-1 tvg-logo="" group-title="", 7
-https://youtube.jitendra-kumar.workers.dev/wanda.m3u8?id=Vh8xmLBJtR8
-
 
 
