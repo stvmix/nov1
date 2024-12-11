@@ -749,7 +749,7 @@ https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/ESBC39000033J_20221026T010920.png" tvg-group="ARGENTINA",El País
 https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8?ads.device_did=%7BPSID%7D&ads%7DTARGETOads%7Bdnt=dominio_aplicación=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8acb4f9b8a255216966db355daaa1749/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2Fassets%2Fc3f83db9dcee492383f352f5ae6df6ad%2Fposter%2F16_9%2FNone%2F1730911814760_1730782753731_1675372359952_roku2.jpg/magic/384x0" group-title="NOTICIAS", Euronoticias | unión europea
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/Euronews_no_bg.svg/revision/latest/scale-to-width-down/1200?cb=20230305183226&path-prefix=es" group-title="NOTICIAS", Euronoticias | unión europea
 https://rakuten-euronews-4-es.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/46/7a/8c/467a8cba-eb8a-4649-d154-c9172e28ea6f/AppIcon-0-1x_U007emarketing-0-6-0-85-220-0.png/256x256bb.jpg" group-title="TV ABIERTA", FR FRANCE24 UHD ythls
@@ -1536,8 +1536,10 @@ https://live-evg4.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
 https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
 #EXTINF:-1 tvg-id="CTV TV" tvg-logo="https://lh3.googleusercontent.com/-C8EpD545q5Y/ZgTa02Z4GiI/AAAAAAAABIA/jJloGJe-ORU277XvufpOlRpl8fuV910AgCNcBGAsYHQ/h120/CTV%2BTV.png" group-title="Televisión",CTV TV
 https://live-evg4.tv360.bitel.com.pe/bitel/ctv/playlist.m3u8
-#EXTINF:-1, atv HD
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/ATV_logo_2020.png", ATV HD
 https://live-evg25.tv360.bitel.com.pe/bitel/atv/playlist.m3u8
+
 #EXTINF:-1, global HD
 https://live-evg25.tv360.bitel.com.pe/bitel/global/playlist.m3u8
 
@@ -1597,5 +1599,33 @@ https://fl1001.bozztv.com/ssh101/dititv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/9/9a/Unife_2023_logo.png/revision/latest/scale-to-width-down/230?cb=20230201072513&path-prefix=es",UNIFE TV
 https://cdn.mycloudstream.io/hls/live/broadcast/xundwjvp/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX-9uHCpo3v2pHzHEdGUTs5cFC9ySZanOMKu1RDuR20Qi88m90FvT5yW2TaofDthDNWWM&usqp=CAU", METRO TV TUC
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/18087c32db9f82d6e1af983e20a9a4aa.jpg", METRO TV TUC n
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.paste.pics/2187dd0bf17bc4d9120ec79f47ad0145.png", Radio Lado Oscuro TV | CL
+https://stmv5.voxtvhd.com.br/cattotv/cattotv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://telecolortv.pe/wp-content/uploads/2021/09/tlc-2024-web-2.png", Telecolor || Yurimaguas
+https://live.obslivestream.com/telecolormux/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://canal57.com/wp-content/themes/canal57/img/Canal57-Logo-White-Color.png", CANAL 57 EE.UU. OK
+https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nb81xeU.png",WTV Canal 20 (720p)
+https://cloudvideo.servers10.com:8081/8130/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UAfyeYT.png" group-title="General",Latina TV Internacional (720p)
+https://ss3.domint.net:3156/ltv_str/latinatvint/playlist.m3u8
+
+
+
+
+
+
+
 
 
