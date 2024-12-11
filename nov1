@@ -105,6 +105,9 @@ https://delivery.cdn.rcs.net.ar/mnp/gourmet_hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/all-channels/10272020/Tastemade_en_Espanol_190x190.png?raw=true" tvg-group="CIENCIA Y CULTURA",Tastemade En Espanol HECHO A MANO
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadees16international24i-ono/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nOTPBVZ.png" tvg-group="CIENCIA Y CULTURA", Cocina| alta definición
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde0657444a40009cd2422/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture =&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366- 4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=41cb6af1-f699-1 1ea-abc9-0242ac110002&userId=&serverSideAds=true
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uBBZR1X.png",Encuentro
 https://delivery.cdn.rcs.net.ar/mnp/encuentro_hls/playlist.m3u8
 
@@ -593,7 +596,7 @@ https://stream-cdn-iad.vaughnsoft.net/play/live_shay_saheed.flv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/TiqmJiC.png" group-title="Animación y Cultura Geek", Modo Radio | FHD | Chile
 https://wifispeed.trapemn.tv:1936/energeek/modoradio-p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-dvo619HWccMu2_XQwb1m5yrnnAgyFz6I3y0eTyMCEAf-W5diE-Jhk1AU_JRwc9lquL4&usqp=CAU" tvg-group="ARGENTINA", ARGENTINISIMA
+#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_2/large.gallery_5617_2_64591.png.37ce989505360788bdf2e959983a6366.png" tvg-group="ARGENTINA", ARGENTINISIMA
 https://stream1.sersat.com/hls/argentinisima.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRndtw6JY8nOLcPzvBtIZMNBjSAb0JM0ymjIDbQ_WAzRoMtbwHXNKRzUAn_t8UW8uDuI7c&usqp=CAU" tvg-group="ARGENTINA", DEJANDO HUELLAS (Folklore Radio)
@@ -887,11 +890,20 @@ https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/1200px-Logo_tlnovelas_feb2019.png" tvg-group="PREMIUM",TLNVL Telenovelas
 http://bantel.iptvperu.tv:1935/transcoder_t4/TL_Novelas_t4/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://hoyeeh.com/upload/1bbcdrama.png",BBC Drama (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_ tipo=tarifa en vivo d&coppa=false&deviceDNT=1&deviceId=canal&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=canal&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/dramas_coreanos.jpg" group-title="Televisión",Dramas coreanos (pluto tv)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6185a9a88b2ce30007de5128/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PS
 
 #EXTINF:-1 tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/rakutenviki.webp",Rakuten viki Sub 🇲🇽
 https://newidco-rakutenviki-3-mx.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/60eab046-387c-433c-8034-1f7216758198/NOVELISIMA_HorzHero_-_Ali_Clausen.jpg" group-title="CANELA TV", Novelisima
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3038n5LHrL--lU7n6Qoq2KPcqJZOvAwToHqVGDGLQX10kcb0zQ0PQJyqJRyVQkWHs5VU&usqp=CAU" group-title="CANELA TV", Kanal D Drama
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US27000033D_20240826T235549SQUARE.png",Novelas Turcas 🇲🇽
 https://d3tqgr18sdql14.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pgcp345otohoa/Novelas_Turcas.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=US27000033D
@@ -899,30 +911,30 @@ https://d3tqgr18sdql14.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB44000099N_20240520T212704SQUARE.png",ViX Novelas de Romance 🇺🇸🇲🇽
 https://dm44c2ycmsees.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awtur5jypeo4b/server/distrib/AwpWpKfpemEGixBj/zuvPJYoOOdEMDNF2j2mvmg.XD-5XW7bmDpD5yWfV328oU9NWPX1Y7dhiYqJY3ymkerRKjKvBm9YaKmRu09CS8ak3vKkgVwPUO3_k0fGhRTEqichOfESE0Mvx1Jtn81PnLjGdX8c5rM6Wbz0X-r4kuUokXxDkVNpGrQXJTNlajn8qyE95SuHf6gHV8f03sl1yUQPzBd2gJbrGfq1mHgoJOVVQC8UfN_6AliJQgUcTWDV5ZOF4aiSuTPOG1p4BgbFAnlCS7ZWKyFTBksAnep57l4OGJUnnpzLB5grmYE-eSo9WA/manifest.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBB44000099N
 
-#EXTINF:-1 tvg-id="I404.10222.zap2it.com" group-title="" tvg-logo="http://ceoapps.org/logos/galavision.png",Galavision
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/Galavision-2024-white.svg/revision/latest/scale-to-width-down/250?cb=20240122190009",Galavision
 http://23.237.66.106:25461/now_160322/now2.php?id=GALAVISIONMIAMI&calidad=sd&.m3u8
-#EXTINF:-1 tvg-id="I404.10222.zap2it.com" group-title="" tvg-logo="http://ceoapps.org/logos/galavision.png",Galavision hd
+#EXTINF:-1 tvg-logo="https://st1.uvnimg.com/c5/d9/0fcc4906433ead55105a991a1de9/galavision-logo-v2.png",Galavision hd
 http://23.237.66.106:25461/now_160322/now2.php?id=GALAVISIONMIAMI&calidad=hd&.m3u8
-#EXTINF:-1 tvg-id="Galavision.us" group-title="" tvg-logo="http://ceoapps.org/logos/galavision.png",Galavision Oeste
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/af/Galavision_Logo_2024.svg/210px-Galavision_Logo_2024.svg.png",Galavision Oeste
 http://23.237.66.106:25461/now_160322/now2.php?id=GALAVISIONWEST&calidad=hd&.m3u8
 
-#EXTINF:-1 tvg-id="UniMas(East)(Spanish).us" tvg-name="Unimas USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/2669px-Logo_UniM%C3%A1s_2021.svg.png"  group-title="", Unimas USA
+#EXTINF:-1 tvg-logo="https://images.fubo.tv/station_logos/unimas2021_m.png?ch=width&auto=format%2Ccompress&w=0.4&h=0.4", Unimas USA
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASEAST&calidad=hd&.m3u8
-#EXTINF:-1 group-title="TV ABIERTA", UNIMAS UHD ts
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/1ucSmHW7reKTg35PsLd3acG-auKYKOR5GyG1GNXmlW0yaaxayq4QW1G_GOEMPz_Dwmy_tZ1JkU9aPw", UNIMAS UHD ts
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASMIAMI&calidad=hd&.ts
 
-#EXTINF:0 type="stream" channelId="3209" group="PREMIUM" logo="https://tl.vhv.rs/dpng/s/34-348140_logo-de-univision-hd-png-download.png", UNIVISION v
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGb9R2as8cmXDjJxUE51RocoFnN2XOwU2kJxuTKKoSVtlVf7mSAzpoCKBqijUIBtfsKWA&usqp=CAU", UNIVISION v
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=hd&.m3u8
-#EXTINF:-1 group-title="TV ABIERTA", UNIVISION UHD ts
+#EXTINF:-1 tvg-logo="https://nldsdmt.akamaized.net/media/univisionnow2/thumbs/channels/30_es.png", UNIVISION UHD ts
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=hd&.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/153px-Logo_Univision_2019.svg.png" group-title="INTERNACIONALES", 61 | Univisión Latinoamérica
 http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/Univision/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5tBSbgQ.png" group-title="Internacionales", Azteca Internacional | HD | México azt
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/85D02247-D040-491C-82C3-8BFAC97A7B21/3-1x1.png/900", Azteca Internacional | HD | México azt
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="TV ABIERTA", AZTECA Internacional 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/bd55f69727e7ab231dff2b018ef47514.webp" group-title="TV ABIERTA", AZTECA Internacional 
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
 #EXTINF:-1 tvg-id="AZTECAUNO" tvg-name="AZTECA UNO" tvg-logo="https://tvazteca.brightspotcdn.com/10/57/ee810ae644028eb1793e34aeeb1f/logo-uno.png" group-title="TV ABIERTA", AZTECA UNO 1.1 -1h
@@ -1009,7 +1021,7 @@ https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Rlm5PhK.png" group-title="El Salvador", Canal 21 Megavisión | HD | salvador
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://d172ao1khilsti.cloudfront.net/tcsgo-mediafiles/52d436ce-feae-4c7f-93cf-cf554342b831.jpg" group-title="El Salvador", TCS+ | HD | salvador
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/9tKk2WfciUs/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAyV6aPt_OizYw-1DlznDcL3m5vZA" group-title="El Salvador", TCS+ | HD | salvador
 https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLqIdSNF4ACGErcqc2v-3JNETwxTQYLnEhXQEPq0SxNo_fhtcffnXB83L9QOQQPQvcWX4&usqp=CAU" group-title="Guatemala", Canal 13 | HD | Esquipulas
@@ -1080,9 +1092,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e
 #EXTINF:-1 group-title="Musica",Vevo Hip-Hop
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61d4c2817a823d00070ba53e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/vive_kanal_d_drama_16x9_0.jpg" group-title="CANELA TV", Kanal D Drama
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-canela-classics-16x9_0.png" group-title="CANELA TV", Canela Clásicos
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
 
@@ -1097,9 +1106,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
 
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/video/thumbnails/widescreen/400x225/channel-canela_telenovelas-16x9.jpg" group-title="CANELA TV", Canela Telenovelas
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
-
-#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/novelisima_1920x1080-default_2.png" group-title="CANELA TV", Novelisima
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/itv_deportes_16x9.jpg" group-title="CANELA TV", ITV Deportes
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
@@ -1221,9 +1227,6 @@ https://unlimited1-us.dps.live/carastv/carastv.smil/carastv/livestream0/chunks.m
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_03/large.CarasTV(2024-).png.5c862ba2ecaa9a1b63a333cc526de8af.png",Caras Tv op2 | DAKOTA DEL NORTE
 https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://hoyeeh.com/upload/1bbcdrama.png",BBC Drama (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_ tipo=tarifa en vivo d&coppa=false&deviceDNT=1&deviceId=canal&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=canal&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4NQJcFJ.png" group-title="CANALES INDEPENDIENTES",Mucha Música HD | ND
 https://streaming-cl.sh1ny.space/memfs/b4803e28-d393-4d4b-a76d-a3fb5d3485fe.m3u8
 
@@ -1256,9 +1259,6 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8?Playl
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SJTqEp4.png", WOW TV | HD | Chalchuapa | Alt.
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nOTPBVZ.png" tvg-group="CIENCIA Y CULTURA", Cocina| alta definición
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde0657444a40009cd2422/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture =&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366- 4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=41cb6af1-f699-1 1ea-abc9-0242ac110002&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="PlatziTV.es" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO8zEquH8zP4XDu2h5qX-nj7TlZvmo5JKggWTVhPlCw0rXDDENWoc4iRnhdPnCyIDx8g&usqp=CAU" tvg-group="CIENCIA Y CULTURA",Platzi TV (1080p)
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
