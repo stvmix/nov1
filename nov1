@@ -1618,18 +1618,20 @@ https://cloudvideo.servers10.com:8081/8130/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UAfyeYT.png" group-title="General",Latina TV Internacional (720p)
 https://ss3.domint.net:3156/ltv_str/latinatvint/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="" group-title="General",xd 1
-https://live-c.cf.dmcdn.net/sec2(daxJvZCsuG1val8oMEykzLfjVaCYfphab34OTYcGroybHtmjdao0e1A9vKcKQIK5fllIqlgHZSYS0qGT49rPvn1R7t9LGaqipM5doeFMiolJNTJj2YwhHikgZWde3Jzb)/dm/3/x8z8w7c/d/live-720.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="General",xd 2
+#EXTINF:-1 tvg-logo="https://www.axsbolivia.com/axsplus/img/canales/8574411.png" group-title="General",atb hsd
 https://live-c.cf.dmcdn.net/sec2(5Wx-X9x9geEtNDzgFMOj223Mx9lVpc2UyeBFwJUixnkn_CoWouNCCb-oZA18G_2jLZOHIelHFZdsPbzpkNt0fzyjBMiTrbI3yBHjdlC2XIkEneqrf7Iw_koULlr0Eu4O)/dm/3/x84t82c/s/live-480.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="General",xd 4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/Atb.png/revision/latest/scale-to-width-down/284?cb=20210429201527&path-prefix=es" group-title="General",atb hd
 https://live-c.cf.dmcdn.net/sec2(5Wx-X9x9geEtNDzgFMOj223Mx9lVpc2UyeBFwJUixnkn_CoWouNCCb-oZA18G_2jLZOHIelHFZdsPbzpkNt0fzyjBMiTrbI3yBHjdlC2XIkEneqrf7Iw_koULlr0Eu4O)/dm/3/x84t82c/s/live-720.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UAfyeYT.png" group-title="General",xd telea3
+#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/telesistema-canal-11-en-vivo-online.png" group-title="General",Telesistema Canal 11 
 https://live-b2.cf.dmcdn.net/sec2(OdER30EYBE4_riLy1D3Iu_QiUJ_t7vHK8Wo1JBVJFEPCKpfB1quB_mAseuH5Uoi3Kq9YiebDqb_x1S21Jb5NU0oqGttOftuib89iOusirkteybdo2yWvE1r7Bz9ByQfG)/cloud/3/x80ac48/d/live-720.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Elocho_TV_nuevo_logo.png/800px-Elocho_TV_nuevo_logo.png" group-title="General",Canal 8 (Tucumán)
+https://live-c.cf.dmcdn.net/sec2(daxJvZCsuG1val8oMEykzLfjVaCYfphab34OTYcGroybHtmjdao0e1A9vKcKQIK5fllIqlgHZSYS0qGT49rPvn1R7t9LGaqipM5doeFMiolJNTJj2YwhHikgZWde3Jzb)/dm/3/x8z8w7c/d/live-720.m3u8
+
+
+
 
 
 
