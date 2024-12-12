@@ -269,8 +269,92 @@ https://5649a38847154602a389db073b038f46.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://rlaxxtv.com/wp-content/uploads/2023/03/pelimex_logo.jpg",Pelimex -TCL
 https://telecine-pelimex-1-mx.tcl.wurl.tv/playlist.m3u8
 
-EXTINF:-1 tvg-logo="https://i.ibb.co/HpCtLzy/logo-Wow-Movies.jpg", Wow Movies
-https://ssh101.bozztv.com/ssh101/wowchannelsd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/45vrTdJeJaBibiMuxEztpOYWBkiIgWrUjrxJTQOffdx71PNIwqdt6NUq32E4kY8xhnA" tvg-group="ARGENTINA",Canal C5N ok
+https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E3pamA5.png",C5N
+https://delivery.cdn.rcs.net.ar/mnp/c5n_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lanacion.in/uploads/1617992939-logo%20LN+.png" tvg-group="ARGENTINA", LN+
+https://ythls.armelin.one/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7eQmfH094vGXU7ufgnGIo9h_d9SGlCrOjxm3vJMo41Y2dCKDDsbpy5oLI356eNZihWcA&usqp=CAU" tvg-group="ARGENTINA", Diputados tv
+https://ythls.armelin.one/channel/UC1h8_HKc5wScqeRw1HV6a6w.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1200px-TeleSUR-Logo.svg.png" tvg-group="ARGENTINA", Telesur
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/PMh8A79.png" tvg-group="ARGENTINA", RT Rusia Hoy  
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/512px-Logo_TVE-24h.svg.png" tvg-group= "ARGENTINA", 24h
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+
+#EXTINF:-1 tvg-logo="https://fotos.perfil.com/2023/06/01/trim/900/900/canal-e-1579846.jpg" tvg-group="ARGENTINA", Canal E (720p)
+https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/GbWS4FAUjTkj5KinXso5MKfS2SAUvSs6L9jaslwWZCDOhPziHEBiPeQQAwAC2xEE-TRDeuRtfA=s900-c-k-c0x00ffffff-no-rj" tvg-group="ARGENTINA", Caracol Noticias
+https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/96/ESBC1400001L8_20220426T161624.png" tvg-group="ARGENTINA",El Confidencial
+https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8?ads.device_did=%7BPSID%7D &ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+#EXTINF:-1 tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/ESBC39000033J_20221026T010920.png" tvg-group="ARGENTINA",El País
+https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8?ads.device_did=%7BPSID%7D&ads%7DTARGETOads%7Bdnt=dominio_aplicación=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/Euronews_no_bg.svg/revision/latest/scale-to-width-down/1200?cb=20230305183226&path-prefix=es" group-title="NOTICIAS", Euronoticias | unión europea
+https://rakuten-euronews-4-es.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/46/7a/8c/467a8cba-eb8a-4649-d154-c9172e28ea6f/AppIcon-0-1x_U007emarketing-0-6-0-85-220-0.png/256x256bb.jpg" group-title="TV ABIERTA", FR FRANCE24 UHD ythls
+https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
+
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/46/7a/8c/467a8cba-eb8a-4649-d154-c9172e28ea6f/AppIcon-0-1x_U007emarketing-0-6-0-85-220-0.png/256x256bb.jpg" tvg-group="ARGENTINA", francia 24 marine2
+https://marine2.miplay.cl/france24/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3361-320x180-000000.jpg" tvg-group="ARGENTINA", A24 36.3
+https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3361-320x180-000000.jpg",A24 (720p)
+https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3361-320x180-000000.jpg",A24 D
+https://delivery.cdn.rcs.net.ar/mnp/a24_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vFwPhPS.png",TN
+https://delivery.cdn.rcs.net.ar/mnp/tn_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/tn@2x.png" tvg-group="ARGENTINA",TN YT
+https://youtube.jitendra-kumar.workers.dev/wanda.m3u8?id=cb12KmMMDJA
+
+#EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTE2X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1708456591202" tvg-group="ARGENTINA",CRONICA YT
+https://youtube.jitendra-kumar.workers.dev/wanda.m3u8?id=avly0uwZzOE
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k2Ku8Ib.png",Cronica
+https://is.gd/CqFhGi
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k2Ku8Ib.png",Cronica yyy
+https://ythls.armelin.one/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dbu9nx4.png",IP
+https://is.gd/wzGzgu
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dbu9nx4.png",IP Noticias a
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/IP_Noticias/SA_HLS/IP_Noticias.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_10/large.IP(2024-).png.7df9db38d1ab51e83bb4b0d7d5695e15.png",IP YT
+https://youtube.jitendra-kumar.workers.dev/wanda.m3u8?id=x8WBWMeWQWk
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xDjOUuz.png",Canal 26
+https://delivery.cdn.rcs.net.ar/mnp/canal26_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png" tvg-group="ARGENTINA",26 YT
+https://youtube.jitendra-kumar.workers.dev/wanda.m3u8?id=9fkB8aDdSik
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png",Canal 26 (1080p) [No 24/7]
+https://ythls.armelin.one/channel/UCrpMfcQNog595v5gAS-oUsQ.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/YqFOB1h.png" group-title="Internacionales", DW en español | FHD | alemania
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u1dnEVv.png" tvg-group="ARGENTINA", PANC TV | Arkansas
 https://panel.host-live.com:19360/81500/81500.m3u8
@@ -617,7 +701,7 @@ https://scl.edge.grupoz.cl/retroplus16@grupoz.cl_retrolive/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b2a8e94a-b991-4ba6-8f3c-a58101734bcb/dhk1yhv-b3f394a3-d4f0-4348-b49e-54fa62edfa9c.png/v1/fill/w_1082,h_739/vh1_classic__2015___presents__by_kingof2010_dhk1yhv-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODc0IiwicGF0aCI6IlwvZlwvYjJhOGU5NGEtYjk5MS00YmE2LThmM2MtYTU4MTAxNzM0YmNiXC9kaGsxeWh2LWIzZjM5NGEzLWQ0ZjAtNDM0OC1iNDllLTU0ZmE2MmVkZmE5Yy5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.xnzTCFC02qynwFn0WzRTVeriR7oyECNFoQji-ZHNl-s",VH1 Clásicos [Música] [700] [ES]
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MUSICA",Ritmo Top Latino | DAKOTA DEL NORTE
+#EXTINF:-1 tvg-logo="https://www.topnewradio.cl/assets/imgs/canal1header.png",Ritmo Top Latino | DAKOTA DEL NORTE
 https://panel.tvstream.cl:1936/8048/8048/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://wikiwandv2-19431.kxcdn.com/_next/image?url=https://upload.wikimedia.org/wikipedia/commons/d/d0/Logocmtvargentina.png&w=640&q=50" tvg-group="ARGENTINA", CM ARG
@@ -716,93 +800,6 @@ https://fl1001.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
 #EXTINF:-1 tvg-id="TVS Retro" tvg-id="TVS Retro" tvg-logo="https://i.imgur.com/JV6Po2k.png" group-title="CANALES INDEPENDIENTES",TVS Retro | Guatemala
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/45vrTdJeJaBibiMuxEztpOYWBkiIgWrUjrxJTQOffdx71PNIwqdt6NUq32E4kY8xhnA" tvg-group="ARGENTINA",Canal C5N ok
-https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E3pamA5.png",C5N
-https://delivery.cdn.rcs.net.ar/mnp/c5n_hls/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lanacion.in/uploads/1617992939-logo%20LN+.png" tvg-group="ARGENTINA", LN+
-https://ythls.armelin.one/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7eQmfH094vGXU7ufgnGIo9h_d9SGlCrOjxm3vJMo41Y2dCKDDsbpy5oLI356eNZihWcA&usqp=CAU" tvg-group="ARGENTINA", Diputados tv
-https://ythls.armelin.one/channel/UC1h8_HKc5wScqeRw1HV6a6w.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1200px-TeleSUR-Logo.svg.png" tvg-group="ARGENTINA", Telesur
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/PMh8A79.png" tvg-group="ARGENTINA", RT Rusia Hoy  
-https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/512px-Logo_TVE-24h.svg.png" tvg-group= "ARGENTINA", 24h
-https://ztnr.rtve.es/ztnr/1694255.m3u8
-
-#EXTINF:-1 tvg-logo="https://fotos.perfil.com/2023/06/01/trim/900/900/canal-e-1579846.jpg" tvg-group="ARGENTINA", Canal E (720p)
-https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/GbWS4FAUjTkj5KinXso5MKfS2SAUvSs6L9jaslwWZCDOhPziHEBiPeQQAwAC2xEE-TRDeuRtfA=s900-c-k-c0x00ffffff-no-rj" tvg-group="ARGENTINA", Caracol Noticias
-https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/96/ESBC1400001L8_20220426T161624.png" tvg-group="ARGENTINA",El Confidencial
-https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8?ads.device_did=%7BPSID%7D &ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-
-#EXTINF:-1 tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/ESBC39000033J_20221026T010920.png" tvg-group="ARGENTINA",El País
-https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8?ads.device_did=%7BPSID%7D&ads%7DTARGETOads%7Bdnt=dominio_aplicación=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/Euronews_no_bg.svg/revision/latest/scale-to-width-down/1200?cb=20230305183226&path-prefix=es" group-title="NOTICIAS", Euronoticias | unión europea
-https://rakuten-euronews-4-es.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/46/7a/8c/467a8cba-eb8a-4649-d154-c9172e28ea6f/AppIcon-0-1x_U007emarketing-0-6-0-85-220-0.png/256x256bb.jpg" group-title="TV ABIERTA", FR FRANCE24 UHD ythls
-https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
-
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/46/7a/8c/467a8cba-eb8a-4649-d154-c9172e28ea6f/AppIcon-0-1x_U007emarketing-0-6-0-85-220-0.png/256x256bb.jpg" tvg-group="ARGENTINA", francia 24 marine2
-https://marine2.miplay.cl/france24/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3361-320x180-000000.jpg" tvg-group="ARGENTINA", A24 36.3
-https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3361-320x180-000000.jpg",A24 (720p)
-https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
-
-#EXTINF:-1 ,A24 D
-https://delivery.cdn.rcs.net.ar/mnp/a24_hls/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vFwPhPS.png",TN
-https://delivery.cdn.rcs.net.ar/mnp/tn_hls/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/tn@2x.png" tvg-group="ARGENTINA",TN YT
-https://youtube.jitendra-kumar.workers.dev/wanda.m3u8?id=cb12KmMMDJA
-
-#EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTE2X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1708456591202" tvg-group="ARGENTINA",CRONICA YT
-https://youtube.jitendra-kumar.workers.dev/wanda.m3u8?id=avly0uwZzOE
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k2Ku8Ib.png",Cronica
-https://is.gd/CqFhGi
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k2Ku8Ib.png",Cronica yyy
-https://ythls.armelin.one/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dbu9nx4.png",IP
-https://is.gd/wzGzgu
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dbu9nx4.png",IP Noticias a
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/IP_Noticias/SA_HLS/IP_Noticias.m3u8
-
-#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_10/large.IP(2024-).png.7df9db38d1ab51e83bb4b0d7d5695e15.png",IP YT
-https://youtube.jitendra-kumar.workers.dev/wanda.m3u8?id=x8WBWMeWQWk
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xDjOUuz.png",Canal 26
-https://delivery.cdn.rcs.net.ar/mnp/canal26_hls/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png" tvg-group="ARGENTINA",26 YT
-https://youtube.jitendra-kumar.workers.dev/wanda.m3u8?id=9fkB8aDdSik
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png",Canal 26 (1080p) [No 24/7]
-https://ythls.armelin.one/channel/UCrpMfcQNog595v5gAS-oUsQ.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/YqFOB1h.png" group-title="Internacionales", DW en español | FHD | alemania
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLDxINuhCPQh57qgYqFPf9FpsgYObBbewgxBEpUQHy1Tj6NsHib6ZsRqXGpS1sgj0viIw&usqp=CAU" group-title="CANALES 24/7", 172 | Los Tres Chiflados TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff35bd0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=025be615-509e-4721-8804-92898ace6781&userId=&serverSideAds=true
 
@@ -817,6 +814,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01264-vidaausainc-angermanagementes
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62fa81ccd1a7e90007c1ada0/thumbnail.jpg" tvg-group="PREMIUM"", A MC en español
 https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.distro.tv/espanol-latam/img/elconflicto_600x600.jpg" group-title="CANALES 24/7",El Conflicto Tribunal del Pueblo TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1965
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt-4vzngM-wvUNJGkgRP6yqF6feS06-Njj7dROmkp2dU4kNg5d8AbDZONnGV2UDm3GQhQ&usqp=CAU" tvg-group="PREMIUM", EL WAL REY MUERTO
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertis ingId=canal&embedPartner= rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -1522,36 +1522,30 @@ https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
 https://live-zlr1.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8
 #EXTINF:-1 tvg-id="America" tvg-logo="https://lh3.googleusercontent.com/-fHUFZgkXp4k/ZgTWyEgPzsI/AAAAAAAABHE/3risgYCtUGUN2ZEsf90LEMo0qWmdbrudQCNcBGAsYHQ/h120/America.png" group-title="Televisión",América Televisión
 https://live-evg4.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8
-#EXTINF:-1, americatv HD
+#EXTINF:-1 tvg-logo="https://www.tvmia.com/img/button_play_green.png", americatv HD
 https://live-evg25.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8
-#EXTINF:-1, AMERICA PE
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2023/07/15/05/1689374862287/26712907fe39_640_360.png", AMERICA PE
 https://live-evg25.tv360.bitel.com.pe/bitel/americatv/bitel/americatv_ori_360p/chunks.m3u8
 #EXTINF:-1 tvg-id="Latina" tvg-logo="https://lh3.googleusercontent.com/--Zd9Jw1EVgA/ZgTW25ayqdI/AAAAAAAABHI/d_PnELWw_TkERdXLpPAWcW7nTPvizWVXACNcBGAsYHQ/h120/Latina.png" group-title="Televisión",Latina Televisión
 https://live-evg4.tv360.bitel.com.pe/bitel/latina/playlist.m3u8
-#EXTINF:-1, latina HD
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/2c8716_635a0d3bc8054d92a5e21c4a47818f85~mv2.png/v1/fill/w_450,h_450,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/2c8716_635a0d3bc8054d92a5e21c4a47818f85~mv2.png", latina HD
 https://live-evg25.tv360.bitel.com.pe/bitel/latina/playlist.m3u8
-#EXTINF:-1 tvg-id="Panamericana" tvg-logo="https://lh3.googleusercontent.com/-tsIUzwIDDh8/ZgTW6fwnaUI/AAAAAAAABHM/fGPi-ekRRskNeoKn8zTfoGHv46GT5wjjwCNcBGAsYHQ/h120/Panamericana.png" group-title="Televisión",Panamericana
+#EXTINF:-1 tvg-id="Panamericana" tvg-logo="https://static.wixstatic.com/media/2c8716_4f3507ff3d0e43e492726a180e3a6313~mv2.png/v1/fill/w_980,h_980,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/2c8716_4f3507ff3d0e43e492726a180e3a6313~mv2.png" group-title="Televisión",Panamericana
 https://live-evg4.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
-#EXTINF:-1, panamericana HD
+#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_04/911851312_PanamericanaTVlogoficticio.png.ea6b8edf9f059b192b1a6ce64a4a3e43.png", panamericana HD
 https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
-#EXTINF:-1 tvg-id="CTV TV" tvg-logo="https://lh3.googleusercontent.com/-C8EpD545q5Y/ZgTa02Z4GiI/AAAAAAAABIA/jJloGJe-ORU277XvufpOlRpl8fuV910AgCNcBGAsYHQ/h120/CTV%2BTV.png" group-title="Televisión",CTV TV
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/06/14/04/1718314360922/897a9e36e82d_640_360.jpg" group-title="Televisión",CTV TV
 https://live-evg4.tv360.bitel.com.pe/bitel/ctv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/ATV_logo_2020.png", ATV HD
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/08/13/04/1723497771524/6ddb4622ebc8_640_360.png", ATV HD
 https://live-evg25.tv360.bitel.com.pe/bitel/atv/playlist.m3u8
-
-#EXTINF:-1, global HD
+#EXTINF:-1 tvg-logo="https://www.tvmia.com/img/button_play_green.png", global HD
 https://live-evg25.tv360.bitel.com.pe/bitel/global/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/52eec929-086c-47bf-9ae2-e449b99d006a/Electric_Now_ES_Channel_Art_Horizontal.jpg",ELECTRIC NOW ESPAÑOL 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4735
 
 #EXTINF:-1 tvg-logo="https://www.cineytele.com/wp-content/uploads/2023/07/FilmCo-1.jpg", FILM&CO
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5625
-
-#EXTINF:-1 tvg-logo="https://www.distro.tv/espanol-latam/img/elconflicto_600x600.jpg" group-title="CANALES 24/7",El Conflicto Tribunal del Pueblo TV
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1965
 
 #EXTINF:0,Univision 24/7 (USA) (🇺🇸)
 https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8
@@ -1618,23 +1612,8 @@ https://cloudvideo.servers10.com:8081/8130/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UAfyeYT.png" group-title="General",Latina TV Internacional (720p)
 https://ss3.domint.net:3156/ltv_str/latinatvint/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.axsbolivia.com/axsplus/img/canales/8574411.png" group-title="General",atb hsd
-https://live-c.cf.dmcdn.net/sec2(5Wx-X9x9geEtNDzgFMOj223Mx9lVpc2UyeBFwJUixnkn_CoWouNCCb-oZA18G_2jLZOHIelHFZdsPbzpkNt0fzyjBMiTrbI3yBHjdlC2XIkEneqrf7Iw_koULlr0Eu4O)/dm/3/x84t82c/s/live-480.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/Atb.png/revision/latest/scale-to-width-down/284?cb=20210429201527&path-prefix=es" group-title="General",atb hd
-https://live-c.cf.dmcdn.net/sec2(5Wx-X9x9geEtNDzgFMOj223Mx9lVpc2UyeBFwJUixnkn_CoWouNCCb-oZA18G_2jLZOHIelHFZdsPbzpkNt0fzyjBMiTrbI3yBHjdlC2XIkEneqrf7Iw_koULlr0Eu4O)/dm/3/x84t82c/s/live-720.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/telesistema-canal-11-en-vivo-online.png" group-title="General",Telesistema Canal 11 
-https://live-b2.cf.dmcdn.net/sec2(OdER30EYBE4_riLy1D3Iu_QiUJ_t7vHK8Wo1JBVJFEPCKpfB1quB_mAseuH5Uoi3Kq9YiebDqb_x1S21Jb5NU0oqGttOftuib89iOusirkteybdo2yWvE1r7Bz9ByQfG)/cloud/3/x80ac48/d/live-720.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Elocho_TV_nuevo_logo.png/800px-Elocho_TV_nuevo_logo.png" group-title="General",Canal 8 (Tucumán)
-https://live-c.cf.dmcdn.net/sec2(daxJvZCsuG1val8oMEykzLfjVaCYfphab34OTYcGroybHtmjdao0e1A9vKcKQIK5fllIqlgHZSYS0qGT49rPvn1R7t9LGaqipM5doeFMiolJNTJj2YwhHikgZWde3Jzb)/dm/3/x8z8w7c/d/live-720.m3u8
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_09/large.643551553_BravoTV.png.57a91952c5e4e5fd1a66c5b047909fb4.png",BRAVO TV
+https://dsr.ride.com.ar/tvmia/an42/playlist.m3u8
 
 
 
