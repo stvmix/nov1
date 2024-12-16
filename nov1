@@ -130,8 +130,14 @@ https://delivery.cdn.rcs.net.ar/mnp/fox_sport3_hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2024_06/large.TNTSports.png.9d3a1d767a4697781ed3eddabfc3c247.png",TNT Sports
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports.m3u8
 
+#EXTINF:-1 group-title="Argentina" tvg-logo="",TNT Sports
+http://190.123.90.146:8000/play/a00j/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/espnpremium.png" group-title="DEPORTES", ESPN Premium
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN_Premium/SA_HLS/ESPN_Premium.m3u8
+
+#EXTINF:-1 group-title="Latinoamerica" tvg-logo="",ESPN Premium
+http://190.123.90.146:8000/play/a00f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://clarovideocdn6.clarovideo.net/CVPERU/PELICULAS/ESPNNEW/EXPORTACION_WEB/SS/ESPNNEW_t-290x163.png" tvg-group="Deportes",ESPN FHD
 https://is.gd/qxSx8b
@@ -141,6 +147,9 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN.m3u8
 
 #EXTINF:-1  tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/espn2.png" group-title="DEPORTES",ESPN2
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2.m3u8
+
+#EXTINF:-1 group-title="Latinoamerica" tvg-logo="",ESPN 2
+http://45.175.139.194:8500/22
 
 #EXTINF:-1  tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/espn3.png" group-title="DEPORTES",ESPN3
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN3/SA_HLS/ESPN3.m3u8
@@ -1607,3 +1616,49 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f998c1fc54853000797ba
 
 #EXTINF:-1 tvg-logo="",Los Tres Chiflados [Entretenimiento] [108] [AR]
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
+
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CanalCBA.png",Canal de la Ciudad
+https://g3.proy-slo.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Playlist.m3u8?sense=true
+
+#EXTINF:-1 , zona de prensa 
+https://stmv5.voxtvhd.com.br/zonadeprensa/zonadeprensa/playlist.m3u8 
+
+
+#EXTINF:-1 group-title="Perú" tvg-logo="https://spotlight-pe.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F07%2F60%2F7603587_DDA3D54A42268071.png",America Television
+https://live-evg1.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8
+
+#EXTINF:-1 group-title="Perú" tvg-logo="",La Tele orig isdbt OK
+http://bantel-cdn1.iptvperu.tv:1935/cdnecl/la-tele/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p4WFwyP/ATV-SUR-HD.jpg" group-title="Perú",ATV Sur orig isdbt OK
+http://bantel-cdn1.iptvperu.tv:1935/cdnecl/ATVSUR/playlist.m3u8
+#EXTINF:-1 group-title="Perú" tvg-logo="",Global orig isdbt OK
+http://bantel-cdn1.iptvperu.tv:1935/cdnecl/Global/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cablego.com.pe/cache/logos256/CONECTA2.png" group-title="Perú",Conectad2 TV OK
+https://live-evg24.tv360.bitel.com.pe/conecta2/index.m3u8
+
+#EXTINF:-1 group-title="Latinoamerica" tvg-logo="",National Geographic OK
+http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/NatGeo/playlist.m3u8
+
+#EXTINF:-1 group-title="Latinoamerica" tvg-logo="",History OK
+http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/History/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Latinoamerica",Disney Junior OK
+http://bantel-cdn1.iptvperu.tv:1935/cdnijc/disney_jr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Perú",Antena 1 OK
+http://bantel.iptvperu.tv:1935/cdnjut/antenauno.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Latinoamerica" tvg-logo="",Nick OK
+http://bantel-cdn1.iptvperu.tv:1935/cdnfit/nick_jr/playlist.m3u8
+
+#EXTINF:-1 group-title="Perú" tvg-logo="",CTV okok
+https://live-evg1.tv360.bitel.com.pe/bitel/ctv/playlist.m3u8
+
+#EXTINF:-1 group-title="Perú" tvg-logo="",CTV ok
+https://live-evg4.tv360.bitel.com.pe/bitel/ctv/playlist.m3u8
+
+#EXTINF:-1 group-title="Argentina" tvg-logo="",Canal VOLVER
+http://190.123.90.146:8000/play/a035/index.m3u8
+
+
