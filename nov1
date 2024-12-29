@@ -15,9 +15,6 @@ https://g4.mc-slo.transport.edge-access.net/a10/ngrp:canal10junin-100056_all/Pla
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Canal_Ocho_San_Juan_%28Logo_2018%29.png" tvg-group="ARGENTINA", CANAL 8 SAN JUAN 
 https://ythls.armelin.one/channel/UC5UKMEIoqvNDMSDz2_6Sn9g.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Canal_Ocho_San_Juan_%28Logo_2018%29.png" tvg-group="ARGENTINA",8 SAN JUAN YT
-https://youtube.jitendra-kumar.workers.dev/wanda.m3u8?id=qXOEMK6wNZk
-
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5de91cf02fc07c0009910465/featuredImage.jpg?auto=&q=70&fit=fill&fill=blur&ixlib=react-9.1.5",Pluto TV Telefe Hits (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91cf02fc07c0009910465/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5c a04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=fal se&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb- b532-0242ac110002&ID de usuario=
 
@@ -26,9 +23,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620e67a63b5e370007e06b
 
 #EXTINF:-1 tvg-logo="https://www.minutoar.com.ar/u/fotografias/m/2021/9/2/f425x230-77645_91627_5050.jpg",Susana Giménez [Entretenimiento] [147] [AR]
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6132429ec9e0db0007a91425/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-
-#EXTINF:-1 tvg-logo="https://www.prensario.net/multimedios/imgs/45566_750.jpg",Telefe Noticias 24hs  YT
-https://youtube.jitendra-kumar.workers.dev/wanda.m3u8?id=MocwNxD7WJk
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/613237a1c9e0db0007a91350/featuredImage.jpg",Telefe Pluto TV [Entretenimiento] [144] [AR]
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/613237a1c9e0db0007a91350/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
@@ -87,10 +81,7 @@ https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m
 #EXTINF:-1 tvg-logo="https://tv2.cine.ar/wp-content/uploads/2023/08/logo_blanco.webp" group-title="Argentina",Cine.AR
 https://delivery.cdn.rcs.net.ar/mnp/cinear_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cJHP7bU.png" group-title="Argentina",El Nueve
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/El_Nueve/SA_HLS/El_Nueve.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png" group-title="Argentina",Canal 9
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cJHP7bU.png" group-title="Argentina",El Nueve - elnueve
 https://delivery.cdn.rcs.net.ar/mnp/elnueve_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2026-320x180-000000.jpg" tvg-group="ARGENTINA",NET TV ( 720p) en línea
@@ -117,16 +108,16 @@ https://delivery.cdn.rcs.net.ar/mnp/encuentro_hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2023_08/large.GarageTV.png.a8973d3a04ea7a4b3c2f133fd5745b3a.png" group-title="Argentina",Garage TV Latin America
 https://stream1.sersat.com/hls/garagetv.m3u8
 
-#EXTINF:-1 group-title="Argentina" tvg-logo="",DEPORTV OK
+#EXTINF:-1 group-title="Argentina" tvg-logo="",DEPORTV 190
 http://190.123.90.146:8000/play/a00a/index.m3u8
 
-#EXTINF:-1 group-title="Argentina" tvg-logo="",FOX Sports OK
+#EXTINF:-1 group-title="Argentina" tvg-logo="",FOX Sports 190
 http://190.123.90.146:8000/play/a00g/index.m3u8
 
-#EXTINF:-1 group-title="Latinoamerica" tvg-logo="",FOX Sports 2 OK
+#EXTINF:-1 group-title="Latinoamerica" tvg-logo="",FOX Sports 2 190
 http://190.123.90.146:8000/play/a00h/index.m3u8
 
-#EXTINF:-1 group-title="Argentina" tvg-logo="",FOX Sports 3 OK
+#EXTINF:-1 group-title="Argentina" tvg-logo="",FOX Sports 3 190
 http://190.123.90.146:8000/play/a00i/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/FoxSports.png" tvg-group="Deportes", Fox Sports
@@ -150,11 +141,11 @@ http://190.123.90.146:8000/play/a00j/index.m3u8
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/espnpremium.png" group-title="DEPORTES", ESPN Premium
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN_Premium/SA_HLS/ESPN_Premium.m3u8
 
-#EXTINF:-1 group-title="Latinoamerica" tvg-logo="",ESPN Premium
+#EXTINF:-1 group-title="Latinoamerica" tvg-logo="",ESPN Premium 190
 http://190.123.90.146:8000/play/a00f/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://clarovideocdn6.clarovideo.net/CVPERU/PELICULAS/ESPNNEW/EXPORTACION_WEB/SS/ESPNNEW_t-290x163.png" tvg-group="Deportes",ESPN FHD
-https://is.gd/qxSx8b
+#EXTINF:-1 tvg-logo="https://clarovideocdn6.clarovideo.net/CVPERU/PELICULAS/ESPNNEW/EXPORTACION_WEB/SS/ESPNNEW_t-290x163.png" tvg-group="Deportes",ESPN 190
+http://190.123.90.146:8000/play/a00b/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/espn.png" group-title="DEPORTES",ESPN
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN.m3u8
@@ -162,34 +153,22 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN.m3u8
 #EXTINF:-1  tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/espn2.png" group-title="DEPORTES",ESPN2
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Latinoamerica",ESPN2 z
+#EXTINF:-1 tvg-logo="" group-title="Latinoamerica",ESPN2 190 z
 http://190.123.90.146:8000/play/a02z/index.m3u8
 
-#EXTINF:-1 group-title="Latinoamerica" tvg-logo="",ESPN 2 mm
-http://200.215.251.253:8040/play/a01o
-
-#EXTINF:-1 group-title="Latinoamerica" tvg-logo="",ESPN 2
-http://45.175.139.194:8500/22
-
-#EXTINF:-1 group-title="Latinoamerica" tvg-logo="",ESPN 2 ok
+#EXTINF:-1 group-title="Latinoamerica" tvg-logo="",ESPN 2 181
 http://181.78.8.90:16123/play/ch17
 
 #EXTINF:-1  tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/espn3.png" group-title="DEPORTES",ESPN3
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN3/SA_HLS/ESPN3.m3u8
 
+#EXTINF:-1 group-title="Argentina" tvg-logo="",ESPN3 190
+http://190.123.90.146:8000/play/a00d/index.m3u8
+
 #EXTINF:-1  tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/espn4.png" group-title="DEPORTES",Espn 4 mnp
 https://delivery.cdn.rcs.net.ar/mnp/espn_extra_hls/playlist.m3u8
 
-#EXTINF:-1 group-title="Latinoamerica" tvg-logo="",ESPNOK
-http://190.123.90.146:8000/play/a00b/index.m3u8
-
-#EXTINF:-1 group-title="Latinoamerica" tvg-logo="",ESPN222222
-http://190.123.90.146:8000/play/a00c/index.m3u8
-
-#EXTINF:-1 group-title="Argentina" tvg-logo="",ESPN3
-http://190.123.90.146:8000/play/a00d/index.m3u8
-
-#EXTINF:-1 group-title="Latinoamerica" tvg-logo="",ESPN4
+#EXTINF:-1 group-title="Latinoamerica" tvg-logo="",ESPN4 190
 http://190.123.90.146:8000/play/a00e/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/ESPN-Deportes-White.png.webp" group-title="DEPORTES",Espn Deportes (Z)(FHD)
@@ -199,7 +178,7 @@ http://190.123.90.146:8000/play/a00e/index.m3u8
 #EXTINF:-1  tvg-logo="https://tycsports.hiringroom.com/data/accounts/tycsports/microsite/cfb58ca8d62e9685391d991717b44fb6.png" group-title="DEPORTES", TyC
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TyC/SA_HLS/TyC.m3u8
 
-#EXTINF:-1 group-title="Latinoamerica" tvg-logo="",TYC SPORTS OK
+#EXTINF:-1 group-title="Latinoamerica" tvg-logo="",TYC SPORTS 190
 http://190.123.90.146:8000/play/a00k/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/FhOQWiELN6RRFwFbxKWWWEBLgGhXifnJfWT8SWtHZUdSH6fT3Jc_IC88xtebGFXTbQ" tvg-group="Deportes",TYC Sports Play 🇦🇷 ⚽
@@ -301,9 +280,6 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnrji/hbosignature/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDE3X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1708456806050" tvg-group="PREMIUM", HBO SUR 
 http://bantel-cdn1.iptvperu.tv:1935/cdnrji/HBO/playlist.m3u8
 
-#EXTINF:-1 group-title="Argentina" tvg-logo="",23 hbo
-http://190.123.90.146:8000/play/a023/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bZWoDTg.png",Sony Cine klowdtv OK
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/996px-Sony_Movies_Logo.svg.png",Sony Movies
@@ -386,14 +362,8 @@ http://190.123.90.146:8000/play/a032/index.m3u8
 #EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTE2X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1708456591202" tvg-group="ARGENTINA",CRONICA 190
 http://190.123.90.146:8000/play/a005/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k2Ku8Ib.png",Cronica
-https://is.gd/CqFhGi
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k2Ku8Ib.png",Cronica yyy
 https://ythls.armelin.one/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dbu9nx4.png",IP
-https://is.gd/wzGzgu
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dbu9nx4.png",IP Noticias a
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/IP_Noticias/SA_HLS/IP_Noticias.m3u8
@@ -454,6 +424,9 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-id="FMTV.uk" tvg-logo="https://i.imgur.com/vPxvbVv.png" ,Frecuencia Musical TV [Not 24/7]
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZoRRVDf.png" group-title="Familiares",Pakapaka
+http://190.123.90.146:8000/play/a02f/index.m3u8
 
 #EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/u9S0l7vCtlJ_y6Iii4AzfsKBeWiNwfGocWnNTDTq9RMrYl01KhWRFWixnS_mNkSh_1sQ1MJV=s900-c-k-c0x00ffffff-no-rj",Disney Channel (España) (🇪🇸)
 http://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:21_HD.smil/.m3u8
