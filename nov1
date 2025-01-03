@@ -292,7 +292,8 @@ https://delivery.cdn.rcs.net.ar/mnp/hbo2_hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTk2X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1708456922509" tvg-group="PREMIUM", HBO 2 P
 http://bantel-cdn1.iptvperu.tv:1935/cdnrji/HBO2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://clarovideocdn1.clarovideo.net/HBO/PELICULAS/HBOFAMILYCHANNEL/EXPORTACION_WEB/SS/HBOFAMILYCHANNEL_t-290x163.png" tvg-group="PREMIUM", HBO Family (Z)(1080)
+#EXTINF:-1 tvg-logo="https://clarovideocdn1.clarovideo.net/HBO/PELICULAS/HBOFAMILYCHANNEL/EXPORTACION_WEB/SS/HBOFAMILYCHANNEL_t-290x163.png" tvg-group="PREMIUM", hbo family 190
+http://190.123.90.146:8000/play/a03d/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://television-libre.net/img/hbomundi.webp" tvg-group="PREMIUM",HBO Mundi 190
 http://190.123.90.146:8000/play/a027/index.m3u8
@@ -433,6 +434,24 @@ http://190.123.90.146:8000/play/a004/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/YqFOB1h.png" group-title="Internacionales", DW en español | FHD | alemania
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+#EXTINF:-1 group-title="Argentina" tvg-logo="", el doce yt
+https://www.youtube.com/watch?v=sFZe_RPnNSo
+
+#EXTINF:-1 group-title="Argentina" tvg-logo="", tn yt
+https://www.youtube.com/watch?v=cb12KmMMDJA
+
+#EXTINF:-1 group-title="Argentina" tvg-logo="", cronica yt
+https://www.youtube.com/watch?v=avly0uwZzOE
+
+#EXTINF:-1 group-title="Argentina" tvg-logo="", 26 yt
+https://www.youtube.com/watch?v=9fkB8aDdSik
+
+#EXTINF:-1 group-title="Argentina" tvg-logo="", maSHa
+https://www.youtube.com/watch?v=ezUxQwz7Vl4
+
+#EXTINF:-1 group-title="Argentina" tvg-logo="", ln yt
+https://www.youtube.com/watch?v=G5pHuBCqgrs
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX-9uHCpo3v2pHzHEdGUTs5cFC9ySZanOMKu1RDuR20Qi88m90FvT5yW2TaofDthDNWWM&usqp=CAU", METRO TV TUC
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
@@ -832,6 +851,9 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-ono/playlist.
 
 #EXTINF:-1 tvg-logo="https://www.qmusica.tv/qmusica_logo_1.png",Q MUSICA 190
 http://190.123.90.146:8000/play/a02s/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.qmusica.tv/qmusica_logo_1.png",q musica idioma yt
+https://www.youtube.com/watch?v=8Mw0YdKN2XY
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M88NzqH/Xly8mKUw.jpg" tvg-group="MUSICA",htv mnp
 https://delivery.cdn.rcs.net.ar/mnp/htv_hls/playlist.m3u8
@@ -1859,9 +1881,6 @@ https://live.obslivestream.com/uraniotv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/35046bd4f63cebcf522e4cd2981e262b.png" tvg-group="CINE Y SERIES", Via Alto Mayo TV | PE
 https://live.obslivestream.com/viaaltomayomux/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/807_LIM_TV.png" tvg-group="CINE Y SERIES", LIM televisión | PY
-https://tv.invasivamedia.com/hls/limtv.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Autenticatelevision/picture?width=320&height=320" tvg-group="CINE Y SERIES", Autenticatvmux
 https://live.obslivestream.com/autenticatvmux/index.m3u8
 
@@ -1924,3 +1943,9 @@ https://livestream.perucast.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3nSoRlU721Teo5FOj8asLFdsX4jgRAQtHXwomIW71ocxWR713HCQSPBzqBMBoXe76Mzg&usqp=CAU" tvg-group="INFANTILES",TVReus
 https://eu1.servers10.com:8081/8166/index.m3u8
+
+#EXTINF:-1 group-title="Argentina" tvg-logo="",Telefe Cordoba
+http://190.123.90.146:8000/play/a03c/index.m3u8
+
+
+
