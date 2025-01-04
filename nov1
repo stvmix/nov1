@@ -858,6 +858,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fab088b3279760007d4e4
 #EXTINF:-1 tvg-logo="",MTV en español [En español] [2845] [Estados Unidos]
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf96d351652631e36d4331f/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
+#EXTINF:-1 tvg-id="MTVenespanol.us" tvg-logo="" group-title="Undefined",MTV en español
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e9-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=dcbebf0b-626f-449a-85cf-4ce663af39d1
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ca672f515a62078d2ec0ad2/featuredImage.jpg?auto=&q=70&fit=fill&fill=blur&ixlib=react-9.1.5",MTV Latino Pluto TV 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96d351652 631e36d4331f&deviceLat=&deviceLon=&deviceMake= web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=965&terminate=false&userId=
 
@@ -876,6 +879,11 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91b7ea86ee60009
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66a01dcb8561260008b0a41d/featuredImage.jpg?auto=&q=70&fit=fill&fill=blur&ixlib=react-9.1.5",MTV Classic [Entretenimiento] [157] [AR]
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de91b7ea86ee60009d89e75/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
+#EXTINF:-1 tvg-id="MTVFlowLatino.us" tvg-logo="" group-title="Undefined",MTV Flow Latino
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=85a85ad1-7bde-49e4-8ce9-39bcfed2588f
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NickMusic.svg/512px-NickMusic.svg.png",NickMusic
+http://fl5.moveonjoy.com/NICK_MUSIC/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://rlaxxtv.com/wp-content/uploads/2022/06/vevolatino_colour.png",Vevo Latino
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5da0d64d0e8a62000964ebe4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce911-30d3- 11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a7c08002-33dc-40eb-8b3c-28a20a838cdb
@@ -1138,8 +1146,14 @@ https://estrellanews-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="TV ABIERTA" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/1linear-sony-one-competencias-16x9_1.jpg", Sony Competencias
 https://spt-competencias-1-us.samsung.wurl.tv/2000.m3u8
 
-#EXTINF:-1 group-title="TV ABIERTA" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/400x225/channel-sony_channel-_channel_novelas-16x9_0.jpg", Sony Novelas
-https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 group-title="TV ABIERTA" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/400x225/channel-sony_channel-_channel_novelas-16x9_0.jpg",Sony Novelas OK
+https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FcrgSdr.png",Novelas con la abuela
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a7814-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=00d6c705-94dd-4af1-8f07-d8b02bcc1884
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5cf96cc422df39f1a338d165/featuredImage.jpg?auto=&q=70&fit=fill&fill=blur&ixlib=react-9.1.5" tvg-group="INFANTILES",Telemundo telenovelas clásicas
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bfeb5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=11274d9c-4f3d-4891-ae2e-08937bcc8bb5
 
 #EXTINF:-1 tvg-chno="10.7" tvg-id="AztecaGuatemala.gt" tvg-logo="https://i.imgur.com/UJhQoUK.png" group-title="TV ABIERTA", AZTECA GUATE 
 https://ch1-tva.duin.dev/hls/stream.m3u8
@@ -1244,6 +1258,32 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 group-title="Musica",Vevo Hip-Hop
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61d4c2817a823d00070ba53e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+
+#EXTINF:-1 tvg-id="Vevo2K.us" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg" group-title="Music",Vevo 2K
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc208-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9c78a281-5d61-4850-8b62-74632f015343
+#EXTINF:-1 tvg-id="Vevo70s.us" tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/featuredImage.jpg" group-title="Music",Vevo '70s
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc205-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=65607a14-91b8-4a2f-acee-142424cbaf0b
+#EXTINF:-1 tvg-id="Vevo80s.us" tvg-logo="https://images.pluto.tv/channels/5fd7b8bf927e090007685853/featuredImage.jpg" group-title="Music",Vevo '80s
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7b8bf927e090007685853/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc206-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e72e853c-9c99-4dda-b7b5-22baedf34c42
+#EXTINF:-1 tvg-id="Vevo90s.us" tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/featuredImage.jpg" group-title="Music",Vevo '90s
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc207-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0728470d-6a7e-40da-b12d-986993b83ec1
+#EXTINF:-1 tvg-id="VevoCountry.us" tvg-logo="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/featuredImage.jpg" group-title="Music",Vevo Country
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc209-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0e6e85b0-154a-4a57-b91f-09965c300dbe
+#EXTINF:-1 tvg-id="VevoIconosLatinos.us" tvg-logo="" group-title="Undefined",Vevo Íconos Latinos
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64d161c93c785e0008df575e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce910-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=79a35639-aaba-46f2-bc03-c95f92f52181
+#EXTINF:-1 tvg-id="VevoLatino.us" tvg-logo="https://i.imgur.com/D7SwmuB.png" group-title="Music",Vevo Latino
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5da0d64d0e8a62000964ebe4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce911-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a7c08002-33dc-40eb-8b3c-28a20a838cdb
+#EXTINF:-1 tvg-id="VevoPop.us" tvg-logo="https://i.imgur.com/dZHktKR.png" group-title="Music",Vevo Pop
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce912-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=48fd2d58-c66f-492e-90a6-986e95bbc2e9
+#EXTINF:-1 tvg-id="VevoRB.us" tvg-logo="https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/featuredImage.jpg" group-title="Music",Vevo R&B
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce913-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b9489829-fa99-492b-9890-e85a4a467854
+#EXTINF:-1 tvg-id="VevoRegionalMexicano.us" tvg-logo="" group-title="Undefined",Vevo Regional Mexicano
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64dab5fe35425100080e2991/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce916-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a80400b9-d4b6-4bbf-812e-2c1959206e6b
+#EXTINF:-1 tvg-id="VevoRetroRock.us" tvg-logo="https://i.imgur.com/H1Aap4E.png" group-title="Music",Vevo Retro Rock
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61d4b38226b8a50007fe03a6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce917-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5b34f49b-bb11-47dd-b65b-7c5074a9925c
+#EXTINF:-1 tvg-id="XITERock.us" tvg-logo="" group-title="Undefined",XITE Rock
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/623a1b5188ecdc0007c9ef5a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d3735-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f428e683-63a3-4e04-a7ac-126caa2fda54
 
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-canela-classics-16x9_0.png" group-title="CANELA TV", Canela Clásicos
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
@@ -1925,65 +1965,55 @@ https://eu1.servers10.com:8081/8166/index.m3u8
 #EXTINF:-1 group-title="Argentina" tvg-logo="",Telefe Cordoba
 http://190.123.90.146:8000/play/a03c/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dei8941/images/3/3f/Caso_cerrado_-_Logo_%28Espa%C3%B1ol%2C_octubre_de_2018%29.png/revision/latest/scale-to-width/360?cb=20220131005735&path-prefix=es" tvg-group="INFANTILES",Casos de la Dra. Polo
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60d393e5579a420007ee553c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c276ad3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=cde127fb-082c-4bae-bbc8-eb5fcecf263d
 
-#EXTINF:-1 tvg-logo="https://www.vertvcable.com/wp-content/uploads/2022/02/sonynovelas.jpg",Sony Novelas OK
-https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tv.watchhallmarktv.com/tvelogo.png" tvg-group="INFANTILES",Hallmark en español
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6532e7b290a74c00084a3bb6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291885-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=abaa1d27-e975-4a86-be91-f282e0832a1c
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NickMusic.svg/512px-NickMusic.svg.png",NickMusic
-http://fl5.moveonjoy.com/NICK_MUSIC/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/est/linear_channel/thumbnails/widescreen/hallmark_logo_1920_1080_copy_live.jpg" tvg-group="INFANTILES",Hell's Kitchen en español
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60492b2794116800073e32dc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c293f90-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=12baeda8-54dc-41d3-965e-6fd5c80400b1
 
-#EXTINF:-1 group-title="Argentina" tvg-logo="",HBO SUB
-http://fl5.moveonjoy.com/HBO/index.m3u8
-
-#EXTINF:-1 tvg-id="HBO2East.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/HBO_2_%282014%29.svg/512px-HBO_2_%282014%29.svg.png" group-title="Movies;Series",HBO 2 East (720p)
-https://fl5.moveonjoy.com/HBO_2/index.m3u8
-
-#EXTINF:-1 group-title="Movies"https://wacth.tv"tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26c50750-7374-11ec-b576-afbb0a1303ef_webp_320.png",HBO 2 170
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+#EXTINF:-1 https://cms.dmpcdn.com/livetv/2022/01/12/26c50750-7374-11ec-b576-afbb0a1303ef_webp_320.png",HBO 2 170
 http://170.254.18.106/HBO2/index.m3u8
 
-#EXTINF:-1 tvg-id="MTVenespanol.us" tvg-logo="" group-title="Undefined",MTV en español
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e9-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=dcbebf0b-626f-449a-85cf-4ce663af39d1
-#EXTINF:-1 tvg-id="MTVFlowLatino.us" tvg-logo="" group-title="Undefined",MTV Flow Latino
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=85a85ad1-7bde-49e4-8ce9-39bcfed2588f
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ARGENTINA ➾  SPORTS", DEPORTV 7SEP/25
+http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122332
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ARGENTINA ➾  SPORTS", DIRECTV SPORTS  [Live During Events Only]
+http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122333
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ARGENTINA ➾  SPORTS", DIRECTV SPORTS +  [Live During Events Only]
+http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122334
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ARGENTINA ➾  SPORTS", ESPN
+http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122342
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ARGENTINA ➾  SPORTS", ESPN 2
+http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122343
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ARGENTINA ➾  SPORTS", ESPN 3
+http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122344
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ARGENTINA ➾  SPORTS", ESPN PREMIUM
+http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122345
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ARGENTINA ➾  SPORTS", ESPN+
+http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122346
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ARGENTINA ➾  SPORTS", FOX SPORTS 1
+http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122350
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ARGENTINA ➾  SPORTS", FOX SPORTS 2
+http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122351
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ARGENTINA ➾  SPORTS", FOX SPORTS 3
+http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122352
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ARGENTINA ➾  SPORTS", FOX SPORTS PREMIUM
+http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122353
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ARGENTINA ➾  SPORTS", GOLF CHANNEL
+http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122356
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ARGENTINA ➾  SPORTS", PX SPORTS  [Live During Events Only]
+http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122379
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ARGENTINA ➾  SPORTS", TNT SPORTS
+http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122394
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ARGENTINA ➾  SPORTS", TYC SPORTS
+http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122400
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ARGENTINA ➾  SPORTS", Tyc sports Internacional  [Live During Events Only]
+http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122401
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@ARGENTINA ➾  SPORTS", ESPN Extra
+http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122406
 
 #EXTINF:-1 tvg-id="Mundogeek.us" tvg-logo="" group-title="Undefined",Mundo geek
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6051201a0aa8a70007c24a2a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7fc7013e-e998-4f7a-8d41-f74aa6395d00
-
-#EXTINF:-1 tvg-id="Vevo2K.us" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg" group-title="Music",Vevo 2K
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc208-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9c78a281-5d61-4850-8b62-74632f015343
-#EXTINF:-1 tvg-id="Vevo70s.us" tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/featuredImage.jpg" group-title="Music",Vevo '70s
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc205-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=65607a14-91b8-4a2f-acee-142424cbaf0b
-#EXTINF:-1 tvg-id="Vevo80s.us" tvg-logo="https://images.pluto.tv/channels/5fd7b8bf927e090007685853/featuredImage.jpg" group-title="Music",Vevo '80s
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7b8bf927e090007685853/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc206-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e72e853c-9c99-4dda-b7b5-22baedf34c42
-#EXTINF:-1 tvg-id="Vevo90s.us" tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/featuredImage.jpg" group-title="Music",Vevo '90s
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc207-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0728470d-6a7e-40da-b12d-986993b83ec1
-#EXTINF:-1 tvg-id="VevoCountry.us" tvg-logo="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/featuredImage.jpg" group-title="Music",Vevo Country
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc209-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0e6e85b0-154a-4a57-b91f-09965c300dbe
-#EXTINF:-1 tvg-id="VevoIconosLatinos.us" tvg-logo="" group-title="Undefined",Vevo Íconos Latinos
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64d161c93c785e0008df575e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce910-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=79a35639-aaba-46f2-bc03-c95f92f52181
-#EXTINF:-1 tvg-id="VevoLatino.us" tvg-logo="https://i.imgur.com/D7SwmuB.png" group-title="Music",Vevo Latino
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5da0d64d0e8a62000964ebe4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce911-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a7c08002-33dc-40eb-8b3c-28a20a838cdb
-#EXTINF:-1 tvg-id="VevoPop.us" tvg-logo="https://i.imgur.com/dZHktKR.png" group-title="Music",Vevo Pop
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce912-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=48fd2d58-c66f-492e-90a6-986e95bbc2e9
-#EXTINF:-1 tvg-id="VevoRB.us" tvg-logo="https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/featuredImage.jpg" group-title="Music",Vevo R&B
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce913-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b9489829-fa99-492b-9890-e85a4a467854
-#EXTINF:-1 tvg-id="VevoRegionalMexicano.us" tvg-logo="" group-title="Undefined",Vevo Regional Mexicano
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64dab5fe35425100080e2991/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce916-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a80400b9-d4b6-4bbf-812e-2c1959206e6b
-#EXTINF:-1 tvg-id="VevoRetroRock.us" tvg-logo="https://i.imgur.com/H1Aap4E.png" group-title="Music",Vevo Retro Rock
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61d4b38226b8a50007fe03a6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce917-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5b34f49b-bb11-47dd-b65b-7c5074a9925c
-#EXTINF:-1 tvg-id="XITERock.us" tvg-logo="" group-title="Undefined",XITE Rock
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/623a1b5188ecdc0007c9ef5a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d3735-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f428e683-63a3-4e04-a7ac-126caa2fda54
-
-#EXTINF:-1 tvg-id="CasosdelaDraPolo.us" tvg-logo="" group-title="Undefined",Casos de la Dra. Polo
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60d393e5579a420007ee553c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c276ad3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=cde127fb-082c-4bae-bbc8-eb5fcecf263d
-#EXTINF:-1 tvg-id="Hallmarkenespanol.us" tvg-logo="" group-title="Undefined",Hallmark en español
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6532e7b290a74c00084a3bb6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291885-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=abaa1d27-e975-4a86-be91-f282e0832a1c
-#EXTINF:-1 tvg-id="HellsKitchenenespanol.us" tvg-logo="https://i.imgur.com/upj8u1c.png" group-title="Cooking",Hell's Kitchen en español
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60492b2794116800073e32dc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c293f90-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=12baeda8-54dc-41d3-965e-6fd5c80400b1
-
-#EXTINF:-1 tvg-id="Novelasconlaabuela.us" tvg-logo="https://i.imgur.com/FcrgSdr.png" group-title="Series",Novelas con la abuela
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a7814-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=00d6c705-94dd-4af1-8f07-d8b02bcc1884
-#EXTINF:-1 tvg-id="Telemundotelenovelasclasicas.us" tvg-logo="" group-title="Undefined",Telemundo telenovelas clásicas
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bfeb5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=11274d9c-4f3d-4891-ae2e-08937bcc8bb5
 
