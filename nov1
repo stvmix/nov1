@@ -191,8 +191,7 @@ http://190.123.90.146:8000/play/a00j/index.m3u8
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2024_06/large.TNTSports.png.9d3a1d767a4697781ed3eddabfc3c247.png" tvg-group="Deportes",TNT Sports dsr
 https://dsr.ride.com.ar/tvmia/an32/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/espnpremium.png" tvg-group="Deportes", ESPN Premium d
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN_Premium/SA_HLS/ESPN_Premium.m3u8
+#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/espnpremium.png" tvg-group="Deportes", ESPN Premium 
 
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/espnpremium.png" tvg-group="Deportes",ESPN Premium 190
 http://190.123.90.146:8000/play/a00f/index.m3u8
@@ -333,7 +332,7 @@ http://190.123.90.146:8000/play/a017/index.m3u8
 #EXTINF:-1 tvg-logo="https://mondrian.claro.com.br/channels/inverse/sony@3x.png" tvg-group="PREMIUM",Sony Channel 190
 http://190.123.90.146:8000/play/a016/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://sire-assets-natgeo.fichub.com/assets/fox-star/images/StarChannel.svg?1736254887" tvg-group="PREMIUM",STAR CH 190
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DM4fxGB/Star-Channel.png" tvg-group="PREMIUM",STAR CH 190
 http://190.123.90.146:8000/play/a019/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tv.watchhallmarktv.com/tvelogo.png" tvg-group="PREMIUM",Hallmark en español
@@ -1073,6 +1072,9 @@ https://d3tqgr18sdql14.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB44000099N_20240520T212704SQUARE.png",ViX Novelas de Romance 🇺🇸🇲🇽
 https://dm44c2ycmsees.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awtur5jypeo4b/server/distrib/AwpWpKfpemEGixBj/zuvPJYoOOdEMDNF2j2mvmg.XD-5XW7bmDpD5yWfV328oU9NWPX1Y7dhiYqJY3ymkerRKjKvBm9YaKmRu09CS8ak3vKkgVwPUO3_k0fGhRTEqichOfESE0Mvx1Jtn81PnLjGdX8c5rM6Wbz0X-r4kuUokXxDkVNpGrQXJTNlajn8qyE95SuHf6gHV8f03sl1yUQPzBd2gJbrGfq1mHgoJOVVQC8UfN_6AliJQgUcTWDV5ZOF4aiSuTPOG1p4BgbFAnlCS7ZWKyFTBksAnep57l4OGJUnnpzLB5grmYE-eSo9WA/manifest.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBB44000099N
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/Galavision-2024-white.svg/revision/latest/scale-to-width-down/250?cb=20240122190009",Galavision cdn1
+https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/GALAVISION/40-hls/live-media.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/Galavision-2024-white.svg/revision/latest/scale-to-width-down/250?cb=20240122190009",Galavision
 http://23.237.66.106:25461/now_160322/now2.php?id=GALAVISIONMIAMI&calidad=sd&.m3u8
 #EXTINF:-1 tvg-logo="https://st1.uvnimg.com/c5/d9/0fcc4906433ead55105a991a1de9/galavision-logo-v2.png",Galavision hd
@@ -1186,6 +1188,9 @@ https://cloud2.streaminglivehd.com:1936/8048/8048/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/33s1ZH4.png" group-title="El Salvador", Canal 4 | HD | salvador
 https://telecorporacion-es.cdn.vustreams.com/live/9c79f472-bb4d-4ab8-848f-eb613f3b1f96/live.isml/live.m3u8
 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Canal-4-El-Salvador-en-vivo-Online.png?resize=696%2C392&ssl=1" group-title="El Salvador", Canal 4 | HD | salvador4 (El Salvador) (🇸🇻)
+http://38.180.133.31:8000/play/a0y5
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ad2tDEy.png" group-title="El Salvador", Canal 6 | HD | salvador
 https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8
 
@@ -1195,7 +1200,7 @@ https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Rlm5PhK.png" group-title="El Salvador", Canal 21 Megavisión | HD | salvador
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://d172ao1khilsti.cloudfront.net/tcsgo-mediafiles/52d436ce-feae-4c7f-93cf-cf554342b831.jpg" tvg-group="ARGENTINA", TCS+ | HD | salvador
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2oPG1Mz6Nhz6NpDZ_LteOYuQY16Z5Px8JvzaIXmV_BWjjVZvY6gAr24niS4bFB52D3HQ&usqp=CAU" tvg-group="ARGENTINA", TCS+ | HD | salvador
 https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sXHj2qX.png", Canal 13 | HD | Esquipulas
@@ -1638,8 +1643,6 @@ http://190.123.90.146:8000/play/a031/index.m3u8
 #EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/3200x2400/Y2gwMTAwMDAwMDAwMjM1X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_3200x2400.png?timestamp=1708457100928" tvg-group="SERIES DE CINE Y", PARAMOUNT N 190
 http://190.123.90.146:8000/play/a015/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DM4fxGB/Star-Channel.png",Star
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGkbzsP8X-SKvBh-CdOuSrDzI1yI7oxUzYZA&s",CINEMAX
 https://delivery.cdn.rcs.net.ar/mnp/cinemax_hls/playlist.m3u8
 
@@ -1967,9 +1970,6 @@ https://live-evg1.tv360.bitel.com.pe/bitel/ctv/playlist.m3u8
 
 #EXTINF:0 tvg-logo="",1 (Costa Rica) (🇨🇷)
 https://video20.klm99.com:3993/live/canal1crlive.m3u8
-
-#EXTINF:0 tvg-logo="",4 (El Salvador) (🇸🇻)
-http://38.180.133.31:8000/play/a0y5
 
 #EXTINF:0  tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F4a134b06-1d11-4ff9-834e-35e2a4fb5050%2F5-Minute_Crafts_Horizontalrdx.jpg", 5 Minute Crafts (España) (🇪🇸)
 https://tinyurl.com/mrx4kref
