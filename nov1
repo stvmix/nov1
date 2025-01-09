@@ -85,18 +85,6 @@ http://190.123.90.146:8000/play/a00q/index.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-7-Catamarca-TV-en-vivo-Online.png?fit=1920%2C1080&ssl=1" tvg-group="ARGENTINA",Catamarca TVP
 https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=
 
-#EXTINF:-1 tvg-logo="https://tv2.cine.ar/wp-content/uploads/2023/08/logo_blanco.webp" tvg-group="ARGENTINA",CINEAR 190
-http://190.123.90.146:8000/play/a00v/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://tv2.cine.ar/wp-content/uploads/2023/08/logo_blanco.webp" tvg-group="ARGENTINA",Cine.AR
-https://delivery.cdn.rcs.net.ar/mnp/cinear_hls/playlist.m3u8
-
-#EXTINF:-1 logo="https://github.com/masterentertainment/listas/blob/main/logos/VLVER.png?raw=true" tvg-group="ARGENTINA", VOLVER 190
-http://190.123.90.146:8000/play/a035/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" tvg-group="ARGENTINA",TCM 190
-http://190.123.90.146:8000/play/a01b/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cJHP7bU.png" tvg-group="ARGENTINA",El Nueve - elnueve
 https://delivery.cdn.rcs.net.ar/mnp/elnueve_hls/playlist.m3u8
 
@@ -111,6 +99,36 @@ https://is.gd/Z9JkKp
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zEjHUot.png" tvg-group="ARGENTINA", Canal 4 | HD | Jujuy
 https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv2.cine.ar/wp-content/uploads/2023/08/logo_blanco.webp" tvg-group="ARGENTINA",CINEAR 190
+http://190.123.90.146:8000/play/a00v/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv2.cine.ar/wp-content/uploads/2023/08/logo_blanco.webp" tvg-group="ARGENTINA",CINEAR HD
+https://delivery.cdn.rcs.net.ar/mnp/cinear_hls/playlist.m3u8
+
+#EXTINF:-1 logo="https://github.com/masterentertainment/listas/blob/main/logos/VLVER.png?raw=true" tvg-group="ARGENTINA", VOLVER 190
+http://190.123.90.146:8000/play/a035/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.volver.com.ar/img/logo.png" tvg-group="ARGENTINA", VOLVER
+https://dsr.ride.com.ar/tvmia/an18/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" tvg-group="ARGENTINA",TCM 190
+http://190.123.90.146:8000/play/a01b/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YDQQng7/Logo-Unetev.png" tvg-group="ARGENTINA",Unetev HD
+https://panel.tvstream.cl:1936/8070/8070/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f8hSs6J/Punto-99-Logo-Reducido.png" tvg-group="ARGENTINA", PUNTO 99
+https://stmv5.voxtvhd.com.br/99online/99online/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ydqK2H0.png" tvg-group="ARGENTINA",Ciudad Mágica Tv | Argentina
+https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.paste.pics/2187dd0bf17bc4d9120ec79f47ad0145.png" tvg-group="ARGENTINA", Radio Lado Oscuro TV | CL
+https://stmv5.voxtvhd.com.br/cattotv/cattotv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://telecolortv.pe/wp-content/uploads/2021/09/tlc-2024-web-2.png" tvg-group="ARGENTINA", Telecolor || Yurimaguas
+https://live.obslivestream.com/telecolormux/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_11008_7_20686.png.6a839e51eea47ab6bb6fec94f1cc0ee8.png" tvg-group="ARGENTINA", gourmet
 https://delivery.cdn.rcs.net.ar/mnp/gourmet_hls/playlist.m3u8
@@ -1410,7 +1428,6 @@ https://unlimited1-us.dps.live/carastv/carastv.smil/carastv/livestream0/chunks.m
 https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4NQJcFJ.png" group-title="CANALES INDEPENDIENTES",Mucha Música HD | ND
-https://streaming-cl.sh1ny.space/memfs/b4803e28-d393-4d4b-a76d-a3fb5d3485fe.m3u8
 
 #EXTINF:-1 tvg-logo="https://clicktvchile.cl/wp-content/uploads/2023/10/Logo-ClickTv-Chile.png",Click TV (Coronel) (720p)
 https://v2.tustreaming.cl/clicktv/playlist.m3u8
@@ -1792,29 +1809,11 @@ https://run-cl-es.otteravision.com/run/cl_es/cl_es.m3u8
 #EXTINF:-1 tvg-logo=&quot;https://static.wixstatic.com/media/526a76_642c984b9e5b42eebeda744272ff4998~mv2.jpg&quot; group-title=&quot;ABSOLUTAMENTE CINE&quot;,RUN:TIME TRASH | ESP
 https://run-rt-tr-es.otteravision.com/run/rt_tr_es/rt_tr_es.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YDQQng7/Logo-Unetev.png" grupo -title="JOVENES Y ADULTOS",Unetev HD
-https://panel.tvstream.cl:1936/8070/8070/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.volver.com.ar/img/logo.png" tvg-group="ARGENTINA", VOLVER
-https://dsr.ride.com.ar/tvmia/an18/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/f8hSs6J/Punto-99-Logo-Reducido.png" group-title="", PUNTO 99
-https://stmv5.voxtvhd.com.br/99online/99online/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ydqK2H0.png" group-title="CANALES INDEPENDIENTES",Ciudad Mágica Tv | Argentina
-https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
-
 #EXTINF:-1 tvg-logo="https://dititvok.weebly.com/uploads/1/4/6/7/146735941/editor/logo-png-con-sombra.png?1713294223" group-title="CANALES INDEPENDIENTE",Diti TV | Argentina
 https://fl1001.bozztv.com/ssh101/dititv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/9/9a/Unife_2023_logo.png/revision/latest/scale-to-width-down/230?cb=20230201072513&path-prefix=es",UNIFE TV
 https://cdn.mycloudstream.io/hls/live/broadcast/xundwjvp/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.paste.pics/2187dd0bf17bc4d9120ec79f47ad0145.png", Radio Lado Oscuro TV | CL
-https://stmv5.voxtvhd.com.br/cattotv/cattotv/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://telecolortv.pe/wp-content/uploads/2021/09/tlc-2024-web-2.png", Telecolor || Yurimaguas
-https://live.obslivestream.com/telecolormux/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://canal57.com/wp-content/themes/canal57/img/Canal57-Logo-White-Color.png", CANAL 57 EE.UU. OK
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
