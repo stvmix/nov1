@@ -1758,6 +1758,10 @@ https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
 https://live-evg4.tv360.bitel.com.pe/bitel/ctv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/08/13/04/1723497771524/6ddb4622ebc8_640_360.png", ATV HD
 https://live-evg25.tv360.bitel.com.pe/bitel/atv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171403.jpg?w=1119&h=1019", ATV PLUS
+https://live-evg25.tv360.bitel.com.pe/bitel/atvmas/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.tvmia.com/img/button_play_green.png", global HD
 https://live-evg25.tv360.bitel.com.pe/bitel/global/playlist.m3u8
 
@@ -2217,3 +2221,23 @@ https://5eaccbab48461.streamlock.net:1936/8222/8222/.m3u8
 
 #EXTINF:0,Zona De Accion (España) (🇪🇸)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4312
+
+#EXTINF:-1,DIRECTV SPORTS AR -
+http://totalplay.site:80/userstf56879/yrchYBuftF/69547.ts
+
+#EXTINF:-1,DIRECTV SPORTS 2 AR -
+http://totalplay.site:80/userstf56879/yrchYBuftF/69549.ts
+
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1725313054.jpg?w=1119&h=1019" group-title="..MOVISTAR PERU",🎥 SPACE
+http://bantel-cdn1.iptvperu.tv:1935/xmp_trans/space.stream/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1725313117.jpg?w=1119&h=1019" group-title="..MOVISTAR PERU",🎥 COMEDY CENTRAL
+http://bantel-cdn1.iptvperu.tv:1935/xmp_trans/comedy.stream/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1725313210.jpg?w=1119&h=1019" group-title="..MOVISTAR PERU",🎥 A3 SERIES
+http://bantel-cdn1.iptvperu.tv:1935/xmp_trans/a3series.stream/playlist.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703172779.jpg?w=1119&h=1019" group-title="..MOVISTAR PERU",🎵 TOP LATINO
+https://live-evg25.tv360.bitel.com.pe/bitel/toplatino/playlist.m3u8
+
