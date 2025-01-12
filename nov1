@@ -1075,7 +1075,9 @@ https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8
 
 #EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6c5407a9-8503-43e1-976c-906688a332b9/dhdbhn1-3dd21a43-0ae7-4825-ba14-29df1e4ecd95.png/v1/fill/w_894,h_894/telemundo_logo_3d_version_by_michaelazamar268_dhdbhn1-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjMwMCIsInBhdGgiOiJcL2ZcLzZjNTQwN2E5LTg1MDMtNDNlMS05NzZjLTkwNjY4OGEzMzJiOVwvZGhkYmhuMS0zZGQyMWE0My0wYWU3LTQ4MjUtYmExNC0yOWRmMWU0ZWNkOTUucG5nIiwid2lkdGgiOiI8PTIzMDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.8p49fNaFJEKsMRa_JIVjR1QWzIXojx5buESLG5jo8VY" tvg-group="ARGENTINA", Telemundo | HD | San Juan
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://davinci.zappingtv.com/gato/media/450/canales/white/telemundo.png" tvg-group="ARGENTINA",TELEMUNDO INTER  190
+http://190.123.90.146:8000/play/a02u/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.telcocom.com.ar/img/canales/telemundo-internacional.png" tvg-group="ARGENTINA",Telemundo sd
 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8
@@ -1088,9 +1090,6 @@ http://190.123.90.146:8000/play/a02t/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/1200px-Logo_tlnovelas_feb2019.png" tvg-group="ARGENTINA",TLNVL Telenovelas 190
 http://190.123.90.146:8000/play/a02v/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://davinci.zappingtv.com/gato/media/450/canales/white/telemundo.png" tvg-group="ARGENTINA",TELEMUNDO INTER  190
-http://190.123.90.146:8000/play/a02u/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_TNT_Novelas.png/1200px-Logo_TNT_Novelas.png" tvg-group="ARGENTINA",TNT Novelas 190
 http://190.123.90.146:8000/play/a02w/index.m3u8
