@@ -694,7 +694,7 @@ https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/wRuHWNCjqvo/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD4V8G6EoBn1Rh72zZxU-LXSfRNZw" tvg-group="INFANTILES", BEBESITO BUM Y SUS AMIGOS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60493283ffc52f000710edae/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId= canal&embedPartner= rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-logo"https://www.totallicensing.com/wp-content/uploads/2023/08/Screenshot-2023-08-17-at-13.28.59.png" tvg-group="INFANTILES", Moonbug Kids L
+#EXTINF:-1 tvg-logo"https://i.ytimg.com/vi/o0n96YwZ1JY/maxresdefault.jpg" tvg-group="INFANTILES", Moonbug Kids L
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3365
 
 #EXTINF:-1 tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Mr%20Bean.webp" tvg-group="INFANTILES",Mr. Bean 🇪🇸
@@ -1564,9 +1564,7 @@ https://delivery.cdn.rcs.net.ar/mnp/disc_world_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WuOhLl4.png",Turbo
 
-#EXTINF:-1 tvg-id="Caza y Pesca HD" tvg-name="ES: CAZA Y PESCA FHD" tvg-logo="https://miguia.tv/channels/big_60.png" group-title="ES   MOVISTAR+",ES: CAZA Y PESCA FHD
-
-#EXTINF:-1 tvg-logo="",Pluto TV Animales [Curiosidad] [273] [AR]
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Pluto-TV-Animales-en-directo-Online.png?fit=1920%2C1080&ssl=1",Pluto TV Animales [Curiosidad] [273] [AR]
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScdwlE8Yns5-LAlZHojszlGCumQimd-DCiGoB5a59CNonfi20yWtEtNdxZoyaeALq4iJI&usqp=CAU" tvg-group="CIENCIA Y CULTURA", Ama la Naturaleza
