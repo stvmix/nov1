@@ -843,7 +843,7 @@ https://panel.tvstream.cl:1936/8048/8048/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/1bjnYEolS9e-utbVyXk4Tu6UTl4RDnfIsSXKYE74r3vmRNWMQZXLADvSQacadS1F5DY=s100-rw" tvg-group="MUSICA", Farra Play (Paraguay) (🇵🇾)
 http://159.203.148.226/live/farra.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXOleSlqmyYKMf38s3K6eFBsbqpsPp4AwkBvXyLgZPDKLvuxhwgjm-XglXKlUxMddF2wsN_jgLsuuWNweFDt7t7-rsnWLfVolQAtbi_22f6L8csOOJzpyQ3VuSGLJayzhahs0-seZculSg6vBsqfAodmafQ7x2Qnzs49EqlicXrKGEXOG7fK0j6tiKwVw/s833-rw/TROPICAL%20TV.webp" tvg-group="MUSICA", VClassicTV Tropical (🇨🇱) | CL
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/4c2862_a8f4a56f03ba4ec0903619a82c19e412~mv2.png" tvg-group="MUSICA", VClassicTV Tropical (🇨🇱) | CL
 https://5eaccbab48461.streamlock.net:1936/8222/8222/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://vclassictv.cl/wp-content/uploads/2024/09/lovovclassictv_24-e1725897773915.png" tvg-group="MUSICA", VClassicTV | CL
