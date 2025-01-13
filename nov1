@@ -685,7 +685,7 @@ https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/wRuHWNCjqvo/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD4V8G6EoBn1Rh72zZxU-LXSfRNZw" tvg-group="INFANTILES", BEBESITO BUM Y SUS AMIGOS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60493283ffc52f000710edae/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId= canal&embedPartner= rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-logo"https://i.ytimg.com/vi/o0n96YwZ1JY/maxresdefault.jpg" tvg-group="INFANTILES", Moonbug Kids L
+#EXTINF:-1 tvg-logo="https://licensing.biz/wp-content/uploads/2023/05/MB_KEYART-2023_LANDSCAPE_01-copy-1024x576.jpg" tvg-group="INFANTILES", Moonbug Kids L
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3365
 
 #EXTINF:-1 tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Mr%20Bean.webp" tvg-group="INFANTILES",Mr. Bean 🇪🇸
@@ -1944,4 +1944,16 @@ http://bantel-cdn1.iptvperu.tv:1935/xmp_trans/space.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1725313117.jpg?w=1119&h=1019" tvg-group="ARGENTINA", COMEDY CENTRAL xmp
 http://bantel-cdn1.iptvperu.tv:1935/xmp_trans/comedy.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" tvg-group="ARGENTINA", Golden HD-IK1662-OK 191
+http://191.52.214.5:8000/play/a03b/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Las_Estrellas_2017_Navidad.svg/revision/latest/scale-to-width-down/250?cb=20230202024114&path-prefix=es" tvg-group="ARGENTINA", LAS ESTRELLAS 2.1 cdn1
+https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/ESTRELLAS/40-hls/live-media.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx.png" tvg-group="ARGENTINA", IMAGEN TV raw
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/ImagenTelevision.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx.png" tvg-group="ARGENTINA", IMAGEN TV+ igd
+https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
 
