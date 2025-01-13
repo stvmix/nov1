@@ -1094,6 +1094,12 @@ http://190.123.90.146:8000/play/a02u/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.telcocom.com.ar/img/canales/telemundo-internacional.png" tvg-group="ARGENTINA",Telemundo sd
 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tcnx3uk.png" tvg-group="ARGENTINA", Señal Colombia | HD | Bogotá
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/live.smil/chunklist_b1500000.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/Waqc5qZ.png" tvg-group="ARGENTINA", RCN+ R (Colombia) (🇨🇴)
+https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.ipuntotv.com/IMAGES/Todo-novela-mas-pasiones-logo.png" tvg-group="ARGENTINA", Todo Novlas (Mas Pasiones)
 https://4ff77b38.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Q2FuZWxhVFZfVG9kb0RyYW1hX0hMUw/playlist.m3u8?ads.wurl_channel=1563
 
@@ -1359,84 +1365,84 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1081
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/cm-explosion-regiona-16x9.jpg" group-title="CANELA TV", Explosión Regional 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1084
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/PjAS6V9.png" group-title="Chile", UCV | HD | Valparaíso
+#EXTINF: -1 tvg-logo="https://i.imgur.com/PjAS6V9.png" tvg-group="INFANTILES", UCV | HD | Valparaíso
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/4ZLt6ep.png" group-title="Chile", UCV2 | HD | Valparaíso
+#EXTINF: -1 tvg-logo="https://i.imgur.com/4ZLt6ep.png" tvg-group="INFANTILES", UCV2 | HD | Valparaíso
 https://unlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/F3sDlSe.png" group-title="Chile", Canal 13 Cultura | FHD | santiago
+#EXTINF: -1 tvg-logo="https://i.imgur.com/F3sDlSe.png" tvg-group="INFANTILES", Canal 13 Cultura | FHD | santiago
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/5y85xPh.png" group-title="Chile", Canal 13 Entretención | FHD | santiago
+#EXTINF: -1 tvg-logo="https://i.imgur.com/5y85xPh.png" tvg-group="INFANTILES", Canal 13 Entretención | FHD | santiago
 https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/ENlQPXq.png" group-title="Chile", Festival Canal 13 | FHD | Santiago
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ENlQPXq.png" tvg-group="INFANTILES", Festival Canal 13 | FHD | Santiago
 https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/wybeCxw.png" group-title="Chile", Canal 13 Realities | FHD | Santiago
+#EXTINF: -1 tvg-logo="https://i.imgur.com/wybeCxw.png" tvg-group="INFANTILES", Canal 13 Realities | FHD | Santiago
 https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/3dSTXEv.png" group-title="Chile", Teleserie Canal 13 | FHD | Santiago
+#EXTINF: -1 tvg-logo="https://i.imgur.com/3dSTXEv.png" tvg-group="INFANTILES", Teleserie Canal 13 | FHD | Santiago
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 
-#EXTINF:-1  tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/13cable.png" group-title="NACIONALES", 13C Cable
+#EXTINF:-1  tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/13cable.png" tvg-group="INFANTILES", 13C Cable
 https://marine2.miplay.cl/canal13cable/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/canal13.png" group-title="NACIONALES", CL C13 OK
+#EXTINF:-1 tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/canal13.png" tvg-group="INFANTILES", CL C13 OK
 https://marine2.miplay.cl/c13/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/lared.png" group-title="NACIONALES",La Red | CL
+#EXTINF:-1 tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/lared.png" tvg-group="INFANTILES", La Red | CL
 https://marine2.miplay.cl/lared/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/mega.png" group-title="NACIONALES", Mega cl
+#EXTINF:-1  tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/mega.png" tvg-group="INFANTILES", Mega cl
 https://marine2.miplay.cl/megacl/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.13.cl/7/sites/all/themes/rec_v2/images/logo2_2018.png?202308181060" tvg-group="INFANTILES",Rec 13 Tv
 https://marine2.miplay.cl/rec/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/tvmas2.jpg" group-title="NACIONALES",TV MÁS 2 cl (480p)
+#EXTINF:-1 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/tvmas2.jpg" tvg-group="INFANTILES",TV MÁS 2 cl (480p)
 https://marine2.miplay.cl/tateti/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/tvmas.png" group-title="NACIONALES", Tv Mas
+#EXTINF:-1  tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/tvmas.png" tvg-group="INFANTILES", Tv Mas
 https://marine2.miplay.cl/tvmas/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/chv.png" group-title="NACIONALES", Chilevisión
+#EXTINF:-1 tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/chv.png" tvg-group="INFANTILES", Chilevisión
 https://marine2.miplay.cl/chvchile/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/chv.png" group-title="NACIONALES", Chilevisión 
+#EXTINF:-1 tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/chv.png" tvg-group="INFANTILES", Chilevisión 
 https://marine2.miplay.cl/chvchile/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/tvn.png" group-title="NACIONALES", TVN cl
+#EXTINF:-1  tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/tvn.png" tvg-group="INFANTILES", TVN cl
 https://marine2.miplay.cl/tvnchile/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/Vt424Nn.png" group-title="Chile", TVN Chile | HD | Santiago
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Vt424Nn.png" tvg-group="INFANTILES", TVN Chile | HD | Santiago
 https://marine2.miplay.cl/tvnchile/mono.m3u8
 
-#EXTINF: -1 tvg-logo="https://atacamatelevision.com/archivos/img/logo.png" group-title="Chile", Atacama TV | HD | Copiapó
+#EXTINF: -1 tvg-logo="https://atacamatelevision.com/archivos/img/logo.png" tvg-group="INFANTILES", Atacama TV | HD | Copiapó
 https://v2.tustreaming.cl/atacamatv/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/1851727139189432320/jZuJ97vd_400x400.jpg" group-title="Chile", Canal 1 | HD | Chillán
+#EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/1851727139189432320/jZuJ97vd_400x400.jpg" tvg-group="INFANTILES", Canal 1 | HD | Chillán
 https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FYCp7FK.png" group-title="Chile", Milodón TV | SD | Puerto Natales
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FYCp7FK.png" tvg-group="INFANTILES", Milodón TV | SD | Puerto Natales
 https://video8.servidordevideo.net:3161/live/ynhpdikjlive.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/a17p8Dh.png" group-title="Chile", ITV | FHD | Punta Arenas
+#EXTINF: -1 tvg-logo="https://i.imgur.com/a17p8Dh.png" tvg-group="INFANTILES", ITV | FHD | Punta Arenas
 https://unlimited1-cl-isp.dps.live/itv/itv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/auWtr20.png" group-title="CINE",Video Club | Argentina
+#EXTINF:-1 tvg-logo="https://i.imgur.com/auWtr20.png" tvg-group="INFANTILES", Video Club | Argentina
 https://videostream.shockmedia.com.ar:19360/videoclub/videoclub.m3u8
 
-#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_03/large.CarasTV(2024-).png.5c862ba2ecaa9a1b63a333cc526de8af.png",Caras Tv | DAKOTA DEL NORTE
+#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_03/large.CarasTV(2024-).png.5c862ba2ecaa9a1b63a333cc526de8af.png" tvg-group="INFANTILES", Caras Tv | DAKOTA DEL NORTE
 https://unlimited1-us.dps.live/carastv/carastv.smil/carastv/livestream0/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_03/large.CarasTV(2024-).png.5c862ba2ecaa9a1b63a333cc526de8af.png",Caras Tv op2 | DAKOTA DEL NORTE
+#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_03/large.CarasTV(2024-).png.5c862ba2ecaa9a1b63a333cc526de8af.png" tvg-group="INFANTILES", Caras Tv op2 | DAKOTA DEL NORTE
 https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4NQJcFJ.png" group-title="CANALES INDEPENDIENTES",Mucha Música HD | ND
 
-#EXTINF:-1 tvg-logo="https://clicktvchile.cl/wp-content/uploads/2023/10/Logo-ClickTv-Chile.png",Click TV (Coronel) (720p)
+#EXTINF:-1 tvg-logo="https://clicktvchile.cl/wp-content/uploads/2023/10/Logo-ClickTv-Chile.png" tvg-group="INFANTILES", Click TV (Coronel) (720p)
 https://v2.tustreaming.cl/clicktv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/8c3237ce-0a3c-47f0-be0c-c4916e291807-profile_image-300x300.png" tvg-group="PREMIUM", Peliculas Mania
@@ -1774,18 +1780,11 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovemagazinees
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2Ld23bt.png" tvg-group="ARGENTINA",Cinerama TV
 https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/Waqc5qZ.png" tvg-group="ARGENTINA", RCN+ R (Colombia) (🇨🇴)
-https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Tcnx3uk.png" tvg-group="ARGENTINA", Señal Colombia | HD | Bogotá
-https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/live.smil/chunklist_b1500000.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dDBoac0.png" tvg-group="ARGENTINA", Carare TV | HD | Santander
 https://cp.panelchs.com:1936/8160/8160/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DpYkBCV.png" tvg-group="ARGENTINA", Canal 14 Codazzi | HD | Agustín Codazzi
 https://eu1.servers10.com:8081/8056/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk1zIATrySt35iR11W3cEstjRXW-tv1Gn_sEZ-6hGm1KPlsy0g" tvg-group="ARGENTINA",MI TV HD - PY
 https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
@@ -1811,16 +1810,10 @@ https://eu1.servers10.com:8081/8166/index.m3u8
 #EXTINF:-1 tvg-logo="" tvg-group="ARGENTINA",Telefe Cordoba
 http://190.123.90.146:8000/play/a03c/index.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-group="ARGENTINA", Mundo geek
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6051201a0aa8a70007c24a2a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7fc7013e-e998-4f7a-8d41-f74aa6395d00
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S1MTdTx.png" tvg-group="ARGENTINA", Invasiva Media | HD | Paraguay
-https://tv.invasivamedia.com/hls/limtv.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/InD73GW.png" tvg-group="ARGENTINA", Multivisión Federal | HD | Salta
 https://panel.host-live.com/825000/825000/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5Kq4yES.png" tvg-group="ARGENTINA", Canal 8 | SD | Catacaos
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O5MrFjY.png" tvg-group="ARGENTINA", Canal 8 | SD | Catacaos
 https://live.obslivestream.com/canal8/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j7BCzC0.png" tvg-group="ARGENTINA", Genios | HD | tumbes
@@ -1831,9 +1824,6 @@ https://live.obslivestream.com/geniostvmux/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/KUpHN7Y.png" tvg-group="ARGENTINA", Distrito TV | HD | Madrid
 https://live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KYqGZLo.png" tvg-group="ARGENTINA", Tele 2 Web | HD | retiro
-https://inliveserver.com:1936/11516/11516/chunklist_w1025692689.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/9DmZeHt.png" tvg-group="ARGENTINA", Contivisión | HD | Constitución
 https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8
@@ -1952,6 +1942,6 @@ https://vivo.solumedia.com:19360/playtv/playtv.m3u8
 #EXTINF:-1 tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1725313054.jpg?w=1119&h=1019" tvg-group="ARGENTINA", SPACE xmp
 http://bantel-cdn1.iptvperu.tv:1935/xmp_trans/space.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1725313117.jpg?w=1119&h=1019" group-title=" tvg-group="ARGENTINA", COMEDY CENTRAL xmp
+#EXTINF:-1 tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1725313117.jpg?w=1119&h=1019" tvg-group="ARGENTINA", COMEDY CENTRAL xmp
 http://bantel-cdn1.iptvperu.tv:1935/xmp_trans/comedy.stream/playlist.m3u8
 
