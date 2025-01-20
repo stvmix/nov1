@@ -1951,20 +1951,12 @@ http://bantel-cdn1.iptvperu.tv:1935/xmp_trans/space.stream/playlist.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/xmp_trans/comedy.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_08/small.92231216_GoldenPlus2020.png.bccb9ac3e4e370a2aed9089c8315cc6a.png" tvg-group="ARGENTINA", Golden Plus HD-IK1662-OK 191
-http://191.52.214.5:8000/play/a03b/index.m3u8
-
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/14y2KDF.png" tvg-group="ARGENTINA", Radio Televisión Araucanía Los Ángeles
 https://stmv5.voxtvhd.com.br/radioaraucania/radioaraucania/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/VBBBdE6.png" tvg-group="ARGENTINA", Hito Cero Quellón
 https://5e3483cba9114.streamlock.net/kbwqdhjxtz/kbwqdhjxtz/playlist.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/ESFN39g.png" tvg-group="ARGENTINA", Canal 2 Misiones HD 
-https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ri93x5k.png" tvg-group="ARGENTINA", Canal 4 San Juan
-https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oVzssLX.png" tvg-group="ARGENTINA", Cinco TV Tigre
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
@@ -1975,9 +1967,5 @@ https://panel.host-live.com/tvrionegro/ngrp:tvrionegro_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JlQyJaX.png" tvg-group="ARGENTINA", Coop Jesús María
 https://smt-usr-edge02.sensa.com.ar/output/NDS/tvcoopjpH/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SgXqV7p.png" tvg-group="ARGENTINA", Canal 34 San Juan
-https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mt3aRey.png" tvg-group="ARGENTINA", Imagen Universal TV | HD | puebla
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
-
