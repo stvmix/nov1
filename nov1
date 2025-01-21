@@ -786,11 +786,14 @@ https://cloud5.streaminglivehd.com:3555/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RUuoMlL.png" tvg-group="INFANTILES",Canal LMS | México
 https://fl1001.bozztv.com/ssh101/canallms/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oaa8yMT.png" tvg-group="INFANTILES",AnimeStation | Argentina
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/F65Lc2nWcAATF7z?format=jpg&name=large" tvg-group="INFANTILES",AnimeStation | Argentina
 https://ssh101.bozztv.com/ssh101/livestreamingtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NY6SGkv.png" tvg-group="INFANTILES", Metaversus TV | SD | Costa Rica
-https://vivo.solumedia.com:19360/metaversus/metaversus.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/KwYvaKL.png" tvg-group="INFANTILES", Fanpop | FHD | Chile
+https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eKGk5FD.jpg" tvg-group="INFANTILES",Fanpop televisión | Chile
+https://wifiexpert-1.energeek.cl/energeek/canal-2/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/OR6mxRB.png" tvg-group="INFANTILES", Energeek | FHD | Chile
 https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65.m3u8
@@ -801,20 +804,14 @@ https://wifiexpert-1.energeek.cl/energeek/canal-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GmzkMUQ.jpg" tvg-group="INFANTILES",Energeek Radio TV op2 | Chile
 https://streaming-cl.sh1ny.space/memfs/75b105a4-2fd3-4538-a55c-480f3903a262.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/KwYvaKL.png" tvg-group="INFANTILES", Fanpop | FHD | Chile
-https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eKGk5FD.jpg" tvg-group="INFANTILES",Fanpop televisión | Chile
-https://wifiexpert-1.energeek.cl/energeek/canal-2/playlist.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/VR5MaYD.png" tvg-group="INFANTILES", Energeek Radio | FHD | Chile
-https://streaming-cl.sh1ny.space/memfs/75b105a4-2fd3-4538-a55c-480f3903a262.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GmzkMUQ.jpg" tvg-group="INFANTILES",Energeek Radio TV | Chile
 https://stream-cdn-iad.vaughnsoft.net/play/live_shay_saheed.flv
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/H4N6qC6.png" tvg-group="INFANTILES", Canal 74 | FHD | Placilla
 https://stmv5.voxtvhd.com.br/canal74hd/canal74hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NY6SGkv.png" tvg-group="INFANTILES", Metaversus TV | SD | Costa Rica
+https://vivo.solumedia.com:19360/metaversus/metaversus.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_2/large.gallery_5617_2_64591.png.37ce989505360788bdf2e959983a6366.png" tvg-group="ARGENTINA", ARGENTINISIMA
 https://stream1.sersat.com/hls/argentinisima.m3u8
@@ -1681,23 +1678,6 @@ https://videohd.live:19360/8094/8094.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-ljkip.nitrocdn.com/vGPJAhQSDduwFMWLiWiMTJnCNNepBdiH/assets/images/optimized/rev-48c35c3/hybridcommunications.com.au/wp-content/uploads/2024/08/Hybrid-Website-Logo.png" tvg-group="ARGENTINA", HYBRID
 https://tuvideoonline.com.ar:3703/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-logo=&quot;https://static.wixstatic.com/media/526a76_01ad709796564458b269e38924632cba~mv2.jpg&quot; group-title=&quot;ABSOLUTAMENTE CINE&quot;,RUN:TIME CINE | ESP
-https://run-rt-es.otteravision.com/run/rt_es/rt_es.m3u8
-#EXTINF:-1 tvg-logo=&quot;https://static.wixstatic.com/media/526a76_3f0b69a288304c208459b6c07b954243~mv2.jpg&quot; group-title=&quot;ABSOLUTAMENTE CINE&quot;,RUN:TIME ROMANCE | ESP
-https://run-rr-es.otteravision.com/run/rr_es/rr_es.m3u8
-#EXTINF:-1 tvg-logo=&quot;https://static.wixstatic.com/media/526a76_8999d7f9ed8c4c95aac33331730392ea~mv2.jpg&quot; group-title=&quot;ABSOLUTAMENTE CINE&quot;,RUN:TIME THRILLER | ESP
-https://run-th-es.otteravision.com/run/th_es/th_es.m3u8
-#EXTINF:-1 tvg-logo=&quot;https://static.wixstatic.com/media/526a76_638fad9f5ce4452ab1d3646b3f3bc520~mv2.jpg&quot; group-title=&quot;ABSOLUTAMENTE CINE&quot;,RUN:TIME CRIMEN | ESP
-https://run-cr-es.otteravision.com/run/cr_es/cr_es.m3u8
-#EXTINF:-1 tvg-logo=&quot;https://static.wixstatic.com/media/526a76_b3b4ac2f26bd4293b5d720f7b5bd0639~mv2.jpg&quot; group-title=&quot;ABSOLUTAMENTE CINE&quot;,RUN:TIME ACCIÓN | ESP
-https://run-ra-es.otteravision.com/run/ra_es/ra_es.m3u8
-#EXTINF:-1 tvg-logo=&quot;https://static.wixstatic.com/media/526a76_b852fda1b9f741a29f21d5128da05bef~mv2.jpg&quot; group-title=&quot;ABSOLUTAMENTE CINE&quot;,RUN:TIME COMEDIA | ESP
-https://run-rc-es.otteravision.com/run/rc_es/rc_es.m3u8
-#EXTINF:-1 tvg-logo=&quot;https://static.wixstatic.com/media/526a76_b3ddc8d6824043fbaaf57efbc667dc00~mv2.jpg&quot; group-title=&quot;ABSOLUTAMENTE CINE&quot;,RUN:TIME CLÁSICOS | ESP
-https://run-cl-es.otteravision.com/run/cl_es/cl_es.m3u8
-#EXTINF:-1 tvg-logo=&quot;https://static.wixstatic.com/media/526a76_642c984b9e5b42eebeda744272ff4998~mv2.jpg&quot; group-title=&quot;ABSOLUTAMENTE CINE&quot;,RUN:TIME TRASH | ESP
-https://run-rt-tr-es.otteravision.com/run/rt_tr_es/rt_tr_es.m3u8
-
 #EXTINF:-1 tvg-logo="https://dititvok.weebly.com/uploads/1/4/6/7/146735941/editor/logo-png-con-sombra.png?1713294223" group-title="CANALES INDEPENDIENTE",Diti TV | Argentina
 https://fl1001.bozztv.com/ssh101/dititv/playlist.m3u8
 
@@ -1969,3 +1949,187 @@ https://smt-usr-edge02.sensa.com.ar/output/NDS/tvcoopjpH/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mt3aRey.png" tvg-group="ARGENTINA", Imagen Universal TV | HD | puebla
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/Canal_10_Jun%C3%ADn_%28Logo_2022%29.png/revision/latest/scale-to-width-down/200?cb=20221217155436" tvg-group="ARGENTINA", CANAL 10 DE JUNIN
+https://g4.mc-slo.transport.edge-access.net/a10/ngrp:canal10junin-100056_all/Playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AlY38PN.png" tvg-group="ARGENTINA",MDA Televisión
+https://vcp.myplaytv.com/mdatv/mdatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.betanoticias.com/wp-content/uploads/2023/09/canal-21-misiones.png" tvg-group="ARGENTINA", TELEVISOR Canal 21
+https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZi2PV655h2ZT2fLl6Gmr0xH_NeeIQXwTCMQfmFokEOmJBVYpAfp2-I9Ibkfogn-4Zwdk&usqp=CAU" tvg-group="ARGENTINA",Antena Seis | CR
+https://cloudvideo.servers10.com:8081/8132/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://frankly-vod.akamaized.net/venevision/uploaded/8b06ad03-49ae-4c7e-babe-25645a0b42ce.jpeg" tvg-group="ARGENTINA",Venevision Internacional (720p)
+https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/ESBC2700002LO_20220914T041136.png" tvg-group="PREMIUM", Grjngo
+https://45e603c214f5438cae8872707b7fd678.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Sams ung-es_GrjngoPeliculasDelOeste/playlist.m3u8?ads.wurl_channel=1239&ads.wurl_name=GrjngoPeliculasDelOeste&ads.coppa=0&ads.psid=%7BPSID %7D&ads.targetopt=%7BTARGETOPT%7D&ads.dominio_aplicación=%7BDOMINIO_APLICA%7D&ads.nombre_aplicación=%7BNOMBRE_APLICA%7D&ads.consentimiento=%7BTC_STRING%7D
+
+#EXTINF:-1 tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/ESBC2700003T8_20220914T041131.png" tvg-group="PREMIUM", Bjgtjme
+https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Sam sung-es_BjgtjmePeliculasGratis/playlist.m3u8?ads.wurl_channel=1251&ads.wurl_name=BjgtjmePeliculasGratis&ads.coppa=0&ads.psid=%7BPSID %7D&ads.targetopt=%7BTARGETOPT%7D&ads.dominio_aplicación=%7BDOMINIO_APLICA%7D&ads.nombre_aplicación=%7BNOMBRE_APLICA%7D&ads.consentimiento=%7BTC_STRING%7D
+
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/channel-true_crime-16x9.jpg" tvg-group="PREMIUM", CRIMEN VERDADERO DE CANELA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3985
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/fb8c01f83f28e273af1edd823437795d.webp" tvg-group="PREMIUM", CANELA TODO CINE
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4565
+
+#EXTINF:-1 tvg-logo="https://i.blogs.es/b68c0b/quien-duracion/450_1000.jpg" tvg-group="PREMIUM",DURACIÓN 1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2218
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RhmStg9H/run_time.png" tvg-group="PREMIUM", TIEMPO DE EJECUCIÓN 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2562
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RhmStg9H/run_time.png" tvg-group="PREMIUM", TIEMPO DE EJECUCIÓN LATINO
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2567
+
+#EXTINF:-1 tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/51/ESBC400001QQ_20220323T082052.png" tvg-group="PREMIUM", Tiempo de ejecución rt
+https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_es/rt_es.m3u8?ads.de vice_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51xeNXguMqL.png" tvg-group="PREMIUM", Duración Español 1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2511
+
+#EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_las_1920x1080.jpg" tvg-group="PREMIUM", Runtime Español
+https://run-rt-es.otteravision.com/run/rt_es/rt_es.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_las_action_bg.jpg" tvg-group="PREMIUM",Runtime Acción
+https://run-ra-es.otteravision.com/run/ra_es/ra_es.m3u8
+
+#EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_las_comedy_bg.jpg" tvg-group="PREMIUM",Comedia en tiempo de ejecución
+https://run-rc-es.otteravision.com/run/rc_es/rc_es.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_thriller_latam_16x9.jpg" tvg-group="PREMIUM",Suspenso en tiempo real
+https://run-th-es.otteravision.com/run/th_es/th_es.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_crimen_latam_16x9.jpg" tvg-group="PREMIUM",Runtime Crimen
+https://run-cr-es.otteravision.com/run/cr_es/cr_es.m3u8
+
+#EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_romance_latam_16x9.jpg" tvg-group="PREMIUM",Romance de tiempo de ejecución
+https://run-rr-es.otteravision.com/run/rr_es/rr_es.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Cla%CC%81sicos-en-directo-Online. png" tvg-group="PREMIUM",Clásicos en tiempo de ejecución
+https://run-cl-es.otteravision.com/run/cl_es/cl_es.m3u8
+
+#EXTINF:-1 tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2" tvg-group="PREMIUM", PELÍCULAS MYTIME
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2020/09/site-logo.png" tvg-group="PREMIUM", PELÍCULAS MYTIME MX
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://canvas-bridge.tubitv.com/ivp-BpuT5YznpA90vM_7kHY17H4=/978x576/smart/img.adrise.tv/8bc99c7c-fc16-40d4-a372-115533b80ec4.jpg" tvg-group="PREMIUM",Estrella TV cine
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lgus/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://readytelevision.com/wp-content/uploads/2020/10/ready200.png" tvg-group="PREMIUM",Ready TV Canal 6
+https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.elplural.com/uploads/s1/15/40/03/0/pablo-motos.jpeg" tvg-group="INFANTILES", El Hormiguero
+https://fast-channels.atresmedia.com/648ef5882bfab0e4627e0d61/648ef5882bfab0e4627e0d61.m3u8
+
+#EXTINF:-1 tvg-logo="https://shangay.com/wp-content/uploads/2020/04/fisica-o-quimica-1200x624.jpg" tvg-group="INFANTILES", Física o química
+https://fast-channels.atresmedia.com/648ef50a2bfab0e4607e0d61/648ef50a2bfab0e4607e0d61.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/flooxer/picture?width=200&height=200" tvg-group="INFANTILES",flooxer
+https://fast-channels.atresmedia.com/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8125285.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/atresplayer/picture?width=200&height=200" tvg-group="INFANTILES",Atresplayer Clásicos
+https://fast-channels.atresmedia.com/648ef12c2bfab0e4507e0d61/648ef12c2bfab0e4507e0d61.m3u8
+
+#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Movistar_Comedia/Movistar_Comedia-Logo.wine.png" tvg-group="INFANTILES", Comedia TV
+https://fast-channels.atresmedia.com/648ef23d2bfab0e4557e0d61/648ef23d2bfab0e4557e0d61.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://tvienes.es/filesedc/uploads/image/post/el-club-de-la-comedia-logo_1200_800.webp" tvg-group="INFANTILES", El club de la comedia
+https://fast-channels.atresmedia.com/648f47f7a2ffb0e40aeff3ad/648f47f7a2ffb0e40aeff3ad.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K3n7ECn.png" tvg-group="INFANTILES", AFV
+https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/27B297E5-83A0-457F-B9EC-33C5A020F040/3-1x1.png/900" tvg-group="INFANTILES",Failarmy (España) (🇪🇸)
+https://460689fd4b6d4c80a0c539b27dc7cea8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_FailArmy/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/6cefaZzVkJk/hq720_live.jpg?sqp=CLjd8LAG-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAwYhbw7jvMED1ryoks8kEbxsB-qg" tvg-group="INFANTILES", Canal EGM | CL
+https://paneltv.online:1936/8186/8186/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/472_Mi_TV_Television_Clasica.png" tvg-group="INFANTILES", Mi TV Televisión Clásica | A NOSOTROS
+https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/argU5Q9r5-gvleMRCafNE2TyaWioaSr69ROMhr4nXG1iuzrT1noRMDJX8qAoYCZsfOA" tvg-group="INFANTILES",Telesur Costa Rica
+https://s1.tvdatta.com:3582/live/telesurlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.telecostaescuintla.com/gallery_gen/3b51c096b46472b84baedd3e6dba34ff_200x176.png" tvg-group="INFANTILES", TELECOSTA
+https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
+
+#EXTINF:-1 tvg-logo="https://vallevision.com.do/wp-content/uploads/2020/10/logovalle200.png" tvg-group="INFANTILES",VALLEVISION
+https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs2rLuXuvH6g7M2kVxj4GGG9gp_ectuT9YE8BKqlP7iOnITjutMga7U5fgeeSmu1JTio8&usqp=CAU" tvg-group="ARGENTINA", Villa TV
+https://inliveserver.com:1936/10016/10016/chunklist_w1357319705.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.radio-sabor.cl/wp-content/uploads/2021/02/logo_sbtv-300x300.png" tvg-group="MUSICA", Sabor TV | CL
+https://v1.tustreaming.cl/sabortv/index.m3u8?PlaylistM3UCL
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/EpEVoUX.png" tvg-group="MUSICA", Cadena Elite | HD | Granada | España
+https://cloudvideo.servers10.com:8081/8004/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/45043ca151a5f9ab3e8c62078c79ab26.png" tvg-group="MUSICA", La Nuestra | CL
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/ln/ln.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://supertrendy.net/wp-content/uploads/2018/06/app-streaming-05.png" tvg-group="MUSICA",MÚSICA MIXTA HD
+https://cdamix.streaming.ws/mixmusic/live/chunklist_w2105866232.m3u8
+
+#EXTINF: -1 tvg-logo="https://www.m3u.cl/logo/400_Red_Fueguina_Radio.png" tvg-group="MUSICA", Radio Fueguina Roja | CL
+https://inliveserver.com:1936/11012/11012/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o2wt2Hh.png" tvg-group="MUSICA", RADIO MIAMI TV
+https://stmv.video.gmpro.top/miamitv/miamitv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDJpaPSbsy2lzFiSVfap0K35Jk7kkZ_TDy-BVIa0KlmDZoX9i4Qea46x6sLOjraWog&usqp=CAU" tvg-group="MUSICA", 4MUSICHD
+https://cloudvideo.servers10.com:8081/8032/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/76/ESBA3300043M0_20220412T141131.png" tvg-group="MUSICA", Trace Urban
+https://amg01131-tracetv-traceurbanes-samsungspain-c6yeo.amagi.tv/playlist/amg01131-tracetv-traceurbanes-samsungspain/playlist.m3u8?ads.di d=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+
+#EXTINF:-1 tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/09/13/ESBA3300042Y6_20220713T034547.png" tvg-group="MUSICA", Trace Latina
+https://amg01131-tracetv-tracelatinaes-samsungspain-d7byg.amagi.tv/playlist/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8?ads.d id=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+
+#EXTINF:-439 tvg-logo="https://i.postimg.cc/wMpNvh8V/retrochannel.jpg" tvg-group="MUSICA", EL CANAL RETRO
+https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXyPnn746ZO5GWtkgUv9GNRWrVndZAXp6AuLiZfxxO-uvgd3PlRV58JQvnBf8J1GQdc9A&usqp=CAU" tvg-group="MUSICA",Elyon Canal Digital (Chillán) (288p) [No 24/7]
+https://paneltv.online:1936/8154/8154/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/b3UZEQKoQGGXKAXY_qwijvDVDIEqfqJv-nXP1jN-f71WFVSc4aq8ciIpD0O7BWpgD1s" tvg-grupo="MUSICA",KRONEHIT
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/32/USBB2300004KV_20220330T044626.png" tvg-group="MUSICA",Rock On
+https://dri82941jql2y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/RockMetal-prod/playlist.m3u8?ads.devic e_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/34/USBB3200007AK_20220330T044633.png" tvg-group="MUSICA",Recuerdos de los 90
+https://d3fr64zqebnqn3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/usbb3200007ak-prod/amg90rock/playlist.m3u8?ad s.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/09/39/USBB2300003JZ_20220330T044627.png" tvg-group="MUSICA",Relájate
+https://d3ai750ol9my06.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/JustChill-prod/playlist.m3u8?ads.devic e_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/24/USBB320000647_20220330T044631.png" tvg-group="MUSICA",Recuerdos de los 80
+https://dw0oa71jud5ry.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/usbb320000647-prod/amg80rewind/playlist.m3u8?a ds.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qiCCX5X.png" tvg-group="MUSICA",Ahora 70's
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81FZkpWusDL.png" tvg-group="MUSICA",Ahora 80's
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVzq034AkaezRbGKp4bhJrJ3ERUJ7SU0itikHJfMvxECX3ZYabSjo2rS131DqRdi72ex0&usqp=CAU" tvg-group="MUSICA",Ahora Rock
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qYRw4JP/Captura.png" tvg-group="MUSICA",República TV (720p) py
+https://rds3.desdeparaguay.net/republicatv/republicatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOnFw4g5tgV2kV1tjlr23gPUfyan_Ik4d5Gp4RL6QtVxhb4GTca-VHNijocdaKsx6Pn84&usqp=CAU" tvg-group="MUSICA", TV One NICARAGUA
+https://cootv.cootel.com.ni:8095/channeltvone/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s265522g.png" tvg-group="MUSICA",La Mega Mundial | EE.UU.
+https://server40.servistreaming.com:3477/stream/play.m3u8
+
