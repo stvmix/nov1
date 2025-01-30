@@ -256,10 +256,10 @@ https://cloud2.streaminglivehd.com:1936/8010/8010/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1zGkNs79 /BEIN-SPORTS-EXTRA-VU-TV-PLAYER.png" tvg-group="Deportes", Bein Sports Xtra
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1zGkNs79 /BEIN-SPORTS-EXTRA-VU-TV-PLAYER.png" tvg-group="Deportes",BEIN SPORTS XTRA Español
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1zGkNs79 /BEIN-SPORTS-EXTRA-VU-TV-PLAYER.png" tvg-group="Deportes",BEIN SPORTS XTRA Español EVENTOS
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/V9hAGpb.png" group-title="Deportes", Tigo Sports | HD | Guatemala
+#EXTINF: -1 tvg-logo="https://i.imgur.com/V9hAGpb.png" group-title="Deportes", Tigo Sports | HD | Guatemala EVENTOS
 https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/584a9b47b080d7616d298778.png" tvg-group="Deportes",Real Madrid
@@ -734,9 +734,6 @@ https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8
 
 #EXTINF:0  tvg-logo="https://d0cdb7b2de.cbaul-cdnwnd.com/9c7dbb7eba389216910092fa77cc9fd0/200000020-a4c85a4c8a/LOGO%20SEP%202024.png?ph=d0cdb7b2de" tvg-group="INFANTILES",Taltal (Chile) (🇨🇱)
 https://glb.bozztv.com/glb/ssh101/animacion/playlist.m3u8
-
-#EXTINF:0  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/ADSM.png?raw=true" tvg-group="INFANTILES", Adult Swim 45 (España) (🇪🇸)
-http://45.169.163.83:8000/play/a18f
 
 #EXTINF:0  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/ADSM.png?raw=true" tvg-group="INFANTILES", Adult Swim 181 (Mexico) (🇲🇽)
 http://181.78.8.90:16123/play/ch75
@@ -1242,7 +1239,7 @@ https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf9
 #EXTINF:-1 tvg-logo="https://canal3impresionante.com/wp-content/uploads/2020/12/LOGO-CANAL-3-con-circulo-blanco-1-1024x868.png" group-title="El Salvador", Canal 3 | SD | salvador
 https://cloud2.streaminglivehd.com:1936/8048/8048/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/33s1ZH4.png" group-title="El Salvador", Canal 4 | HD | salvador
+#EXTINF:-1 tvg-logo="https://i.imgur.com/33s1ZH4.png" group-title="El Salvador", Canal 4 | HD | salvador EVENTOS
 http://38.180.133.31:8000/play/a0y5
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ad2tDEy.png" group-title="El Salvador", Canal 6 | HD | salvador
@@ -1906,10 +1903,10 @@ https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/.m3u8
 #EXTINF:0  tvg-logo="https://vtvcanal17.com/file/2023/12/logo-vtv.png" tvg-group="ARGENTINA", VTV Canal 17 (Bolivia) (🇧🇴)
 https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/.m3u8
 
-#EXTINF:0 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/16af5933-c8e0-4d5b-8488-45339c5b0252/df094zq-78040c6e-c793-4b3a-8625-2cbd17270409.png/v1/fill/w_800,h_996/canal_5_logo__2016_actualidad__by_fanmmsskittles_df094zq-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTk2IiwicGF0aCI6IlwvZlwvMTZhZjU5MzMtYzhlMC00ZDViLTg0ODgtNDUzMzljNWIwMjUyXC9kZjA5NHpxLTc4MDQwYzZlLWM3OTMtNGIzYS04NjI1LTJjYmQxNzI3MDQwOS5wbmciLCJ3aWR0aCI6Ijw9ODAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.vsgh3KJMaPdLN2yvQUVUrA40Qh6csrI8J9UyQrs5rG4" tvg-group="ARGENTINA", 5 (Mexico) (🇲🇽)
+#EXTINF:0 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/16af5933-c8e0-4d5b-8488-45339c5b0252/df094zq-78040c6e-c793-4b3a-8625-2cbd17270409.png/v1/fill/w_800,h_996/canal_5_logo__2016_actualidad__by_fanmmsskittles_df094zq-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTk2IiwicGF0aCI6IlwvZlwvMTZhZjU5MzMtYzhlMC00ZDViLTg0ODgtNDUzMzljNWIwMjUyXC9kZjA5NHpxLTc4MDQwYzZlLWM3OTMtNGIzYS04NjI1LTJjYmQxNzI3MDQwOS5wbmciLCJ3aWR0aCI6Ijw9ODAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.vsgh3KJMaPdLN2yvQUVUrA40Qh6csrI8J9UyQrs5rG4" tvg-group="ARGENTINA", 5 (Mexico) (🇲🇽) EVENTOS
 https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/CANAL5/40-hls/live-media.m3u8
 
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/escandaloso/images/6/6a/Logo_Azteca_7.png/revision/latest/scale-to-width-down/250?cb=20180716012938&path-prefix=es" tvg-group="ARGENTINA",Azteca 7 (Mexico) (🇲🇽)
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/escandaloso/images/6/6a/Logo_Azteca_7.png/revision/latest/scale-to-width-down/250?cb=20180716012938&path-prefix=es" tvg-group="ARGENTINA",Azteca 7 (Mexico) (🇲🇽) EVENTOS
 https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/AZTECA7/40-hls/live-media.m3u8
 
 #EXTINF:0  tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F4a134b06-1d11-4ff9-834e-35e2a4fb5050%2F5-Minute_Crafts_Horizontalrdx.jpg" tvg-group="ARGENTINA", 5 Minute Crafts (España) (🇪🇸)
@@ -2126,4 +2123,3 @@ https://cootv.cootel.com.ni:8095/channeltvone/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s265522g.png" tvg-group="MUSICA",La Mega Mundial | EE.UU.
 https://server40.servistreaming.com:3477/stream/play.m3u8
-
