@@ -2123,3 +2123,6 @@ https://cootv.cootel.com.ni:8095/channeltvone/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s265522g.png" tvg-group="MUSICA",La Mega Mundial | EE.UU.
 https://server40.servistreaming.com:3477/stream/play.m3u8
+
+#EXTINF:-1 tvg-logo="" tvg-group="MUSICA",dsports
+https://streamtp2.com/global1.php?stream=dsports
