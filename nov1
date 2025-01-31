@@ -688,6 +688,15 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60493283f
 #EXTINF:-1 tvg-logo="https://licensing.biz/wp-content/uploads/2023/05/MB_KEYART-2023_LANDSCAPE_01-copy-1024x576.jpg" tvg-group="INFANTILES", Moonbug Kids L
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3365
 
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991687/600x337.webp?type=channelTile" tvg-group="INFANTILES", MOJITV
+https://dbrb49pjoymg4.cloudfront.net/10001/99991687/hls/master.m3u8?ads.xumo_channelId=99991687
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2SkMY7n/kids-tv.png" tvg-group="INFANTILES", TV INFANTIL
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-et/master_es.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zxjmbLC/toonz-kids.png" tvg-group="INFANTILES", TOONZ KIDS
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids-spanish/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Mr%20Bean.webp" tvg-group="INFANTILES",Mr. Bean 🇪🇸
 https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
 
@@ -1194,13 +1203,13 @@ https://vivo.canaloncelive.tv:443/alivepkgr3/ngrp:cepro_all/chunklist_b2098304.m
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/6b3fa6101174459.Y3JvcCwxMTQ1LDg5NiwxMjEsODQ1.jpg" tvg-group="ARGENTINA", Canal 6 CDMX 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6405 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cULf4Yd.png" group-title="Internacionales", Estrella TV | HD | Estados Unidos
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IZxjnyp.png" tvg-group="ARGENTINA", Estrella TV | HD | Estados Unidos
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png", ESTRELLA Tv
 https://estrellatv-roku.amagi.tv:443/playlistR1080p.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60492e6d7f3f560007ab0f62/featuredImage.jpg?auto=&q=70&fit=fill&fill=blur&ixlib=react-9.1.5", ESTRELLA NEWS 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HRrkhLq.png", ESTRELLA NEWS 
 https://estrellanews-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/1linear-sony-one-competencias-16x9_1.jpg", Sony Competencias
@@ -1337,12 +1346,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
 
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/video/thumbnails/widescreen/400x225/channel-canela_telenovelas-16x9.jpg" group-title="CANELA TV", Canela Telenovelas
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
-
-#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/itv_deportes_16x9.jpg" group-title="CANELA TV", ITV Deportes
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
-
-#EXTINF:-1 tvg-logo="https://www.canela.tv/themes/custom/cnm/canela_tv/logo.png" group-title="CANELA TV" , Deportes Canela
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1443
 
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/cm-canela-presents-16x9_2.jpg" group-title="CANELA TV", Canela Music Presenta
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2548
@@ -2076,7 +2079,7 @@ https://cdamix.streaming.ws/mixmusic/live/chunklist_w2105866232.m3u8
 #EXTINF: -1 tvg-logo="https://www.m3u.cl/logo/400_Red_Fueguina_Radio.png" tvg-group="MUSICA", Radio Fueguina Roja | CL
 https://inliveserver.com:1936/11012/11012/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://www.miamiglobalradio.com/miami-global-radio-logo.svg" tvg-group="MUSICA", RADIO MIAMI TV
+#EXTINF: -1 tvg-logo="https://eng-films.site/uploads/mini/250x325/dc/be8d2f922395a05340962a78bee0f6.jpg" tvg-group="MUSICA", RADIO MIAMI TV
 https://stmv.video.gmpro.top/miamitv/miamitv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwcImhczXziRULzXPpba5iH6pXD1IVtBOi3ynRhHf4a81UXOjJtEJSJi-Fprij7RVpoF8&usqp=CAU" tvg-group="MUSICA", 4MUSICHD
@@ -2128,22 +2131,12 @@ https://cootv.cootel.com.ni:8095/channeltvone/playlist.m3u8
 https://server40.servistreaming.com:3477/stream/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.flowics.com/wp-content/uploads/2021/11/clients_tudn.png?resize=1000%2C400&ssl=1" tvg-group="Deportes",TUDN Vix 🇲🇽 190 EVENTOS
-http://190.92.10.66:4000/play/a002/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991687/600x337.webp?type=channelTile" tvg-group="INFANTILES", MOJITV
-https://dbrb49pjoymg4.cloudfront.net/10001/99991687/hls/master.m3u8?ads.xumo_channelId=99991687
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2SkMY7n/kids-tv.png" tvg-group="INFANTILES", TV INFANTIL
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-et/master_es.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zxjmbLC/toonz-kids.png" tvg-group="INFANTILES", TOONZ KIDS
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids-spanish/master.m3u8
-
-#EXTINF:-1tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/16f8ed90cfdce23eb93131280ab06426.webp" tvg-group="INFANTILES", extrema tv acción
-https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyoptMei6_QX_CHVzyPKpsVD1w2dRQes2JUw&usqp=CAU" tvg-group="INFANTILES", grjngo del oeste
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyoptMei6_QX_CHVzyPKpsVD1w2dRQes2JUw&usqp=CAU" tvg-group="INFANTILES", grjngo del oeste retro
 https://45e603c214f5438cae8872707b7fd678.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_GrjngoPeliculasDelOeste/playlist.m3u8?ads.wurl_channel=1239&ads.wurl_name=GrjngoPeliculasDelOeste&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+#EXTINF:-1tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/LOGO-2023-XT-chico.png" tvg-group="INFANTILES", extrema tv acción sd
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2751264928/0facb64f7c7468a07681c5f27874d9a4_400x400.png" tvg-group="ARGENTINA", CANAL 8 VALLE DE UCO
 https://videostream.shockmedia.com.ar:19360/canal8/canal8.m3u8
@@ -2157,47 +2150,29 @@ https://vivo.solumedia.com:19360/realpolitik/realpolitik.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/9c35ed9d785ebcdea3a3319d584a9821.png" tvg-group="ARGENTINA", Mas FM | AR
 https://vivo.solumedia.com:19360/masfm/masfm.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://recuerdosretro.com/wp-content/uploads/2022/03/cropped-logo_new_web10.png" tvg-group="MUSICA", Radio Recuerdos Retro TV
-https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://naranjatv.net/wp-content/uploads/2023/05/275x275-transparente.png" tvg-group="MUSICA", Naranja TV (720p)
 https://cdn.streamingcpanel.com:3526/live/teleraiceslive.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-gtOJEZDXT74/X6ial-IEvuI/AAAAAAAA7HE/DVodKb8gbr4UYli0KdKGZf9Bfz4WrXqwQCK8BGAsYHg/s0/2020-11-08.png" tvg-group="MUSICA", Infinita TV Premium | US
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3235-640x360-FFFFFF.jpg" tvg-group="MUSICA", Infinita TV Premium
 https://s2.tvdatta.com:3753/hybrid/play.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://playmax.tv/wp-content/uploads/2022/11/oktv.png" tvg-group="ARGENTINA", OK Televisión || soritor
 https://live.obslivestream.com/oktv/video.m3u8?token=Bk-DXAXulO1OV0
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/w6OBzswjSQyeDBwl6z2J5pGiQjuHH3JcmLgXVxGf68WUMocekssnBW_VAZpOdMVee34=s180-rw" tvg-group="ARGENTINA", Nor Selva Televisión || la Rioja
+#EXTINF:-1 tvg-logo="https://radiotvnorselva.com/wp-content/uploads/2024/10/LOGO-NORSELVA-RIOJA.png" tvg-group="ARGENTINA", Nor Selva Televisión || la Rioja comedy
 https://live.obslivestream.com/norselvatv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://dobleaamedios.com/recursos/logo.png" tvg-group="ARGENTINA", Televisor doble AA || Yurimaguas
 https://videoserver.tmcreativos.com:19360/yvmgbdpqmp/yvmgbdpqmp.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Cajamarca_TV.png" tvg-group="ARGENTINA", Cajamarca TV || Cajamarca
-https://ott1.hdlatam.tv/miFibra/Rt89jgK7JwGE-MuxRated/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Yt6qyjL/trv.png" tvg-group="ARGENTINA",TRV (480p)
 https://vcp3.myplaytv.com/trv/trv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.telelima.pe/logo.png" tvg-group="ARGENTINA", TELELIMA
-http://38.44.237.132:2080/TeleLima/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tsajuxi.png" tvg-group="ARGENTINA", Buena TV (1080p)
+https://59825a54e4454.streamlock.net:8443/papo351/papo351/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YvdzJHj.png" tvg-group="ARGENTINA", Telecolor 
-https://cloud.livescast.com:19360/telecolor/telecolor.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jPzcb2S.png" tvg-group="ARGENTINA", TeleAragua 
-http://45.173.198.59:8080/hls/nginx3.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bbhgIN4.png" tvg-group="ARGENTINA", Telesur Camana
-https://1667517699.rsc.cdn77.org/hls/camana.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e6esjLZ.jpg" tvg-group="ARGENTINA", Tu Universo TV 
-https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/G7zIVB7.png" tvg-group="ARGENTINA", Agenda 56 (720p)
-https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CnAc7jU.png" tvg-group="ARGENTINA", COCO TV (720p)
+https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2893-800x450-FFFFFF.jpg" tvg-group="ARGENTINA", Mega Cine (1080p)
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
@@ -2205,26 +2180,26 @@ https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zgGuCYL.png" tvg-group="ARGENTINA", Austral TV (1080p) ec
 https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tsajuxi.png" tvg-group="ARGENTINA", Buena TV (1080p)
-https://59825a54e4454.streamlock.net:8443/papo351/papo351/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YvdzJHj.png" tvg-group="ARGENTINA", Telecolor 
+https://cloud.livescast.com:19360/telecolor/telecolor.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yEfSnGt.png" tvg-group="ARGENTINA", Canal 45 (576p)
-https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e6esjLZ.jpg" tvg-group="ARGENTINA", Tu Universo TV 
+https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CnAc7jU.png" tvg-group="ARGENTINA", COCO TV (720p)
-https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vJZqrFY/a4ed367c69c23110d458a332af95be0be64566f288ccb5f261689344e6ba5e0d.png" tvg-group="ARGENTINA", Coto Brus TV (720p)
-https://cloudvideo.servers10.com:8081/8030/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PBgQi9a.png" tvg-group="ARGENTINA", Guaymate TV 
-https://5790d294af2dc.streamlock.net/8100/8100/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/canal-mas-television-5347.jpg" tvg-group="ARGENTINA", Más TV (720p)
-https://movil.ejeserver.com/live/teledoradahd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G7zIVB7.png" tvg-group="ARGENTINA", Agenda 56 (720p)
+https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YjgYYH3.png" tvg-group="ARGENTINA", LatacungaTV  
 https://ssh101.bozztv.com/ssh101/streamlatacungatv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/canal-mas-television-5347.jpg" tvg-group="ARGENTINA", Más TV (720p)
+https://movil.ejeserver.com/live/teledoradahd.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YXYv8sf/logo-soltv2.png" tvg-group="ARGENTINA", Sol TV (720p)
 https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yEfSnGt.png" tvg-group="ARGENTINA", Canal 45 (576p)
+https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vJZqrFY/a4ed367c69c23110d458a332af95be0be64566f288ccb5f261689344e6ba5e0d.png" tvg-group="ARGENTINA", Coto Brus TV (720p)
+https://cloudvideo.servers10.com:8081/8030/index.m3u8
