@@ -843,7 +843,7 @@ https://5eaccbab48461.streamlock.net:1936/8222/8222/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://vclassictv.cl/wp-content/uploads/2024/09/lovovclassictv_24-e1725897773915.png" tvg-group="MUSICA", VClassicTV | CL
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703172779.jpg?w=1119&h=1019" tvg-group="MUSICA", TOP LATINO bitel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png/150px-LOGO_TOP_LATINO_PNG_2017_-_500px.png" tvg-group="MUSICA", TOP LATINO bitel
 https://live-evg25.tv360.bitel.com.pe/bitel/toplatino/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://recuerdosretro.com/wp-content/uploads/2022/03/cropped-logo_new_web10.png" tvg-group="MUSICA",Recuerdos Retro (Chile) (🇨🇱)
@@ -1953,7 +1953,7 @@ https://g4.mc-slo.transport.edge-access.net/a10/ngrp:canal10junin-100056_all/Pla
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AlY38PN.png" tvg-group="ARGENTINA",MDA Televisión
 https://vcp.myplaytv.com/mdatv/mdatv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.betanoticias.com/wp-content/uploads/2023/09/canal-21-misiones.png" tvg-group="ARGENTINA", TELEVISOR Canal 21
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gNCT3zG.png" tvg-group="ARGENTINA", TELEVISOR Canal 21
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZi2PV655h2ZT2fLl6Gmr0xH_NeeIQXwTCMQfmFokEOmJBVYpAfp2-I9Ibkfogn-4Zwdk&usqp=CAU" tvg-group="ARGENTINA",Antena Seis | CR
@@ -1961,6 +1961,9 @@ https://cloudvideo.servers10.com:8081/8132/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://frankly-vod.akamaized.net/venevision/uploaded/8b06ad03-49ae-4c7e-babe-25645a0b42ce.jpeg" tvg-group="ARGENTINA",Venevision Internacional (720p)
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logotipo_de_Venevisi%C3%B3n.svg/512px-Logotipo_de_Venevisi%C3%B3n.svg.png" tvg-group="ARGENTINA", Venevisión (1080p)
+https://venevision.akamaized.net/hls/live/2098814/VENEVISION/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/channel-true_crime-16x9.jpg" tvg-group="PREMIUM", CRIMEN VERDADERO DE CANELA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3985
@@ -2141,3 +2144,87 @@ https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyoptMei6_QX_CHVzyPKpsVD1w2dRQes2JUw&usqp=CAU" tvg-group="INFANTILES", grjngo del oeste
 https://45e603c214f5438cae8872707b7fd678.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_GrjngoPeliculasDelOeste/playlist.m3u8?ads.wurl_channel=1239&ads.wurl_name=GrjngoPeliculasDelOeste&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2751264928/0facb64f7c7468a07681c5f27874d9a4_400x400.png" tvg-group="ARGENTINA", CANAL 8 VALLE DE UCO
+https://videostream.shockmedia.com.ar:19360/canal8/canal8.m3u8
+
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/a4/b4/a4b4fda80f172b6cc38a277a32680090.jpg" tvg-group="ARGENTINA", RADIO A 92.3 FM ORAN
+https://stmv3.voxtvhd.com.br/054/054/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuDYzr4kNNmx48_iPrlBuyVhPEgKBeHt1HdcTOc69qJPvPbZJ2LvanepR2OXcaEyniXAo&usqp=CAU" tvg-group="ARGENTINA", REALPOLITIK LA PLATA
+https://vivo.solumedia.com:19360/realpolitik/realpolitik.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/9c35ed9d785ebcdea3a3319d584a9821.png" tvg-group="ARGENTINA", Mas FM | AR
+https://vivo.solumedia.com:19360/masfm/masfm.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://recuerdosretro.com/wp-content/uploads/2022/03/cropped-logo_new_web10.png" tvg-group="MUSICA", Radio Recuerdos Retro TV
+https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://naranjatv.net/wp-content/uploads/2023/05/275x275-transparente.png" tvg-group="MUSICA", Naranja TV (720p)
+https://cdn.streamingcpanel.com:3526/live/teleraiceslive.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-gtOJEZDXT74/X6ial-IEvuI/AAAAAAAA7HE/DVodKb8gbr4UYli0KdKGZf9Bfz4WrXqwQCK8BGAsYHg/s0/2020-11-08.png" tvg-group="MUSICA", Infinita TV Premium | US
+https://s2.tvdatta.com:3753/hybrid/play.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://playmax.tv/wp-content/uploads/2022/11/oktv.png" tvg-group="ARGENTINA", OK Televisión || soritor
+https://live.obslivestream.com/oktv/video.m3u8?token=Bk-DXAXulO1OV0
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/w6OBzswjSQyeDBwl6z2J5pGiQjuHH3JcmLgXVxGf68WUMocekssnBW_VAZpOdMVee34=s180-rw" tvg-group="ARGENTINA", Nor Selva Televisión || la Rioja
+https://live.obslivestream.com/norselvatv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://dobleaamedios.com/recursos/logo.png" tvg-group="ARGENTINA", Televisor doble AA || Yurimaguas
+https://videoserver.tmcreativos.com:19360/yvmgbdpqmp/yvmgbdpqmp.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Cajamarca_TV.png" tvg-group="ARGENTINA", Cajamarca TV || Cajamarca
+https://ott1.hdlatam.tv/miFibra/Rt89jgK7JwGE-MuxRated/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yt6qyjL/trv.png" tvg-group="ARGENTINA",TRV (480p)
+https://vcp3.myplaytv.com/trv/trv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.telelima.pe/logo.png" tvg-group="ARGENTINA", TELELIMA
+http://38.44.237.132:2080/TeleLima/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YvdzJHj.png" tvg-group="ARGENTINA", Telecolor 
+https://cloud.livescast.com:19360/telecolor/telecolor.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jPzcb2S.png" tvg-group="ARGENTINA", TeleAragua 
+http://45.173.198.59:8080/hls/nginx3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bbhgIN4.png" tvg-group="ARGENTINA", Telesur Camana
+https://1667517699.rsc.cdn77.org/hls/camana.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e6esjLZ.jpg" tvg-group="ARGENTINA", Tu Universo TV 
+https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G7zIVB7.png" tvg-group="ARGENTINA", Agenda 56 (720p)
+https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2893-800x450-FFFFFF.jpg" tvg-group="ARGENTINA", Mega Cine (1080p)
+https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zgGuCYL.png" tvg-group="ARGENTINA", Austral TV (1080p) ec
+https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tsajuxi.png" tvg-group="ARGENTINA", Buena TV (1080p)
+https://59825a54e4454.streamlock.net:8443/papo351/papo351/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yEfSnGt.png" tvg-group="ARGENTINA", Canal 45 (576p)
+https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CnAc7jU.png" tvg-group="ARGENTINA", COCO TV (720p)
+https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vJZqrFY/a4ed367c69c23110d458a332af95be0be64566f288ccb5f261689344e6ba5e0d.png" tvg-group="ARGENTINA", Coto Brus TV (720p)
+https://cloudvideo.servers10.com:8081/8030/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PBgQi9a.png" tvg-group="ARGENTINA", Guaymate TV 
+https://5790d294af2dc.streamlock.net/8100/8100/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/canal-mas-television-5347.jpg" tvg-group="ARGENTINA", Más TV (720p)
+https://movil.ejeserver.com/live/teledoradahd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YjgYYH3.png" tvg-group="ARGENTINA", LatacungaTV  
+https://ssh101.bozztv.com/ssh101/streamlatacungatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YXYv8sf/logo-soltv2.png" tvg-group="ARGENTINA", Sol TV (720p)
+https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
