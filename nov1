@@ -2124,5 +2124,12 @@ https://cootv.cootel.com.ni:8095/channeltvone/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s265522g.png" tvg-group="MUSICA",La Mega Mundial | EE.UU.
 https://server40.servistreaming.com:3477/stream/play.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-group="MUSICA",dsports
-https://streamtp2.com/global1.php?stream=dsports
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5ywzQpvM/DSports.png" tvg-group="Deportes", Dsports + 🇦🇷 EVENTOS
+https://7.tutl24.xyz/dash/ST3a33575558486ad.mpd
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.flowics.com/wp-content/uploads/2021/11/clients_tudn.png?resize=1000%2C400&ssl=1" tvg-group="Deportes",TUDN Vix 🇲🇽 190 EVENTOS
+http://190.92.10.66:4000/play/a002/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Xvv4Sx1L/tyc.png" tvg-group="Deportes", TYC Sports 🇦🇷 EVENTOS
+https://7.tutl24.xyz/dash/ST609ab7f8a4d3f2a.mpd
+
