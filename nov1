@@ -2126,3 +2126,73 @@ https://server40.servistreaming.com:3477/stream/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.flowics.com/wp-content/uploads/2021/11/clients_tudn.png?resize=1000%2C400&ssl=1" tvg-group="Deportes",TUDN Vix 🇲🇽 190 EVENTOS
 http://190.92.10.66:4000/play/a002/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991687/600x337.webp?type=channelTile" tvg-group="INFANTILES", MOJITV
+https://dbrb49pjoymg4.cloudfront.net/10001/99991687/hls/master.m3u8?ads.xumo_channelId=99991687
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2SkMY7n/kids-tv.png" tvg-group="INFANTILES", TV INFANTIL
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-et/master_es.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zxjmbLC/toonz-kids.png" tvg-group="INFANTILES", TOONZ KIDS
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids-spanish/master.m3u8
+
+#EXTINF:-1tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/16f8ed90cfdce23eb93131280ab06426.webp" tvg-group="INFANTILES", extrema tv acción
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyoptMei6_QX_CHVzyPKpsVD1w2dRQes2JUw&usqp=CAU" tvg-group="INFANTILES", grjngo del oeste
+https://45e603c214f5438cae8872707b7fd678.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_GrjngoPeliculasDelOeste/playlist.m3u8?ads.wurl_channel=1239&ads.wurl_name=GrjngoPeliculasDelOeste&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+#KODIPROP: tipo_licencia_adaptativa_de_entrada=org.w3.clearkey
+#KODIPROP: clave de licencia adaptativa de flujo de entrada = cc8d44406ed6bf1898ad9f7a2d64f29e: fb85d059687ab0fc67805806204edbdf
+#EXTINF:-1 tvg-chno="208" tvg-id="ESPNExtraHDSouth.us" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_06/large.1321307982_ESPNExtra.png.dab30b1a6f200ecbb305435d36e06ee9.png" tvg-group="Deportes", ESPN Extra mpd
+https://cdn.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd
+
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-_tE8VO8HMnA/X0_XRjluTAI/AAAAAAAA6Ts/-pyWu9d-VyAKrBlIG1S84e2hVSWEfoHagCLcBGAsYHQ/s0/cm-elcanaldelamusica.png" group-title="🎵 MÚSICA", CANAL DE MÚSICA
+#KODIPROP: inputstream.adaptive.license_type=clave de borrado
+#KODIPROP: clave de licencia de flujo de entrada adaptable = 682f36b5736f4560951ca14b80d29524:3accb729067a39b3b8143f1b447b9d25
+https://cdn.cvattv.com.ar/live/c6eds/CM/SA_Live_dash_enc/CM.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/MuchMusicLA_%282007%29.svg/240px-MuchMusicLA_%282007%29.svg.png" group-title="🎵 MÚSICA", MUCHA MÚSICA
+#KODIPROP: inputstream.adaptive.license_type=clave de borrado
+#KODIPROP: clave de licencia de flujo de entrada adaptable = 1cb0558f9ddd4820bc9982ce483e5888:c2845f4c554fcaf96a13da4a373868c4
+https://cdn.cvattv.com.ar/live/c6eds/Much_Music/SA_Live_dash_enc/Much_Music.mpd
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png" group-title="🎵 MÚSICA", TOP LATINO TV
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5Y4C401/telehit.png" group-title="🎵 MÚSICA", TELEHIT
+https://linear-417.frequency.stream/mt/studio/417/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p4243Nf/Telehit-M-sica.png" group-title="🎵 MÚSICA", TELEHIT MÚSICA
+https://linear-418.frequency.stream/mt/studio/418/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hg3bxH0/do-download.png" group-title="🎵 MÚSICA", TELEHIT MÚSICA PLUS
+https://linear-419.frequency.stream/mt/studio/419/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j5pLJYG/flou-caribe-o.png" group-title="🎵 MÚSICA", FLOU CARIBEÑO
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01365-spanglishmovies-floucaribedistro-distrotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KW7fckh/la-bocina-latina.png" group-title="🎵 MÚSICA", LA BOCINA LATINA
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/la-bocina-latina/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cbd953a228ec414f4497f35ff433ca05.webp" group-title="📚 CULTURA", NAT GEO WILD
+#KODIPROP: inputstream.adaptive.license_type=clave de borrado
+#KODIPROP: clave de licencia de flujo de entrada adaptable = d1622e41b898458f889c697b0de3d1f0:7ad1ffd9308b35d961a6dae3c596fa57
+https://testphp07.alwaysdata.net/yt/BJ3Yv572V1A.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://americatucuman.com/wp-content/uploads/2020/03/LOGO-AMERICA-TUCUMAN-2020.png" group-title="INTERIOR DE ARGENTINA", AMÉRICA TUCUMAN
+https://m.mtd.llc/iptv-query.m3u8?streaming-ip=https://www.youtube.com/@AmericaTucuman/live
+
+#EXTINF:-1 tvg-logo="https://www.elocho.tv/resources/logos/twitter-card-1200x600.jpg" group-title="INTERIOR DE ARGENTINA", EL 8 TUCUMAN
+https://cdn.cvattv.com.ar/live/c7eds/Canal_8_Tucuman/SA_Live_dash_enc/Canal_8_Tucuman.mpd
+
+
+#EXTINF:-1 tvg-logo="https://www.laizquierdadiario.com/IMG/arton53465.jpg" group-title="INTERIOR DE ARGENTINA", CANAL 10 TUCUMAN
+https://cdn.cvattv.com.ar/live/c7eds/Ch10_Tucuman/SA_Live_dash_enc/Ch10_Tucuman.mpd
