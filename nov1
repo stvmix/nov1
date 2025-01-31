@@ -1959,13 +1959,13 @@ https://vcp.myplaytv.com/mdatv/mdatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gNCT3zG.png" tvg-group="ARGENTINA", TELEVISOR Canal 21
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZi2PV655h2ZT2fLl6Gmr0xH_NeeIQXwTCMQfmFokEOmJBVYpAfp2-I9Ibkfogn-4Zwdk&usqp=CAU" tvg-group="ARGENTINA",Antena Seis | CR
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/e5aab5e0014212f79dd7593320cb56a3e088ccf65db175dc8b78e3ccfb5f54ab.png" tvg-group="ARGENTINA",Antena Seis | CR
 https://cloudvideo.servers10.com:8081/8132/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://frankly-vod.akamaized.net/venevision/uploaded/8b06ad03-49ae-4c7e-babe-25645a0b42ce.jpeg" tvg-group="ARGENTINA",Venevision Internacional (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vtGED07.jpg" tvg-group="ARGENTINA",Venevision Internacional (720p)
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logotipo_de_Venevisi%C3%B3n.svg/512px-Logotipo_de_Venevisi%C3%B3n.svg.png" tvg-group="ARGENTINA", Venevisión (1080p)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Posible-logo-de-venevision-2015-v1.png/revision/latest/scale-to-width-down/250?cb=20210604191654&path-prefix=es" tvg-group="ARGENTINA", Venevisión (1080p)
 https://venevision.akamaized.net/hls/live/2098814/VENEVISION/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/channel-true_crime-16x9.jpg" tvg-group="PREMIUM", CRIMEN VERDADERO DE CANELA
