@@ -193,8 +193,8 @@ https://dsr.ride.com.ar/tvmia/an21/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/espn2.png" tvg-group="Deportes",ESPN2 190 z
 http://190.123.90.146:8000/play/a02z/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/espn2.png" tvg-group="Deportes",ESPN 2 181
-http://181.78.8.90:16123/play/ch17
+#EXTINF:-1  tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/espn2.png" tvg-group="Deportes",ESPN 2 - 140
+http://148.113.190.252:8000/play/a034/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/espn3.png" tvg-group="Deportes",ESPN3 190
 http://190.123.90.146:8000/play/a00d/index.m3u8
@@ -208,7 +208,7 @@ http://190.123.90.146:8000/play/a00e/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.vexels.com/media/users/3/158703/isolated/lists/28c7cb429bd2a66c42d7507936405281-silueta-de-futbol-del-pentagono.png", (EVENTOS) EN ESPAñO
 
-#EXTINF:-1  tvg-logo="https://tycsports.hiringroom.com/data/accounts/tycsports/microsite/cfb58ca8d62e9685391d991717b44fb6.png" tvg-group="Deportes", TyC
+#EXTINF:-1  tvg-logo="https://tycsports.hiringroom.com/data/accounts/tycsports/microsite/cfb58ca8d62e9685391d991717b44fb6.png" tvg-group="Deportes", TyC 190
 http://190.123.90.146:8000/play/a00k/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/FhOQWiELN6RRFwFbxKWWWEBLgGhXifnJfWT8SWtHZUdSH6fT3Jc_IC88xtebGFXTbQ" tvg-group="Deportes",TYC Sports Play 🇦🇷 ⚽
@@ -470,9 +470,7 @@ https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZoRRVDf.png" group-title="Familiares",Pakapaka 190
 http://190.123.90.146:8000/play/a02f/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/ADSM.png?raw=true" group-title="Cine, Novelas y Series", [adult swim]
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/u9S0l7vCtlJ_y6Iii4AzfsKBeWiNwfGocWnNTDTq9RMrYl01KhWRFWixnS_mNkSh_1sQ1MJV=s900-c-k-c0x00ffffff-no-rj" tvg-group="INFANTILES", Disney Channel (España)
+#EXTINF:-1 tvg-logo="" tvg-group="INFANTILES", Disney Channel (España)
 http://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:21_HD.smil/.m3u8
 
 #EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTQxX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1708456868844" tvg-group="INFANTILES", Disney OK
@@ -924,11 +922,17 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kwIrTSI.png" tvg-group="INFANTILES",Futurama stream
 https://stream-cdn-iad.vaughnsoft.net/play/live_futurama_mania_.flv?android_vs.ts.m3u8
 
+#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2018_10/1679567950_DistritoComedia-.png.51fc33f3d4f8dff729c018643cfb86bb.png" tvg-group="INFANTILES", DISTRITO HD 140
+http://148.113.190.252:8000/play/a00j/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhU7iZpzdpM40DfyveaO98h_pBYadlL9SSCsdatIVlsitCBdD7oWjYAb4IuQHzCtB8oQw&usqp=CAU" tvg-group="INFANTILES",Comedy Central
 https://delivery.cdn.rcs.net.ar/mnp/comedy_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_02/large.Comedy-Central-Symbol-removebg-preview.png.d75d3300d085d087750eda7f6bf1fedd.png" tvg-group="INFANTILES",COMEDY CENTRAL 190
 http://190.123.90.146:8000/play/a00z/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1725313117.jpg?w=1119&h=1019" tvg-group="INFANTILES", COMEDY CENTRAL xmp
+http://bantel-cdn1.iptvperu.tv:1935/xmp_trans/comedy.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5cf96dad1652631e36d43320/thumbnail.jpg",Comedy Central en español
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c280717 -30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=970b3112-4df5-46fc-83e4-cefce01e5024
@@ -1904,9 +1908,6 @@ https://vivo.solumedia.com:19360/playtv/playtv.m3u8
 #EXTINF:-1 tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1725313054.jpg?w=1119&h=1019" tvg-group="ARGENTINA", SPACE xmp
 http://bantel-cdn1.iptvperu.tv:1935/xmp_trans/space.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1725313117.jpg?w=1119&h=1019" tvg-group="ARGENTINA", COMEDY CENTRAL xmp
-http://bantel-cdn1.iptvperu.tv:1935/xmp_trans/comedy.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_08/small.92231216_GoldenPlus2020.png.bccb9ac3e4e370a2aed9089c8315cc6a.png" tvg-group="ARGENTINA", Golden Plus HD-IK1662-OK 191
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/14y2KDF.png" tvg-group="ARGENTINA", Radio Televisión Araucanía Los Ángeles
@@ -2107,7 +2108,7 @@ https://cootv.cootel.com.ni:8095/channeltvone/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s265522g.png" tvg-group="MUSICA",La Mega Mundial | EE.UU.
 https://server40.servistreaming.com:3477/stream/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.flowics.com/wp-content/uploads/2021/11/clients_tudn.png?resize=1000%2C400&ssl=1" tvg-group="Deportes",TUDN Vix 🇲🇽 148 EVENTOS
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.flowics.com/wp-content/uploads/2021/11/clients_tudn.png?resize=1000%2C400&ssl=1" tvg-group="Deportes",TUDN 🇲🇽 148 EVENTOS
 http://148.113.190.252:8000/play/tudnhd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyoptMei6_QX_CHVzyPKpsVD1w2dRQes2JUw&usqp=CAU" tvg-group="INFANTILES", grjngo del oeste retro
