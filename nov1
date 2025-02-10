@@ -176,7 +176,8 @@ http://190.123.90.146:8000/play/a00j/index.m3u8
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2024_06/large.TNTSports.png.9d3a1d767a4697781ed3eddabfc3c247.png" tvg-group="Deportes",TNT Sports dsr
 https://dsr.ride.com.ar/tvmia/an32/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/espnpremium.png" tvg-group="Deportes", ESPN Premium 
+#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/espnpremium.png" tvg-group="Deportes", ESPN Premium 148
+http://148.113.190.252:8000/play/a038/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/espnpremium.png" tvg-group="Deportes",ESPN Premium 190
 http://190.123.90.146:8000/play/a00f/index.m3u8
@@ -722,6 +723,9 @@ https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1604_ZTV_Anime.png" tvg-group="INFANTILES", ZTV Anime | HD | Chile
 https://mitv.zplay.cl/Ztv/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/BitMe2025Logo.png/revision/latest/scale-to-width-down/1280?cb=20250108200145&path-prefix=es" tvg-group="INFANTILES",BITME HD 148
+http://148.113.190.252:8000/play/bitmehd/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/6/6d/Loco2006.png/revision/latest/scale-to-width-down/300?cb=20230129233817" tvg-group="INFANTILES", Locomoción | SD | republica dominicana
 http://51.222.85.85:81/hls/loco/index.m3u8
 
@@ -946,37 +950,34 @@ https://fl1002.bozztv.com/ssh101/opinionsur/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/programs/ar_chiquilines-1991_l_l.jpg" group-title="INFANTILES", Free Live Chiquilines | EE.UU
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Educa TV Ecuador" tvg-name="Educa TV Ecuador" tvg-logo="https://i.imgur.com/uGwFXeM.png" group-title="CULTURALES", Educa TV | Ecuador
+#EXTINF:-1 tvg-name="Educa TV Ecuador" tvg-logo="https://i.imgur.com/uGwFXeM.png" tvg-group="INFANTILES", Educa TV | Ecuador
 https://vid2.ecuamedia.net/educatv/live/chunklist_w401884011.m3u8
 
-#EXTINF:-1 tvg-id="Retro Tv Online" tvg-name="Retro Tv Online" tvg-logo="https://i.imgur.com/9crh886.png" group-title="CANALES INDEPENDIENTE" ,TV retro en línea | DAKOTA DEL NORTE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9crh886.png" tvg-group="INFANTILES",TV retro en línea | DAKOTA DEL NORTE
 https://fl1001.bozztv.com/ssh101/retrotvcr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RetroX TV" tvg-name="RetroX TV" tvg-logo="https://i.imgur.com/sDTp6BD.png" group-title="CANALES INDEPENDIENTES",RetroX televisión | Costa Rica
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sDTp6BD.png" tvg-group="INFANTILES",RetroX televisión | Costa Rica
 https://fl1001.bozztv.com/ssh101/retroxcr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SYFY LA HD" tvg-name="SYFY LA HD" tvg-logo="https://i.imgur.com/lJG4neh.png" group-title="CANALES INDEPENDIENTES",SYFY LA HD | ND
-https://streaming-cl.sh1ny.space/memfs/4f2393d1-64eb-4e8f-a2f4-f60feea9e63d.m3u8
-
-#EXTINF:-1 tvg-id="Teleclasica" tvg-name="Teleclasica" tvg-logo="https://i.imgur.com/9vjGB3C.jpg" group-title="CANALES INDEPENDIENTES",Teleclasica | México
+#EXTINF:-1 tvg-logo="http://teleclasica.com/wp-content/uploads/2025/01/OTHER.png" tvg-group="INFANTILES",Teleclasica | México
 https://fl1001.bozztv.com/ssh101/teleclasik/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TeleMix" tvg-name="TeleMix" tvg-logo="https://1.bp.blogspot.com/-KCHZEZEctCk/YAaMGRW33wI/AAAAAAAIR14/yXNLqB4BuPgKeu-G2o4faPuUrcwfm1fjgCK4BGAYYCw/s910/la %2Bmix%2B2.jpg" group-title="CANALES INDEPENDIENTE",TeleMix op2 | Argentina
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-KCHZEZEctCk/YAaMGRW33wI/AAAAAAAIR14/yXNLqB4BuPgKeu-G2o4faPuUrcwfm1fjgCK4BGAYYCw/s910/la %2Bmix%2B2.jpg" tvg-group="INFANTILES",TeleMix op2 | Argentina
 https://fl1001.bozztv.com/ssh101/telemixlive/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Tigueritos TV" tvg-name="Tigueritos TV" tvg-logo="https://i.imgur.com/sI2lUuY.png" group-title="CANALES INDEPENDIENTES",Tigueritos televisión | República Dominicana
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sI2lUuY.png" tvg-group="INFANTILES",Tigueritos televisión | República Dominicana
 https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TV Retro Palmares" tvg-name="TV Retro Palmares" tvg-logo="https://i.imgur.com/bdXY34n.png" group-title="CANALES INDEPENDIENTE" ,TV Retro Palmares | Costa Rica
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bdXY34n.png" tvg-group="INFANTILES",TV Retro Palmares | Costa Rica
 https://fl1001.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVS Retro" tvg-id="TVS Retro" tvg-logo="https://i.imgur.com/JV6Po2k.png" group-title="CANALES INDEPENDIENTES",TVS Retro | Guatemala
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JV6Po2k.png" tvg-group="INFANTILES",TVS Retro | Guatemala
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLDxINuhCPQh57qgYqFPf9FpsgYObBbewgxBEpUQHy1Tj6NsHib6ZsRqXGpS1sgj0viIw&usqp=CAU" tvg-group="PREMIUM", | Los Tres Chiflados TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff35bd0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=025be615-509e-4721-8804-92898ace6781&userId=&serverSideAds=true
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Just_For_Laughs_Gags.png",Just For Laughs (España) (🇪🇸)
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Just_For_Laughs_Gags.png" tvg-group="PREMIUM",Just For Laughs (España) (🇪🇸)
 https://is.gd/LY1YZl?profile=corgol.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE11rlG9TaVncXzpkSl83_5lSivtKGTsa87I6WDSqNqaMt64lqYE0vWxOITm-ODxRdj7s&usqp=CAU" tvg-group="PREMIUM", Anger Management Español (🇪🇸)
@@ -1031,7 +1032,7 @@ https://canalsj.kozow.com/canal40/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="765" tvg-name="Canal 4 Telecondor" tvg-logo="https://cdn.m3u.cl/logo/765_Canal_4_Telecondor.png" tvg-group="ARGENTINA", Canal 4 Telecondor ✪ | AR
 https://videostream.shockmedia.com.ar:19360/canal4telecondor/canal4telecondor.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/MU6fuDOAnd2aa-iFNvOH5443YFclaZ2PSzPjKfGJluoUJln7cPgfxXgtllijU5R2CSNyvt2t=s900-c-k-c0x00ffffff-no-rj" tvg-group="ARGENTINA", VIVO TV (1080p)
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/JaLpE5sfnCYWtIeaU1F24jRlH1rOnWdlSH2O1LFxw51pBeUT2Z0A-Z5sB6BVU568JmuHOtVI=s900-c-k-c0x00ffffff-no-rj" tvg-group="ARGENTINA", VIVO TV (1080p)
 https://stream.vivotv.uy/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="1549" tvg-name="Somos TV" tvg-logo="https://cdn.m3u.cl/logo/1549_Somos_TV.png" tvg-group="ARGENTINA", Somos TV ✪ | CL
@@ -1124,7 +1125,7 @@ https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/GALAVISION/40-hls/live-media.m3
 http://23.237.66.106:25461/now_160322/now2.php?id=GALAVISIONMIAMI&calidad=sd&.m3u8
 #EXTINF:-1 tvg-logo="https://st1.uvnimg.com/c5/d9/0fcc4906433ead55105a991a1de9/galavision-logo-v2.png",Galavision hd
 http://23.237.66.106:25461/now_160322/now2.php?id=GALAVISIONMIAMI&calidad=hd&.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/af/Galavision_Logo_2024.svg/210px-Galavision_Logo_2024.svg.png",Galavision Oeste
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Galavision_Logo_2024.svg",Galavision Oeste
 http://23.237.66.106:25461/now_160322/now2.php?id=GALAVISIONWEST&calidad=hd&.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fubo.tv/station_logos/unimas2021_m.png?ch=width&auto=format%2Ccompress&w=0.4&h=0.4", Unimas USA
@@ -1148,9 +1149,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Las_Estrellas_2017_Navidad.svg/revision/latest/scale-to-width-down/250?cb=20230202024114&path-prefix=es" tvg-group="ARGENTINA", LAS ESTRELLAS .1 
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Las_Estrellas_2017_Navidad.svg/revision/latest/scale-to-width-down/250?cb=20230202024114&path-prefix=es" tvg-group="ARGENTINA", LAS ESTRELLAS 2.1 cdn1
-https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/ESTRELLAS/40-hls/live-media.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/154px-Las_Estrellas_logo_%282016%29.svg.png" tvg-group="ARGENTINA", LAS ESTRELLAS SD 190 
 http://190.123.90.146:8000/play/a02o/index.m3u8
@@ -1194,7 +1192,6 @@ https://estrellatv-roku.amagi.tv:443/playlistR1080p.m3u8
 https://estrellanews-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/1linear-sony-one-competencias-16x9_1.jpg" tvg-group="ARGENTINA", Sony Competencias
-https://spt-competencias-1-us.samsung.wurl.tv/2000.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/400x225/channel-sony_channel-_channel_novelas-16x9_0.jpg" tvg-group="ARGENTINA",Sony Novelas OK
 https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
@@ -1230,7 +1227,6 @@ https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf9
 https://cloud2.streaminglivehd.com:1936/8048/8048/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/33s1ZH4.png" group-title="El Salvador", Canal 4 | HD | salvador EVENTOS
-http://38.180.133.31:8000/play/a0y5
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ad2tDEy.png" group-title="El Salvador", Canal 6 | HD | salvador
 https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8
@@ -1884,11 +1880,14 @@ https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/.m3u8
 #EXTINF:0  tvg-logo="https://vtvcanal17.com/file/2023/12/logo-vtv.png" tvg-group="ARGENTINA", VTV Canal 17 (Bolivia) (🇧🇴)
 https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/.m3u8
 
-#EXTINF:0 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/16af5933-c8e0-4d5b-8488-45339c5b0252/df094zq-78040c6e-c793-4b3a-8625-2cbd17270409.png/v1/fill/w_800,h_996/canal_5_logo__2016_actualidad__by_fanmmsskittles_df094zq-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTk2IiwicGF0aCI6IlwvZlwvMTZhZjU5MzMtYzhlMC00ZDViLTg0ODgtNDUzMzljNWIwMjUyXC9kZjA5NHpxLTc4MDQwYzZlLWM3OTMtNGIzYS04NjI1LTJjYmQxNzI3MDQwOS5wbmciLCJ3aWR0aCI6Ijw9ODAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.vsgh3KJMaPdLN2yvQUVUrA40Qh6csrI8J9UyQrs5rG4" tvg-group="ARGENTINA", 5 (Mexico) (🇲🇽) EVENTOS
-https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/CANAL5/40-hls/live-media.m3u8
+#EXTINF:0 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/16af5933-c8e0-4d5b-8488-45339c5b0252/df094zq-78040c6e-c793-4b3a-8625-2cbd17270409.png/v1/fill/w_800,h_996/canal_5_logo__2016_actualidad__by_fanmmsskittles_df094zq-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTk2IiwicGF0aCI6IlwvZlwvMTZhZjU5MzMtYzhlMC00ZDViLTg0ODgtNDUzMzljNWIwMjUyXC9kZjA5NHpxLTc4MDQwYzZlLWM3OTMtNGIzYS04NjI1LTJjYmQxNzI3MDQwOS5wbmciLCJ3aWR0aCI6Ijw9ODAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.vsgh3KJMaPdLN2yvQUVUrA40Qh6csrI8J9UyQrs5rG4" tvg-group="ARGENTINA", 5 Mx 148 (Mexico) (🇲🇽) EVENTOS
+http://148.113.190.252:8000/play/a02l/index.m3u8
 
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/escandaloso/images/6/6a/Logo_Azteca_7.png/revision/latest/scale-to-width-down/250?cb=20180716012938&path-prefix=es" tvg-group="ARGENTINA",Azteca 7 (Mexico) (🇲🇽) EVENTOS
-https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/AZTECA7/40-hls/live-media.m3u8
+http://148.113.190.252:8000/play/a027/index.m3u8
+
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Azt-72024.png/revision/latest/scale-to-width-down/283?cb=20241021203534&path-prefix=es" tvg-group="ARGENTINA",Azteca 7 148 (Mexico) (🇲🇽) EVENTOS
+http://148.113.190.252:8000/play/a03c/index.m3u8
 
 #EXTINF:0  tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F4a134b06-1d11-4ff9-834e-35e2a4fb5050%2F5-Minute_Crafts_Horizontalrdx.jpg" tvg-group="ARGENTINA", 5 Minute Crafts (España) (🇪🇸)
 https://tinyurl.com/mrx4kref
@@ -2108,7 +2107,8 @@ https://cootv.cootel.com.ni:8095/channeltvone/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s265522g.png" tvg-group="MUSICA",La Mega Mundial | EE.UU.
 https://server40.servistreaming.com:3477/stream/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.flowics.com/wp-content/uploads/2021/11/clients_tudn.png?resize=1000%2C400&ssl=1" tvg-group="Deportes",TUDN Vix 🇲🇽 190 EVENTOS
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.flowics.com/wp-content/uploads/2021/11/clients_tudn.png?resize=1000%2C400&ssl=1" tvg-group="Deportes",TUDN Vix 🇲🇽 148 EVENTOS
+http://148.113.190.252:8000/play/tudnhd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyoptMei6_QX_CHVzyPKpsVD1w2dRQes2JUw&usqp=CAU" tvg-group="INFANTILES", grjngo del oeste retro
 https://45e603c214f5438cae8872707b7fd678.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_GrjngoPeliculasDelOeste/playlist.m3u8?ads.wurl_channel=1239&ads.wurl_name=GrjngoPeliculasDelOeste&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
@@ -2181,3 +2181,38 @@ https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vJZqrFY/a4ed367c69c23110d458a332af95be0be64566f288ccb5f261689344e6ba5e0d.png" tvg-group="ARGENTINA", Coto Brus TV (720p)
 https://cloudvideo.servers10.com:8081/8030/index.m3u8
+
+#KODIPROP: tipo_licencia_adaptativa_de_entrada=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"claves":[{"kty": "oct", "kid": "fHz2EQodSu6BTklsp6OqLQ", "k": "1y6eBolxwMv27uN5EGd11Q"},{"kty": "oct", "kid": "3n197Ui0N9aRlmrNyKlyYg", "k": "DRHMXVAueJSzZKS3yqu_9A"}],"tipo": "temporal"}
+#EXTINF:-1 tvg-id="granhermano" tvg-logo="https://i.ibb.co/tq4M9Pk/granhermano.png" tvg-group="PREMIUM", Gran Hermano
+#EXTVLCOPT:http-origin=android_mobile.directvgo.com
+#EXTVLCOPT:http-user-agent=dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1
+http://m.mtd.llc:8880/CH0100000000341/index_fk.mpd?|Origin="android_mobile.directvgo.com"
+
+#KODIPROP: tipo_licencia_adaptativa_de_entrada=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"claves":[{"kty": "oct", "kid": "gfbfsbvhSK2XV9fw1_c65w", "k": "a0IfFxHEsTQYHScGbloHtw"},{"kty": "oct", "kid": "lVFVkIWENIiHa0cs1UFgAA", "k": "wSwvs6diLmOxz5nCLGBNPQ"}],"tipo": "temporal"}
+#EXTINF:-1 tvg-id="granhermano" tvg-logo="https://i.ibb.co/tq4M9Pk/granhermano.png" tvg-group="PREMIUM", Gran Hermano cámara 1
+#EXTVLCOPT:http-origin=android_mobile.directvgo.com
+#EXTVLCOPT:http-user-agent=dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1
+http://m.mtd.llc:8880/CH0100000000342/index_fk.mpd?|Origin="android_mobile.directvgo.com"
+
+#KODIPROP: tipo_licencia_adaptativa_de_entrada=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"rUZcQoUbRMyoTwambDOuWw","k":"U_tkaRfJF Dm3wA0bR7HbxA"},{"kty":"oct","kid":"IGuij2kfNPiNiIbMQnAsTA","k":"eDC2kkFqQT4fMfuBo733Ug"}],"type":"temporal"}
+#EXTINF:-1 tvg-id="granhermano" tvg-logo="https://i.ibb.co/tq4M9Pk/granhermano.png" tvg-group="PREMIUM", Gran Hermano Cámara 2
+#EXTVLCOPT:http-origin=android_mobile.directvgo.com
+#EXTVLCOPT:http-user-agent=dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1
+http://m.mtd.llc:8880/CH0100000000343/index_fk.mpd?|Origin="android_mobile.directvgo.com"
+
+#KODIPROP: tipo_licencia_adaptativa_de_entrada=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"claves":[{"kty": "oct", "kid": "a5R84Jf6TlGHXRWouLWBoA", "k": "WGcZTy86VNw32RbWyH5V7Q"},{"kty": "oct", "kid": "zZlB53_GMQCYas3La8umYQ", "k": "16vFV9VGXvMKiQZJPs5A-g"}],"tipo": "temporal"}
+#EXTINF:-1 tvg-id="granhermano" tvg-logo="https://i.ibb.co/tq4M9Pk/granhermano.png" tvg-group="PREMIUM", Gran Hermano Cámara 3
+#EXTVLCOPT:http-origin=android_mobile.directvgo.com
+#EXTVLCOPT:http-user-agent=dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1
+http://m.mtd.llc:8880/CH0100000000340/index_fk.mpd?|Origin="android_mobile.directvgo.com"
+
+#KODIPROP: tipo_licencia_adaptativa_de_entrada=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"claves":[{"kty": "oct", "kid": "AevBQH5MXCGIy7PkG5ichg", "k": "FLm8r4XEK5hany4GQ_Uiyg"}],"tipo": "temporal"}
+#EXTINF:-1 tvg-id="granhermano" tvg-logo="https://i.ibb.co/tq4M9Pk/granhermano.png" tvg-group="PREMIUM", Gran Hermano Multi Cámara
+#EXTVLCOPT:http-origin=android_mobile.directvgo.com
+#EXTVLCOPT:http-user-agent=dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1
+http://m.mtd.llc:8880/CH0100000000345/index_fk.mpd?|Origin="android_mobile.directvgo.com"
