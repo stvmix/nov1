@@ -1874,7 +1874,7 @@ https://live-evg1.tv360.bitel.com.pe/bitel/ctv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://conecta2.pe/wp-content/uploads/2023/09/logo.png" tvg-group="ARGENTINA",Conecta2 (Peru) (🇵🇪)
 https://servilive.com:3114/live/liveulive.m3u8
 
-#EXTINF:0  tvg-logo="https://yt3.googleusercontent.com/F5EiWdjmbykFfCq1KwFLywZxTJiOYMEYRvIM-HS-5GoxemU35wJYBNX6EDoKq_XO3N06NkCiRw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" tvg-group="ARGENTINA", Univers (España) (🇪🇸)
+#EXTINF:0  tvg-logo="https://yt3.googleusercontent.com/jXMS9zF9VevnrxStrT5978Mxtf2eyZnxgyDiqWmfhOO0OrzzovgK8FWhGjKs6QtPrIyqZm3UW-s=s900-c-k-c0x00ffffff-no-rj" tvg-group="ARGENTINA", Univers (España) (🇪🇸)
 https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/.m3u8
 
 #EXTINF:0  tvg-logo="https://vtvcanal17.com/file/2023/12/logo-vtv.png" tvg-group="ARGENTINA", VTV Canal 17 (Bolivia) (🇧🇴)
@@ -2182,37 +2182,3 @@ https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vJZqrFY/a4ed367c69c23110d458a332af95be0be64566f288ccb5f261689344e6ba5e0d.png" tvg-group="ARGENTINA", Coto Brus TV (720p)
 https://cloudvideo.servers10.com:8081/8030/index.m3u8
 
-#KODIPROP: tipo_licencia_adaptativa_de_entrada=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"claves":[{"kty": "oct", "kid": "fHz2EQodSu6BTklsp6OqLQ", "k": "1y6eBolxwMv27uN5EGd11Q"},{"kty": "oct", "kid": "3n197Ui0N9aRlmrNyKlyYg", "k": "DRHMXVAueJSzZKS3yqu_9A"}],"tipo": "temporal"}
-#EXTINF:-1 tvg-id="granhermano" tvg-logo="https://i.ibb.co/tq4M9Pk/granhermano.png" tvg-group="PREMIUM", Gran Hermano
-#EXTVLCOPT:http-origin=android_mobile.directvgo.com
-#EXTVLCOPT:http-user-agent=dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1
-http://m.mtd.llc:8880/CH0100000000341/index_fk.mpd?|Origin="android_mobile.directvgo.com"
-
-#KODIPROP: tipo_licencia_adaptativa_de_entrada=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"claves":[{"kty": "oct", "kid": "gfbfsbvhSK2XV9fw1_c65w", "k": "a0IfFxHEsTQYHScGbloHtw"},{"kty": "oct", "kid": "lVFVkIWENIiHa0cs1UFgAA", "k": "wSwvs6diLmOxz5nCLGBNPQ"}],"tipo": "temporal"}
-#EXTINF:-1 tvg-id="granhermano" tvg-logo="https://i.ibb.co/tq4M9Pk/granhermano.png" tvg-group="PREMIUM", Gran Hermano cámara 1
-#EXTVLCOPT:http-origin=android_mobile.directvgo.com
-#EXTVLCOPT:http-user-agent=dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1
-http://m.mtd.llc:8880/CH0100000000342/index_fk.mpd?|Origin="android_mobile.directvgo.com"
-
-#KODIPROP: tipo_licencia_adaptativa_de_entrada=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"rUZcQoUbRMyoTwambDOuWw","k":"U_tkaRfJF Dm3wA0bR7HbxA"},{"kty":"oct","kid":"IGuij2kfNPiNiIbMQnAsTA","k":"eDC2kkFqQT4fMfuBo733Ug"}],"type":"temporal"}
-#EXTINF:-1 tvg-id="granhermano" tvg-logo="https://i.ibb.co/tq4M9Pk/granhermano.png" tvg-group="PREMIUM", Gran Hermano Cámara 2
-#EXTVLCOPT:http-origin=android_mobile.directvgo.com
-#EXTVLCOPT:http-user-agent=dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1
-http://m.mtd.llc:8880/CH0100000000343/index_fk.mpd?|Origin="android_mobile.directvgo.com"
-
-#KODIPROP: tipo_licencia_adaptativa_de_entrada=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"claves":[{"kty": "oct", "kid": "a5R84Jf6TlGHXRWouLWBoA", "k": "WGcZTy86VNw32RbWyH5V7Q"},{"kty": "oct", "kid": "zZlB53_GMQCYas3La8umYQ", "k": "16vFV9VGXvMKiQZJPs5A-g"}],"tipo": "temporal"}
-#EXTINF:-1 tvg-id="granhermano" tvg-logo="https://i.ibb.co/tq4M9Pk/granhermano.png" tvg-group="PREMIUM", Gran Hermano Cámara 3
-#EXTVLCOPT:http-origin=android_mobile.directvgo.com
-#EXTVLCOPT:http-user-agent=dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1
-http://m.mtd.llc:8880/CH0100000000340/index_fk.mpd?|Origin="android_mobile.directvgo.com"
-
-#KODIPROP: tipo_licencia_adaptativa_de_entrada=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"claves":[{"kty": "oct", "kid": "AevBQH5MXCGIy7PkG5ichg", "k": "FLm8r4XEK5hany4GQ_Uiyg"}],"tipo": "temporal"}
-#EXTINF:-1 tvg-id="granhermano" tvg-logo="https://i.ibb.co/tq4M9Pk/granhermano.png" tvg-group="PREMIUM", Gran Hermano Multi Cámara
-#EXTVLCOPT:http-origin=android_mobile.directvgo.com
-#EXTVLCOPT:http-user-agent=dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1
-http://m.mtd.llc:8880/CH0100000000345/index_fk.mpd?|Origin="android_mobile.directvgo.com"
