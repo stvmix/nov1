@@ -462,6 +462,9 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vPxvbVv.png" tvg-group="ARGENTINA", Frecuencia Musical TV
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uGwFXeM.png" tvg-group="INFANTILES", Educa TV | Ecuador
+https://vid2.ecuamedia.net/educatv/live/chunklist_w401884011.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZoRRVDf.png" tvg-group="INFANTILES",Pakapaka 190
 http://190.123.90.146:8000/play/a02f/index.m3u8
 
@@ -687,11 +690,6 @@ https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg0
 #EXTINF:-1 tvg-logo="https://sck.pm/64sy" tvg-group="INFANTILES",FunBox 🇵🇪
 https://live-evg25.tv360.bitel.com.pe/bitel/funbox/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://sck.pm/64sy" tvg-group="INFANTILES", FunBox
-https://live-zlr1.tv360.bitel.com.pe/bitel/funbox/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/12/b6/bd/12b6bd3aff136e7fa05ce6929d44d4d4.png" tvg-group="INFANTILES",Tom & Jerry 🇺🇸
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/123TV_%282022%29.png/revision/latest/scale-to-width-down/200?cb=20220903004013&path-prefix=es" group-title="INFANTILES", 145 | 1·2·3 TV
 http://38.41.8.1:8000/play/a03o
 
@@ -702,7 +700,6 @@ https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
 https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8
 
 #EXTINF:-1 tvg-id="CN City" tvg-name="CN City" tvg-logo="https://imgur.com/38F3AsR.png" group-title="INFANTILES",CN City | Chile
-https://envivo.cncity.live/hls/cncity.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png" tvg-group="INFANTILES", CLAN
 https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
@@ -714,7 +711,6 @@ https://rtvelivestream-clnx.rtve.es/rtvesec/int/clan_int_main.m3u8
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_dvr_1080.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rvRB0hb.png" tvg-group="INFANTILES", Boing | HD | España
-https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1604_ZTV_Anime.png" tvg-group="INFANTILES", ZTV Anime | HD | Chile
 https://mitv.zplay.cl/Ztv/tracks-v1a1/mono.m3u8
@@ -725,9 +721,6 @@ http://148.113.190.252:8000/play/bitmehd/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/6/6d/Loco2006.png/revision/latest/scale-to-width-down/300?cb=20230129233817" tvg-group="INFANTILES", Locomoción | SD | republica dominicana
 http://51.222.85.85:81/hls/loco/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://d0cdb7b2de.cbaul-cdnwnd.com/9c7dbb7eba389216910092fa77cc9fd0/200000018-c0ed9c0eda/GGGGGGGG.png?ph=d0cdb7b2de" tvg-group="INFANTILES",Taltal Tv HD | Argentina
-https://fl1001.bozztv.com/ssh101/taltal/playlist.m3u8
-
 #EXTINF: -1 tvg-logo="https://d0cdb7b2de.cbaul-cdnwnd.com/9c7dbb7eba389216910092fa77cc9fd0/200000018-c0ed9c0eda/GGGGGGGG.png?ph=d0cdb7b2de" tvg-group="INFANTILES", Anime Tal Tal TV |
 https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8
 
@@ -735,7 +728,6 @@ https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8
 https://glb.bozztv.com/glb/ssh101/animacion/playlist.m3u8
 
 #EXTINF:0  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/ADSM.png?raw=true" tvg-group="INFANTILES", Adult Swim 181 (Mexico) (🇲🇽)
-http://181.78.8.90:16123/play/ch75
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YM56WZg.png" tvg-group="INFANTILES", Aniretro | HD | Chile
 https://tv.streaming-chile.com:19360/8068/8068.m3u8
@@ -755,7 +747,7 @@ https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/q2Fd958.png" tvg-group="INFANTILES", Gran Canal | SD | Argentina
 https://ssh101.bozztv.com/ssh101/bigchannel/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SoPjHGj.png" group-title="INFANTILES",Big Channel| Argentina
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/31/The_Big_Channel.svg/revision/latest/scale-to-width-down/300?cb=20250131060319" tvg-group="INFANTILES", Big Channel| Argentina
 https://fl1001.bozztv.com/ssh101/bigchannel/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/KUETG3N.png" tvg-group="INFANTILES", TV variada | HD | Argentina
@@ -952,9 +944,6 @@ https://fl1002.bozztv.com/ssh101/opinionsur/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/programs/ar_chiquilines-1991_l_l.jpg" group-title="INFANTILES", Free Live Chiquilines | EE.UU
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Educa TV Ecuador" tvg-logo="https://i.imgur.com/uGwFXeM.png" tvg-group="INFANTILES", Educa TV | Ecuador
-https://vid2.ecuamedia.net/educatv/live/chunklist_w401884011.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9crh886.png" tvg-group="INFANTILES",TV retro en línea | DAKOTA DEL NORTE
 https://fl1001.bozztv.com/ssh101/retrotvcr/playlist.m3u8
 
@@ -1120,14 +1109,20 @@ https://d3tqgr18sdql14.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB44000099N_20240520T212704SQUARE.png",ViX Novelas de Romance 🇺🇸🇲🇽
 https://dm44c2ycmsees.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awtur5jypeo4b/server/distrib/AwpWpKfpemEGixBj/zuvPJYoOOdEMDNF2j2mvmg.XD-5XW7bmDpD5yWfV328oU9NWPX1Y7dhiYqJY3ymkerRKjKvBm9YaKmRu09CS8ak3vKkgVwPUO3_k0fGhRTEqichOfESE0Mvx1Jtn81PnLjGdX8c5rM6Wbz0X-r4kuUokXxDkVNpGrQXJTNlajn8qyE95SuHf6gHV8f03sl1yUQPzBd2gJbrGfq1mHgoJOVVQC8UfN_6AliJQgUcTWDV5ZOF4aiSuTPOG1p4BgbFAnlCS7ZWKyFTBksAnep57l4OGJUnnpzLB5grmYE-eSo9WA/manifest.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBB44000099N
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/Galavision-2024-white.svg/revision/latest/scale-to-width-down/250?cb=20240122190009",Galavision cdn1
-https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/GALAVISION/40-hls/live-media.m3u8
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/e5aab5e0014212f79dd7593320cb56a3e088ccf65db175dc8b78e3ccfb5f54ab.png" tvg-group="ARGENTINA",Antena Seis | CR
+https://cloudvideo.servers10.com:8081/8132/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vtGED07.jpg" tvg-group="ARGENTINA",Venevision Internacional (720p)
+https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Posible-logo-de-venevision-2015-v1.png/revision/latest/scale-to-width-down/250?cb=20210604191654&path-prefix=es" tvg-group="ARGENTINA", Venevisión (1080p)
+https://venevision.akamaized.net/hls/live/2098814/VENEVISION/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/Galavision-2024-white.svg/revision/latest/scale-to-width-down/250?cb=20240122190009",Galavision
 http://23.237.66.106:25461/now_160322/now2.php?id=GALAVISIONMIAMI&calidad=sd&.m3u8
 #EXTINF:-1 tvg-logo="https://st1.uvnimg.com/c5/d9/0fcc4906433ead55105a991a1de9/galavision-logo-v2.png",Galavision hd
 http://23.237.66.106:25461/now_160322/now2.php?id=GALAVISIONMIAMI&calidad=hd&.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Galavision_Logo_2024.svg",Galavision Oeste
+#EXTINF:-1 tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2024/01/galavision-new-logo-2024.jpg", Galavision Oeste
 http://23.237.66.106:25461/now_160322/now2.php?id=GALAVISIONWEST&calidad=hd&.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fubo.tv/station_logos/unimas2021_m.png?ch=width&auto=format%2Ccompress&w=0.4&h=0.4", Unimas USA
@@ -1934,15 +1929,6 @@ https://vcp.myplaytv.com/mdatv/mdatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gNCT3zG.png" tvg-group="ARGENTINA", TELEVISOR Canal 21
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/e5aab5e0014212f79dd7593320cb56a3e088ccf65db175dc8b78e3ccfb5f54ab.png" tvg-group="ARGENTINA",Antena Seis | CR
-https://cloudvideo.servers10.com:8081/8132/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vtGED07.jpg" tvg-group="ARGENTINA",Venevision Internacional (720p)
-https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Posible-logo-de-venevision-2015-v1.png/revision/latest/scale-to-width-down/250?cb=20210604191654&path-prefix=es" tvg-group="ARGENTINA", Venevisión (1080p)
-https://venevision.akamaized.net/hls/live/2098814/VENEVISION/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/channel-true_crime-16x9.jpg" tvg-group="PREMIUM", CRIMEN VERDADERO DE CANELA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3985
