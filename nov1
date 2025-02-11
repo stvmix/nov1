@@ -284,11 +284,11 @@ http://160.20.165.246:8000/play/a01f
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FvYjfCkWIAIvMGW?format=png&name=240x240" group-title="PELICULAS Y SERIES",Classic + CL
 
-#EXTINF:-1 tvg-logo="https://www.tvlibrehd.com/img/hbo2.webp" tvg-group="PREMIUM", HBO 2 d
-https://delivery.cdn.rcs.net.ar/mnp/hbo2_hls/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.tvlibrehd.com/img/hbo2.webp" tvg-group="PREMIUM", HBO 2 170
 http://170.254.18.106/HBO2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvlibrehd.com/img/hbo2.webp" tvg-group="PREMIUM", HBO 2 d
+https://delivery.cdn.rcs.net.ar/mnp/hbo2_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://clarovideocdn1.clarovideo.net/HBO/PELICULAS/HBOFAMILYCHANNEL/EXPORTACION_WEB/SS/HBOFAMILYCHANNEL_t-290x163.png" tvg-group="PREMIUM", hbo family 190
 http://190.123.90.146:8000/play/a03d/index.m3u8
@@ -362,9 +362,6 @@ https://rakuten-euronews-4-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEppjI7h7e2qfdGDF-8eCei_xZoCwIthVvutxtzwnmYhhAHolbDTCxBTUXBrkdbsYP06E&usqp=CAU" tvg-group="ARGENTINA", euro news español
 https://2e0d18116bec40e088c0723dc56accf5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_EuronewsSpanish/playlist.m3u8?ads.wurl_channel=671&ads.wurl_name=EuronewsSpanish&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.plex_id=60089d97f682a3002c34829d&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/46/7a/8c/467a8cba-eb8a-4649-d154-c9172e28ea6f/AppIcon-0-1x_U007emarketing-0-6-0-85-220-0.png/256x256bb.jpg" tvg-group="ARGENTINA", FR FRANCE24 UHD ythls
-https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
-
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/46/7a/8c/467a8cba-eb8a-4649-d154-c9172e28ea6f/AppIcon-0-1x_U007emarketing-0-6-0-85-220-0.png/256x256bb.jpg" tvg-group="ARGENTINA", francia 24 marine2
 https://marine2.miplay.cl/france24/mono.m3u8
 
@@ -426,16 +423,16 @@ https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u1dnEVv.png" tvg-group="ARGENTINA", PANC TV | Arkansas
 https://panel.host-live.com:19360/81500/81500.m3u8
 
-#EXTINF:-1 tvg-id="1143" tvg-name="Cosmos TV" tvg-logo="https://cdn.m3u.cl/logo/1143_Cosmos_TV.png" tvg-group="ARGENTINA", Cosmos televisión | Arkansas
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1143_Cosmos_TV.png" tvg-group="ARGENTINA", Cosmos televisión | Arkansas
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8?PlaylistM3UCLL
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OFSOvpd.jpg" tvg-group="ARGENTINA", TDtv (720p)
 https://cloudvideo.servers10.com:8081/8230/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/55658a680c893a358e806abf1604d905.webp" tvg-group="ARGENTINA", SPTV Digital OK
+#EXTINF:-1 tvg-logo="https://telearg.weebly.com/uploads/1/3/1/2/131240845/sptv_1.png" tvg-group="ARGENTINA", SPTV Digital OK
 https://srv2.zcast.com.br/sptv32/sptv32/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLPm5rd0FUSZxyXSD9S0M3HTUrDBfVJhY5zhGubVbN_w0f_BPW4x0VRVQzhRQGWkr0VZk&usqp=CAU" tvg-group="ARGENTINA", Neox TV (4 80p)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRYHAQxq_Ri0GuELz--_1sCCcRGeG7aL3xbf7wHntcoJWiTF2FQ0ivgZjBsVO4A8A-hZ4&usqp=CAU" tvg-group="ARGENTINA", Neox TV (4 80p)
 https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cablesur.com.co/wp-content/uploads/2022/08/LOGOTIPO-EN-BLANCO-1.png" tvg-group="ARGENTINA", Cable Sur TV (720p)
@@ -2163,6 +2160,32 @@ https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vJZqrFY/a4ed367c69c23110d458a332af95be0be64566f288ccb5f261689344e6ba5e0d.png" tvg-group="ARGENTINA", Coto Brus TV (720p)
 https://cloudvideo.servers10.com:8081/8030/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://costaricatelevision.com/sites/default/files/styles/og_image/public/2023-05/telesistema-costa-rica.png.webp?itok=ijec4ssU" tvg-group="ARGENTINA", TELESISTEMA
+https://glb.bozztv.com/glb/ssh101/telesistemacrtv/index.m3u8
+
+#EXTINF:-1 tvg-logo="" tvg-group="ARGENTINA", MITV FAMILIAR
+https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://sicultura-live.s3.amazonaws.com/public/2024-06/telered-hzotl-of.jpg" tvg-group="ARGENTINA", TELERED
+https://fl1004.bozztv.com/ssh101/teleredmastv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://xhateaec.com/upload/photos/2025/01/MmoWlIPCxmaWG69VXC86_11_65958d4ac2c70a80babc2fa6c5c5cd8f_avatar_full.png" tvg-group="ARGENTINA", FUNTV
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/funtvretro/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://sarapiquitvcr.com/chatsarapiquitv/static/img/logo_small.png" tvg-group="ARGENTINA", STV
+https://lstv.duckdns.org:449/hls/stv.m3u8
+
+#EXTINF:-1 tvg-logo="https://canaldhe.com/wp-content/uploads/2019/09/logo-7-11.png" tvg-group="ARGENTINA", Canal DHE
+https://g2qd3e2ay7an-hls-live.5centscdn.com/channel11/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://catomedia.net/images_temp/web/catomedia-1.png" tvg-group="ARGENTINA", Catomedia
+https://stream.catomedia.net/catomedia-app/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://oromartv.com/wp-content/themes/oromartv/imagenes/OTV400.png" tvg-group="ARGENTINA", Oromar
+https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://miasonovision.ec/wp-content/uploads/2021/01/logo_sonovision_Mesa-de-trabajo-1.png" tvg-group="ARGENTINA", Sonovision  Ec
+https://us.streaminghd.cl/sonovision/video.m3u8
 
 
 
