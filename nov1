@@ -250,8 +250,11 @@ https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1zGkNs79 /BEIN-SPORTS-EXTRA-VU-TV-PLAYER.png" tvg-group="Deportes",BEIN SPORTS XTRA Español EVENTOS
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/V9hAGpb.png" group-title="Deportes", Tigo Sports | HD | Guatemala EVENTOS
+#EXTINF: -1 tvg-logo="https://i.imgur.com/V9hAGpb.png" tvg-group="Deportes", Tigo Sports | HD | Guatemala EVENTOS
 https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.flowics.com/wp-content/uploads/2021/11/clients_tudn.png?resize=1000%2C400&ssl=1" tvg-group="Deportes",TUDN 🇲🇽 148 EVENTOS
+http://148.113.190.252:8000/play/tudnhd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/584a9b47b080d7616d298778.png" tvg-group="Deportes",Real Madrid
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
@@ -461,6 +464,12 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vPxvbVv.png" tvg-group="ARGENTINA", Frecuencia Musical TV
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/argU5Q9r5-gvleMRCafNE2TyaWioaSr69ROMhr4nXG1iuzrT1noRMDJX8qAoYCZsfOA" tvg-group="INFANTILES",Telesur Costa Rica
+https://s1.tvdatta.com:3582/live/telesurlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.telecostaescuintla.com/gallery_gen/3b51c096b46472b84baedd3e6dba34ff_200x176.png" tvg-group="INFANTILES", TELECOSTA
+https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uGwFXeM.png" tvg-group="INFANTILES", Educa TV | Ecuador
 https://vid2.ecuamedia.net/educatv/live/chunklist_w401884011.m3u8
@@ -932,17 +941,17 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609ae5cd48d3200007b0a98e/colorLogoPNG.png" tvg-group="INFANTILES", SOUTH PARK
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-logo="https://imgur.com/ubOk8av.png" group-title="INFANTILES",Opinión Sur Niños | Chile
+#EXTINF:-1 tvg-logo="https://imgur.com/ubOk8av.png" tvg-group="INFANTILES",Opinión Sur Niños | Chile
 https://fl1002.bozztv.com/ssh101/opinionsurn/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/ubOk8av.png" group-title="INFANTILES",Serie Opinión Sur | Chile
+#EXTINF:-1 tvg-logo="https://imgur.com/ubOk8av.png" tvg-group="INFANTILES",Serie Opinión Sur | Chile
 https://fl1002.bozztv.com/ssh101/opinionsurs/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/ubOk8av.png" group-title="INFANTILES",Opinión Sur HD | Chile
+#EXTINF:-1 tvg-logo="https://imgur.com/ubOk8av.png" tvg-group="INFANTILES",Opinión Sur HD | Chile
 https://fl1002.bozztv.com/ssh101/opinionsur/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/programs/ar_chiquilines-1991_l_l.jpg" group-title="INFANTILES", Free Live Chiquilines | EE.UU
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/472_Mi_TV_Television_Clasica.png" tvg-group="INFANTILES", Mi TV Televisión Clásica | A NOSOTROS
+https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9crh886.png" tvg-group="INFANTILES",TV retro en línea | DAKOTA DEL NORTE
 https://fl1001.bozztv.com/ssh101/retrotvcr/playlist.m3u8
@@ -2011,15 +2020,6 @@ https://460689fd4b6d4c80a0c539b27dc7cea8.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/6cefaZzVkJk/hq720_live.jpg?sqp=CLjd8LAG-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAwYhbw7jvMED1ryoks8kEbxsB-qg" tvg-group="INFANTILES", Canal EGM | CL
 https://paneltv.online:1936/8186/8186/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/472_Mi_TV_Television_Clasica.png" tvg-group="INFANTILES", Mi TV Televisión Clásica | A NOSOTROS
-https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/argU5Q9r5-gvleMRCafNE2TyaWioaSr69ROMhr4nXG1iuzrT1noRMDJX8qAoYCZsfOA" tvg-group="INFANTILES",Telesur Costa Rica
-https://s1.tvdatta.com:3582/live/telesurlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.telecostaescuintla.com/gallery_gen/3b51c096b46472b84baedd3e6dba34ff_200x176.png" tvg-group="INFANTILES", TELECOSTA
-https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
-
 #EXTINF:-1 tvg-logo="https://multicablemedios.hn/images/vallevision-2019-letras-blancas.png" tvg-group="INFANTILES",VALLEVISION
 https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
 
@@ -2091,9 +2091,6 @@ https://cootv.cootel.com.ni:8095/channeltvone/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s265522g.png" tvg-group="MUSICA",La Mega Mundial | EE.UU.
 https://server40.servistreaming.com:3477/stream/play.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.flowics.com/wp-content/uploads/2021/11/clients_tudn.png?resize=1000%2C400&ssl=1" tvg-group="Deportes",TUDN 🇲🇽 148 EVENTOS
-http://148.113.190.252:8000/play/tudnhd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyoptMei6_QX_CHVzyPKpsVD1w2dRQes2JUw&usqp=CAU" tvg-group="INFANTILES", grjngo del oeste retro
 https://45e603c214f5438cae8872707b7fd678.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_GrjngoPeliculasDelOeste/playlist.m3u8?ads.wurl_channel=1239&ads.wurl_name=GrjngoPeliculasDelOeste&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
