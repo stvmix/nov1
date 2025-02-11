@@ -13,7 +13,7 @@ http://190.123.90.146:8000/play/a00l/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Canal_Ocho_San_Juan_%28Logo_2018%29.png" tvg-group="ARGENTINA", CANAL 8 SAN JUAN 
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/613237a1c9e0db0007a91350/featuredImage.jpg",Telefe Pluto TV [Entretenimiento] [144] [AR]
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/613237a1c9e0db0007a91350/featuredImage.jpg" tvg-group="ARGENTINA",Telefe Pluto TV Entretenimiento
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/613237a1c9e0db0007a91350/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
 #EXTINF:-1 tvg-logo="https://media.c5n.com/p/eee57358a90be0357b9f81ad96743480/adjuntos/326/imagenes/000/261/0000261262/790x0/smart/telefe-logo-negro.jpg" tvg-group="ARGENTINA",Telefe HLS
@@ -1561,7 +1561,7 @@ https://delivery.cdn.rcs.net.ar/mnp/disc_world_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WuOhLl4.png",Turbo
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Pluto-TV-Animales-en-directo-Online.png?fit=1920%2C1080&ssl=1" tvg-group="ARGENTINA",Pluto TV Animales [Curiosidad] [273] [AR]
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Pluto-TV-Animales-en-directo-Online.png?fit=1920%2C1080&ssl=1" tvg-group="ARGENTINA", Pluto TV Animales
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScdwlE8Yns5-LAlZHojszlGCumQimd-DCiGoB5a59CNonfi20yWtEtNdxZoyaeALq4iJI&usqp=CAU" tvg-group="ARGENTINA", Ama la Naturaleza
