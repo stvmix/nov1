@@ -211,6 +211,9 @@ http://190.123.90.146:8000/play/a00e/index.m3u8
 #EXTINF:-1  tvg-logo="https://tycsports.hiringroom.com/data/accounts/tycsports/microsite/cfb58ca8d62e9685391d991717b44fb6.png" tvg-group="Deportes", TyC 190
 http://190.123.90.146:8000/play/a00k/index.m3u8
 
+#EXTINF:-1  tvg-logo="https://tycsports.hiringroom.com/data/accounts/tycsports/microsite/cfb58ca8d62e9685391d991717b44fb6.png" tvg-group="Deportes", AR TYC SPORTS
+http://148.113.190.252:8000/play/a039/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/FhOQWiELN6RRFwFbxKWWWEBLgGhXifnJfWT8SWtHZUdSH6fT3Jc_IC88xtebGFXTbQ" tvg-group="Deportes",TYC Sports Play 🇦🇷 ⚽
 https://d1scuk1wvkchtc.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index.m3u8
 
@@ -262,8 +265,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRaQmT4aA6_583JXa_LrNbrSa3bd6Z3ydfHflERewVSLvqwwguHttbQzrRoPHc6l52eRU&usqp=CAU" tvg-group="Deportes",ITV Deportes
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=495e9b096e96cee4e541b0c2695a0fcb&app_bundle=com.canela.ott&app_store_url=https% 3A%2F%2Fwww.canela. tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&site_page=https%253A%25 2F%252Fwww.canela.tv%252F&gender=not_specified&yob=0&livestream = 1&custom_param_0=&custom_param_1=teléfono&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%20America×tamp=1656899342&id=34434&ip=45.188.78.93&override_expiration=150 0 &sign=TxhnXtTkkmuchk54BrTTN4p4AevpD8%2Bnm3lscX9lXPg%3D
 
-#EXTINF:-1 tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png" group-title="Deportes", TyC Sports
-
 #EXTINF:-1 tvg-logo="https://www.fmh.la/images/team/logo_family.png" tvg-group="PREMIUM", FMH Family 160 ok
 http://160.20.165.246:8000/play/a01j/index.m3u8
 
@@ -298,10 +299,12 @@ http://190.123.90.146:8000/play/a027/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://clarovideocdn7.clarovideo.net/HBO/PELICULAS/HBOPLUSHD/EXPORTACION_WEB/SS/HBOPLUSHD_t-290x163.png" tvg-group="PREMIUM",HBO Plus
 
-#EXTINF:-1 tvg-logo="https://www.codice.tv/wp-content/uploads/2022/04/hbo-pop1-300x300.png" tvg-group="PREMIUM",HBO POP (Z)(720) -
+#EXTINF:-1 tvg-logo="https://www.codice.tv/wp-content/uploads/2022/04/hbo-pop1-300x300.png" tvg-group="PREMIUM", HBO POP 148
+http://148.113.190.252:8000/play/a00z/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMjAxX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1708456926578" tvg-group="PREMIUM",HBO SIGNATURE
-h
+#EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMjAxX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1708456926578" tvg-group="PREMIUM",HBO SIGNATURE 148
+http://148.113.190.252:8000/play/a011/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.codice.tv/wp-content/uploads/2022/04/hbo-xtreme1.png" tvg-group="PREMIUM",HBO Xtreme (Z)(720)
 
 #EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDE3X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1708456806050" tvg-group="PREMIUM", HBO
@@ -1088,7 +1091,8 @@ https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 #EXTINF:-1 tvg-logo="https://media.telemundopr.com/2022/08/WKAQ-tvOS_App-Store-1280x768-3.png?fit=1280%2C768&quality=85&strip=all" tvg-group="ARGENTINA", TELEMUNDO PR
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8
 
-#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6c5407a9-8503-43e1-976c-906688a332b9/dhdbhn1-3dd21a43-0ae7-4825-ba14-29df1e4ecd95.png/v1/fill/w_894,h_894/telemundo_logo_3d_version_by_michaelazamar268_dhdbhn1-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjMwMCIsInBhdGgiOiJcL2ZcLzZjNTQwN2E5LTg1MDMtNDNlMS05NzZjLTkwNjY4OGEzMzJiOVwvZGhkYmhuMS0zZGQyMWE0My0wYWU3LTQ4MjUtYmExNC0yOWRmMWU0ZWNkOTUucG5nIiwid2lkdGgiOiI8PTIzMDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.8p49fNaFJEKsMRa_JIVjR1QWzIXojx5buESLG5jo8VY" tvg-group="ARGENTINA", Telemundo | HD | San Juan
+#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6c5407a9-8503-43e1-976c-906688a332b9/dhdbhn1-3dd21a43-0ae7-4825-ba14-29df1e4ecd95.png/v1/fill/w_894,h_894/telemundo_logo_3d_version_by_michaelazamar268_dhdbhn1-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjMwMCIsInBhdGgiOiJcL2ZcLzZjNTQwN2E5LTg1MDMtNDNlMS05NzZjLTkwNjY4OGEzMzJiOVwvZGhkYmhuMS0zZGQyMWE0My0wYWU3LTQ4MjUtYmExNC0yOWRmMWU0ZWNkOTUucG5nIiwid2lkdGgiOiI8PTIzMDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.8p49fNaFJEKsMRa_JIVjR1QWzIXojx5buESLG5jo8VY" tvg-group="ARGENTINA", TELEMUNDO HD 148
+http://148.113.190.252:8000/play/a02c/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://davinci.zappingtv.com/gato/media/450/canales/white/telemundo.png" tvg-group="ARGENTINA",TELEMUNDO INTER  190
 http://190.123.90.146:8000/play/a02u/index.m3u8
@@ -1145,21 +1149,16 @@ https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
 https://venevision.akamaized.net/hls/live/2098814/VENEVISION/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/Galavision-2024-white.svg/revision/latest/scale-to-width-down/250?cb=20240122190009",Galavision
-http://23.237.66.106:25461/now_160322/now2.php?id=GALAVISIONMIAMI&calidad=sd&.m3u8
-#EXTINF:-1 tvg-logo="https://st1.uvnimg.com/c5/d9/0fcc4906433ead55105a991a1de9/galavision-logo-v2.png",Galavision hd
-http://23.237.66.106:25461/now_160322/now2.php?id=GALAVISIONMIAMI&calidad=hd&.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2024/01/galavision-new-logo-2024.jpg", Galavision Oeste
-http://23.237.66.106:25461/now_160322/now2.php?id=GALAVISIONWEST&calidad=hd&.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fubo.tv/station_logos/unimas2021_m.png?ch=width&auto=format%2Ccompress&w=0.4&h=0.4", Unimas USA
-http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASEAST&calidad=hd&.m3u8
-#EXTINF:-1 tvg-logo="https://images.fubo.tv/station_logos/unimas2021_m.png?ch=width&auto=format%2Ccompress&w=0.4&h=0.4", UNIMAS UHD ts
-http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASMIAMI&calidad=hd&.ts
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/153px-Logo_Univision_2019.svg.png", UNIVISION v
-http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=hd&.m3u8
-#EXTINF:-1 tvg-logo="https://nldsdmt.akamaized.net/media/univisionnow2/thumbs/channels/30_es.png", UNIVISION UHD ts
-http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=hd&.ts
+#EXTINF:-1 tvg-logo="", UNICABLE HD
+http://148.113.190.252:8000/play/a00v/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://nldsdmt.akamaized.net/media/univisionnow2/thumbs/channels/30_es.png", UNIVISION HD 
+http://148.113.190.252:8000/play/a03i/index.m3u8
 
 #EXTINF:0 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/16af5933-c8e0-4d5b-8488-45339c5b0252/df094zq-78040c6e-c793-4b3a-8625-2cbd17270409.png/v1/fill/w_800,h_996/canal_5_logo__2016_actualidad__by_fanmmsskittles_df094zq-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTk2IiwicGF0aCI6IlwvZlwvMTZhZjU5MzMtYzhlMC00ZDViLTg0ODgtNDUzMzljNWIwMjUyXC9kZjA5NHpxLTc4MDQwYzZlLWM3OTMtNGIzYS04NjI1LTJjYmQxNzI3MDQwOS5wbmciLCJ3aWR0aCI6Ijw9ODAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.vsgh3KJMaPdLN2yvQUVUrA40Qh6csrI8J9UyQrs5rG4" tvg-group="ARGENTINA", 5 Mx 148 (Mexico) (🇲🇽) EVENTOS
 http://148.113.190.252:8000/play/a02l/index.m3u8
@@ -1181,6 +1180,12 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Las_Estrellas_2017_Navidad.svg/revision/latest/scale-to-width-down/250?cb=20230202024114&path-prefix=es" tvg-group="ARGENTINA", LAS ESTRELLAS .1 
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Las_Estrellas_2017_Navidad.svg/revision/latest/scale-to-width-down/250?cb=20230202024114&path-prefix=es" tvg-group="ARGENTINA", LAS ESTRELLAS HD 148
+http://148.113.190.252:8000/play/a020/index.m3u8
+
+#EXTINF:-1 tvg-logo="" tvg-group="ARGENTINA", ESTRELLAS-2HD 148
+http://148.113.190.252:8000/play/a00p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/154px-Las_Estrellas_logo_%282016%29.svg.png" tvg-group="ARGENTINA", LAS ESTRELLAS SD 190 
 http://190.123.90.146:8000/play/a02o/index.m3u8
