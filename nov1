@@ -1014,8 +1014,32 @@ https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bdXY34n.png" tvg-group="INFANTILES",TV Retro Palmares | Costa Rica
 https://fl1001.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JV6Po2k.png" tvg-group="INFANTILES",TVS Retro | Guatemala
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_792d6a3204f84355989fa200f2ad11b0~mv2.png/v1/crop/x_29,y_150,w_1186,h_380/fill/w_706,h_226,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Logo%20Visiontv%202_0_00077.png" tvg-group="INFANTILES", VisionTV Retro | Guatemala
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/LOGO-2023-XT-chico.png" tvg-group="INFANTILES", extrema tv acción sd
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/6cefaZzVkJk/hq720_live.jpg?sqp=CLjd8LAG-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAwYhbw7jvMED1ryoks8kEbxsB-qg" tvg-group="INFANTILES", Canal EGM | CL
+https://paneltv.online:1936/8186/8186/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://multicablemedios.hn/images/vallevision-2019-letras-blancas.png" tvg-group="INFANTILES",VALLEVISION
+https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uQAeKKa.png" tvg-group="INFANTILES", Villa TV
+https://inliveserver.com:1936/10016/10016/chunklist_w1357319705.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/Flooxer.png/revision/latest?cb=20180831163541" tvg-group="INFANTILES",flooxer
+https://fast-channels.atresmedia.com/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8125285.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.elplural.com/uploads/s1/15/40/03/0/pablo-motos.jpeg" tvg-group="INFANTILES", El Hormiguero
+https://fast-channels.atresmedia.com/648ef5882bfab0e4627e0d61/648ef5882bfab0e4627e0d61.m3u8
+
+#EXTINF:-1 tvg-logo="https://pixel.disco.skyshowtime.com/uuid/0b3a5115-0db2-3703-abd9-77156f04f5c9/LOGO_TITLE_WIDE?language=es-ES&proposition=SKYSHOWTIME&version=96a4623d-b816-37f2-8d2b-f139191d3ea3" tvg-group="INFANTILES", Física o química
+https://fast-channels.atresmedia.com/648ef50a2bfab0e4607e0d61/648ef50a2bfab0e4607e0d61.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyoptMei6_QX_CHVzyPKpsVD1w2dRQes2JUw&usqp=CAU" tvg-group="INFANTILES", grjngo del oeste retro
+https://45e603c214f5438cae8872707b7fd678.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_GrjngoPeliculasDelOeste/playlist.m3u8?ads.wurl_channel=1239&ads.wurl_name=GrjngoPeliculasDelOeste&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLDxINuhCPQh57qgYqFPf9FpsgYObBbewgxBEpUQHy1Tj6NsHib6ZsRqXGpS1sgj0viIw&usqp=CAU" tvg-group="PREMIUM", | Los Tres Chiflados TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff35bd0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=025be615-509e-4721-8804-92898ace6781&userId=&serverSideAds=true
@@ -1059,6 +1083,9 @@ https://tinyurl.com/mrx4kref
 #EXTINF: -1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/69b39fd7-04fb-40aa-bae9-2628b3885144-profile_image-300x300.png",ALF
 
 #EXTINF:-1 tvg-logo="https://www.miprimerfestival.es/wp-content/uploads/2022/11/PERSONAJE-MASHA-Y-EL-OSO.png",MASHA Y EL OSO YT
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2751264928/0facb64f7c7468a07681c5f27874d9a4_400x400.png" tvg-group="ARGENTINA", CANAL 8 VALLE DE UCO
+https://videostream.shockmedia.com.ar:19360/canal8/canal8.m3u8
 
 #EXTINF:-1 tvg-logo="https://cincotv.com.ar/wp-content/uploads/2022/05/LOGO-SOLO.png" tvg-group="ARGENTINA",Cinco TV (480p) OK
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
@@ -2036,29 +2063,11 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lg
 #EXTINF:-1 tvg-logo="https://readytelevision.com/wp-content/uploads/2020/10/ready200.png" tvg-group="PREMIUM",Ready TV Canal 6
 https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.elplural.com/uploads/s1/15/40/03/0/pablo-motos.jpeg" tvg-group="INFANTILES", El Hormiguero
-https://fast-channels.atresmedia.com/648ef5882bfab0e4627e0d61/648ef5882bfab0e4627e0d61.m3u8
-
-#EXTINF:-1 tvg-logo="https://pixel.disco.skyshowtime.com/uuid/0b3a5115-0db2-3703-abd9-77156f04f5c9/LOGO_TITLE_WIDE?language=es-ES&proposition=SKYSHOWTIME&version=96a4623d-b816-37f2-8d2b-f139191d3ea3" tvg-group="INFANTILES", Física o química
-https://fast-channels.atresmedia.com/648ef50a2bfab0e4607e0d61/648ef50a2bfab0e4607e0d61.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/Flooxer.png/revision/latest?cb=20180831163541" tvg-group="INFANTILES",flooxer
-https://fast-channels.atresmedia.com/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8125285.m3u8
-
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/atresplayer/picture?width=200&height=200" tvg-group="INFANTILES",Atresplayer Clásicos
 https://fast-channels.atresmedia.com/648ef12c2bfab0e4507e0d61/648ef12c2bfab0e4507e0d61.m3u8
 
 #EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Movistar_Comedia/Movistar_Comedia-Logo.wine.png" tvg-group="INFANTILES", Comedia TV
 https://fast-channels.atresmedia.com/648ef23d2bfab0e4557e0d61/648ef23d2bfab0e4557e0d61.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/6cefaZzVkJk/hq720_live.jpg?sqp=CLjd8LAG-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAwYhbw7jvMED1ryoks8kEbxsB-qg" tvg-group="INFANTILES", Canal EGM | CL
-https://paneltv.online:1936/8186/8186/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://multicablemedios.hn/images/vallevision-2019-letras-blancas.png" tvg-group="INFANTILES",VALLEVISION
-https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uQAeKKa.png" tvg-group="ARGENTINA", Villa TV
-https://inliveserver.com:1936/10016/10016/chunklist_w1357319705.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.radiosabor.cl/wp-content/uploads/2021/02/logo_sbtv-300x300.png" tvg-group="MUSICA", Sabor TV | CL
 https://v1.tustreaming.cl/sabortv/index.m3u8?PlaylistM3UCL
@@ -2126,15 +2135,6 @@ https://cootv.cootel.com.ni:8095/channeltvone/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s265522g.png" tvg-group="MUSICA",La Mega Mundial | EE.UU.
 https://server40.servistreaming.com:3477/stream/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyoptMei6_QX_CHVzyPKpsVD1w2dRQes2JUw&usqp=CAU" tvg-group="INFANTILES", grjngo del oeste retro
-https://45e603c214f5438cae8872707b7fd678.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_GrjngoPeliculasDelOeste/playlist.m3u8?ads.wurl_channel=1239&ads.wurl_name=GrjngoPeliculasDelOeste&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-
-#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/LOGO-2023-XT-chico.png" tvg-group="INFANTILES", extrema tv acción sd
-https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2751264928/0facb64f7c7468a07681c5f27874d9a4_400x400.png" tvg-group="ARGENTINA", CANAL 8 VALLE DE UCO
-https://videostream.shockmedia.com.ar:19360/canal8/canal8.m3u8
-
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/a4/b4/a4b4fda80f172b6cc38a277a32680090.jpg" tvg-group="ARGENTINA", RADIO A 92.3 FM ORAN
 https://stmv3.voxtvhd.com.br/054/054/playlist.m3u8
 
@@ -2198,7 +2198,7 @@ https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vJZqrFY/a4ed367c69c23110d458a332af95be0be64566f288ccb5f261689344e6ba5e0d.png" tvg-group="ARGENTINA", Coto Brus TV (720p)
 https://cloudvideo.servers10.com:8081/8030/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.samsung.com/is/image/samsung/assets/mx/tvs/smart-tv/samsung-tv-plus/2023/FTV_LIVE.png" tvg-group="ARGENTINA", SABER MÁS
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/6576aebe-a538-473a-9f40-c8cea9fbeda8/FreeTVSaberM_s_Circle_1500x1000_-_Ralph_Campillo.png" tvg-group="ARGENTINA", SABER MÁS
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-ono/playlist.m3u8?player_height=1080&player_width=1920&min_ad_duration=6&max_ad_duration=120
 
 #EXTINF:-1 tvg-logo="https://images.samsung.com/is/image/samsung/assets/mx/tvs/smart-tv/samsung-tv-plus/2023/SamsungTVPlus_PartnerAssets_FreeTVBanda.png" tvg-group="ARGENTINA", MMC
