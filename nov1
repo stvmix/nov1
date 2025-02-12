@@ -850,7 +850,6 @@ https://panel.tvstream.cl:1936/8048/8048/playlist.m3u8
 http://159.203.148.226/live/farra.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/4c2862_a8f4a56f03ba4ec0903619a82c19e412~mv2.png" tvg-group="MUSICA", VClassicTV Tropical (🇨🇱) | CL
-https://5eaccbab48461.streamlock.net:1936/8222/8222/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://vclassictv.cl/wp-content/uploads/2024/09/lovovclassictv_24-e1725897773915.png" tvg-group="MUSICA", VClassicTV | CL
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
