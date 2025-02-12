@@ -121,14 +121,14 @@ https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
 #EXTINF:-1 tvg-logo="https://telecolortv.pe/wp-content/uploads/2021/09/tlc-2024-web-2.png" tvg-group="ARGENTINA", Telecolor || Yurimaguas
 https://live.obslivestream.com/telecolormux/index.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/v90G22k.png" tvg-group="ARGENTINA", Soberanía TV | HD | Punta Arenas
+https://tls-cl.cdnz.cl/radiosoberania/live/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YDQQng7/Logo-Unetev.png" tvg-group="ARGENTINA",Unetev HD
 https://panel.tvstream.cl:1936/8070/8070/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.paste.pics/2187dd0bf17bc4d9120ec79f47ad0145.png" tvg-group="ARGENTINA", Radio Lado Oscuro TV | CL
 https://stmv5.voxtvhd.com.br/cattotv/cattotv/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/v90G22k.png" tvg-group="ARGENTINA", Soberanía TV | HD | Punta Arenas
-https://tls-cl.cdnz.cl/radiosoberania/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1622_Dodo_TV.png" tvg-group="ARGENTINA", Dodo TV | CL
 https://cloud5.streaminglivehd.com:3651/hybrid/play.m3u8?PlaylistM3UCL
@@ -176,11 +176,11 @@ http://190.123.90.146:8000/play/a00j/index.m3u8
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2024_06/large.TNTSports.png.9d3a1d767a4697781ed3eddabfc3c247.png" tvg-group="Deportes",TNT Sports dsr
 https://dsr.ride.com.ar/tvmia/an32/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/espnpremium.png" tvg-group="Deportes", ESPN Premium 148
-http://148.113.190.252:8000/play/a038/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/espnpremium.png" tvg-group="Deportes",ESPN Premium 190
 http://190.123.90.146:8000/play/a00f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/espnpremium.png" tvg-group="Deportes", ESPN Premium MX 148
+http://148.113.190.252:8000/play/a038/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://clarovideocdn6.clarovideo.net/CVPERU/PELICULAS/ESPNNEW/EXPORTACION_WEB/SS/ESPNNEW_t-290x163.png" tvg-group="Deportes",ESPN 190
 http://190.123.90.146:8000/play/a00b/index.m3u8
@@ -210,9 +210,6 @@ http://190.123.90.146:8000/play/a00e/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://tycsports.hiringroom.com/data/accounts/tycsports/microsite/cfb58ca8d62e9685391d991717b44fb6.png" tvg-group="Deportes", TyC 190
 http://190.123.90.146:8000/play/a00k/index.m3u8
-
-#EXTINF:-1  tvg-logo="https://tycsports.hiringroom.com/data/accounts/tycsports/microsite/cfb58ca8d62e9685391d991717b44fb6.png" tvg-group="Deportes", AR TYC SPORTS
-http://148.113.190.252:8000/play/a039/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/FhOQWiELN6RRFwFbxKWWWEBLgGhXifnJfWT8SWtHZUdSH6fT3Jc_IC88xtebGFXTbQ" tvg-group="Deportes",TYC Sports Play 🇦🇷 ⚽
 https://d1scuk1wvkchtc.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index.m3u8
@@ -374,16 +371,12 @@ https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8?ads.device_did=%7BPSID%7D&ads%7DTARGETOads%7Bdnt=dominio_aplicación=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
 #EXTINF:-1 tvg-logo="https://www.freecast.com/_next/image?url=https%3A%2F%2Fd3e3bui7xn67l.cloudfront.net%2Fcms_media%2Fmedia%2Flive%2Fchannel%2Fff270419-798c-4ee7-897b-7b197dc9fa7a-1689106721.353391.256x256.png&w=256&q=75" tvg-group="ARGENTINA", Euronoticias | unión europea
-https://rakuten-euronews-4-es.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEppjI7h7e2qfdGDF-8eCei_xZoCwIthVvutxtzwnmYhhAHolbDTCxBTUXBrkdbsYP06E&usqp=CAU" tvg-group="ARGENTINA", euro news español
 https://2e0d18116bec40e088c0723dc56accf5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_EuronewsSpanish/playlist.m3u8?ads.wurl_channel=671&ads.wurl_name=EuronewsSpanish&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.plex_id=60089d97f682a3002c34829d&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/46/7a/8c/467a8cba-eb8a-4649-d154-c9172e28ea6f/AppIcon-0-1x_U007emarketing-0-6-0-85-220-0.png/256x256bb.jpg" tvg-group="ARGENTINA", francia 24 marine2
 https://marine2.miplay.cl/france24/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s303640/images/logog.png?t=151602" tvg-group="ARGENTINA", FR FRANCE24 SD
-https://s5.mexside.net:1936/france24/france24/chunklist_w561878371.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/45vrTdJeJaBibiMuxEztpOYWBkiIgWrUjrxJTQOffdx71PNIwqdt6NUq32E4kY8xhnA" tvg-group="ARGENTINA", C5N mnp
 https://delivery.cdn.rcs.net.ar/mnp/c5n_hls/playlist.m3u8
@@ -979,6 +972,15 @@ https://fl1002.bozztv.com/ssh101/opinionsurs/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ubOk8av.png" tvg-group="INFANTILES",Opinión Sur HD | Chile
 https://fl1002.bozztv.com/ssh101/opinionsur/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://catomedia.net/images_temp/web/catomedia-1.png" tvg-group="INFANTILES", Catomedia
+https://stream.catomedia.net/catomedia-app/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://oromartv.com/wp-content/themes/oromartv/imagenes/OTV400.png" tvg-group="INFANTILES", Oromar
+https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://miasonovision.ec/static/webapp/images/sonovision/SONOVISION_LOGO.png" tvg-group="INFANTILES", Sonovision  Ec
+https://us.streaminghd.cl/sonovision/video.m3u8
+
 #EXTINF:-1 tvg-logo="https://sicultura-live.s3.amazonaws.com/public/2024-06/telered-hzotl-of.jpg" tvg-group="INFANTILES", TELERED
 https://fl1004.bozztv.com/ssh101/teleredmastv/tracks-v1a1/mono.m3u8
 
@@ -1231,7 +1233,6 @@ https://azt-cl.otteravision.com/azt/cl/cl_1080p.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/Imagen-Television-en-vivo-Online.png?resize=696%2C392&ssl=1" tvg-group="ARGENTINA", IMAGEN TV raw
-https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/ImagenTelevision.m3u8
 
 #EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/16af5933-c8e0-4d5b-8488-45339c5b0252/df370sk-a879aab8-13d0-4b4d-ad86-83b503184afe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE2YWY1OTMzLWM4ZTAtNGQ1Yi04NDg4LTQ1MzM5YzViMDI1MlwvZGYzNzBzay1hODc5YWFiOC0xM2QwLTRiNGQtYWQ4Ni04M2I1MDMxODRhZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.H8DsHNAxD2uGYEx21R2BA2OmADNmIm1Dcxlx4PykGao" tvg-group="ARGENTINA", IMAGEN TV igd
 https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
@@ -2196,15 +2197,6 @@ https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vJZqrFY/a4ed367c69c23110d458a332af95be0be64566f288ccb5f261689344e6ba5e0d.png" tvg-group="ARGENTINA", Coto Brus TV (720p)
 https://cloudvideo.servers10.com:8081/8030/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://catomedia.net/images_temp/web/catomedia-1.png" tvg-group="ARGENTINA", Catomedia
-https://stream.catomedia.net/catomedia-app/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://oromartv.com/wp-content/themes/oromartv/imagenes/OTV400.png" tvg-group="ARGENTINA", Oromar
-https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://miasonovision.ec/static/webapp/images/sonovision/SONOVISION_LOGO.png" tvg-group="ARGENTINA", Sonovision  Ec
-https://us.streaminghd.cl/sonovision/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.samsung.com/is/image/samsung/assets/mx/tvs/smart-tv/samsung-tv-plus/2023/FTV_LIVE.png" tvg-group="ARGENTINA", SABER MÁS
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-ono/playlist.m3u8?player_height=1080&player_width=1920&min_ad_duration=6&max_ad_duration=120
