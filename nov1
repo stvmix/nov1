@@ -318,6 +318,9 @@ http://190.123.90.146:8000/play/a016/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DM4fxGB/Star-Channel.png" tvg-group="PREMIUM",STAR CH 190
 http://190.123.90.146:8000/play/a019/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://canaldhe.com/wp-content/uploads/2019/09/logo-7-11.png" tvg-group="PREMIUM", Canal DHE
+https://g2qd3e2ay7an-hls-live.5centscdn.com/channel11/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://tv.watchhallmarktv.com/tvelogo.png" tvg-group="PREMIUM",Hallmark en español
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6532e7b290a74c00084a3bb6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291885-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=abaa1d27-e975-4a86-be91-f282e0832a1c
 
@@ -453,7 +456,7 @@ https://cdnhd.iblups.com/hls/SJWxXEWwUd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qGddRW4.png" tvg-group="ARGENTINA",GenTV HD
 https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Conectate TV" tvg-logo="https://i.ibb.co/XsB3DYg/logo-Con-ctate-TV.png" grouptitle="Familiares",Conectate TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XsB3DYg/logo-Con-ctate-TV.png" tvg-group="ARGENTINA",Conectate TV
 https://5790d294af2dc.streamlock.net/conectatetv/conectatetv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://ssiptvarg.weebly.com/uploads/1/3/9/6/139612966/neo-tv-digital-16-1_orig.png" tvg-group="ARGENTINA", NEO TV DIGITAL 16.1
@@ -704,6 +707,9 @@ http://38.41.8.1:8000/play/a03o
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BADfaU8.png" tvg-group="INFANTILES",Canal Ipe | Perú
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
 
+#EXTINF:-1 tvg-logo="https://xhateaec.com/upload/photos/2025/01/MmoWlIPCxmaWG69VXC86_11_65958d4ac2c70a80babc2fa6c5c5cd8f_avatar_full.png" tvg-group="INFANTILES", FUNTV
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/funtvretro/chunks.m3u8
+
 #EXTINF:-1 tvg-id="CN City" tvg-name="CN City" tvg-logo="https://imgur.com/38F3AsR.png" group-title="INFANTILES",CN City | Chile
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png" tvg-group="INFANTILES", CLAN
@@ -945,6 +951,18 @@ https://fl1002.bozztv.com/ssh101/opinionsurs/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/ubOk8av.png" tvg-group="INFANTILES",Opinión Sur HD | Chile
 https://fl1002.bozztv.com/ssh101/opinionsur/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://sicultura-live.s3.amazonaws.com/public/2024-06/telered-hzotl-of.jpg" tvg-group="INFANTILES", TELERED
+https://fl1004.bozztv.com/ssh101/teleredmastv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PDVNb9i.png" tvg-group="INFANTILES", Buin Somos Todos| HD | Buin
+https://bst.buin.cl/0.m3u8
+
+#EXTINF:-1 tvg-logo="https://sarapiquitvcr.com/chatsarapiquitv/static/img/logo_small.png" tvg-group="INFANTILES", STV
+https://lstv.duckdns.org:449/hls/stv.m3u8
+
+#EXTINF:-1 tvg-logo="https://costaricatelevision.com/sites/default/files/styles/og_image/public/2023-05/telesistema-costa-rica.png.webp?itok=ijec4ssU" tvg-group="INFANTILES", TELESISTEMA
+https://glb.bozztv.com/glb/ssh101/telesistemacrtv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/472_Mi_TV_Television_Clasica.png" tvg-group="INFANTILES", Mi TV Televisión Clásica | A NOSOTROS
 https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8?PlaylistM3UCL
@@ -1780,7 +1798,7 @@ https://livestream.perucast.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3nSoRlU721Teo5FOj8asLFdsX4jgRAQtHXwomIW71ocxWR713HCQSPBzqBMBoXe76Mzg&usqp=CAU" tvg-group="INFANTILES",TVReus
 https://eu1.servers10.com:8081/8166/index.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-group="ARGENTINA",Telefe Cordoba
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Telefe_C%C3%B3rdoba_%282018%29.png/1100px-Telefe_C%C3%B3rdoba_%282018%29.png" tvg-group="ARGENTINA",Telefe Cordoba
 http://190.123.90.146:8000/play/a03c/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/InD73GW.png" tvg-group="ARGENTINA", Multivisión Federal | HD | Salta
@@ -1825,17 +1843,11 @@ https://tls-cl.cdnz.cl/retroplustvdos/live/chunklist_w1061482613.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1qX1L8t.jpeg" tvg-group="ARGENTINA", Retroplus 3 | HD | Chile
 https://tls-cl.cdnz.cl/retroplustvtres/live/chunklist_w2053190015.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/dBOZBTX.png" tvg-group="ARGENTINA", Caldera Visión | HD | Caldera
-https://5eaccbab48461.streamlock.net:1936/8058/8058/playlist.m3u8
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Lwhe58T.png" tvg-group="ARGENTINA", +Cine | HD | Chile
 https://tv.streaming-chile.com:19360/8142/8142.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/FruRKi9.png" tvg-group="ARGENTINA", +Cine Clásico | HD | Chile
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/mascineclasico/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PDVNb9i.png" tvg-group="ARGENTINA", Buin Somos Todos| HD | Buin
-https://bst.buin.cl/0.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/cnfMxIP.png" tvg-group="ARGENTINA", Telecanal | FHD | Santa Cruz
 https://eu1.servers10.com:8081/8194/index.m3u8
@@ -2160,31 +2172,13 @@ https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vJZqrFY/a4ed367c69c23110d458a332af95be0be64566f288ccb5f261689344e6ba5e0d.png" tvg-group="ARGENTINA", Coto Brus TV (720p)
 https://cloudvideo.servers10.com:8081/8030/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://costaricatelevision.com/sites/default/files/styles/og_image/public/2023-05/telesistema-costa-rica.png.webp?itok=ijec4ssU" tvg-group="ARGENTINA", TELESISTEMA
-https://glb.bozztv.com/glb/ssh101/telesistemacrtv/index.m3u8
-
-#EXTINF:-1 tvg-logo="" tvg-group="ARGENTINA", MITV FAMILIAR
-https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://sicultura-live.s3.amazonaws.com/public/2024-06/telered-hzotl-of.jpg" tvg-group="ARGENTINA", TELERED
-https://fl1004.bozztv.com/ssh101/teleredmastv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://xhateaec.com/upload/photos/2025/01/MmoWlIPCxmaWG69VXC86_11_65958d4ac2c70a80babc2fa6c5c5cd8f_avatar_full.png" tvg-group="ARGENTINA", FUNTV
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/funtvretro/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://sarapiquitvcr.com/chatsarapiquitv/static/img/logo_small.png" tvg-group="ARGENTINA", STV
-https://lstv.duckdns.org:449/hls/stv.m3u8
-
-#EXTINF:-1 tvg-logo="https://canaldhe.com/wp-content/uploads/2019/09/logo-7-11.png" tvg-group="ARGENTINA", Canal DHE
-https://g2qd3e2ay7an-hls-live.5centscdn.com/channel11/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://catomedia.net/images_temp/web/catomedia-1.png" tvg-group="ARGENTINA", Catomedia
 https://stream.catomedia.net/catomedia-app/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://oromartv.com/wp-content/themes/oromartv/imagenes/OTV400.png" tvg-group="ARGENTINA", Oromar
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://miasonovision.ec/wp-content/uploads/2021/01/logo_sonovision_Mesa-de-trabajo-1.png" tvg-group="ARGENTINA", Sonovision  Ec
+#EXTINF:-1 tvg-logo="https://miasonovision.ec/static/webapp/images/sonovision/SONOVISION_LOGO.png" tvg-group="ARGENTINA", Sonovision  Ec
 https://us.streaminghd.cl/sonovision/video.m3u8
 
 
