@@ -286,7 +286,7 @@ http://160.20.165.246:8000/play/a01f
 http://170.254.18.106/HBO2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvlibrehd.com/img/hbo2.webp" tvg-group="PREMIUM", HBO 2 d
-https://delivery.cdn.rcs.net.ar/mnp/hbo2_hls/playlist.m3u8
+http://170.254.18.106/HBO2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://clarovideocdn1.clarovideo.net/HBO/PELICULAS/HBOFAMILYCHANNEL/EXPORTACION_WEB/SS/HBOFAMILYCHANNEL_t-290x163.png" tvg-group="PREMIUM", hbo family 190
 http://190.123.90.146:8000/play/a03d/index.m3u8
@@ -494,7 +494,6 @@ http://190.123.90.146:8000/play/a02f/index.m3u8
 https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-cine-kids-16x9_navidad.jpg" tvg-group="INFANTILES", Cine Kids
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3506
 
 #EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTQxX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1708456868844" tvg-group="INFANTILES", Disney OK
 https://delivery.cdn.rcs.net.ar/mnp/disney_hls/playlist.m3u8
@@ -2196,6 +2195,20 @@ https://cloudvideo.servers10.com:8081/8030/index.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/6576aebe-a538-473a-9f40-c8cea9fbeda8/FreeTVSaberM_s_Circle_1500x1000_-_Ralph_Campillo.png" tvg-group="ARGENTINA", SABER MÁS
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-ono/playlist.m3u8?player_height=1080&player_width=1920&min_ad_duration=6&max_ad_duration=120
 
+#EXTINF:-1 tvg-group="ARGENTINA",juancine_tv
+https://stream-cdn-iad2.vaughnsoft.net/play/live_juancine_tv.flv
+
+#EXTINF:-1 tvg-group="ARGENTINA",terror_mania
+https://stream-cdn-iad2.vaughnsoft.net/play/live_terror_mania.flv
+
+#EXTINF:-1 tvg-group="ARGENTINA",shay_saheed
+https://stream-cdn-iad.vaughnsoft.net/play/live_shay_saheed.flv
+
+#EXTINF:-1 tvg-group="ARGENTINA", Dos hombres y medio
+https://stream-cdn-iad2.vaughnsoft.net/play/live_cienciaficcion01.flv
+
+#EXTINF:-1 tvg-group="ARGENTINA", papá americano
+https://stream-cdn-iad.vaughnsoft.net/play/live_shy_ch_anaeter.flv
 
 
 #EXTINF:-1 ch-number="141" tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="EVENTOS DISNEY+",ESPN En DISNEY Plus 1
