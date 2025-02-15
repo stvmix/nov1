@@ -2195,6 +2195,18 @@ https://cloudvideo.servers10.com:8081/8030/index.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/6576aebe-a538-473a-9f40-c8cea9fbeda8/FreeTVSaberM_s_Circle_1500x1000_-_Ralph_Campillo.png" tvg-group="ARGENTINA", SABER MÁS
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-ono/playlist.m3u8?player_height=1080&player_width=1920&min_ad_duration=6&max_ad_duration=120
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wh9SLJC.png" tvg-group="ARGENTINA", America Teve HD Estados Unidos
+https://live.gideo.video/americateve2/HD720/HD720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/a3cc09111530a9edea11497d6575afb0.png" tvg-group="ARGENTINA", Canal 5 Tucuman AR
+https://videohd.live:19360/8090/8090.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://i.paste.pics/bc45740f1e3774c663644d7488cfee08.png" tvg-group="ARGENTINA", Urbana TeVe AR
+https://cdnhd.iblups.com/hls/DD3nXkAkWk.m3u8?PlaylistM3UCL
+
+
+
+
 #EXTINF:-1 tvg-group="ARGENTINA",juancine_tv
 https://stream-cdn-iad2.vaughnsoft.net/play/live_juancine_tv.flv
 
