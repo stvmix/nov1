@@ -2176,6 +2176,14 @@ https://live.gideo.video/americateve2/HD720/HD720.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/a3cc09111530a9edea11497d6575afb0.png" tvg-group="ARGENTINA", Canal 5 Tucuman AR
 https://videohd.live:19360/8090/8090.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo=" https://fotos.perfil.com/2022/10/11/trim/987/555/gran-hermano-1433877.jpg" tvg-group="ARGENTINA", GH 
+http://weib-tv.com:80/pabloarrieta1941/wQCnwnSeJq/615499.ts 
+#EXTINF:-1 tvg-logo=" https://fotos.perfil.com/2022/10/11/trim/987/555/gran-hermano-1433877.jpg" tvg-group="ARGENTINA", GH 1 
+http://weib-tv.com:80/pabloarrieta1941/wQCnwnSeJq/615502.ts
+#EXTINF:-1 tvg-logo=" https://fotos.perfil.com/2022/10/11/trim/987/555/gran-hermano-1433877.jpg" tvg-group="ARGENTINA", GH 2 
+http://weib-tv.com:80/pabloarrieta1941/wQCnwnSeJq/615505.ts
+#EXTINF:-1 tvg-logo=" https://fotos.perfil.com/2022/10/11/trim/987/555/gran-hermano-1433877.jpg" tvg-group="ARGENTINA", GH 3 
+http://weib-tv.com:80/pabloarrieta1941/wQCnwnSeJq/615508.ts
 
 #EXTINF:-1 tvg-group="ARGENTINA",juancine_tv
 https://stream-cdn-iad2.vaughnsoft.net/play/live_juancine_tv.flv
