@@ -109,9 +109,6 @@ https://dsr.ride.com.ar/tvmia/an18/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" tvg-group="ARGENTINA",TCM 190
 http://190.123.90.146:8000/play/a01b/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/328.png" tvg-group="ARGENTINA", TCM HD
-https://delivery.cdn.rcs.net.ar/mnp/tcm_hls/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/f8hSs6J/Punto-99-Logo-Reducido.png" tvg-group="ARGENTINA", PUNTO 99
 https://stmv5.voxtvhd.com.br/99online/99online/playlist.m3u8
 
@@ -758,7 +755,6 @@ https://tv.streaming-chile.com:19360/8068/8068.m3u8
 https://cloudvideo.servers10.com:8081/8096/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/BjOe1RF.jpg" tvg-group="INFANTILES", Moni TV | FHD | Chile
-https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/pqWmos0.png" tvg-group="INFANTILES", Kanade TV | FHD | Chile
 https://stream.wifiexpert.cl/kanade/kanadetv/playlist.m3u8
@@ -945,9 +941,6 @@ https://460689fd4b6d4c80a0c539b27dc7cea8.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2018_10/1679567950_DistritoComedia-.png.51fc33f3d4f8dff729c018643cfb86bb.png" tvg-group="INFANTILES", DISTRITO HD 140
 http://148.113.190.252:8000/play/a00j/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhU7iZpzdpM40DfyveaO98h_pBYadlL9SSCsdatIVlsitCBdD7oWjYAb4IuQHzCtB8oQw&usqp=CAU" tvg-group="INFANTILES",Comedy Central
-https://delivery.cdn.rcs.net.ar/mnp/comedy_hls/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_02/large.Comedy-Central-Symbol-removebg-preview.png.d75d3300d085d087750eda7f6bf1fedd.png" tvg-group="INFANTILES",COMEDY CENTRAL 190
 http://190.123.90.146:8000/play/a00z/index.m3u8
 
@@ -1031,9 +1024,6 @@ https://fast-channels.atresmedia.com/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8
 
 #EXTINF:-1 tvg-logo="https://www.elplural.com/uploads/s1/15/40/03/0/pablo-motos.jpeg" tvg-group="INFANTILES", El Hormiguero
 https://fast-channels.atresmedia.com/648ef5882bfab0e4627e0d61/648ef5882bfab0e4627e0d61.m3u8
-
-#EXTINF:-1 tvg-logo="https://pixel.disco.skyshowtime.com/uuid/0b3a5115-0db2-3703-abd9-77156f04f5c9/LOGO_TITLE_WIDE?language=es-ES&proposition=SKYSHOWTIME&version=96a4623d-b816-37f2-8d2b-f139191d3ea3" tvg-group="INFANTILES", Física o química
-https://fast-channels.atresmedia.com/648ef50a2bfab0e4607e0d61/648ef50a2bfab0e4607e0d61.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyoptMei6_QX_CHVzyPKpsVD1w2dRQes2JUw&usqp=CAU" tvg-group="INFANTILES", grjngo del oeste retro
 https://45e603c214f5438cae8872707b7fd678.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_GrjngoPeliculasDelOeste/playlist.m3u8?ads.wurl_channel=1239&ads.wurl_name=GrjngoPeliculasDelOeste&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
@@ -1643,16 +1633,6 @@ http://190.123.90.146:8000/play/a02l/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6d241ede0cc88187952_d-world1.jpeg" tvg-group="ARGENTINA", DISCOVERY WORLD 
 https://delivery.cdn.rcs.net.ar/mnp/disc_world_hls/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDc0X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1709698313152" tvg-group="CIENCIA Y CULTURA",Animal Planet mnp
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/100px-History_Logo.svg.png" group-title="CULTURA Y EDUCACION", 321 | History
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/110px-History2Logo2019.png" group-title="CULTURA Y EDUCACION", 322 | History 2
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WuOhLl4.png",Turbo
-
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Pluto-TV-Animales-en-directo-Online.png?fit=1920%2C1080&ssl=1" tvg-group="ARGENTINA", Pluto TV Animales
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
@@ -1923,7 +1903,7 @@ https://d3r5ioyjqcy69v.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/08/13/04/1723497771524/6ddb4622ebc8_640_360.png" tvg-group="ARGENTINA", ATV HD
 https://live-evg25.tv360.bitel.com.pe/bitel/atv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BmTrRtV.png" tvg-group="ARGENTINA", ATV | HD | Lima
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BmTrRtV.png" tvg-group="ARGENTINA", ATV | HD | Lima  EVENTOS
 https://live-zlr1.tv360.bitel.com.pe/bitel/atv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1aJZr2i.png" tvg-group="ARGENTINA", Panamericana | HD | Lima
@@ -1971,9 +1951,6 @@ https://glb.bozztv.com/glb/ssh101/cinestarteve/playlist.m3u8
 #EXTINF:0  tvg-logo="https://playtelevision.com.ar/wp-content/uploads/2022/09/Play-tv-logo-blanco.png" tvg-group="ARGENTINA", Play (Argentina) (🇦🇷)
 https://vivo.solumedia.com:19360/playtv/playtv.m3u8
 
-#EXTINF:-1 tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1725313054.jpg?w=1119&h=1019" tvg-group="ARGENTINA", SPACE xmp
-http://bantel-cdn1.iptvperu.tv:1935/xmp_trans/space.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_08/small.92231216_GoldenPlus2020.png.bccb9ac3e4e370a2aed9089c8315cc6a.png" tvg-group="ARGENTINA", Golden Plus HD-IK1662-OK 191
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/14y2KDF.png" tvg-group="ARGENTINA", Radio Televisión Araucanía Los Ángeles
@@ -1986,7 +1963,6 @@ https://5e3483cba9114.streamlock.net/kbwqdhjxtz/kbwqdhjxtz/playlist.m3u8
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3RZjqEW.png" tvg-group="ARGENTINA", Canal 10 Río Negro
-https://panel.host-live.com/tvrionegro/ngrp:tvrionegro_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JlQyJaX.png" tvg-group="ARGENTINA", Coop Jesús María
 https://smt-usr-edge02.sensa.com.ar/output/NDS/tvcoopjpH/playlist.m3u8
@@ -2004,7 +1980,6 @@ https://vcp.myplaytv.com/mdatv/mdatv/playlist.m3u8
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/channel-true_crime-16x9.jpg" tvg-group="PREMIUM", CRIMEN VERDADERO DE CANELA
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3985
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/fb8c01f83f28e273af1edd823437795d.webp" tvg-group="PREMIUM", CANELA TODO CINE
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4565
@@ -2200,11 +2175,6 @@ https://live.gideo.video/americateve2/HD720/HD720.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/a3cc09111530a9edea11497d6575afb0.png" tvg-group="ARGENTINA", Canal 5 Tucuman AR
 https://videohd.live:19360/8090/8090.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://i.paste.pics/bc45740f1e3774c663644d7488cfee08.png" tvg-group="ARGENTINA", Urbana TeVe AR
-https://cdnhd.iblups.com/hls/DD3nXkAkWk.m3u8?PlaylistM3UCL
-
-
 
 
 #EXTINF:-1 tvg-group="ARGENTINA",juancine_tv
@@ -3123,143 +3093,178 @@ https://cdn.sensa.com.ar/live/eds/TVE/live_dash_cld/TVE.mpd?|referer=https://pla
 https://cdn.sensa.com.ar/bpk-tv/VePlus/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 
+#KODIPROP: tipo_licencia_adaptativa_de_entrada=org.w3.clearkey
+#KODIPROP: clave de licencia de flujo de entrada adaptable = 202c8579c94df506c1a1c54ef49a0c60:871f84901f3580cfa7273293482a66c5
+#EXTINF:-1 ch-number="318" tvg-id="517#Golden Edge" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/GEDGE.png?raw=true" group-title="Cine, Novelas y Series", Golden Edge
+http://cdn.sensa.com.ar/live/eds/GoldenEdge/live_dash_cld/GoldenEdge.mpd?|referer=https://player.sensa.com.ar/
+
+
+
+
+#EXTM3U
+
+#EXTINF:-1 group-title="Deportes" ch-number="120" tvg-id="" tvg-logo="https://dl.dropbox.com/scl/fi/b5vv58w3mdjkopsb9edhy/goltv.jpg?rlkey=digisjr7amuf7j7xudugbe3m4&dl=1", Gol TV
+#EXTVLCOPT:http-origin=https://streamdz2.com
+#EXTVLCOPT:http-referrer=https://streamdz2.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/131.0.0.0 Safari/537.36
+https://cebo.weacet.online/goltv/tracks-v1a1/mono.m3u8?md5=Xr2BCIXMtsVeZ0V9c8pw0Q&expires=1739816407
+
+#EXTINF:-1 group-title="Uruguay" ch-number="121" tvg-id="VTVPlus.uy.uy" tvg-logo="https://dl.dropbox.com/scl/fi/euk6d7rq2vt77e7ttt6tz/vtvplus.png?rlkey=jubnbbfirssq1hur4kqp44ojd&dl=1" tvg-group="DEPORTES", VTV Plus Uruguay
+#EXTVLCOPT:http-origin=https://streamdz2.com
+#EXTVLCOPT:http-referrer=https://streamdz2.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/131.0.0.0 Safari/537.36
+https://cebo.weacet.online/vtvplus/tracks-v1a1/mono.m3u8?md5=Xr2BCIXMtsVeZ0V9c8pw0Q&expires=1739816407
+
+#EXTINF:-1 ch-number="128" tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/w0VHc1W/logo-app.png" group-title="Deportes",Bein Sports
+#KODIPROP: flujo de entrada. tipo_de_manifiesto_adaptable=m3u8
+#EXTVLCOPT:http-origin=https://streamdz2.com
+#EXTVLCOPT:http-referrer=https://streamdz2.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/131.0.0.0 Safari/537.36
+https://cebo.weacet.online/beinsportsn/tracks-v1a1/mono.m3u8?md5=Xr2BCIXMtsVeZ0V9c8pw0Q&expires=1739816407
+
+#EXTINF:-1 ch-number="130" tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/w0VHc1W/logo-app.png" group-title="Eventos MLS",MLS
+#KODIPROP: flujo de entrada. tipo_de_manifiesto_adaptable=m3u8
+#EXTVLCOPT:http-origin=https://streamdz2.com
+#EXTVLCOPT:http-referrer=https://streamdz2.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/131.0.0.0 Safari/537.36
+https://cebo.weacet.online/mls/tracks-v1a1/mono.m3u8?md5=Xr2BCIXMtsVeZ0V9c8pw0Q&expires=1739816407
 
 #EXTINF:-1 ch-number="141" tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="EVENTOS DISNEY+",ESPN En DISNEY Plus 1
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTVLCOPT:http-origin=https://streamdz1.xyz
-#EXTVLCOPT:http-referrer=https://streamdz1.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://cebo.weacet.online/disney1/tracks-v1a1/mono.m3u8?md5=-m_u7NvdEhfzqi8Jp6W5sw&expires=1739262006
+#KODIPROP: flujo de entrada. tipo_de_manifiesto_adaptable=m3u8
+#EXTVLCOPT:http-origin=https://streamdz3.lat
+#EXTVLCOPT:http-referrer=https://streamdz3.lat/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/131.0.0.0 Safari/537.36
+https://cebo.weacet.online/disney1/tracks-v1a1/mono.m3u8?md5=Xr2BCIXMtsVeZ0V9c8pw0Q&expires=1739816407
 
-#EXTINF:-1 ch-number="142" tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="EVENTOS DISNEY+",ESPN En DISNEY Plus 2
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTVLCOPT:http-origin=https://streamdz1.xyz
-#EXTVLCOPT:http-referrer=https://streamdz1.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://cebo.weacet.online/disney2/tracks-v1a1/mono.m3u8?md5=-m_u7NvdEhfzqi8Jp6W5sw&expires=1739262006
+#EXTINF:-1 ch-number="142" tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="EVENTOS DISNEY+",ESPN Y DISNEY Plus 2
+#KODIPROP: flujo de entrada. tipo_de_manifiesto_adaptable=m3u8
+#EXTVLCOPT:http-origin=https://streamdz3.lat
+#EXTVLCOPT:http-referrer=https://streamdz3.lat/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/131.0.0.0 Safari/537.36
+https://cebo.weacet.online/disney2/tracks-v1a1/mono.m3u8?md5=Xr2BCIXMtsVeZ0V9c8pw0Q&expires=1739816407
 
-#EXTINF:-1 ch-number="143" tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="EVENTOS DISNEY+",ESPN En DISNEY Plus 3
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTVLCOPT:http-origin=https://streamdz1.xyz
-#EXTVLCOPT:http-referrer=https://streamdz1.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://cebo.weacet.online/disney3/tracks-v1a1/mono.m3u8?md5=-m_u7NvdEhfzqi8Jp6W5sw&expires=1739262006
+#EXTINF:-1 ch-number="143" tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="EVENTOS DISNEY+",ESPN Y DISNEY Plus 3
+#KODIPROP: flujo de entrada. tipo_de_manifiesto_adaptable=m3u8
+#EXTVLCOPT:http-origin=https://streamdz3.lat
+#EXTVLCOPT:http-referrer=https://streamdz3.lat/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/131.0.0.0 Safari/537.36
+https://cebo.weacet.online/disney3/tracks-v1a1/mono.m3u8?md5=Xr2BCIXMtsVeZ0V9c8pw0Q&expires=1739816407
 
-#EXTINF:-1 ch-number="144" tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="EVENTOS DISNEY+",ESPN En DISNEY Plus 4
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTVLCOPT:http-origin=https://streamdz1.xyz
-#EXTVLCOPT:http-referrer=https://streamdz1.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://cebo.weacet.online/disney4/tracks-v1a1/mono.m3u8?md5=-m_u7NvdEhfzqi8Jp6W5sw&expires=1739262006
+#EXTINF:-1 ch-number="144" tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="EVENTOS DISNEY+",ESPN Y DISNEY Plus 4
+#KODIPROP: flujo de entrada. tipo_de_manifiesto_adaptable=m3u8
+#EXTVLCOPT:http-origin=https://streamdz3.lat
+#EXTVLCOPT:http-referrer=https://streamdz3.lat/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/131.0.0.0 Safari/537.36
+https://cebo.weacet.online/disney4/tracks-v1a1/mono.m3u8?md5=Xr2BCIXMtsVeZ0V9c8pw0Q&expires=1739816407
 
-#EXTINF:-1 ch-number="145" tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="EVENTOS DISNEY+",ESPN En DISNEY Plus 5
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTVLCOPT:http-origin=https://streamdz1.xyz
-#EXTVLCOPT:http-referrer=https://streamdz1.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://cebo.weacet.online/disney5/tracks-v1a1/mono.m3u8?md5=-m_u7NvdEhfzqi8Jp6W5sw&expires=1739262006
+#EXTINF:-1 ch-number="145" tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="EVENTOS DISNEY+",ESPN Y DISNEY Plus 5
+#KODIPROP: flujo de entrada. tipo_de_manifiesto_adaptable=m3u8
+#EXTVLCOPT:http-origin=https://streamdz3.lat
+#EXTVLCOPT:http-referrer=https://streamdz3.lat/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/131.0.0.0 Safari/537.36
+https://cebo.weacet.online/disney5/tracks-v1a1/mono.m3u8?md5=Xr2BCIXMtsVeZ0V9c8pw0Q&expires=1739816407
 
-#EXTINF:-1 ch-number="146" tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="EVENTOS DISNEY+",ESPN En DISNEY Plus 6
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTVLCOPT:http-origin=https://streamdz1.xyz
-#EXTVLCOPT:http-referrer=https://streamdz1.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://cebo.weacet.online/disney6/tracks-v1a1/mono.m3u8?md5=-m_u7NvdEhfzqi8Jp6W5sw&expires=1739262006
+#EXTINF:-1 ch-number="146" tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="EVENTOS DISNEY+",ESPN Y DISNEY Plus 6
+#KODIPROP: flujo de entrada. tipo_de_manifiesto_adaptable=m3u8
+#EXTVLCOPT:http-origin=https://streamdz3.lat
+#EXTVLCOPT:http-referrer=https://streamdz3.lat/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/131.0.0.0 Safari/537.36
+https://cebo.weacet.online/disney6/tracks-v1a1/mono.m3u8?md5=Xr2BCIXMtsVeZ0V9c8pw0Q&expires=1739816407
 
-#EXTINF:-1 ch-number="147" tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="EVENTOS DISNEY+",ESPN En DISNEY Plus 7
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTVLCOPT:http-origin=https://streamdz1.xyz
-#EXTVLCOPT:http-referrer=https://streamdz1.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://cebo.weacet.online/disney7/tracks-v1a1/mono.m3u8?md5=-m_u7NvdEhfzqi8Jp6W5sw&expires=1739262006
+#EXTINF:-1 ch-number="147" tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="EVENTOS DISNEY+",ESPN Y DISNEY Plus 7
+#KODIPROP: flujo de entrada. tipo_de_manifiesto_adaptable=m3u8
+#EXTVLCOPT:http-origin=https://streamdz3.lat
+#EXTVLCOPT:http-referrer=https://streamdz3.lat/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/131.0.0.0 Safari/537.36
+https://cebo.weacet.online/disney7/tracks-v1a1/mono.m3u8?md5=Xr2BCIXMtsVeZ0V9c8pw0Q&expires=1739816407
 
-#EXTINF:-1 ch-number="148" tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="EVENTOS DISNEY+",ESPN En DISNEY Plus 8
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTVLCOPT:http-origin=https://streamdz1.xyz
-#EXTVLCOPT:http-referrer=https://streamdz1.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://cebo.weacet.online/disney8/tracks-v1a1/mono.m3u8?md5=-m_u7NvdEhfzqi8Jp6W5sw&expires=1739262006
+#EXTINF:-1 ch-number="148" tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="EVENTOS DISNEY+",ESPN Y DISNEY Plus 8
+#KODIPROP: flujo de entrada. tipo_de_manifiesto_adaptable=m3u8
+#EXTVLCOPT:http-origin=https://streamdz3.lat
+#EXTVLCOPT:http-referrer=https://streamdz3.lat/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/131.0.0.0 Safari/537.36
+https://cebo.weacet.online/disney8/tracks-v1a1/mono.m3u8?md5=Xr2BCIXMtsVeZ0V9c8pw0Q&expires=1739816407
 
 #EXTINF:-1 ch-number="149" tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="EVENTOS DISNEY+",ESPN En DISNEY Plus 9
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTVLCOPT:http-origin=https://streamdz1.xyz
-#EXTVLCOPT:http-referrer=https://streamdz1.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://cebo.weacet.online/disney9/tracks-v1a1/mono.m3u8?md5=-m_u7NvdEhfzqi8Jp6W5sw&expires=1739262006
+#KODIPROP: flujo de entrada. tipo_de_manifiesto_adaptable=m3u8
+#EXTVLCOPT:http-origin=https://streamdz3.lat
+#EXTVLCOPT:http-referrer=https://streamdz3.lat/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/131.0.0.0 Safari/537.36
+https://cebo.weacet.online/disney9/tracks-v1a1/mono.m3u8?md5=Xr2BCIXMtsVeZ0V9c8pw0Q&expires=1739816407
 
-#EXTINF:-1 ch-number="150" tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="EVENTOS DISNEY+",ESPN En DISNEY Plus 10
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTVLCOPT:http-origin=https://streamdz1.xyz
-#EXTVLCOPT:http-referrer=https://streamdz1.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://cebo.weacet.online/disney10/tracks-v1a1/mono.m3u8?md5=-m_u7NvdEhfzqi8Jp6W5sw&expires=1739262006
+#EXTINF:-1 ch-number="150" tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="EVENTOS DISNEY+",ESPN Y DISNEY Plus 10
+#KODIPROP: flujo de entrada. tipo_de_manifiesto_adaptable=m3u8
+#EXTVLCOPT:http-origin=https://streamdz3.lat
+#EXTVLCOPT:http-referrer=https://streamdz3.lat/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/131.0.0.0 Safari/537.36
+https://cebo.weacet.online/disney10/tracks-v1a1/mono.m3u8?md5=Xr2BCIXMtsVeZ0V9c8pw0Q&expires=1739816407
 
 #EXTINF:-1 ch-number="151" tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="EVENTOS DISNEY+",ESPN En DISNEY Plus 11
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTVLCOPT:http-origin=https://streamdz1.xyz
-#EXTVLCOPT:http-referrer=https://streamdz1.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://cebo.weacet.online/disney11/tracks-v1a1/mono.m3u8?md5=-m_u7NvdEhfzqi8Jp6W5sw&expires=1739262006
+#KODIPROP: flujo de entrada. tipo_de_manifiesto_adaptable=m3u8
+#EXTVLCOPT:http-origin=https://streamdz3.lat
+#EXTVLCOPT:http-referrer=https://streamdz3.lat/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/131.0.0.0 Safari/537.36
+https://cebo.weacet.online/disney11/tracks-v1a1/mono.m3u8?md5=Xr2BCIXMtsVeZ0V9c8pw0Q&expires=1739816407
 
 #EXTINF:-1 ch-number="152" tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="EVENTOS DISNEY+",ESPN En DISNEY Plus 12
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTVLCOPT:http-origin=https://streamdz1.xyz
-#EXTVLCOPT:http-referrer=https://streamdz1.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://cebo.weacet.online/disney12/tracks-v1a1/mono.m3u8?md5=-m_u7NvdEhfzqi8Jp6W5sw&expires=1739262006
+#KODIPROP: flujo de entrada. tipo_de_manifiesto_adaptable=m3u8
+#EXTVLCOPT:http-origin=https://streamdz3.lat
+#EXTVLCOPT:http-referrer=https://streamdz3.lat/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/131.0.0.0 Safari/537.36
+https://cebo.weacet.online/disney12/tracks-v1a1/mono.m3u8?md5=Xr2BCIXMtsVeZ0V9c8pw0Q&expires=1739816407
 
 #EXTINF:-1 ch-number="153" tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="EVENTOS DISNEY+",ESPN En DISNEY Plus 13
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTVLCOPT:http-origin=https://streamdz1.xyz
-#EXTVLCOPT:http-referrer=https://streamdz1.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://cebo.weacet.online/disney13/tracks-v1a1/mono.m3u8?md5=-m_u7NvdEhfzqi8Jp6W5sw&expires=1739262006
+#KODIPROP: flujo de entrada. tipo_de_manifiesto_adaptable=m3u8
+#EXTVLCOPT:http-origin=https://streamdz3.lat
+#EXTVLCOPT:http-referrer=https://streamdz3.lat/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/131.0.0.0 Safari/537.36
+https://cebo.weacet.online/disney13/tracks-v1a1/mono.m3u8?md5=Xr2BCIXMtsVeZ0V9c8pw0Q&expires=1739816407
 
 #EXTINF:-1 ch-number="154" tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="EVENTOS DISNEY+",ESPN En DISNEY Plus 14
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTVLCOPT:http-origin=https://streamdz1.xyz
-#EXTVLCOPT:http-referrer=https://streamdz1.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://cebo.weacet.online/disney14/tracks-v1a1/mono.m3u8?md5=-m_u7NvdEhfzqi8Jp6W5sw&expires=1739262006
+#KODIPROP: flujo de entrada. tipo_de_manifiesto_adaptable=m3u8
+#EXTVLCOPT:http-origin=https://streamdz3.lat
+#EXTVLCOPT:http-referrer=https://streamdz3.lat/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/131.0.0.0 Safari/537.36
+https://cebo.weacet.online/disney14/tracks-v1a1/mono.m3u8?md5=Xr2BCIXMtsVeZ0V9c8pw0Q&expires=1739816407
 
 #EXTINF:-1 ch-number="155" tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="EVENTOS DISNEY+",ESPN En DISNEY Plus 15
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTVLCOPT:http-origin=https://streamdz1.xyz
-#EXTVLCOPT:http-referrer=https://streamdz1.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://cebo.weacet.online/disney15/tracks-v1a1/mono.m3u8?md5=-m_u7NvdEhfzqi8Jp6W5sw&expires=1739262006
+#KODIPROP: flujo de entrada. tipo_de_manifiesto_adaptable=m3u8
+#EXTVLCOPT:http-origin=https://streamdz3.lat
+#EXTVLCOPT:http-referrer=https://streamdz3.lat/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/131.0.0.0 Safari/537.36
+https://cebo.weacet.online/disney15/tracks-v1a1/mono.m3u8?md5=Xr2BCIXMtsVeZ0V9c8pw0Q&expires=1739816407
 
 #EXTINF:-1 ch-number="156" tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="EVENTOS DISNEY+",ESPN En DISNEY Plus 16
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTVLCOPT:http-origin=https://streamdz1.xyz
-#EXTVLCOPT:http-referrer=https://streamdz1.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://cebo.weacet.online/disney16/tracks-v1a1/mono.m3u8?md5=-m_u7NvdEhfzqi8Jp6W5sw&expires=1739262006
+#KODIPROP: flujo de entrada. tipo_de_manifiesto_adaptable=m3u8
+#EXTVLCOPT:http-origin=https://streamdz3.lat
+#EXTVLCOPT:http-referrer=https://streamdz3.lat/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/131.0.0.0 Safari/537.36
+https://cebo.weacet.online/disney16/tracks-v1a1/mono.m3u8?md5=Xr2BCIXMtsVeZ0V9c8pw0Q&expires=1739816407
 
 #EXTINF:-1 ch-number="157" tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="EVENTOS DISNEY+",ESPN En DISNEY Plus 17
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTVLCOPT:http-origin=https://streamdz1.xyz
-#EXTVLCOPT:http-referrer=https://streamdz1.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://cebo.weacet.online/disney17/tracks-v1a1/mono.m3u8?md5=-m_u7NvdEhfzqi8Jp6W5sw&expires=1739262006
+#KODIPROP: flujo de entrada. tipo_de_manifiesto_adaptable=m3u8
+#EXTVLCOPT:http-origin=https://streamdz3.lat
+#EXTVLCOPT:http-referrer=https://streamdz3.lat/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/131.0.0.0 Safari/537.36
+https://cebo.weacet.online/disney17/tracks-v1a1/mono.m3u8?md5=Xr2BCIXMtsVeZ0V9c8pw0Q&expires=1739816407
 
 #EXTINF:-1 ch-number="158" tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="EVENTOS DISNEY+",ESPN En DISNEY Plus 18
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTVLCOPT:http-origin=https://streamdz1.xyz
-#EXTVLCOPT:http-referrer=https://streamdz1.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://cebo.weacet.online/disney18/tracks-v1a1/mono.m3u8?md5=-m_u7NvdEhfzqi8Jp6W5sw&expires=1739262006
+#KODIPROP: flujo de entrada. tipo_de_manifiesto_adaptable=m3u8
+#EXTVLCOPT:http-origin=https://streamdz3.lat
+#EXTVLCOPT:http-referrer=https://streamdz3.lat/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/131.0.0.0 Safari/537.36
+https://cebo.weacet.online/disney18/tracks-v1a1/mono.m3u8?md5=Xr2BCIXMtsVeZ0V9c8pw0Q&expires=1739816407
 
 #EXTINF:-1 ch-number="159" tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="EVENTOS DISNEY+",ESPN En DISNEY Plus 19
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTVLCOPT:http-origin=https://streamdz1.xyz
-#EXTVLCOPT:http-referrer=https://streamdz1.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://cebo.weacet.online/disney19/tracks-v1a1/mono.m3u8?md5=-m_u7NvdEhfzqi8Jp6W5sw&expires=1739262006
+#KODIPROP: flujo de entrada. tipo_de_manifiesto_adaptable=m3u8
+#EXTVLCOPT:http-origin=https://streamdz3.lat
+#EXTVLCOPT:http-referrer=https://streamdz3.lat/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/131.0.0.0 Safari/537.36
+https://cebo.weacet.online/disney19/tracks-v1a1/mono.m3u8?md5=Xr2BCIXMtsVeZ0V9c8pw0Q&expires=1739816407
 
 #EXTINF:-1 ch-number="160" tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="EVENTOS DISNEY+",ESPN En DISNEY Plus 20
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTVLCOPT:http-origin=https://streamdz1.xyz
-#EXTVLCOPT:http-referrer=https://streamdz1.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://cebo.weacet.online/disney20/tracks-v1a1/mono.m3u8?md5=-m_u7NvdEhfzqi8Jp6W5sw&expires=1739262006
+#KODIPROP: flujo de entrada. tipo_de_manifiesto_adaptable=m3u8
+#EXTVLCOPT:http-origin=https://streamdz3.lat
+#EXTVLCOPT:http-referrer=https://streamdz3.lat/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/131.0.0.0 Safari/537.36
+https://cebo.weacet.online/disney20/tracks-v1a1/mono.m3u8?md5=Xr2BCIXMtsVeZ0V9c8pw0Q&expires=1739816407
