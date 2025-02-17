@@ -2176,6 +2176,9 @@ https://live.gideo.video/americateve2/HD720/HD720.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/a3cc09111530a9edea11497d6575afb0.png" tvg-group="ARGENTINA", Canal 5 Tucuman AR
 https://videohd.live:19360/8090/8090.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo="" tvg-group="ARGENTINA", Eventos Disney XD
+https://streamtp3.com/global1.php?stream=disney1
+
 #EXTINF:-1 tvg-logo=" https://fotos.perfil.com/2022/10/11/trim/987/555/gran-hermano-1433877.jpg" tvg-group="ARGENTINA", GH 
 http://weib-tv.com:80/pabloarrieta1941/wQCnwnSeJq/615499.ts 
 #EXTINF:-1 tvg-logo=" https://fotos.perfil.com/2022/10/11/trim/987/555/gran-hermano-1433877.jpg" tvg-group="ARGENTINA", GH 1 
@@ -3106,6 +3109,4 @@ https://cdn.sensa.com.ar/bpk-tv/VePlus/default/index.mpd?|referer=https://player
 eventos disney plus
 #EXTINF:-1 ch-number="141" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="Deportes" content-type="playlist", Eventos Disney
 http://francope.elementfx.com/disney/
-
-
 
