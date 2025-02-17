@@ -1559,9 +1559,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Mr%20Bean.webp" tvg-group="INFANTILES",Mr. Bean 🇪🇸
 https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://sck.pm/64sy" tvg-group="INFANTILES",FunBox 🇵🇪
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/123TV_%282022%29.png/revision/latest/scale-to-width-down/200?cb=20220903004013&path-prefix=es" group-title="INFANTILES", 145 | 1·2·3 TV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/123TV_%282022%29.png/revision/latest/scale-to-width-down/200?cb=20220903004013&path-prefix=es" tvg-group="INFANTILES", 145 | 1·2·3 TV
 http://38.41.8.1:8000/play/a03o
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BADfaU8.png" tvg-group="INFANTILES",Canal Ipe | Perú
@@ -1570,15 +1568,13 @@ https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
 #EXTINF:-1 tvg-logo="https://xhateaec.com/upload/photos/2025/01/MmoWlIPCxmaWG69VXC86_11_65958d4ac2c70a80babc2fa6c5c5cd8f_avatar_full.png" tvg-group="INFANTILES", FUNTV
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/funtvretro/chunks.m3u8
 
-#EXTINF:-1 tvg-id="CN City" tvg-name="CN City" tvg-logo="https://imgur.com/38F3AsR.png" group-title="INFANTILES",CN City | Chile
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png" tvg-group="INFANTILES", CLAN
 https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png" tvg-group="INFANTILES", CLAN E
 https://rtvelivestream-clnx.rtve.es/rtvesec/int/clan_int_main.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p4gTy4Y/Logo-Clan-HD.png" tvg-group="INFANTILES",Clan Latinoamerica HD (geobloqueo)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png" tvg-group="INFANTILES", Clan Latinoamerica HD (geobloqueo)
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_dvr_1080.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rvRB0hb.png" tvg-group="INFANTILES", Boing | HD | España
@@ -3020,17 +3016,17 @@ https://live.gideo.video/americateve2/HD720/HD720.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/a3cc09111530a9edea11497d6575afb0.png" tvg-group="ARGENTINA", Canal 5 Tucuman AR
 https://videohd.live:19360/8090/8090.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-group="ARGENTINA",juancine_tv
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/A5__ZONvvqSyYLe6glndyjnFt6ff5q1ImCO9RkPw9t1cZ4je4_pXPXn7o1sUH2-wbD4q=w600-h300-pc0xffffff-pd" tvg-group="ARGENTINA",juancine_tv
 https://stream-cdn-iad2.vaughnsoft.net/play/live_juancine_tv.flv
 
-#EXTINF:-1 tvg-group="ARGENTINA",terror_mania
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/A5__ZONvvqSyYLe6glndyjnFt6ff5q1ImCO9RkPw9t1cZ4je4_pXPXn7o1sUH2-wbD4q=w600-h300-pc0xffffff-pd" tvg-group="ARGENTINA",terror_mania
 https://stream-cdn-iad2.vaughnsoft.net/play/live_terror_mania.flv
 
-#EXTINF:-1 tvg-group="ARGENTINA",shay_saheed
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/A5__ZONvvqSyYLe6glndyjnFt6ff5q1ImCO9RkPw9t1cZ4je4_pXPXn7o1sUH2-wbD4q=w600-h300-pc0xffffff-pd" tvg-group="ARGENTINA",shay_saheed
 https://stream-cdn-iad.vaughnsoft.net/play/live_shay_saheed.flv
 
-#EXTINF:-1 tvg-group="ARGENTINA", Dos hombres y medio
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/A5__ZONvvqSyYLe6glndyjnFt6ff5q1ImCO9RkPw9t1cZ4je4_pXPXn7o1sUH2-wbD4q=w600-h300-pc0xffffff-pd" tvg-group="ARGENTINA", Dos hombres y medio
 https://stream-cdn-iad2.vaughnsoft.net/play/live_cienciaficcion01.flv
 
-#EXTINF:-1 tvg-group="ARGENTINA", papá americano
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/A5__ZONvvqSyYLe6glndyjnFt6ff5q1ImCO9RkPw9t1cZ4je4_pXPXn7o1sUH2-wbD4q=w600-h300-pc0xffffff-pd" tvg-group="ARGENTINA", papá americano
 https://stream-cdn-iad.vaughnsoft.net/play/live_shy_ch_anaeter.flv
