@@ -391,17 +391,17 @@ https://cdn.sensa.com.ar/live/sta01/CineFamiliar/live_dash_cld/CineFamiliar.mpd?
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/sta01/CineHispano/live_dash_cld/CineHispano.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1  ch-number="309" tvg-id="Cinemax HD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CNMAX.png?raw=true" tvg-group="ARGENTINA", Cinemax
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3b3d89f0e099f750bab4f8c2ebc4c7ec:114313f734e7a8e84b0ca6d16bd652cb
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/Cinemax/live_dash_cld/Cinemax.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1 ch-number="310" tvg-id="CinePremium" tvg-logo="https://dl.dropbox.com/scl/fi/pscy9v2fyrs6i8r84351q/cinehispano.jpg?rlkey=ke0zc0c9lfv8iv9bmpbvcgqkl&dl=1" tvg-group="ARGENTINA", Cine Premium
+#EXTINF:-1 ch-number="309" tvg-id="CinePremium" tvg-logo="https://dl.dropbox.com/scl/fi/pscy9v2fyrs6i8r84351q/cinehispano.jpg?rlkey=ke0zc0c9lfv8iv9bmpbvcgqkl&dl=1" tvg-group="ARGENTINA", Cine Premium
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=812f89cb0024d3699e832d72e4f0ebb6:851d7496cd1a7e03125b2b6d3b41c922
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/sta01/CinePremium/live_dash_cld/CinePremium.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#EXTINF:-1  ch-number="310" tvg-id="Cinemax HD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CNMAX.png?raw=true" tvg-group="ARGENTINA", Cinemax
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3b3d89f0e099f750bab4f8c2ebc4c7ec:114313f734e7a8e84b0ca6d16bd652cb
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/Cinemax/live_dash_cld/Cinemax.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #EXTINF:-1  ch-number="311" tvg-id="ComedyCentralSouth.us" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CCENT.png?raw=true" tvg-group="ARGENTINA", Comedy Central
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -553,7 +553,7 @@ https://cdn.sensa.com.ar/live/eds/StudioUniversal/live_dash_cld/StudioUniversal.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/TCM/live_dash_cld/TCM.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 ch-number="338" tvg-id="TlnovelasLatinAmerica.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/716px-Logo_tlnovelas_feb2019.png" tvg-group="ARGENTINA", TL Novelas
+#EXTINF:-1 ch-number="338" tvg-id="TlnovelasLatinAmerica.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" tvg-group="ARGENTINA", TL Novelas
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a148b587bb34fe9ba5e752b95d0f3517:ffbe529daae86e2b6cfa025a937ff7a4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
@@ -725,7 +725,7 @@ https://cdn.sensa.com.ar/live/eds/History2/live_dash_cld/History2.mpd?|referer=h
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/Lifetime/live_dash_cld/Lifetime.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 ch-number="418" tvg-id="Love Nature HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1801/CH_LOGO/800/542/0/0/32909050074718.png" tvg-group="ARGENTINA", Love Nature
+#EXTINF:-1 ch-number="418" tvg-id="Love Nature HD.uy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/Love_Nature_TV.png/revision/latest?cb=20220303220459&path-prefix=es" tvg-group="ARGENTINA", Love Nature
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ea6437084f6c055c7c856f86361e86fa:9791c0e6f72b4a5eacf8bddfa5290209
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
@@ -887,7 +887,7 @@ https://cdn.sensa.com.ar/bpk-tv/TVChile/default/index.mpd?|referer=https://playe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/TVE/live_dash_cld/TVE.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 group-title="Mundo" ch-number="624" tvg-id="veplus" tvg-logo="https://dl.dropbox.com/scl/fi/xk05kx05hq2265pfgmdvk/ve-plus.jpg?rlkey=7ery39zxclpw9gp4swdl8fj89&dl=1" tvg-group="ARGENTINA", Ve Plus
+#EXTINF:-1   ch-number="624" tvg-id="veplus" tvg-logo="https://dl.dropbox.com/scl/fi/xk05kx05hq2265pfgmdvk/ve-plus.jpg?rlkey=7ery39zxclpw9gp4swdl8fj89&dl=1" tvg-group="ARGENTINA", Ve Plus
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8236bef638490a63aacdc424df908658:6229f752364cd5e71cd31a9ef9757bf1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
@@ -954,9 +954,6 @@ https://is.gd/fIKFdB
 #EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1124.png" tvg-group="ARGENTINA", El Trece FHD 190
 http://190.123.90.146:8000/play/a00n/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1124.png" tvg-group="ARGENTINA", El Trece
-https://delivery.cdn.rcs.net.ar/mnp/el13_hls/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/6.png" tvg-group="ARGENTINA",CANAL 13 33.1
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
@@ -978,10 +975,7 @@ http://190.123.90.146:8000/play/a00q/index.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-7-Catamarca-TV-en-vivo-Online.png?fit=1920%2C1080&ssl=1" tvg-group="ARGENTINA",Catamarca TVP
 https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cJHP7bU.png" tvg-group="ARGENTINA",El Nueve - elnueve
-https://delivery.cdn.rcs.net.ar/mnp/elnueve_hls/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cJHP7bU.png" tvg-group="ARGENTINA",ELNUEVE BSAS 190
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cJHP7bU.png" tvg-group="ARGENTINA",El Nueve 190
 http://190.123.90.146:8000/play/a00m/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2026-320x180-000000.jpg" tvg-group="ARGENTINA",NET TV ( 720p) en línea
@@ -995,9 +989,6 @@ https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tv2.cine.ar/wp-content/uploads/2023/08/logo_blanco.webp" tvg-group="ARGENTINA",CINEAR 190
 http://190.123.90.146:8000/play/a00v/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://tv2.cine.ar/wp-content/uploads/2023/08/logo_blanco.webp" tvg-group="ARGENTINA",CINEAR HD
-https://delivery.cdn.rcs.net.ar/mnp/cinear_hls/playlist.m3u8
 
 #EXTINF:-1 logo="https://tele-libre.org/img/volver.webp" tvg-group="ARGENTINA", VOLVER 190
 http://190.123.90.146:8000/play/a035/index.m3u8
@@ -1029,9 +1020,6 @@ https://stmv5.voxtvhd.com.br/cattotv/cattotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1622_Dodo_TV.png" tvg-group="ARGENTINA", Dodo TV | CL
 https://cloud5.streaminglivehd.com:3651/hybrid/play.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_11008_7_20686.png.6a839e51eea47ab6bb6fec94f1cc0ee8.png" tvg-group="ARGENTINA", gourmet
-https://delivery.cdn.rcs.net.ar/mnp/gourmet_hls/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/all-channels/10272020/Tastemade_en_Espanol_190x190.png?raw=true" tvg-group="ARGENTINA",Tastemade En Espanol HECHO A MANO
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadees16international24i-ono/playlist.m3u8
 
@@ -1039,9 +1027,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadees16intern
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde0657444a40009cd2422/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture =&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366- 4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=41cb6af1-f699-1 1ea-abc9-0242ac110002&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1083024133062123521/cHU8zOpn_400x400.jpg", Telemax
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uBBZR1X.png" tvg-group="ARGENTINA",Encuentro
-https://delivery.cdn.rcs.net.ar/mnp/encuentro_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IyP2UIx.png" tvg-group="ARGENTINA",Encuentro 190
 http://190.123.90.146:8000/play/a00o/index.m3u8
@@ -1272,11 +1257,6 @@ https://2e0d18116bec40e088c0723dc56accf5.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/46/7a/8c/467a8cba-eb8a-4649-d154-c9172e28ea6f/AppIcon-0-1x_U007emarketing-0-6-0-85-220-0.png/256x256bb.jpg" tvg-group="ARGENTINA", francia 24 marine2
 https://marine2.miplay.cl/france24/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s303640/images/logog.png?t=151602" tvg-group="ARGENTINA", FR FRANCE24 SD
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/45vrTdJeJaBibiMuxEztpOYWBkiIgWrUjrxJTQOffdx71PNIwqdt6NUq32E4kY8xhnA" tvg-group="ARGENTINA", C5N mnp
-https://delivery.cdn.rcs.net.ar/mnp/c5n_hls/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.lanacion.in/uploads/1617992939-logo%20LN+.png" tvg-group="ARGENTINA", LN+ drs
 https://dsr.ride.com.ar/tvmia/an14/playlist.m3u8
 
@@ -1292,11 +1272,7 @@ https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-10005
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3361-320x180-000000.jpg" tvg-group="ARGENTINA",A24 SD 190
 http://190.123.90.146:8000/play/a002/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3361-320x180-000000.jpg" tvg-group="ARGENTINA",A24 HD d
-https://delivery.cdn.rcs.net.ar/mnp/a24_hls/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vFwPhPS.png" tvg-group="ARGENTINA",TN HD
-https://delivery.cdn.rcs.net.ar/mnp/tn_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/tn@2x.png" tvg-group="ARGENTINA",TN 190
 http://190.123.90.146:8000/play/a032/index.m3u8
@@ -1310,9 +1286,6 @@ http://190.123.90.146:8000/play/a005/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k2Ku8Ib.png",Cronica yyy
 
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_10/large.IP(2024-).png.7df9db38d1ab51e83bb4b0d7d5695e15.png",IP
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png" tvg-group="ARGENTINA",Canal 26 d
-https://delivery.cdn.rcs.net.ar/mnp/canal26_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png" tvg-group="ARGENTINA",26 190
 http://190.123.90.146:8000/play/a001/index.m3u8
@@ -1391,14 +1364,8 @@ https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-cine-kids-16x9_navidad.jpg" tvg-group="INFANTILES", Cine Kids
 
-#EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTQxX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1708456868844" tvg-group="INFANTILES", Disney OK
-https://delivery.cdn.rcs.net.ar/mnp/disney_hls/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6vvB5g3/Disney-Channel.png" tvg-group="INFANTILES",DISNEY
 http://190.123.90.146:8000/play/a02a/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Disney_Jr._2024.svg/1280px-Disney_Jr._2024.svg.png" tvg-group="INFANTILES", Disney Junior HD
-https://delivery.cdn.rcs.net.ar/mnp/disneyjr_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Disney_Jr._2024.svg/1280px-Disney_Jr._2024.svg.png" tvg-group="INFANTILES",Disney Junior SD 190
 http://190.123.90.146:8000/play/a02b/index.m3u8
@@ -1407,19 +1374,11 @@ http://190.123.90.146:8000/play/a02b/index.m3u8
 http://190.123.90.146:8000/play/a02x/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_11/large.1245621174_Cartoonito_logo_2021_28alternate29.png.814c680677ee3f8d5f312a7656a88c97.png" tvg-group="INFANTILES", CARTOONITO
-https://delivery.cdn.rcs.net.ar/mnp/boomerang_hls/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/ecbb842d-3b93-4c7b-90fd-9a188d7b4f20" tvg-group="INFANTILES", Discovery Kids
-https://delivery.cdn.rcs.net.ar/mnp/disc_kids_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/ecbb842d-3b93-4c7b-90fd-9a188d7b4f20" tvg-group="INFANTILES",DISCOVERY KIDS 190
 http://190.123.90.146:8000/play/a029/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/Tooncast_%28green%29.png/revision/latest?cb=20161207193208" tvg-group="INFANTILES", TOONCAST
-https://delivery.cdn.rcs.net.ar/mnp/tooncast_hls/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1181x886/Y2gwMTAwMDAwMDAwMjI5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1181x886.png?timestamp=1708457100995" tvg-group="INFANTILES", nickelodeon 
-https://delivery.cdn.rcs.net.ar/mnp/nickelodeon_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1181x886/Y2gwMTAwMDAwMDAwMjI5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1181x886.png?timestamp=1708457100995" tvg-group="INFANTILES",NICKELODEON 190
 http://190.123.90.146:8000/play/a02e/index.m3u8
@@ -1763,7 +1722,6 @@ https://g5.proy-hor.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044
 http://190.123.90.146:8000/play/a02s/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M88NzqH/Xly8mKUw.jpg" tvg-group="MUSICA",htv mnp
-https://delivery.cdn.rcs.net.ar/mnp/htv_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1200px-Htv_logo.svg.png" tvg-group="MUSICA",HTV SD 190
 http://190.123.90.146:8000/play/a037/index.m3u8
@@ -1773,9 +1731,6 @@ http://190.123.90.146:8000/play/a02r/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mtv_m.png" tvg-group="MUSICA",MTV 190
 http://190.123.90.146:8000/play/a02q/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mtv_m.png" tvg-group="MUSICA", MTV mnp
-https://delivery.cdn.rcs.net.ar/mnp/mtv_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5cf96d351652631e36d4331f/featuredImage.jpg?auto=&q=70&fit=fill&fill=blur&ixlib=react-9.1.5",Pluto TV MTV (México) (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fab088b3279760007d4e4fd/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name= web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f- 1bdef62d10be&clientModelNumber=na&deviceDNT=fal se&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb- b532-0242ac110002&ID de usuario=
@@ -2526,11 +2481,8 @@ http://190.123.90.146:8000/play/a02j/index.m3u8
 #EXTINF:-1 tvg-logo="" tvg-group="ARGENTINA",D THEATER 190
 http://190.123.90.146:8000/play/a02k/index.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-group="ARGENTINA",DISVOVERY WORLD 190
+#EXTINF:-1 tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6d241ede0cc88187952_d-world1.jpeg" tvg-group="ARGENTINA", DISCOVERY WORLD 190 
 http://190.123.90.146:8000/play/a02l/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6d241ede0cc88187952_d-world1.jpeg" tvg-group="ARGENTINA", DISCOVERY WORLD 
-https://delivery.cdn.rcs.net.ar/mnp/disc_world_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Pluto-TV-Animales-en-directo-Online.png?fit=1920%2C1080&ssl=1" tvg-group="ARGENTINA", Pluto TV Animales
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
@@ -2545,19 +2497,14 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd85eac039bba0009
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture= &buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366- 4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=29513be5-f696- 11ea-bfbf-0242ac110002&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBQYAcg5B2Bb7_Cs4nXz7kseUTnLWagQZP36mYMDpSGpsr9Ic96-sw70dG5h1Vyb-O7E0_F7fECQRDYaCdkpfHW3LtessqGEnfcYSmsufnVIGgwvMtPapn2IELO_B1pO7Vmywxn9fPran3ykMzHbVWrizGBDMOYUd3e7h_XQKAQteXFAfW8N624gneuZQ/w1200-h630-p-k-no-nu/USA_Network.png" tvg-group="PREMIUM",USA - Syfy
-https://delivery.cdn.rcs.net.ar/mnp/syfy_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTg2X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1708457110730" tvg-group="PREMIUM", FX
-https://delivery.cdn.rcs.net.ar/mnp/fx_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/3200x2400/Y2gwMTAwMDAwMDAwMDQ0X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_3200x2400.png?timestamp=1708456823258" tvg-group="PREMIUM", Serie TNT
-https://delivery.cdn.rcs.net.ar/mnp/tntseries_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/3200x2400/Y2gwMTAwMDAwMDAwMDMxX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_3200x2400.png?timestamp=1708456808952" tvg-group="PREMIUM", UNIVERSAL
-https://delivery.cdn.rcs.net.ar/mnp/universal_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/amc_m.png" tvg-group="PREMIUM",AMC
-https://delivery.cdn.rcs.net.ar/mnp/amc_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5nkg2xs/TNT.png",TNT 190
 http://190.123.90.146:8000/play/a033/index.m3u8
@@ -2590,10 +2537,8 @@ http://190.123.90.146:8000/play/a031/index.m3u8
 http://190.123.90.146:8000/play/a015/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGkbzsP8X-SKvBh-CdOuSrDzI1yI7oxUzYZA&s",CINEMAX
-https://delivery.cdn.rcs.net.ar/mnp/cinemax_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.movistar.com.ar/documents/10180/92712757/warnertv.png",Warner mnp
-https://delivery.cdn.rcs.net.ar/mnp/warner_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Q0bzUYULfVE/hqdefault.jpg",Cinema
 https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/tracks-v1a1/mono.m3u8
