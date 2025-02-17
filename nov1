@@ -1092,16 +1092,16 @@ http://190.123.90.146:8000/play/a00e/index.m3u8
 #EXTINF:-1  tvg-logo="https://tycsports.hiringroom.com/data/accounts/tycsports/microsite/cfb58ca8d62e9685391d991717b44fb6.png" tvg-group="Deportes", TyC 190
 http://190.123.90.146:8000/play/a00k/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/FhOQWiELN6RRFwFbxKWWWEBLgGhXifnJfWT8SWtHZUdSH6fT3Jc_IC88xtebGFXTbQ" tvg-group="Deportes",TYC Sports Play 🇦🇷 ⚽
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/FhOQWiELN6RRFwFbxKWWWEBLgGhXifnJfWT8SWtHZUdSH6fT3Jc_IC88xtebGFXTbQ" tvg-group="Deportes",TYC Sports Play 🇦🇷 ⚽ EVENTOS
 https://d1scuk1wvkchtc.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/FhOQWiELN6RRFwFbxKWWWEBLgGhXifnJfWT8SWtHZUdSH6fT3Jc_IC88xtebGFXTbQ" tvg-group="Deportes",TYC Sports Play HD 🇦🇷 ⚽
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/FhOQWiELN6RRFwFbxKWWWEBLgGhXifnJfWT8SWtHZUdSH6fT3Jc_IC88xtebGFXTbQ" tvg-group="Deportes",TYC Sports Play HD 🇦🇷 ⚽ EVENTOS
 https://d1xm2jznwi5xzj.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index_14.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLtOG6BupU_LWzQFXM_MECk8n9ovS0qPkZt9UKQbOwclV8eCmUI7A9rmewtzqF3gcX44I&usqp=CAU" tvg-group="Deportes",TYC Sports Play 🇦🇷
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLtOG6BupU_LWzQFXM_MECk8n9ovS0qPkZt9UKQbOwclV8eCmUI7A9rmewtzqF3gcX44I&usqp=CAU" tvg-group="Deportes",TYC Sports Play 🇦🇷 EVENTOS
 https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLtOG6BupU_LWzQFXM_MECk8n9ovS0qPkZt9UKQbOwclV8eCmUI7A9rmewtzqF3gcX44I&usqp=CAU" tvg-group="Deportes",TyC SPORT PLAY HD 🇦🇷
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLtOG6BupU_LWzQFXM_MECk8n9ovS0qPkZt9UKQbOwclV8eCmUI7A9rmewtzqF3gcX44I&usqp=CAU" tvg-group="Deportes",TyC SPORT PLAY HD 🇦🇷 EVENTOS
 https://d1xm2jznwi5xzj.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index_13.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpzLrcSnBrhr4vKLFhNX484PzxQbcA2UL_YYN9LlJrdY71SRBUZz77SBy7dWm9XTIgpQg&usqp=CAU" tvg-group="Deportes", 1 EVENTOS TyC PLAY 1
@@ -1125,7 +1125,7 @@ https://d3v9hc3dccxi3a.cloudfront.net/out/v1/bccdd4d97f434c63ab2f675e5145758f/in
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/E8uMTXgXMAQX8j2.jpg" tvg-group="Deportes", EVENTOS Multicanal Televisión (Santiago de Cali | Valle del Cauca) (720p)
 https://cloud2.streaminglivehd.com:1936/8010/8010/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1zGkNs79 /BEIN-SPORTS-EXTRA-VU-TV-PLAYER.png" tvg-group="Deportes", Bein Sports Xtra
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1zGkNs79 /BEIN-SPORTS-EXTRA-VU-TV-PLAYER.png" tvg-group="Deportes", Bein Sports Xtra EVENTOS
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1zGkNs79 /BEIN-SPORTS-EXTRA-VU-TV-PLAYER.png" tvg-group="Deportes",BEIN SPORTS XTRA Español EVENTOS
@@ -2743,7 +2743,7 @@ https://d3r5ioyjqcy69v.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/08/13/04/1723497771524/6ddb4622ebc8_640_360.png" tvg-group="ARGENTINA", ATV HD
 https://live-evg25.tv360.bitel.com.pe/bitel/atv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BmTrRtV.png" tvg-group="ARGENTINA", ATV | HD | Lima  EVENTOS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BmTrRtV.png" tvg-group="ARGENTINA", ATV | HD | Lima  
 https://live-zlr1.tv360.bitel.com.pe/bitel/atv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1aJZr2i.png" tvg-group="ARGENTINA", Panamericana | HD | Lima
@@ -2752,10 +2752,10 @@ https://live-zlr1.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/2c8716_4f3507ff3d0e43e492726a180e3a6313~mv2.png/v1/fill/w_980,h_980,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/2c8716_4f3507ff3d0e43e492726a180e3a6313~mv2.png" tvg-group="ARGENTINA",Panamericana
 https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vr3mTZv.png" tvg-group="ARGENTINA", América TV | HD | Lima
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vr3mTZv.png" tvg-group="ARGENTINA", América TV | HD | Lima EVENTOS
 https://live-zlr1.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://spotlight-pe.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F07%2F60%2F7603587_DDA3D54A42268071.png" tvg-group="ARGENTINA",America Television bitel
+#EXTINF:-1 tvg-logo="https://spotlight-pe.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F07%2F60%2F7603587_DDA3D54A42268071.png" tvg-group="ARGENTINA",America Television bitel EVENTOS
 https://live-evg1.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Global_logo_2019.png/800px-Global_logo_2019.png" tvg-group="ARGENTINA", global| HD | Lima
