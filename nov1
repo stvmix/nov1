@@ -2413,8 +2413,14 @@ http://bantel-cdn1.iptvperu.tv:1935/xmp_trans/a3series.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://miguia.tv/channels/big_99.png" tvg-group="ARGENTINA", LA2 W
 https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
 
+#EXTINF:-1 tvg-logo="https://miguia.tv/channels/big_99.png" tvg-group="ARGENTINA", LA2 🇪🇸
+https://ztnr.rtve.es/ztnr/1688885.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/613_La_1.png" tvg-group="ARGENTINA", LA1 dh
 https://dh6vo1bovy43s.cloudfront.net/La_1_ES.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C7PBLRY/la1.png" tvg-group="ARGENTINA", LA 1 🇪🇸
+https://ztnr.rtve.es/ztnr/1688877.m3u8
 
 #EXTINF:-1 tvg-logo="" tvg-group="ARGENTINA",LIFETIME SD 190
 http://190.123.90.146:8000/play/a013/index.m3u8
@@ -2990,3 +2996,72 @@ https://stream-cdn-iad2.vaughnsoft.net/play/live_cienciaficcion01.flv
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/A5__ZONvvqSyYLe6glndyjnFt6ff5q1ImCO9RkPw9t1cZ4je4_pXPXn7o1sUH2-wbD4q=w600-h300-pc0xffffff-pd" tvg-group="ARGENTINA", papá americano
 https://stream-cdn-iad.vaughnsoft.net/play/live_shy_ch_anaeter.flv
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YB4Z45g/fightnetwork.png" tvg-group="ARGENTINA", FIGHT NETWORK
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/58HXy9T/foxdeportes.png" tvg-group="ARGENTINA",  FOX DEPORTES 🇺🇸
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c9231d5e7a99429382e6a5c2e588e141:ca08ab407ab9393a814d720f1f41c6cf
+https://cors-proxy.elfsight.com/https://linear.stvacdn.spectrum.com/LIVE/1106/dash/cenc/FXDEPHD/manifest.mpd
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pnyMJjF/natgeowild.png" tvg-group="ARGENTINA", NATGEO WILD 🇪🇸
+##https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:258_HD.smil/manifest.mpd
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qNpjCYr/kidsflix.png" tvg-group="ARGENTINA", KIDSFLIX
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FJML7w3/tycsports.png" tvg-group="ARGENTINA", TYC SPORTS 🇦🇷
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f7dcab829caeffb612740a1c51f0478d:b2466bb519b759ae3de1818988532453
+##https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/DASH_DASH_FK/Live/channel(TYC_SPORTS)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FJML7w3/tycsports.png" tvg-group="ARGENTINA", TYC SPORTS 🇦🇷 csc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/ 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+##https://csc-ptn-edge01.sensa.com.ar/live/eds/TYCSports/live_dash_cld/TYCSports.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/19yDN4B/espnpremium.png" tvg-group="ARGENTINA", ESPN PREMIUM 🇦🇷
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://cdn-lumen01.sensa.com.ar/bpk-tv/ESPNPremium/default/index.mpd
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NFGNs5T/tudn.png" tvg-group="ARGENTINA", TUDN 🇺🇸
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=85c8956b207c44a693d89984803c908b:8d8ff21c464506ef396356dd761f5ccd
+https://cors-proxy.elfsight.com/https://linear.stvacdn.spectrum.com/LIVE/1131/dash/cenc/TUDNUH_8283/manifest.mpd
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Cs57Q9Z/tntsports.png" tvg-group="ARGENTINA", TNT SPORTS 🇦🇷
+#EXTVLCOPT:http-referrer=https://nowtv.express.com.ar/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys": [ { "kty": "oct", "k": "wcGO7LkGF5MY6X7j6spr+w", "kid": "lCjeLXB1Q2+CsETbkdkorg" } ], "type": "temporary" }
+##https://anedgesgo.express.com.ar/live/c1eds/TNT_Sports_HD/SA_DASH_cipix/TNT_Sports_HD.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NnVH4qf/tntsportspremium.png" tvg-group="ARGENTINA", TNT SPORTS PREMIUM 🇨🇱
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb9b87786bf9905fd14cbf1ac572d3d1:050a5d1da667693dbb327351b2f60c08
+##https://clbpktstvdash-1.clarovideo.com/bpk-tv/TNTSPHD/dash_fk/index.mpd
+
+
