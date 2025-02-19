@@ -1036,7 +1036,7 @@ http://190.123.90.146:8000/play/a00j/index.m3u8
 https://dsr.ride.com.ar/tvmia/an32/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2024_06/large.TNTSports.png.9d3a1d767a4697781ed3eddabfc3c247.png" tvg-group="Deportes",TNT Sports weib-tv
-http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/417302.ts
+http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/592031.ts
 
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/espnpremium.png" tvg-group="Deportes",ESPN Premium 190
 http://190.123.90.146:8000/play/a00f/index.m3u8
@@ -1066,12 +1066,17 @@ http://190.123.90.146:8000/play/a00e/index.m3u8
 #EXTINF:-1  tvg-logo="https://forounivers.com/uploads/monthly_2024_02/large.ESPN5.png.ea2cd93464664aceb6401ba5dcbf1f3a.png" tvg-group="Deportes",ESPN 5 SUR weib-tv
 http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/591993.ts
 
-#EXTINF:-1  tvg-logo="
-https://forounivers.com/uploads/monthly_2024_02/large.ESPN5.png.ea2cd93464664aceb6401ba5dcbf1f3a.png" tvg-group="Deportes",ESPN 5 NORTE weib-tv
+#EXTINF:-1  tvg-logo="https://forounivers.com/uploads/monthly_2024_02/large.ESPN5.png.ea2cd93464664aceb6401ba5dcbf1f3a.png" tvg-group="Deportes",ESPN 5 NORTE weib-tv
 http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/591994.ts
 
 #EXTINF:-1  tvg-logo="https://fiber.nl/wp-content/uploads/tvicon-ESPN-6-International.png" tvg-group="Deportes",ESPN 6 weib-tv
 http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/591995.ts
+
+#EXTINF:-1  tvg-logo="https://fiber.nl/wp-content/uploads/tvicon-ESPN-6-International.png" tvg-group="Deportes",ESPN 6 ᴴᴰ
+https://nxt.plus:8443/jesus01/jesus01/24405
+
+#EXTINF:-1  tvg-logo="https://forounivers.com/uploads/monthly_2024_02/small.ESPN7.png.5fa651740fb8cbead168e291cfb29069.png" tvg-group="Deportes",ESPN 7 ᴴᴰ
+https://nxt.plus:8443/jesus01/jesus01/13229
 
 #EXTINF:-1  tvg-logo="https://forounivers.com/uploads/monthly_2024_02/small.ESPN7.png.5fa651740fb8cbead168e291cfb29069.png" tvg-group="Deportes",ESPN 7 weib-tv
 http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/591996.ts
@@ -1093,6 +1098,9 @@ http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/417234.ts
 
 #EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTI4X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1718310567007" tvg-group="Deportes",DSPORTS 2 weib-tv
 http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/592038.ts
+
+#EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTI4X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1718310567007" tvg-group="Deportes",DSPORTS 2 (VIP)
+https://nxt.plus:8443/jesus01/jesus01/244287
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/DSportsM%C3%A1s.png/revision/latest?cb=20221114124037" tvg-group="Deportes",DSPORTS + weib-tv
 http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/592039.ts
@@ -3142,5 +3150,8 @@ http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/575705.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eFeGKi1WiuRLvSyfyYTTTHhpwmRZYQjahQ&s" tvg-group="ARGENTINA",24/7 Bob Esponja weib-tv
 http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/582505.ts
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/DiscoveryFamilia.us.png" tvg-group="ARGENTINA",Discovery Familia HD
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/DiscoveryFamilia.us.png" tvg-group="ARGENTINA",Discovery Familia
 http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/415641.ts
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/DiscoveryFamilia.us.png" tvg-group="ARGENTINA",DISCOVERY FAMILIA ᴴᴰ
+https://nxt.plus:8443/jesus01/jesus01/29723
