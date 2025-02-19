@@ -1057,14 +1057,14 @@ http://190.123.90.146:8000/play/a00d/index.m3u8
 #EXTINF:-1  tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/espn4.png" tvg-group="Deportes",ESPN4 190
 http://190.123.90.146:8000/play/a00e/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/d/t/dtv_sports_blanco_1.png" tvg-group="Deportes",DSPORTS 1 | AR ᴴᴰ
+https://nxt.plus:8443/jesus01/jesus01/160612
+
 #EXTINF:-1 tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/d/t/dtv_sports_blanco_1.png" tvg-group="Deportes",,DIRECTV SPORTS AR (HD) »1«
 http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/417235.ts
 
 #EXTINF:-1 tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/d/t/dtv_sports_blanco_1.png" tvg-group="Deportes",,DIRECTV SPORTS AR (HD) »2«
 http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/417234.ts
-
-#EXTINF:-1 tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/d/t/dtv_sports_blanco_1.png" tvg-group="Deportes",DSPORTS 1 | AR ᴴᴰ
-https://nxt.plus:8443/jesus01/jesus01/160612
 
 #EXTINF:-1 tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/d/t/dtv_sports_blanco_1.png" tvg-group="Deportes",DSPORTS 1 weib-tv
 http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/592036.ts
@@ -1124,11 +1124,8 @@ https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/V9hAGpb.png" tvg-group="Deportes", Tigo Sports | HD | Guatemala EVENTOS
 https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.flowics.com/wp-content/uploads/2021/11/clients_tudn.png?resize=1000%2C400&ssl=1" tvg-group="Deportes",TUDN 🇲🇽 EVENTOS
-http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/592016.ts
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.flowics.com/wp-content/uploads/2021/11/clients_tudn.png?resize=1000%2C400&ssl=1" tvg-group="Deportes",TUDN 🇲🇽 EVENTOS
-http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/592018.ts
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.flowics.com/wp-content/uploads/2021/11/clients_tudn.png?resize=1000%2C400&ssl=1" tvg-group="Deportes",TUDN 🇲🇽 EVENTOS weib-tv
+http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/122515.ts
 
 #EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/584a9b47b080d7616d298778.png" tvg-group="Deportes",Real Madrid
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
@@ -3075,17 +3072,11 @@ https://nxt.plus:8443/jesus01/jesus01/238784
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/A5__ZONvvqSyYLe6glndyjnFt6ff5q1ImCO9RkPw9t1cZ4je4_pXPXn7o1sUH2-wbD4q=w600-h300-pc0xffffff-pd" tvg-group="ARGENTINA",24/7 | LA PANTERA ROSA
 https://nxt.plus:8443/jesus01/jesus01/140916
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/A5__ZONvvqSyYLe6glndyjnFt6ff5q1ImCO9RkPw9t1cZ4je4_pXPXn7o1sUH2-wbD4q=w600-h300-pc0xffffff-pd" tvg-group="ARGENTINA",24/7 | BUGS BUNNY
-https://nxt.plus:8443/jesus01/jesus01/160240
-
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/A5__ZONvvqSyYLe6glndyjnFt6ff5q1ImCO9RkPw9t1cZ4je4_pXPXn7o1sUH2-wbD4q=w600-h300-pc0xffffff-pd" tvg-group="ARGENTINA",24/7 | LOS PICAPIEDRA
 https://nxt.plus:8443/jesus01/jesus01/214262
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/A5__ZONvvqSyYLe6glndyjnFt6ff5q1ImCO9RkPw9t1cZ4je4_pXPXn7o1sUH2-wbD4q=w600-h300-pc0xffffff-pd" tvg-group="ARGENTINA",24/7 | BOB ESPONJA
 https://nxt.plus:8443/jesus01/jesus01/214272
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/A5__ZONvvqSyYLe6glndyjnFt6ff5q1ImCO9RkPw9t1cZ4je4_pXPXn7o1sUH2-wbD4q=w600-h300-pc0xffffff-pd" tvg-group="ARGENTINA",24/7 LOS SIMPSON T01-T05
-https://nxt.plus:8443/jesus01/jesus01/238717
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/A5__ZONvvqSyYLe6glndyjnFt6ff5q1ImCO9RkPw9t1cZ4je4_pXPXn7o1sUH2-wbD4q=w600-h300-pc0xffffff-pd" tvg-group="ARGENTINA",24/7 LOS SIMPSON T06-T10
 https://nxt.plus:8443/jesus01/jesus01/238719
