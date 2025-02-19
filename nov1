@@ -9,7 +9,14 @@ http://weib-tv.com:80/pabloarrieta1941/wQCnwnSeJq/615505.ts
 #EXTINF:-1 tvg-logo=" https://fotos.perfil.com/2022/10/11/trim/987/555/gran-hermano-1433877.jpg" tvg-group="ARGENTINA", GH 3 
 http://weib-tv.com:80/pabloarrieta1941/wQCnwnSeJq/615508.ts
 
-
+#EXTINF:-1 tvg-logo="https://tramaeducativa.ar/wp-content/uploads/2022/10/Gran_hermano_2022.jpg" tvg-group="ARGENTINA",GRAN HERMANO
+http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/615499.ts
+#EXTINF:-1 tvg-logo="https://tramaeducativa.ar/wp-content/uploads/2022/10/Gran_hermano_2022.jpg" tvg-group="ARGENTINA",GRAN HERMANO 1
+http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/615502.ts
+#EXTINF:-1 tvg-logo="https://tramaeducativa.ar/wp-content/uploads/2022/10/Gran_hermano_2022.jpg" tvg-group="ARGENTINA",GRAN HERMANO 2
+http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/615505.ts
+#EXTINF:-1 tvg-logo="https://tramaeducativa.ar/wp-content/uploads/2022/10/Gran_hermano_2022.jpg" tvg-group="ARGENTINA",GRAN HERMANO 3
+http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/615508.ts
 
 #EXTM3U
 
@@ -1050,13 +1057,24 @@ http://190.123.90.146:8000/play/a00d/index.m3u8
 #EXTINF:-1  tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/espn4.png" tvg-group="Deportes",ESPN4 190
 http://190.123.90.146:8000/play/a00e/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/d/t/dtv_sports_blanco_1.png" tvg-group="Deportes",,DIRECTV SPORTS AR (HD) »1«
+http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/417235.ts
+
+#EXTINF:-1 tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/d/t/dtv_sports_blanco_1.png" tvg-group="Deportes",,DIRECTV SPORTS AR (HD) »2«
+http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/417234.ts
+
 #EXTINF:-1 tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/d/t/dtv_sports_blanco_1.png" tvg-group="Deportes",DSPORTS 1 | AR ᴴᴰ
 https://nxt.plus:8443/jesus01/jesus01/160612
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/A5__ZONvvqSyYLe6glndyjnFt6ff5q1ImCO9RkPw9t1cZ4je4_pXPXn7o1sUH2-wbD4q=w600-h300-pc0xffffff-pd" tvg-group="Deportes",DSPORTS 1 (VIP)
-https://nxt.plus:8443/jesus01/jesus01/244286
+#EXTINF:-1 tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/d/t/dtv_sports_blanco_1.png" tvg-group="Deportes",DSPORTS 1 weib-tv
+http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/592036.ts
 
+#EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTI4X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1718310567007" tvg-group="Deportes",DSPORTS 2 weib-tv
+http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/592038.ts
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/DSportsM%C3%A1s.png/revision/latest?cb=20221114124037" tvg-group="Deportes",DSPORTS + weib-tv
+http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/592039.ts
+ 
 #EXTINF:-1 tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/ESPN-Deportes-White.png.webp" tvg-group="Deportes",Espn Deportes (Z)(FHD)
 
 #EXTINF:-1 tvg-logo="https://images.vexels.com/media/users/3/158703/isolated/lists/28c7cb429bd2a66c42d7507936405281-silueta-de-futbol-del-pentagono.png", (EVENTOS) EN ESPAñO
@@ -1106,8 +1124,11 @@ https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/V9hAGpb.png" tvg-group="Deportes", Tigo Sports | HD | Guatemala EVENTOS
 https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.flowics.com/wp-content/uploads/2021/11/clients_tudn.png?resize=1000%2C400&ssl=1" tvg-group="Deportes",TUDN 🇲🇽 148 EVENTOS
-https://nxt.plus:8443/jesus01/jesus01/65691
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.flowics.com/wp-content/uploads/2021/11/clients_tudn.png?resize=1000%2C400&ssl=1" tvg-group="Deportes",TUDN 🇲🇽 EVENTOS
+http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/592016.ts
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.flowics.com/wp-content/uploads/2021/11/clients_tudn.png?resize=1000%2C400&ssl=1" tvg-group="Deportes",TUDN 🇲🇽 EVENTOS
+http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/592018.ts
 
 #EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/584a9b47b080d7616d298778.png" tvg-group="Deportes",Real Madrid
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
@@ -2022,11 +2043,17 @@ https://nxt.plus:8443/jesus01/jesus01/59597
 #EXTINF:-1 tvg-logo="https://nldsdmt.akamaized.net/media/univisionnow2/thumbs/channels/30_es.png", UNIVISION HD 
 https://nxt.plus:8443/jesus01/jesus01/167881
 
-#EXTINF:0 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/16af5933-c8e0-4d5b-8488-45339c5b0252/df094zq-78040c6e-c793-4b3a-8625-2cbd17270409.png/v1/fill/w_800,h_996/canal_5_logo__2016_actualidad__by_fanmmsskittles_df094zq-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTk2IiwicGF0aCI6IlwvZlwvMTZhZjU5MzMtYzhlMC00ZDViLTg0ODgtNDUzMzljNWIwMjUyXC9kZjA5NHpxLTc4MDQwYzZlLWM3OTMtNGIzYS04NjI1LTJjYmQxNzI3MDQwOS5wbmciLCJ3aWR0aCI6Ijw9ODAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.vsgh3KJMaPdLN2yvQUVUrA40Qh6csrI8J9UyQrs5rG4" tvg-group="ARGENTINA", 5 Mx 148 (Mexico) (🇲🇽) EVENTOS
+#EXTINF:0 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/16af5933-c8e0-4d5b-8488-45339c5b0252/df094zq-78040c6e-c793-4b3a-8625-2cbd17270409.png/v1/fill/w_800,h_996/canal_5_logo__2016_actualidad__by_fanmmsskittles_df094zq-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTk2IiwicGF0aCI6IlwvZlwvMTZhZjU5MzMtYzhlMC00ZDViLTg0ODgtNDUzMzljNWIwMjUyXC9kZjA5NHpxLTc4MDQwYzZlLWM3OTMtNGIzYS04NjI1LTJjYmQxNzI3MDQwOS5wbmciLCJ3aWR0aCI6Ijw9ODAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.vsgh3KJMaPdLN2yvQUVUrA40Qh6csrI8J9UyQrs5rG4" tvg-group="ARGENTINA", 5 Mx (Mexico) (🇲🇽) EVENTOS
 https://nxt.plus:8443/jesus01/jesus01/59603
 
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Azt-72024.png/revision/latest/scale-to-width-down/283?cb=20241021203534&path-prefix=es" tvg-group="ARGENTINA",Azteca 7 148 (Mexico) (🇲🇽) EVENTOS
+#EXTINF:0 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/16af5933-c8e0-4d5b-8488-45339c5b0252/df094zq-78040c6e-c793-4b3a-8625-2cbd17270409.png/v1/fill/w_800,h_996/canal_5_logo__2016_actualidad__by_fanmmsskittles_df094zq-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTk2IiwicGF0aCI6IlwvZlwvMTZhZjU5MzMtYzhlMC00ZDViLTg0ODgtNDUzMzljNWIwMjUyXC9kZjA5NHpxLTc4MDQwYzZlLWM3OTMtNGIzYS04NjI1LTJjYmQxNzI3MDQwOS5wbmciLCJ3aWR0aCI6Ijw9ODAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.vsgh3KJMaPdLN2yvQUVUrA40Qh6csrI8J9UyQrs5rG4" tvg-group="ARGENTINA", 5 Mx (Mexico) (🇲🇽) EVENTOS weib-tv
+http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/122572.ts
+
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Azt-72024.png/revision/latest/scale-to-width-down/283?cb=20241021203534&path-prefix=es" tvg-group="ARGENTINA",Azteca 7 (Mexico) (🇲🇽) EVENTOS
 https://nxt.plus:8443/jesus01/jesus01/237828
+
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Azt-72024.png/revision/latest/scale-to-width-down/283?cb=20241021203534&path-prefix=es" tvg-group="ARGENTINA",Azteca 7 (Mexico) (🇲🇽) EVENTOS weib-tv
+http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/122532.ts
 
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/85D02247-D040-491C-82C3-8BFAC97A7B21/3-1x1.png/900" tvg-group="ARGENTINA", Azteca Internacional | HD | México azt
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
@@ -2994,12 +3021,6 @@ https://nxt.plus:8443/jesus01/jesus01/91928
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/A5__ZONvvqSyYLe6glndyjnFt6ff5q1ImCO9RkPw9t1cZ4je4_pXPXn7o1sUH2-wbD4q=w600-h300-pc0xffffff-pd" tvg-group="ARGENTINA",24/7 | LOS CABALLEROS DEL ZODIACO
 https://nxt.plus:8443/jesus01/jesus01/105979
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/A5__ZONvvqSyYLe6glndyjnFt6ff5q1ImCO9RkPw9t1cZ4je4_pXPXn7o1sUH2-wbD4q=w600-h300-pc0xffffff-pd" tvg-group="ARGENTINA",24/7 | LOS DUKES DE HAZZARD
-https://nxt.plus:8443/jesus01/jesus01/114410
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/A5__ZONvvqSyYLe6glndyjnFt6ff5q1ImCO9RkPw9t1cZ4je4_pXPXn7o1sUH2-wbD4q=w600-h300-pc0xffffff-pd" tvg-group="ARGENTINA",24/7 | EL ZORRO RETRO
-https://nxt.plus:8443/jesus01/jesus01/114412
-
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/A5__ZONvvqSyYLe6glndyjnFt6ff5q1ImCO9RkPw9t1cZ4je4_pXPXn7o1sUH2-wbD4q=w600-h300-pc0xffffff-pd" tvg-group="ARGENTINA",24/7 | ALF
 https://nxt.plus:8443/jesus01/jesus01/140882
 
@@ -3068,3 +3089,6 @@ https://nxt.plus:8443/jesus01/jesus01/238717
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/A5__ZONvvqSyYLe6glndyjnFt6ff5q1ImCO9RkPw9t1cZ4je4_pXPXn7o1sUH2-wbD4q=w600-h300-pc0xffffff-pd" tvg-group="ARGENTINA",24/7 LOS SIMPSON T06-T10
 https://nxt.plus:8443/jesus01/jesus01/238719
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/DiscoveryFamilia.us.png" tvg-group="ARGENTINA",Discovery Familia HD
+http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/415641.ts
