@@ -1106,9 +1106,8 @@ https://nxt.plus:8443/jesus01/jesus01/244287
 http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/592039.ts
  
 #EXTINF:-1 tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/ESPN-Deportes-White.png.webp" tvg-group="Deportes",Espn Deportes weib-tv
-http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/591971.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Grupo_Caliente_Logo.png/1200px-Grupo_Caliente_Logo.png" tvg-group="Deportes", CALIENTE TV (EVENTOS) 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/6NVcwKapZwlpMVKIJ36WyhQui7E19f8PYG7yJ4uaPAyn2vGEhHPRinLIL3K3DscA4VQh=w240-h480-rw" tvg-group="Deportes", CALIENTE TV (EVENTOS) 
 http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/592015.ts
 
 #EXTINF:-1  tvg-logo="https://tycsports.hiringroom.com/data/accounts/tycsports/microsite/cfb58ca8d62e9685391d991717b44fb6.png" tvg-group="Deportes", TyC 190
@@ -3116,8 +3115,8 @@ https://nxt.plus:8443/jesus01/jesus01/214272
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/A5__ZONvvqSyYLe6glndyjnFt6ff5q1ImCO9RkPw9t1cZ4je4_pXPXn7o1sUH2-wbD4q=w600-h300-pc0xffffff-pd" tvg-group="ARGENTINA",24/7 LOS SIMPSON T06-T10
 https://nxt.plus:8443/jesus01/jesus01/238719
 
-#EXTINF:-1 tvg-logo="https://funkymonkeybox.com:443/images/JUvYh8H4oQMgi1jVJnggyqlhCclsNHdBnuMCGngsK3FecMt0IGKRAiEKhQa2BqLhJkBT1riBmadtcHxgg9uDRPyyVG8BYa-00WxKmew3MDo.jpg" tvg-group="ARGENTINA",24/7 The Simpsons weib-tv
-http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/613714.ts
+#EXTINF:-1 tvg-logo="https://funkymonkeybox.com:443/images/JUvYh8H4oQMgi1jVJnggyqlhCclsNHdBnuMCGngsK3FecMt0IGKRAiEKhQa2BqLhJkBT1riBmadtcHxgg9uDRPyyVG8BYa-00WxKmew3MDo.jpg" tvg-group="ARGENTINA",24/7 Simpsons weib-tv
+http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/583609.ts
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWIxYTc4OTItZGY0Yy00YTkwLTk0NWQtYmE1YzU2MjU3Y2Y5XkEyXkFqcGdeQXVyMjQ4NDAyMDI@._V1_.jpg" tvg-group="ARGENTINA",24/7 Chespirito weib-tv
 http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/583644.ts
@@ -3134,11 +3133,12 @@ http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/583646.ts
 #EXTINF:-1 tvg-logo="https://www.tvtime.com/_next/image?url=https%3A%2F%2Fartworks.thetvdb.com%2Fbanners%2Fv4%2Fseries%2F212601%2Fposters%2F63adaadd26e53.jpg&w=640&q=75" tvg-group="ARGENTINA",24/7 El Chapulin Colorado weib
 http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/575729.ts
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/9/97/DigimonAdventure.jpg/revision/latest?cb=20230118001014&path-prefix=es" tvg-group="ARGENTINA",24/7 Digimon weib-tv
-http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/575720.ts
-
 #EXTINF:-1 tvg-logo="https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/98ea4207e23a2ea3e3af39ad641d8800.jpg" tvg-group="ARGENTINA",24/7 Dragon Ball Super weib-tv
 http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/575726.ts
+
+#EXTINF:-1 tvg-logo="https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/35e4ac6339f5fdcc164160a5755790cd.jpg" tvg-group="ARGENTINA",24/7 | Dragon Ball
+http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/575725.ts
+
 #EXTINF:-1 tvg-logo="https://larepublica.cronosmedia.glr.pe/migration/images/U7PQ5TAUUNE7DH4UVXRHPCH6ZI.jpg" tvg-group="ARGENTINA",24/7 Dragon Ball Z Saga Cell weib-tv
 http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/575728.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2jIv9rqH90EPZpQdidBK7bUDdXwvdBcpPSQ&s" tvg-group="ARGENTINA",24/7 Dragon Ball Freezer weib-tv
@@ -3149,6 +3149,9 @@ http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/575705.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eFeGKi1WiuRLvSyfyYTTTHhpwmRZYQjahQ&s" tvg-group="ARGENTINA",24/7 Bob Esponja weib-tv
 http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/582505.ts
+
+#EXTINF:-1 tvg-logo="https://image.slidesharecdn.com/tomyjerry-181109002615/85/Tom-y-jerry-1-320.jpg" tvg-group="ARGENTINA",24/7 Tom Y Jerry
+http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/575702.ts
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/DiscoveryFamilia.us.png" tvg-group="ARGENTINA",Discovery Familia
 http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/415641.ts
