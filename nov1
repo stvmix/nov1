@@ -1035,8 +1035,14 @@ http://190.123.90.146:8000/play/a00j/index.m3u8
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2024_06/large.TNTSports.png.9d3a1d767a4697781ed3eddabfc3c247.png" tvg-group="Deportes",TNT Sports dsr
 https://dsr.ride.com.ar/tvmia/an32/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2024_06/large.TNTSports.png.9d3a1d767a4697781ed3eddabfc3c247.png" tvg-group="Deportes",TNT Sports weib-tv
+http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/417302.ts
+
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/espnpremium.png" tvg-group="Deportes",ESPN Premium 190
 http://190.123.90.146:8000/play/a00f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/espnpremium.png" tvg-group="Deportes",ESPN Premium weib-tv
+http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/417215.ts
 
 #EXTINF:-1 tvg-logo="https://clarovideocdn6.clarovideo.net/CVPERU/PELICULAS/ESPNNEW/EXPORTACION_WEB/SS/ESPNNEW_t-290x163.png" tvg-group="Deportes",ESPN 190
 http://190.123.90.146:8000/play/a00b/index.m3u8
@@ -1057,8 +1063,27 @@ http://190.123.90.146:8000/play/a00d/index.m3u8
 #EXTINF:-1  tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/espn4.png" tvg-group="Deportes",ESPN4 190
 http://190.123.90.146:8000/play/a00e/index.m3u8
 
+#EXTINF:-1  tvg-logo="https://forounivers.com/uploads/monthly_2024_02/large.ESPN5.png.ea2cd93464664aceb6401ba5dcbf1f3a.png" tvg-group="Deportes",ESPN 5 SUR weib-tv
+http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/591993.ts
+
+#EXTINF:-1  tvg-logo="
+https://forounivers.com/uploads/monthly_2024_02/large.ESPN5.png.ea2cd93464664aceb6401ba5dcbf1f3a.png" tvg-group="Deportes",ESPN 5 NORTE weib-tv
+http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/591994.ts
+
+#EXTINF:-1  tvg-logo="https://fiber.nl/wp-content/uploads/tvicon-ESPN-6-International.png" tvg-group="Deportes",ESPN 6 weib-tv
+http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/591995.ts
+
+#EXTINF:-1  tvg-logo="https://forounivers.com/uploads/monthly_2024_02/small.ESPN7.png.5fa651740fb8cbead168e291cfb29069.png" tvg-group="Deportes",ESPN 7 weib-tv
+http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/591996.ts
+
 #EXTINF:-1 tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/d/t/dtv_sports_blanco_1.png" tvg-group="Deportes",DSPORTS 1 | AR ᴴᴰ
 https://nxt.plus:8443/jesus01/jesus01/160612
+
+#EXTINF:-1 tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/d/t/dtv_sports_blanco_1.png" tvg-group="Deportes",DSPORTS1 weib-tv
+http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/69547.ts
+
+#EXTINF:-1 tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/d/t/dtv_sports_blanco_1.png" tvg-group="Deportes",DSPORTS 1 weib-tv
+http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/592036.ts
 
 #EXTINF:-1 tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/d/t/dtv_sports_blanco_1.png" tvg-group="Deportes",,DIRECTV SPORTS AR (HD) »1«
 http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/417235.ts
@@ -1066,18 +1091,17 @@ http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/417235.ts
 #EXTINF:-1 tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/d/t/dtv_sports_blanco_1.png" tvg-group="Deportes",,DIRECTV SPORTS AR (HD) »2«
 http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/417234.ts
 
-#EXTINF:-1 tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/d/t/dtv_sports_blanco_1.png" tvg-group="Deportes",DSPORTS 1 weib-tv
-http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/592036.ts
-
 #EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTI4X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1718310567007" tvg-group="Deportes",DSPORTS 2 weib-tv
 http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/592038.ts
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/DSportsM%C3%A1s.png/revision/latest?cb=20221114124037" tvg-group="Deportes",DSPORTS + weib-tv
 http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/592039.ts
  
-#EXTINF:-1 tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/ESPN-Deportes-White.png.webp" tvg-group="Deportes",Espn Deportes (Z)(FHD)
+#EXTINF:-1 tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/ESPN-Deportes-White.png.webp" tvg-group="Deportes",Espn Deportes weib-tv
+http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/591971.ts
 
-#EXTINF:-1 tvg-logo="https://images.vexels.com/media/users/3/158703/isolated/lists/28c7cb429bd2a66c42d7507936405281-silueta-de-futbol-del-pentagono.png", (EVENTOS) EN ESPAñO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Grupo_Caliente_Logo.png/1200px-Grupo_Caliente_Logo.png" tvg-group="Deportes", CALIENTE TV (EVENTOS) 
+http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/592015.ts
 
 #EXTINF:-1  tvg-logo="https://tycsports.hiringroom.com/data/accounts/tycsports/microsite/cfb58ca8d62e9685391d991717b44fb6.png" tvg-group="Deportes", TyC 190
 http://190.123.90.146:8000/play/a00k/index.m3u8
@@ -1126,6 +1150,9 @@ https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.flowics.com/wp-content/uploads/2021/11/clients_tudn.png?resize=1000%2C400&ssl=1" tvg-group="Deportes",TUDN 🇲🇽 EVENTOS weib-tv
 http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/122515.ts
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.flowics.com/wp-content/uploads/2021/11/clients_tudn.png?resize=1000%2C400&ssl=1" tvg-group="Deportes",TUDN EVENTOS weib-tv
+http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/592016.ts
 
 #EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/584a9b47b080d7616d298778.png" tvg-group="Deportes",Real Madrid
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
@@ -3080,6 +3107,40 @@ https://nxt.plus:8443/jesus01/jesus01/214272
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/A5__ZONvvqSyYLe6glndyjnFt6ff5q1ImCO9RkPw9t1cZ4je4_pXPXn7o1sUH2-wbD4q=w600-h300-pc0xffffff-pd" tvg-group="ARGENTINA",24/7 LOS SIMPSON T06-T10
 https://nxt.plus:8443/jesus01/jesus01/238719
+
+#EXTINF:-1 tvg-logo="https://funkymonkeybox.com:443/images/JUvYh8H4oQMgi1jVJnggyqlhCclsNHdBnuMCGngsK3FecMt0IGKRAiEKhQa2BqLhJkBT1riBmadtcHxgg9uDRPyyVG8BYa-00WxKmew3MDo.jpg" tvg-group="ARGENTINA",24/7 The Simpsons weib-tv
+http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/613714.ts
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWIxYTc4OTItZGY0Yy00YTkwLTk0NWQtYmE1YzU2MjU3Y2Y5XkEyXkFqcGdeQXVyMjQ4NDAyMDI@._V1_.jpg" tvg-group="ARGENTINA",24/7 Chespirito weib-tv
+http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/583644.ts
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjM3ZmY2YzAtZjY1My00OTJjLWI5M2QtYmYxNDQ1OTBkY2E2XkEyXkFqcGdeQXVyMzQxNzU3NA@@._V1_.jpg" tvg-group="ARGENTINA",24/7 El Chavo del Ocho weib-tv
+http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/583647.ts
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjM3ZmY2YzAtZjY1My00OTJjLWI5M2QtYmYxNDQ1OTBkY2E2XkEyXkFqcGdeQXVyMzQxNzU3NA@@._V1_.jpg" tvg-group="ARGENTINA",24/7 El Chavo del Ocho weib
+http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/575731.ts
+
+#EXTINF:-1 tvg-logo="https://www.tvtime.com/_next/image?url=https%3A%2F%2Fartworks.thetvdb.com%2Fbanners%2Fv4%2Fseries%2F212601%2Fposters%2F63adaadd26e53.jpg&w=640&q=75" tvg-group="ARGENTINA",24/7 El Chapulin Colorado weib-tv
+http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/583646.ts
+
+#EXTINF:-1 tvg-logo="https://www.tvtime.com/_next/image?url=https%3A%2F%2Fartworks.thetvdb.com%2Fbanners%2Fv4%2Fseries%2F212601%2Fposters%2F63adaadd26e53.jpg&w=640&q=75" tvg-group="ARGENTINA",24/7 El Chapulin Colorado weib
+http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/575729.ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/9/97/DigimonAdventure.jpg/revision/latest?cb=20230118001014&path-prefix=es" tvg-group="ARGENTINA",24/7 Digimon weib-tv
+http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/575720.ts
+
+#EXTINF:-1 tvg-logo="https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/98ea4207e23a2ea3e3af39ad641d8800.jpg" tvg-group="ARGENTINA",24/7 Dragon Ball Super weib-tv
+http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/575726.ts
+#EXTINF:-1 tvg-logo="https://larepublica.cronosmedia.glr.pe/migration/images/U7PQ5TAUUNE7DH4UVXRHPCH6ZI.jpg" tvg-group="ARGENTINA",24/7 Dragon Ball Z Saga Cell weib-tv
+http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/575728.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2jIv9rqH90EPZpQdidBK7bUDdXwvdBcpPSQ&s" tvg-group="ARGENTINA",24/7 Dragon Ball Freezer weib-tv
+http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/575630.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO34qV_6Tf7HqfbwkH4z43VrFCYZmM29BvCw&s" tvg-group="ARGENTINA",24/7 Xena La Princesa Guerrera weib-tv
+http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/575705.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eFeGKi1WiuRLvSyfyYTTTHhpwmRZYQjahQ&s" tvg-group="ARGENTINA",24/7 Bob Esponja weib-tv
+http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/582505.ts
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/DiscoveryFamilia.us.png" tvg-group="ARGENTINA",Discovery Familia HD
 http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/415641.ts
