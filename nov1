@@ -1143,6 +1143,21 @@ https://d21no6qan3ol31.cloudfront.net/out/v1/a2f25f61e9d44701aa4e813ac5efc4a4/in
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpzLrcSnBrhr4vKLFhNX484PzxQbcA2UL_YYN9LlJrdY71SRBUZz77SBy7dWm9XTIgpQg&usqp=CAU" tvg-group="Deportes", 6 EVENTOS TyC PLAY 6
 https://d3v9hc3dccxi3a.cloudfront.net/out/v1/bccdd4d97f434c63ab2f675e5145758f/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2014/11/54785c051f4c7__838x390.jpg" tvg-group="Deportes", 7 EVENTOS TyC PLAY 7
+https://ch04-04-11-tyc.vodgc.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2014/11/54785c051f4c7__838x390.jpg" tvg-group="Deportes", 8 EVENTOS TyC PLAY 8
+https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2014/11/54785c051f4c7__838x390.jpg" tvg-group="Deportes", 9 EVENTOS TyC PLAY 9
+https://dbjn2fo8vpiph.cloudfront.net/out/v1/4c8dc641a91448439388e41118924965/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2014/11/54785c051f4c7__838x390.jpg" tvg-group="Deportes", 10 EVENTOS TyC PLAY 10
+https://d3awnlgqz0szay.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2014/11/54785c051f4c7__838x390.jpg" tvg-group="Deportes", 11 EVENTOS TyC PLAY 11
+https://d3awnlgqz0szay.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/E8uMTXgXMAQX8j2.jpg" tvg-group="Deportes", EVENTOS Multicanal Televisión (Santiago de Cali | Valle del Cauca) (720p)
 https://cloud2.streaminglivehd.com:1936/8010/8010/playlist.m3u8
 
