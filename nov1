@@ -971,7 +971,7 @@ https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tv2.cine.ar/wp-content/uploads/2023/08/logo_blanco.webp" tvg-group="ARGENTINA",CINEAR 190
 http://190.123.90.146:8000/play/a00v/index.m3u8
 
-EXTINF:-1 tvg-logo="https://tv2.cine.ar/wp-content/uploads/2023/08/logo_blanco.webp" tvg-group="ARGENTINA",CINEAR dsr
+#EXTINF:-1 tvg-logo="https://tv2.cine.ar/wp-content/uploads/2023/08/logo_blanco.webp" tvg-group="ARGENTINA",CINEAR dsr
 https://dsr.ride.com.ar/tvmia/an16/playlist.m3u8
 
 #EXTINF:-1 logo="https://tele-libre.org/img/volver.webp" tvg-group="ARGENTINA", VOLVER 190
@@ -1020,7 +1020,7 @@ http://190.123.90.146:8000/play/a00o/index.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CanalCBA.png" tvg-group="ARGENTINA",Canal de la Ciudad
 https://g3.proy-slo.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Playlist.m3u8?sense=true
 
-#EXTINF:-1 ,tvg-logo="https://telearg.weebly.com/uploads/1/3/1/2/131240845/canal-de-la-ciudad_1.png" tvg-group="ARGENTINA",Canal de la ciudad dsr
+#EXTINF:-1 tvg-logo="https://telearg.weebly.com/uploads/1/3/1/2/131240845/canal-de-la-ciudad_1.png" tvg-group="ARGENTINA", Canal de la ciudad dsr
 https://dsr.ride.com.ar/tvmia/an41/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://telearg.weebly.com/uploads/1/3/1/2/131240845/kzo_1.png" tvg-group="ARGENTINA",KZO
@@ -1035,7 +1035,7 @@ http://190.123.90.146:8000/play/a00a/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/FoxSports.png" tvg-group="Deportes", Fox Sports 190
 http://190.123.90.146:8000/play/a00g/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://api.express.com.ar/storage/channels/672e3afca19bf1731083004.png" tvg-group="Deportes",Fox Sports dsr
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/FoxSports.png" tvg-group="Deportes",Fox Sports dsr
 https://dsr.ride.com.ar/tvmia/an23/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/FoxSports2.png" tvg-group="Deportes", Fox Sports 2 190
@@ -1047,13 +1047,13 @@ https://dsr.ride.com.ar/tvmia/an24/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/FoxSports3.png" tvg-group="Deportes", Fox Sports 3 190
 http://190.123.90.146:8000/play/a00i/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2024_06/large.TNTSports.png.9d3a1d767a4697781ed3eddabfc3c247.png" tvg-group="Deportes",TNT Sports
+#EXTINF:-1 tvg-logo="https://davinci.zappingtv.com/gato/media/450/canales/white/tntsportshd.png" tvg-group="Deportes",TNT Sports
 http://190.123.90.146:8000/play/a00j/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2024_06/large.TNTSports.png.9d3a1d767a4697781ed3eddabfc3c247.png" tvg-group="Deportes",TNT Sports dsr
+#EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTSP.png?raw=true" tvg-group="Deportes",TNT Sports dsr
 https://dsr.ride.com.ar/tvmia/an32/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2024_06/large.TNTSports.png.9d3a1d767a4697781ed3eddabfc3c247.png" tvg-group="Deportes",TNT Sports weib-tv
+#EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTSP.png?raw=true" tvg-group="Deportes",TNT Sports weib-tv
 http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/592031.ts
 
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/espnpremium.png" tvg-group="Deportes",ESPN Premium 190
@@ -1076,7 +1076,7 @@ http://190.123.90.146:8000/play/a02z/index.m3u8
 #EXTINF:-1  tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/espn3.png" tvg-group="Deportes",ESPN3 190
 http://190.123.90.146:8000/play/a00d/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://espnpressroom.com/us/files/2012/04/ESPN3-Logo.jpg" tvg-group="Deportes",Espn 3
+#EXTINF:-1  tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/espn3.png" tvg-group="Deportes",Espn 3
 https://dsr.ride.com.ar/tvmia/an26/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/espn4.png" tvg-group="Deportes",Espn 4
@@ -1084,23 +1084,20 @@ https://dsr.ride.com.ar/tvmia/an26/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/espn4.png" tvg-group="Deportes",ESPN4 190
 http://190.123.90.146:8000/play/a00e/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://forounivers.com/uploads/monthly_2024_02/large.ESPN5.png.ea2cd93464664aceb6401ba5dcbf1f3a.png" tvg-group="Deportes",ESPN 5 SUR weib-tv
+#EXTINF:-1  tvg-logo="https://images.seeklogo.com/logo-png/52/3/espn-5-logo-png_seeklogo-522715.png" tvg-group="Deportes",ESPN 5 SUR weib-tv
 http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/591993.ts
 
-#EXTINF:-1  tvg-logo="https://forounivers.com/uploads/monthly_2024_02/large.ESPN5.png.ea2cd93464664aceb6401ba5dcbf1f3a.png" tvg-group="Deportes",ESPN 5 NORTE weib-tv
+#EXTINF:-1  tvg-logo="https://images.seeklogo.com/logo-png/52/3/espn-5-logo-png_seeklogo-522715.png" tvg-group="Deportes",ESPN 5 NORTE weib-tv
 http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/591994.ts
 
-#EXTINF:-1  tvg-logo="https://fiber.nl/wp-content/uploads/tvicon-ESPN-6-International.png" tvg-group="Deportes",ESPN 6 weib-tv
+#EXTINF:-1  tvg-logo="https://images.seeklogo.com/logo-png/52/2/espn-6-logo-png_seeklogo-522717.png" tvg-group="Deportes",ESPN 6 weib-tv
 http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/591995.ts
 
-#EXTINF:-1  tvg-logo="https://fiber.nl/wp-content/uploads/tvicon-ESPN-6-International.png" tvg-group="Deportes",ESPN 6 ᴴᴰ
+#EXTINF:-1  tvg-logo="https://images.seeklogo.com/logo-png/52/2/espn-6-logo-png_seeklogo-522717.png" tvg-group="Deportes",ESPN 6 ᴴᴰ
 https://nxt.plus:8443/jesus01/jesus01/24405
 
-#EXTINF:-1  tvg-logo="https://forounivers.com/uploads/monthly_2024_02/small.ESPN7.png.5fa651740fb8cbead168e291cfb29069.png" tvg-group="Deportes",ESPN 7 ᴴᴰ
+#EXTINF:-1  tvg-logo="https://images.seeklogo.com/logo-png/52/3/espn-7-logo-png_seeklogo-522718.png" tvg-group="Deportes",ESPN 7 ᴴᴰ
 https://nxt.plus:8443/jesus01/jesus01/13229
-
-#EXTINF:-1  tvg-logo="https://forounivers.com/uploads/monthly_2024_02/small.ESPN7.png.5fa651740fb8cbead168e291cfb29069.png" tvg-group="Deportes",ESPN 7 weib-tv
-http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/591996.ts
 
 #EXTINF:-1 tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/d/t/dtv_sports_blanco_1.png" tvg-group="Deportes",DSPORTS 1 | AR ᴴᴰ
 https://nxt.plus:8443/jesus01/jesus01/160612
@@ -3470,7 +3467,10 @@ https://tinyurl.com/mwu9ydet
 #EXTINF:-1 tvg-logo="https://www.canal26.com/images/open-graph/tierramia_logo.png" tvg-group="ARGENTINA",Tierra mía
 https://tinyurl.com/4r8xac44
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/TVCEC.png/revision/latest?cb=20201015021214&path-prefix=es" tvg-group="ARGENTINA", TVC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" tvg-group="ARGENTINA", RTS
+https://dsr.ride.com.ar/tvmia/an48/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/TVCEcuador2023.png/revision/latest?cb=20230215230242&path-prefix=es" tvg-group="ARGENTINA", TVC
 https://dsr.ride.com.ar/tvmia/an49/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/2560px-Logo_Ecuavisa.svg.png" tvg-group="ARGENTINA", ECUAVISA
@@ -3478,9 +3478,6 @@ https://dsr.ride.com.ar/tvmia/an46/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/1024px-Teleamazonas_Logo.png" tvg-group="ARGENTINA", TELE AMAZONAS
 https://dsr.ride.com.ar/tvmia/an47/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" tvg-group="ARGENTINA", RTS
-https://dsr.ride.com.ar/tvmia/an48/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/TC_Televisi%C3%B3n_new_logo_2020.png/revision/latest?cb=20201021171747&path-prefix=es" tvg-group="ARGENTINA", TC
 https://dsr.ride.com.ar/tvmia/an51/playlist.m3u8
