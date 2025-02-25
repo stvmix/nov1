@@ -1658,6 +1658,7 @@ https://tv.streaming-chile.com:19360/8068/8068.m3u8
 https://cloudvideo.servers10.com:8081/8096/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/BjOe1RF.jpg" tvg-group="INFANTILES", Moni TV | FHD | Chile
+https://fl1001.bozztv.com/ssh101/monitvhd/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/pqWmos0.png" tvg-group="INFANTILES", Kanade TV | FHD | Chile
 https://stream.wifiexpert.cl/kanade/kanadetv/playlist.m3u8
@@ -3399,8 +3400,14 @@ http://190.123.90.146:8000/play/a039/index.m3u8
 https://tinyurl.com/crarmpnv
 #EXTINF:-1 tvg-logo="https://telearg.weebly.com/uploads/1/3/1/2/131240845/telemax_1.png" tvg-group="ARGENTINA",Telemax
 https://tinyurl.com/mwu9ydet
-#EXTINF:-1 tvg-logo="https://www.canal26.com/images/open-graph/tierramia_logo.png" tvg-group="ARGENTINA",Tierra mía
+#EXTINF:-1 tvg-logo="https://www.canal26.com/images/open-graph/tierramia_logo.png" tvg-group="ARGENTINA",TierraMía
 https://tinyurl.com/4r8xac44
+
+#EXTINF:-1 tvg-logo="https://www.canal26.com/images/open-graph/tierramia_logo.png" tvg-group="ARGENTINA",Tierra Mía | Argentina
+https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/0/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Tierra Mia" tvg-logo="https://www.canal26.com/images/open-graph/tierramia_logo.png" tvg-group="ARGENTINA",Tierra Mia op2 | Argentina
+https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8#t=0.1
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/TC_Televisi%C3%B3n_new_logo_2020.png/revision/latest?cb=20201021171747&path-prefix=es" tvg-group="ARGENTINA", TC
 https://dsr.ride.com.ar/tvmia/an51/playlist.m3u8
@@ -3417,3 +3424,12 @@ https://dsr.ride.com.ar/tvmia/an46/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/1024px-Teleamazonas_Logo.png" tvg-group="ARGENTINA", TELE AMAZONAS
 https://dsr.ride.com.ar/tvmia/an47/playlist.m3u8
  
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-HAV870gdo80/XoE1dXsyK6I/AAAAAAAAAx4/f5LT4C9r9KIHLnOzFzUPLYlq_-ZwWhghgCLcBGAsYHQ/s1600/multicanal.png" tvg-group="ARGENTINA",Multicanal | Ecuador
+https://multicanal.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
+
+#EXTINF:-1 tvg-logo="https://apksos.com/storage/images/com/sacnet/gca/telecom/multizonestelevision/com.sacnet.gca.telecom.multizonestelevision_1.png" tvg-group="ARGENTINA",Multizonas Tv | Costa Rica
+https://cloudvideo.servers10.com:8081/8068/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.radioextremacr.com/img/logo.png" tvg-group="ARGENTINA",Extrema TV | Costa Rica
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
