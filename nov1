@@ -1187,10 +1187,6 @@ https://dsr.ride.com.ar/tvmia/bn19/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Gol_Per%C3%BA_2016.svg/revision/latest/scale-to-width-down/1200?cb=20240224034010&path-prefix=es" tvg-group="Deportes", GOL PERU 
 https://dsr.ride.com.ar/tvmia/an35/playlist.m3u8
 
-
-
-
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/E8uMTXgXMAQX8j2.jpg" tvg-group="Deportes", EVENTOS Multicanal Televisión (Santiago de Cali | Valle del Cauca) (720p)
 https://cloud2.streaminglivehd.com:1936/8010/8010/playlist.m3u8
 
@@ -1435,6 +1431,9 @@ https://dsr.ride.com.ar/tvmia/an03/playlist.m3u8
 https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-cine-kids-16x9_navidad.jpg" tvg-group="INFANTILES", Cine Kids
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6vvB5g3/Disney-Channel.png" tvg-group="INFANTILES",DISNEY dsr
+https://dsr.ride.com.ar/tvmia/sn27/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6vvB5g3/Disney-Channel.png" tvg-group="INFANTILES",DISNEY
 http://190.123.90.146:8000/play/a02a/index.m3u8
@@ -2529,6 +2528,9 @@ http://bantel-cdn1.iptvperu.tv:1935/xmp_trans/a3series.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/a3s.png" tvg-group="ARGENTINA", A3 SERIES dsr
 https://dsr.ride.com.ar/tvmia/sn13/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/962/CH_LOGO/60/40/0/0/116715800761.png" tvg-group="ARGENTINA", Antena 3 Internacional 
+https://dsr.ride.com.ar/tvmia/sn33/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://miguia.tv/channels/big_99.png" tvg-group="ARGENTINA", LA2
 https://dsr.ride.com.ar/tvmia/sn02/playlist.m3u8
 
@@ -2537,6 +2539,9 @@ https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/613_La_1.png" tvg-group="ARGENTINA", LA1 dh
 https://dh6vo1bovy43s.cloudfront.net/La_1_ES.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Dmax.png" tvg-group="ARGENTINA", D MAX 
+https://dsr.ride.com.ar/tvmia/sn16/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Pluto-TV-Animales-en-directo-Online.png?fit=1920%2C1080&ssl=1" tvg-group="ARGENTINA", Pluto TV Animales
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
@@ -2752,8 +2757,23 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/mascineclasico/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/cnfMxIP.png" tvg-group="ARGENTINA", Telecanal | FHD | Santa Cruz
 https://eu1.servers10.com:8081/8194/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/1200px-Se%C3%B1al_Colombia_logo.svg.png" tvg-group="ARGENTINA", SEÑAL COLOMBIA 
+https://dsr.ride.com.ar/tvmia/bn01/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/LOGO-TELEPACIFICO.png" tvg-group="ARGENTINA", TELEPACIFICO 
+https://dsr.ride.com.ar/tvmia/bn07/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/CanalRCN2023.png" tvg-group="ARGENTINA", RCN 
+https://dsr.ride.com.ar/tvmia/an64/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_01/large.ELUNOCOMOTU-color1080px.png.cff4440ed3aec91e868f353bc36ed07d.png" tvg-group="ARGENTINA", CANAL 1 
+https://dsr.ride.com.ar/tvmia/bn14/playlist.m3u8
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Canal1Colombia2024.svg/1200px-Canal1Colombia2024.svg.png" tvg-group="ARGENTINA",1 uno (Colombia) (🇨🇴)
 http://tvmate.icu:8080/nCqH8t/631017/78698?extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Citytv_logo.svg" tvg-group="ARGENTINA", CITY TV 
+https://dsr.ride.com.ar/tvmia/bn11/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171403.jpg?w=1119&h=1019" tvg-group="ARGENTINA", ATV PLUS
 https://live-evg25.tv360.bitel.com.pe/bitel/atvmas/playlist.m3u8
@@ -3443,12 +3463,12 @@ https://dsr.ride.com.ar/tvmia/an46/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/1024px-Teleamazonas_Logo.png" tvg-group="ARGENTINA", TELE AMAZONAS
 https://dsr.ride.com.ar/tvmia/an47/playlist.m3u8
- 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logo_telecaribe_El_Informativo.png" tvg-group="ARGENTINA", TELECARIBE 
+https://dsr.ride.com.ar/tvmia/bn21/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-HAV870gdo80/XoE1dXsyK6I/AAAAAAAAAx4/f5LT4C9r9KIHLnOzFzUPLYlq_-ZwWhghgCLcBGAsYHQ/s1600/multicanal.png" tvg-group="ARGENTINA",Multicanal | Ecuador
 https://multicanal.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.radioextremacr.com/img/logo.png" tvg-group="ARGENTINA",Extrema TV | Costa Rica
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" tvg-group="ARGENTINA", Dreamworks TV 
-https://chromecast.cvattv.com.ar/live/c7eds/Dreamworks/SA_Live_dash_enc_C/Dreamworks.mpd
