@@ -1202,6 +1202,15 @@ https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.flowics.com/wp-content/uploads/2021/11/clients_tudn.png?resize=1000%2C400&ssl=1" tvg-group="Deportes",TUDN 🇲🇽 EVENTOS weib-tv
 http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/122515.ts
 
+#EXTINF:-1 tvg-logo="" tvg-group="Deportes",D| TUDN MX EVENTOS
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/191356
+
+#EXTINF:-1 tvg-logo="" tvg-group="Deportes",Zona TUDN Mex EVENTOS
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2130323
+
+#EXTINF:-1 tvg-logo="" tvg-group="Deportes",D| TUDN US EVENTOS
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/194924
+
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.flowics.com/wp-content/uploads/2021/11/clients_tudn.png?resize=1000%2C400&ssl=1" tvg-group="Deportes",TUDN EVENTOS weib-tv
 http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/592016.ts
 
@@ -1430,7 +1439,11 @@ https://dsr.ride.com.ar/tvmia/an03/playlist.m3u8
 #EXTINF:0  tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2488-800x450-FFFFFF.jpg" tvg-group="INFANTILES",Chinola (Rep. Dominicana) (🇩🇴)
 https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-cine-kids-16x9_navidad.jpg" tvg-group="INFANTILES", Cine Kids
+#EXTINF:-1 tvg-group="INFANTILES",Tooncast HQ
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/154094
+
+#EXTINF:-1 tvg-group="INFANTILES", Dream Works sdmx
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2163078
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6vvB5g3/Disney-Channel.png" tvg-group="INFANTILES",DISNEY dsr
 https://dsr.ride.com.ar/tvmia/sn27/playlist.m3u8
@@ -1654,8 +1667,11 @@ https://dsr.ride.com.ar/tvmia/sn26/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1604_ZTV_Anime.png" tvg-group="INFANTILES", ZTV Anime | HD | Chile
 https://mitv.zplay.cl/Ztv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/BitMe2025Logo.png/revision/latest/scale-to-width-down/1280?cb=20250108200145&path-prefix=es" tvg-group="INFANTILES",BITME HD 148
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/BitMe2025Logo.png/revision/latest/scale-to-width-down/1280?cb=20250108200145&path-prefix=es" tvg-group="INFANTILES",BITME HD
 https://nxt.plus:8443/jesus01/jesus01/160524
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/BitMe2025Logo.png/revision/latest/scale-to-width-down/1280?cb=20250108200145&path-prefix=es" tvg-group="INFANTILES",E | Bitme
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10551
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/6/6d/Loco2006.png/revision/latest/scale-to-width-down/300?cb=20230129233817" tvg-group="INFANTILES", Locomoción | SD | republica dominicana
 http://51.222.85.85:81/hls/loco/index.m3u8
@@ -1667,6 +1683,8 @@ https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8
 https://glb.bozztv.com/glb/ssh101/animacion/playlist.m3u8
 
 #EXTINF:0  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/ADSM.png?raw=true" tvg-group="INFANTILES", Adult Swim 181 (Mexico) (🇲🇽)
+#EXTINF:-1,E | Tru TV HD
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10580
 
 #EXTINF:-1 tvg-logo="https://xhateaec.com/upload/photos/2024/01/sTJgBrLBRjoF8WQJHf9B_27_78b613ce1dc4a6c24d32b9ecd851456e_avatar_full.png" tvg-group="INFANTILES",Toonizaki Chile
 https://mitv.zplay.cl/ZRetro/video.m3u8?token=D4lm1R0m-tFJES
@@ -1866,6 +1884,9 @@ https://460689fd4b6d4c80a0c539b27dc7cea8.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2018_10/1679567950_DistritoComedia-.png.51fc33f3d4f8dff729c018643cfb86bb.png" tvg-group="INFANTILES", DISTRITO HD 140
 https://nxt.plus:8443/jesus01/jesus01/59612
+
+#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2018_10/1679567950_DistritoComedia-.png.51fc33f3d4f8dff729c018643cfb86bb.png" tvg-group="INFANTILES",E | Distrito Comedia HD
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10555
 
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_02/large.Comedy-Central-Symbol-removebg-preview.png.d75d3300d085d087750eda7f6bf1fedd.png" tvg-group="INFANTILES",COMEDY CENTRAL 190
 http://190.123.90.146:8000/play/a00z/index.m3u8
@@ -2132,11 +2153,17 @@ https://nxt.plus:8443/jesus01/jesus01/24524
 
 #EXTINF:-1 tvg-logo="https://img.nbc.com/files/images/2019/4/25/Universo-logos-templateUniverso-Logo-White-450x228.png", UNIVERSO eeuu
 
+#EXTINF:-1 tvg-logo="https://st1.uvnimg.com/05/8b/bcf6ba496ecc5b486aca1af1bc46/canalu.png",E | Unicable HD
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10582
+
 #EXTINF:-1 tvg-logo="https://st1.uvnimg.com/05/8b/bcf6ba496ecc5b486aca1af1bc46/canalu.png", UNICABLE HD
 https://nxt.plus:8443/jesus01/jesus01/59597
 
 #EXTINF:-1 tvg-logo="https://nldsdmt.akamaized.net/media/univisionnow2/thumbs/channels/30_es.png", UNIVISION HD 
 https://nxt.plus:8443/jesus01/jesus01/167881
+
+#EXTINF:-1 tvg-group="ARGENTINA", Canal 5 sdmx
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2092598
 
 #EXTINF:0 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/16af5933-c8e0-4d5b-8488-45339c5b0252/df094zq-78040c6e-c793-4b3a-8625-2cbd17270409.png/v1/fill/w_800,h_996/canal_5_logo__2016_actualidad__by_fanmmsskittles_df094zq-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTk2IiwicGF0aCI6IlwvZlwvMTZhZjU5MzMtYzhlMC00ZDViLTg0ODgtNDUzMzljNWIwMjUyXC9kZjA5NHpxLTc4MDQwYzZlLWM3OTMtNGIzYS04NjI1LTJjYmQxNzI3MDQwOS5wbmciLCJ3aWR0aCI6Ijw9ODAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.vsgh3KJMaPdLN2yvQUVUrA40Qh6csrI8J9UyQrs5rG4" tvg-group="ARGENTINA", 5 Mx (Mexico) (🇲🇽) EVENTOS
 https://nxt.plus:8443/jesus01/jesus01/59603
@@ -2149,6 +2176,9 @@ https://nxt.plus:8443/jesus01/jesus01/237828
 
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Azt-72024.png/revision/latest/scale-to-width-down/283?cb=20241021203534&path-prefix=es" tvg-group="ARGENTINA",Azteca 7 (Mexico) (🇲🇽) EVENTOS weib-tv
 http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/122532.ts
+
+#EXTINF:-1 tvg-group="ARGENTINA", Azteca 7 SDMX EVENTOS
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2092601
 
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/85D02247-D040-491C-82C3-8BFAC97A7B21/3-1x1.png/900" tvg-group="ARGENTINA", Azteca Internacional | HD | México azt
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
@@ -2171,8 +2201,11 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Las_Estrellas_2017_Navidad.svg/revision/latest/scale-to-width-down/250?cb=20230202024114&path-prefix=es" tvg-group="ARGENTINA", LAS ESTRELLAS HD 148
 https://nxt.plus:8443/jesus01/jesus01/59587
 
-#EXTINF:-1 tvg-logo="https://st1.uvnimg.com/c1/80/c1f1e4e94d75b7e236e664fb8044/logo-1.png" tvg-group="ARGENTINA", ESTRELLAS-2HD 148
+#EXTINF:-1 tvg-logo="https://st1.uvnimg.com/c1/80/c1f1e4e94d75b7e236e664fb8044/logo-1.png" tvg-group="ARGENTINA", ESTRELLAS-2HD 
 https://nxt.plus:8443/jesus01/jesus01/60564
+
+#EXTINF:-1 tvg-group="ARGENTINA",2MB Las Estrellas
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2092556
 
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_08/large.AztecaCorazon-2023oficial.png.dfd1210c8c39aff45c0c426f082e5c78.png" tvg-group="ARGENTINA", AZ CORAZON
 https://azt-cz.otteravision.com/azt/cz/cz_720p_high.m3u8
@@ -2243,7 +2276,8 @@ https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf9
 #EXTINF:-1 tvg-logo="https://canal3impresionante.com/wp-content/uploads/2020/12/LOGO-CANAL-3-con-circulo-blanco-1-1024x868.png" tvg-group="ARGENTINA", Canal 3 | SD | salvador
 https://cloud2.streaminglivehd.com:1936/8048/8048/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/33s1ZH4.png" tvg-group="ARGENTINA", Canal 4 | HD | salvador EVENTOS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/33s1ZH4.png" tvg-group="ARGENTINA", Canal 4 | HD | salvador EVENTOS sdmx
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2120490
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ad2tDEy.png" tvg-group="ARGENTINA", Canal 6 | HD | salvador
 https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8
@@ -3079,9 +3113,27 @@ https://nxt.plus:8443/jesus01/jesus01/91928
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/A5__ZONvvqSyYLe6glndyjnFt6ff5q1ImCO9RkPw9t1cZ4je4_pXPXn7o1sUH2-wbD4q=w600-h300-pc0xffffff-pd" tvg-group="ARGENTINA",24/7 | LOS CABALLEROS DEL ZODIACO
 https://nxt.plus:8443/jesus01/jesus01/105979
 
+#EXTINF:-1 tvg-group="ARGENTINA",24/7 Los Caballeros del Zodiaco
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2391352
+
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/A5__ZONvvqSyYLe6glndyjnFt6ff5q1ImCO9RkPw9t1cZ4je4_pXPXn7o1sUH2-wbD4q=w600-h300-pc0xffffff-pd" tvg-group="ARGENTINA",24/7 | ALF
 https://nxt.plus:8443/jesus01/jesus01/140882
 
+#EXTINF:-1 tvg-group="ARGENTINA",24/7 | ALF sdmx
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2385281
+
+#EXTINF:-1 tvg-group="ARGENTINA",24/7 | Aprendiendo a Vivir
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2385282
+
+#EXTINF:-1 tvg-group="ARGENTINA",24/7 | Le Temes a la oscuridad?
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2385297
+
+#EXTINF:-1 tvg-group="ARGENTINA",24/7 | Los Años Maravillosos
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2385298
+
+#EXTINF:-1 tvg-group="ARGENTINA",24/7 | Los Locos Addams
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2385301
+ 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/A5__ZONvvqSyYLe6glndyjnFt6ff5q1ImCO9RkPw9t1cZ4je4_pXPXn7o1sUH2-wbD4q=w600-h300-pc0xffffff-pd" tvg-group="ARGENTINA",24/7 | DINOSAURIOS
 https://nxt.plus:8443/jesus01/jesus01/140889
 
@@ -3118,11 +3170,20 @@ https://nxt.plus:8443/jesus01/jesus01/214276
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/A5__ZONvvqSyYLe6glndyjnFt6ff5q1ImCO9RkPw9t1cZ4je4_pXPXn7o1sUH2-wbD4q=w600-h300-pc0xffffff-pd" tvg-group="ARGENTINA",24/7 | POWER RANGERS
 https://nxt.plus:8443/jesus01/jesus01/225110
 
+#EXTINF:-1 tvg-group="ARGENTINA",24/7 | Power Rangers
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2387534
+
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/A5__ZONvvqSyYLe6glndyjnFt6ff5q1ImCO9RkPw9t1cZ4je4_pXPXn7o1sUH2-wbD4q=w600-h300-pc0xffffff-pd" tvg-group="ARGENTINA",24/7 | EL CHAVO DEL 8
 https://nxt.plus:8443/jesus01/jesus01/91926
 
+#EXTINF:-1 tvg-group="ARGENTINA",24/7 | El Chavo del Ocho
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2385287
+
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/A5__ZONvvqSyYLe6glndyjnFt6ff5q1ImCO9RkPw9t1cZ4je4_pXPXn7o1sUH2-wbD4q=w600-h300-pc0xffffff-pd" tvg-group="ARGENTINA",24/7 | CHESPIRITO
 https://nxt.plus:8443/jesus01/jesus01/91927
+
+#EXTINF:-1 tvg-group="ARGENTINA",24/7 | Chespirito
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2385286
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/A5__ZONvvqSyYLe6glndyjnFt6ff5q1ImCO9RkPw9t1cZ4je4_pXPXn7o1sUH2-wbD4q=w600-h300-pc0xffffff-pd" tvg-group="ARGENTINA",24/7 | EL CHAPULIN COLORADO
 https://nxt.plus:8443/jesus01/jesus01/236960
@@ -3141,6 +3202,15 @@ https://nxt.plus:8443/jesus01/jesus01/214272
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/A5__ZONvvqSyYLe6glndyjnFt6ff5q1ImCO9RkPw9t1cZ4je4_pXPXn7o1sUH2-wbD4q=w600-h300-pc0xffffff-pd" tvg-group="ARGENTINA",24/7 LOS SIMPSON T06-T10
 https://nxt.plus:8443/jesus01/jesus01/238719
+
+#EXTINF:-1 tvg-group="ARGENTINA",24/7 | Los Simpsons
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2387517
+
+#EXTINF:-1 tvg-group="ARGENTINA",24/7 | Los Simpsons Retro
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2387518
+
+#EXTINF:-1 tvg-group="ARGENTINA",24/7 | Los Simpsons Casitas del Horror
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2091016
 
 #EXTINF:-1 tvg-logo="https://funkymonkeybox.com:443/images/JUvYh8H4oQMgi1jVJnggyqlhCclsNHdBnuMCGngsK3FecMt0IGKRAiEKhQa2BqLhJkBT1riBmadtcHxgg9uDRPyyVG8BYa-00WxKmew3MDo.jpg" tvg-group="ARGENTINA",24/7 Simpsons weib-tv
 http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/583609.ts
@@ -3171,14 +3241,55 @@ http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/575728.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2jIv9rqH90EPZpQdidBK7bUDdXwvdBcpPSQ&s" tvg-group="ARGENTINA",24/7 Dragon Ball Freezer weib-tv
 http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/575630.ts
 
+#EXTINF:-1 tvg-group="ARGENTINA",24/7 | Dragon Ball Androides
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2387491
+
+#EXTINF:-1 tvg-group="ARGENTINA",24/7 | Dragon ball Saga Freezer
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2387492
+
+#EXTINF:-1 tvg-group="ARGENTINA",24/7 | Dragon Ball Z | Saga de Cell
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2387493
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO34qV_6Tf7HqfbwkH4z43VrFCYZmM29BvCw&s" tvg-group="ARGENTINA",24/7 Xena La Princesa Guerrera weib-tv
 http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/575705.ts
+
+#EXTINF:-1 tvg-group="ARGENTINA",24/7 | Xena
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2385311
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eFeGKi1WiuRLvSyfyYTTTHhpwmRZYQjahQ&s" tvg-group="ARGENTINA",24/7 Bob Esponja weib-tv
 http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/582505.ts
 
 #EXTINF:-1 tvg-logo="https://image.slidesharecdn.com/tomyjerry-181109002615/85/Tom-y-jerry-1-320.jpg" tvg-group="ARGENTINA",24/7 Tom Y Jerry
 http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/575702.ts
+
+#EXTINF:-1 tvg-group="ARGENTINA",24/7 | Tom y Jerry
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2387552
+#EXTINF:-1 tvg-group="ARGENTINA",24/7 | Castores Cascarrabias
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2387487
+#EXTINF:-1 tvg-group="ARGENTINA",24/7 | Chicas Superpoderosas
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2387488
+#EXTINF:-1 tvg-group="ARGENTINA",24/7 | Dinosaurios
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2387490
+#EXTINF:-1 tvg-group="ARGENTINA",24/7 | El Coyote y el Correcaminos
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2387494
+#EXTINF:-1 tvg-group="ARGENTINA",24/7 | El pajaro loco
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2387495
+#EXTINF:-1 tvg-group="ARGENTINA",24/7 | Garfield y sus Amigos
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2387496
+
+#EXTINF:-1 tvg-group="ARGENTINA",24/7 | El Manual de Supervivencia de Ned
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2384914
+#EXTINF:-1 tvg-group="ARGENTINA",24/7 | Zoey 101
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2384969
+#EXTINF:-1 tvg-group="ARGENTINA",24/7 | La hora Pico
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2384932
+#EXTINF:-1 tvg-group="ARGENTINA",24/7 | Cero en Conducta
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2384906
+
+#EXTINF:-1 tvg-group="ARGENTINA",24/7 | La Niñera
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2384934
+#EXTINF:-1 tvg-group="ARGENTINA",24/7 | La rosa de guadalupe
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2384935
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/DiscoveryFamilia.us.png" tvg-group="ARGENTINA",Discovery Familia
 http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/415641.ts
@@ -3472,3 +3583,50 @@ https://multicanal.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.radioextremacr.com/img/logo.png" tvg-group="ARGENTINA",Extrema TV | Costa Rica
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HAJxHcV.png" tvg-group="ARGENTINA", Garabito Tv
+https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/chunklist_w878297441.m3u8
+
+#EXTINF:-1 tvg-group="ARGENTINA", Nat Geo Mundo HD
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2218849
+#EXTINF:-1 tvg-group="ARGENTINA", Love Nature Español
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2218843
+#EXTINF:-1 tvg-group="ARGENTINA", Curiosity Stream HD
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2145521
+#EXTINF:-1 tvg-group="ARGENTINA", Caza y pesca
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/158478
+
+
+#EXTINF:-1 tvg-group="ARGENTINA", Multipremier
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/201151
+#EXTINF:-1 tvg-group="ARGENTINA", Golden Premier HD
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/200947
+#EXTINF:-1 tvg-group="ARGENTINA",P | Golden Edge HD
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/154111
+#EXTINF:-1 tvg-group="ARGENTINA",P | Golden HD
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/154110
+#EXTINF:-1 tvg-group="ARGENTINA",P | DHE
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/154097
+
+#EXTINF:-1 tvg-group="ARGENTINA",P | HBO POP HD
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/41420
+#EXTINF:-1 tvg-group="ARGENTINA",P | HBO MX
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10886
+#EXTINF:-1 tvg-group="ARGENTINA",P | HBO MX HD
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10885
+#EXTINF:-1 tvg-group="ARGENTINA",P | HBO 2
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10884
+#EXTINF:-1 tvg-group="ARGENTINA",P | HBO 2 HD
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10883
+#EXTINF:-1 tvg-group="ARGENTINA",P | HBO Signature HD
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10882
+#EXTINF:-1 tvg-group="ARGENTINA",P | HBO Signature
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10881
+#EXTINF:-1 tvg-group="ARGENTINA",P | HBO + HD
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10880
+#EXTINF:-1 tvg-group="ARGENTINA",P | HBO +
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10879
+#EXTINF:-1 tvg-group="ARGENTINA",P | HBO Family HD
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10878
+#EXTINF:-1 tvg-group="ARGENTINA",P | HBO Family
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10877
