@@ -1235,10 +1235,13 @@ https://live-zlr1.tv360.bitel.com.pe/bitel/fmhkids/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/eQEQiSe.png" tvg-group="PREMIUM", FMH Kids 160 (España) (🇪🇸)
 http://160.20.165.246:8000/play/a01f
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/Golden_Blanco_2020.png/revision/latest?cb=20220131141053&path-prefix=es" tvg-group="PREMIUM",Golden
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10861
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/golden-premier_m.png" tvg-group="PREMIUM",Golden Premier HD
 http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/200947
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images ?q=tbn:ANd9GcTcnde_bA39XWICe4Iz0sb-ZOphELLnC8xFcYn7ynhBIsz1dT2T4J3cAAfY6y2Cilif510&usqp=CAU" tvg-group="PREMIUM",Golden Edge HD
+#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_08/small.949364663_GoldenEdgeLA(2020).png.34f2a2eff043f61a89d50b6f2773afb5.png" tvg-group="PREMIUM",Golden Edge HD
 http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/154111
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/golden-plus_m.png" tvg-group="PREMIUM",GOLDEN PLUS HD
@@ -1258,6 +1261,9 @@ http://190.123.90.146:8000/play/a03d/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://clarovideocdn1.clarovideo.net/HBO/PELICULAS/HBOFAMILYCHANNEL/EXPORTACION_WEB/SS/HBOFAMILYCHANNEL_t-290x163.png" tvg-group="PREMIUM", HBO Family HD SDMX
 http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10878
+
+#EXTINF:-1 tvg-logo="https://television-libre.net/img/hbomundi.webp" tvg-group="PREMIUM",HBO Mundi sdmx
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/155167
 
 #EXTINF:-1 tvg-logo="https://television-libre.net/img/hbomundi.webp" tvg-group="PREMIUM",HBO Mundi 190
 http://190.123.90.146:8000/play/a027/index.m3u8
@@ -1282,6 +1288,9 @@ https://streamer1.nexgen.bz/HBO_SIG/tracks-v1a2/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.codice.tv/wp-content/uploads/2022/04/hbo-xtreme1.png" tvg-group="PREMIUM",HBO Xtreme nex
 https://streamer1.nexgen.bz/HBO_XTREME/tracks-v1a2/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.codice.tv/wp-content/uploads/2022/04/hbo-xtreme1.png" tvg-group="PREMIUM",HBO Xtreme sdmx
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2217004
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bZWoDTg.png",Sony Cine klowdtv OK
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
@@ -1316,7 +1325,26 @@ https://telecine-pelimex-1-mx.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/ESBC1700004PX_20221214T044904.png" tvg-group="PREMIUM", Traileres E
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovemagazinees-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN %7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7eQmfH094vGXU7ufgnGIo9h_d9SGlCrOjxm3vJMo41Y2dCKDDsbpy5oLI356eNZihWcA&usqp=CAU" tvg-group="ARGENTINA", Diputados tv
+#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.1316118004_UniversalPremiere-Claro.png.dd093e77a73e1cc71ccb2e3b7983d187.png" tvg-group="ARGENTINA",Universal Premier Oeste
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2081450
+
+#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.1316118004_UniversalPremiere-Claro.png.dd093e77a73e1cc71ccb2e3b7983d187.png" tvg-group="ARGENTINA",Universal Premier Este
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2081446
+
+#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/small.701883225_UniversalCrime-Claro.png.efbf81f9308ad0902624e172dc455503.png" tvg-group="ARGENTINA",Universal Crime Oeste
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2081449
+
+#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/small.701883225_UniversalCrime-Claro.png.efbf81f9308ad0902624e172dc455503.png" tvg-group="ARGENTINA",Universal Crime Este
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2081445
+
+#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/small.1414587199_UniversalCinema-Claro.png.a88ebacac50bab493289c33a1afef121.png" tvg-group="ARGENTINA",Universal Cinema
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2081448
+
+#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.1490211344_UniversalComedy-Claro.png.61669777e8ebe4f90876b91db5ef8466.png" tvg-group="ARGENTINA",Universal Comedy
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2081444
+
+#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/small.1365450986_UniversalReality-Claro.png.f81d451e3c0704d97dad0839c8fb4eb3.png" tvg-group="ARGENTINA",Universal Reality
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2081447
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1200px-TeleSUR-Logo.svg.png" tvg-group="ARGENTINA", Telesur
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
@@ -1472,13 +1500,23 @@ https://dsr.ride.com.ar/tvmia/sn27/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6vvB5g3/Disney-Channel.png" tvg-group="INFANTILES",DISNEY
 http://190.123.90.146:8000/play/a02a/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Disney_Jr._2024.svg/1280px-Disney_Jr._2024.svg.png" tvg-group="INFANTILES",Disney Juniors dmx
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2092570
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Disney_Jr._2024.svg/1280px-Disney_Jr._2024.svg.png" tvg-group="INFANTILES",Disney Junior SD 190
 http://190.123.90.146:8000/play/a02b/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/226.png" tvg-group="INFANTILES", Cartoon Network sdmx 
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10969
 
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/226.png" tvg-group="INFANTILES", Cartoon Network x
 http://190.123.90.146:8000/play/a02x/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_11/large.1245621174_Cartoonito_logo_2021_28alternate29.png.814c680677ee3f8d5f312a7656a88c97.png" tvg-group="INFANTILES", CARTOONITO
+#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_11/large.1245621174_Cartoonito_logo_2021_28alternate29.png.814c680677ee3f8d5f312a7656a88c97.png" tvg-group="INFANTILES", CARTOONITO sdmx
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10981
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/ecbb842d-3b93-4c7b-90fd-9a188d7b4f20" tvg-group="INFANTILES",DISCOVERY KIDS sdmx
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2092569
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/ecbb842d-3b93-4c7b-90fd-9a188d7b4f20" tvg-group="INFANTILES",DISCOVERY KIDS 190
 http://190.123.90.146:8000/play/a029/index.m3u8
@@ -1487,6 +1525,9 @@ http://190.123.90.146:8000/play/a029/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1181x886/Y2gwMTAwMDAwMDAwMjI5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1181x886.png?timestamp=1708457100995" tvg-group="INFANTILES",NICKELODEON 190
 http://190.123.90.146:8000/play/a02e/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nick_Jr._logo_2023.webp" tvg-group="INFANTILES",NICK JRS sdmx
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2092580
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nick_Jr._logo_2023.webp" tvg-group="INFANTILES",NICK JRS 190
 http://190.123.90.146:8000/play/a02c/index.m3u8
@@ -1831,13 +1872,17 @@ https://g5.proy-hor.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044
 #EXTINF:-1 tvg-logo="https://www.qmusica.tv/qmusica_logo_1.png" tvg-group="MUSICA",Q MUSICA 190
 http://190.123.90.146:8000/play/a02s/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/M88NzqH/Xly8mKUw.jpg" tvg-group="MUSICA",htv mnp
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M88NzqH/Xly8mKUw.jpg" tvg-group="MUSICA",htv sdmx
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2098837
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1200px-Htv_logo.svg.png" tvg-group="MUSICA",HTV SD 190
 http://190.123.90.146:8000/play/a037/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/telewizja-internetowa-i-fikcyjna/images/f/f8/MTV_00s_remaster.png/revision/latest/scale-to-width-down/250?cb=20230919152126&path-prefix=pl" tvg-group="MUSICA",MTV 00S 190
 http://190.123.90.146:8000/play/a02r/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mtv_m.png" tvg-group="MUSICA",MTV sdmx
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2092581
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mtv_m.png" tvg-group="MUSICA",MTV 190
 http://190.123.90.146:8000/play/a02q/index.m3u8
@@ -2582,7 +2627,7 @@ http://bantel-cdn1.iptvperu.tv:1935/xmp_trans/a3series.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/a3s.png" tvg-group="ARGENTINA", A3 SERIES dsr
 https://dsr.ride.com.ar/tvmia/sn13/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/962/CH_LOGO/60/40/0/0/116715800761.png" tvg-group="ARGENTINA", Antena 3 Internacional 
+#EXTINF:-1 tvg-logo="https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/638e583af9c7b007a6cc2a21_a3int.png" tvg-group="ARGENTINA", Antena 3 Internacional 
 https://dsr.ride.com.ar/tvmia/sn33/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://miguia.tv/channels/big_99.png" tvg-group="ARGENTINA", LA2
