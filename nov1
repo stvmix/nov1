@@ -1325,14 +1325,11 @@ https://telecine-pelimex-1-mx.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/ESBC1700004PX_20221214T044904.png" tvg-group="PREMIUM", Traileres E
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovemagazinees-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN %7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/hPwFk9PkcTs/maxresdefault.jpg" tvg-group="ARGENTINA", Garabito Tv
+https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/chunklist_w878297441.m3u8
+
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.1316118004_UniversalPremiere-Claro.png.dd093e77a73e1cc71ccb2e3b7983d187.png" tvg-group="ARGENTINA",Universal Premier Oeste
 http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2081450
-
-#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.1316118004_UniversalPremiere-Claro.png.dd093e77a73e1cc71ccb2e3b7983d187.png" tvg-group="ARGENTINA",Universal Premier Este
-http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2081446
-
-#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/small.701883225_UniversalCrime-Claro.png.efbf81f9308ad0902624e172dc455503.png" tvg-group="ARGENTINA",Universal Crime Oeste
-http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2081449
 
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/small.701883225_UniversalCrime-Claro.png.efbf81f9308ad0902624e172dc455503.png" tvg-group="ARGENTINA",Universal Crime Este
 http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2081445
@@ -1513,7 +1510,7 @@ http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10969
 http://190.123.90.146:8000/play/a02x/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_11/large.1245621174_Cartoonito_logo_2021_28alternate29.png.814c680677ee3f8d5f312a7656a88c97.png" tvg-group="INFANTILES", CARTOONITO sdmx
-http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10981
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10970
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/ecbb842d-3b93-4c7b-90fd-9a188d7b4f20" tvg-group="INFANTILES",DISCOVERY KIDS sdmx
 http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2092569
@@ -1763,7 +1760,6 @@ https://fl1001.bozztv.com/ssh101/monitvhd/playlist.m3u8
 https://stream.wifiexpert.cl/kanade/kanadetv/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGnaUX6Ar_0WColseJ1dF080f-k3WfhnR5_0taz9y7aVmEzOJh-_1QGXbYfmj96Ly2JqKViMpBAzCVO-6HSTONxr_Mv3oF4fig3VrmCpf7XtS92KoKH4PaYYCzQI_RfRMmNsxJtH-GYL_Qj5YGJl3WdvPNy6ol8MV49nxDFFSI3zIzQci-vD3c5W7Yhsnr/s800/max-anime.jpg" tvg-group="INFANTILES", Max Anime | HD | Venezuela
-https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/q2Fd958.png" tvg-group="INFANTILES", Gran Canal | SD | Argentina
 https://ssh101.bozztv.com/ssh101/bigchannel/chunks.m3u8
@@ -1863,9 +1859,6 @@ https://panel.tvstream.cl:1936/8034/8034/.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Canal1logo.png/revision/latest?cb=20240828025119&path-prefix=es" tvg-group="MUSICA",1 (Costa Rica) (🇨🇷)
 https://video20.klm99.com:3993/live/canal1crlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://wikiwandv2-19431.kxcdn.com/_next/image?url=https://upload.wikimedia.org/wikipedia/commons/d/d0/Logocmtvargentina.png&w=640&q=50" tvg-group="MUSICA", CM dsr
-https://dsr.ride.com.ar/tvmia/an41/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://wikiwandv2-19431.kxcdn.com/_next/image?url=https://upload.wikimedia.org/wikipedia/commons/d/d0/Logocmtvargentina.png&w=640&q=50" tvg-group="MUSICA", CM ARG
 https://g5.proy-hor.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_720p.m3u8
 
@@ -1946,9 +1939,6 @@ https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/27B297E5-83A0-457F-B9EC-33C5A020F040/3-1x1.png/900" tvg-group="INFANTILES", Failarmy (España) (🇪🇸)
 https://460689fd4b6d4c80a0c539b27dc7cea8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_FailArmy/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2018_10/1679567950_DistritoComedia-.png.51fc33f3d4f8dff729c018643cfb86bb.png" tvg-group="INFANTILES", DISTRITO HD 140
-https://nxt.plus:8443/jesus01/jesus01/59612
 
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2018_10/1679567950_DistritoComedia-.png.51fc33f3d4f8dff729c018643cfb86bb.png" tvg-group="INFANTILES",E | Distrito Comedia HD
 http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10555
@@ -2215,6 +2205,9 @@ https://venevision.akamaized.net/hls/live/2098814/VENEVISION/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fubo.tv/station_logos/unimas2021_m.png?ch=width&auto=format%2Ccompress&w=0.4&h=0.4", Unimas USA
 https://nxt.plus:8443/jesus01/jesus01/24524
+
+#EXTINF:-1 tvg-logo="https://images.fubo.tv/station_logos/unimas2021_m.png?ch=width&auto=format%2Ccompress&w=0.4&h=0.4", Unimas sdmx
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/213854
 
 #EXTINF:-1 tvg-logo="https://img.nbc.com/files/images/2019/4/25/Universo-logos-templateUniverso-Logo-White-450x228.png", UNIVERSO eeuu
 
@@ -2856,23 +2849,23 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/mascineclasico/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/cnfMxIP.png" tvg-group="ARGENTINA", Telecanal | FHD | Santa Cruz
 https://eu1.servers10.com:8081/8194/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/1200px-Se%C3%B1al_Colombia_logo.svg.png" tvg-group="ARGENTINA", SEÑAL COLOMBIA 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tcnx3uk.png" tvg-group="ARGENTINA", SEÑAL COLOMBIA 
 https://dsr.ride.com.ar/tvmia/bn01/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/LOGO-TELEPACIFICO.png" tvg-group="ARGENTINA", TELEPACIFICO 
+#EXTINF:-1 tvg-logo="https://colombia.mom-gmr.org/uploads/tx_lfrogmom/media/517-941_import.png" tvg-group="ARGENTINA", TELEPACIFICO 
 https://dsr.ride.com.ar/tvmia/bn07/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/CanalRCN2023.png" tvg-group="ARGENTINA", RCN 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/LETRASRCNTV.svg/1200px-LETRASRCNTV.svg.png" tvg-group="ARGENTINA", RCN 
 https://dsr.ride.com.ar/tvmia/an64/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_01/large.ELUNOCOMOTU-color1080px.png.cff4440ed3aec91e868f353bc36ed07d.png" tvg-group="ARGENTINA", CANAL 1 
-https://dsr.ride.com.ar/tvmia/bn14/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/63eac538dadeef5f007670dd/4c58bdda-a973-42f6-b4bc-57ee659d783e/CityTV+White.png" tvg-group="ARGENTINA", CITY TV 
+https://dsr.ride.com.ar/tvmia/bn11/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Canal1Colombia2024.svg/1200px-Canal1Colombia2024.svg.png" tvg-group="ARGENTINA",1 uno (Colombia) (🇨🇴)
 http://tvmate.icu:8080/nCqH8t/631017/78698?extension=m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Citytv_logo.svg" tvg-group="ARGENTINA", CITY TV 
-https://dsr.ride.com.ar/tvmia/bn11/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/vvY5UiPjVDIpFagws4-QGmq6yhRERaU2TuBBRK-maJAgts5NnOKjHDd_zVZtVsMY6Q=w600-h300-pc0xffffff-pd" tvg-group="ARGENTINA", CANAL 1 
+https://dsr.ride.com.ar/tvmia/bn14/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171403.jpg?w=1119&h=1019" tvg-group="ARGENTINA", ATV PLUS
 https://live-evg25.tv360.bitel.com.pe/bitel/atvmas/playlist.m3u8
@@ -3657,9 +3650,6 @@ https://multicanal.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.radioextremacr.com/img/logo.png" tvg-group="ARGENTINA",Extrema TV | Costa Rica
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HAJxHcV.png" tvg-group="ARGENTINA", Garabito Tv
-https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/chunklist_w878297441.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fubo.tv/station_logos/NatGeoMundo_m.png" tvg-group="ARGENTINA", Nat Geo Mundo HD
 http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2218849
