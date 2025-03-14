@@ -1119,12 +1119,6 @@ https://nxt.plus:8443/jesus01/jesus01/244287
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/DSportsM%C3%A1s.png/revision/latest?cb=20221114124037" tvg-group="Deportes",DSPORTS + weib-tv
 http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/592039.ts
  
-#EXTINF:-1 tvg-logo="" tvg-group="Deportes", Directv Sports
-http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2123473
-
-#EXTINF:-1 tvg-logo="" tvg-group="Deportes", Directv Sports 2
-http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2123474
-
 #EXTINF:-1 tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/ESPN-Deportes-White.png.webp" tvg-group="Deportes",Espn Deportes weib-tv
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/6NVcwKapZwlpMVKIJ36WyhQui7E19f8PYG7yJ4uaPAyn2vGEhHPRinLIL3K3DscA4VQh=w240-h480-rw" tvg-group="Deportes", CALIENTE TV (EVENTOS) 
@@ -1302,7 +1296,6 @@ http://190.123.90.146:8000/play/a016/index.m3u8
 http://190.123.90.146:8000/play/a019/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://canaldhe.com/wp-content/uploads/2019/09/logo-7-11.png" tvg-group="PREMIUM", Canal DHE
-https://g2qd3e2ay7an-hls-live.5centscdn.com/channel11/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://tv.watchhallmarktv.com/tvelogo.png" tvg-group="PREMIUM",Hallmark en español
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6532e7b290a74c00084a3bb6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291885-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=abaa1d27-e975-4a86-be91-f282e0832a1c
@@ -1324,6 +1317,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovemagazinees
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/hPwFk9PkcTs/maxresdefault.jpg" tvg-group="ARGENTINA", Garabito Tv
 https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/chunklist_w878297441.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1q0R6R9.png" tvg-group="ARGENTINA", Señal Peru TV
+https://livestream.perucast.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.1316118004_UniversalPremiere-Claro.png.dd093e77a73e1cc71ccb2e3b7983d187.png" tvg-group="ARGENTINA",Universal Premier Oeste
 http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2081450
@@ -1480,10 +1476,6 @@ https://vid2.ecuamedia.net/educatv/live/chunklist_w401884011.m3u8
 https://dsr.ride.com.ar/tvmia/an03/playlist.m3u8
 
 #EXTINF:0  tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2488-800x450-FFFFFF.jpg" tvg-group="INFANTILES",Chinola (Rep. Dominicana) (🇩🇴)
-https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/Tooncast.svg/revision/latest/scale-to-width-down/340?cb=20200107001607&path-prefix=es" tvg-group="INFANTILES",Tooncast HQ
-http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/154094
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/Tooncast.svg/revision/latest/scale-to-width-down/340?cb=20200107001607&path-prefix=es" tvg-group="INFANTILES",Tooncast LQ
 http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2095395
@@ -1720,6 +1712,9 @@ https://rtvelivestream-clnx.rtve.es/rtvesec/int/clan_int_main.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png" tvg-group="INFANTILES", Clan Latinoamerica HD (geobloqueo)
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_dvr_1080.m3u8
 
+#EXTINF:-1 tvg-logo="https://dititvok.weebly.com/uploads/1/4/6/7/146735941/editor/logo-png-con-sombra.png?1713294223" tvg-group="INFANTILES", Diti TV
+https://fl1001.bozztv.com/ssh101/dititv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rvRB0hb.png" tvg-group="INFANTILES", Boing | HD | España
 https://dsr.ride.com.ar/tvmia/sn26/playlist.m3u8
 
@@ -1776,7 +1771,7 @@ https://cloud5.streaminglivehd.com:3874/hybrid/play.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/hc1Lvl7.png" tvg-group="INFANTILES", Retro Mágico | HD | Argentina
 https://ssh101.bozztv.com/ssh101/retromagicochnl/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qFndbzN.png" tvg-group="INFANTILES",Retro Mágico | Argentina
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/CzquR2TXgIpZ32C7Nm8_Jfa4bONgKxVoEXZpOZ2T9E6O2AB6dVty-6ZTB5vDTv46Tx7tnGBpWA=s900-c-k-c0x00ffffff-no-rj" tvg-group="INFANTILES",Retro Mágico | Argentina
 https://fl1001.bozztv.com/ssh101/retromagicochnl/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/m13TjiR.png" tvg-group="INFANTILES", Magic Kids | SD | Argentina
@@ -2164,6 +2159,9 @@ https://newidco-rakutenviki-3-mx.lg.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/60eab046-387c-433c-8034-1f7216758198/NOVELISIMA_HorzHero_-_Ali_Clausen.jpg" tvg-group="ARGENTINA", Novelisima
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
+
+#EXTINF:-1 tvg-logo="http://core1.hdlatam.tv/media/images/channel/logo-tequierotv.png" tvg-group="ARGENTINA", Te quiero TV | Cajamarca
+https://ott1.hdlatam.tv/live/tequierotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://kanalddrama.com/assets/img/logotop2.png" tvg-group="ARGENTINA", Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8
@@ -2696,9 +2694,6 @@ https://videohd.live:19360/8094/8094.m3u8
 #EXTINF:-1 tvg-logo="https://dtvkit.org/wp-content/uploads/2018/11/HbbTV-Icon.png" tvg-group="ARGENTINA", HYBRID
 https://tuvideoonline.com.ar:3703/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://dititvok.weebly.com/uploads/1/4/6/7/146735941/editor/logo-png-con-sombra.png?1713294223" tvg-group="ARGENTINA", Diti TV
-https://fl1001.bozztv.com/ssh101/dititv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/9/9a/Unife_2023_logo.png/revision/latest/scale-to-width-down/230?cb=20230201072513&path-prefix=es" tvg-group="ARGENTINA",UNIFE TV
 https://cdn.mycloudstream.io/hls/live/broadcast/xundwjvp/index.m3u8
 
@@ -2750,9 +2745,6 @@ https://live.obslivestream.com/viaaltomayomux/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Autenticatelevision/picture?width=320&height=320" tvg-group="CINE Y SERIES", Autenticatvmux
 https://live.obslivestream.com/autenticatvmux/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzRE4Cbpp1q0OkItHwRQmwmyh8fy3HbZewq0J8K0J3Btn6413YoYffBd4etXrfnD2ikAs&usqp=CAU" tvg-group="CINE Y SERIES", Te quiero TV | Cajamarca
-https://ott1.hdlatam.tv/live/tequierotv/playlist.m3u8
-
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/VjbpIy_N87c/sddefault.jpg?v=63322958" tvg-group="INFANTILES",Cajamarca HD (Peru) (🇵🇪)
 https://ott1.hdlatam.tv/miFibra/Rt89jgK7JwGE-MuxRated/playlist.m3u8
 
@@ -2797,9 +2789,6 @@ https://vivo.solumedia.com:19360/otrasvoces/otrasvoces.m3u8
 
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1747678379329847296/Zh7ODmF-_400x400.jpg" tvg-group="INFANTILES",Lenca (Honduras) (🇭🇳)
 https://www.lencatelevision.com/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1q0R6R9.png" tvg-group="ARGENTINA",Senal Peru TV
-https://livestream.perucast.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3nSoRlU721Teo5FOj8asLFdsX4jgRAQtHXwomIW71ocxWR713HCQSPBzqBMBoXe76Mzg&usqp=CAU" tvg-group="INFANTILES",TVReus
 https://eu1.servers10.com:8081/8166/index.m3u8
@@ -2879,7 +2868,7 @@ http://tvmate.icu:8080/nCqH8t/631017/78698?extension=m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/vvY5UiPjVDIpFagws4-QGmq6yhRERaU2TuBBRK-maJAgts5NnOKjHDd_zVZtVsMY6Q=w600-h300-pc0xffffff-pd" tvg-group="ARGENTINA", CANAL 1 
 https://dsr.ride.com.ar/tvmia/bn14/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171403.jpg?w=1119&h=1019" tvg-group="ARGENTINA", ATV PLUS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ATV%2B_%28Peru%29_-_2018_logo.png/1200px-ATV%2B_%28Peru%29_-_2018_logo.png" tvg-group="ARGENTINA", ATV PLUS
 https://live-evg25.tv360.bitel.com.pe/bitel/atvmas/playlist.m3u8
 
 #EXTINF:0  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/ATV_Sur_2018_2.svg/revision/latest/scale-to-width-down/300?cb=20210522015013&path-prefix=es" tvg-group="ARGENTINA", ATV Sur (Peru) (🇵🇪) al
@@ -2888,7 +2877,7 @@ https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
 #EXTINF:0  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/ATV_Sur_2018_2.svg/revision/latest/scale-to-width-down/300?cb=20210522015013&path-prefix=es" tvg-group="ARGENTINA",ATV Sur (Peru) d3
 https://d3r5ioyjqcy69v.cloudfront.net/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/08/13/04/1723497771524/6ddb4622ebc8_640_360.png" tvg-group="ARGENTINA", ATV HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/ATV_%28Per%C3%BA%29_logo_blanco_3D_2018.svg/revision/latest/scale-to-width-down/250?cb=20220127235956&path-prefix=es" tvg-group="ARGENTINA", ATV HD
 https://live-evg25.tv360.bitel.com.pe/bitel/atv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BmTrRtV.png" tvg-group="ARGENTINA", ATV | HD | Lima  
