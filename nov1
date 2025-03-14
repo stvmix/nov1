@@ -2606,6 +2606,48 @@ https://unlimited1-us.dps.live/carastv/carastv.smil/carastv/livestream0/chunks.m
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_03/large.CarasTV(2024-).png.5c862ba2ecaa9a1b63a333cc526de8af.png" tvg-group="INFANTILES", Caras Tv op2 | DAKOTA DEL NORTE
 https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8
 
+#EXTINF: -1 tvg-logo="https://www.connecttv.se/app/uploads/2020/06/channel_logo_tve_internacional.png" tvg-group="ARGENTINA", TVE Internacional | HD | España ok
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.connecttv.se/app/uploads/2020/06/channel_logo_tve_internacional.png" tvg-group="ARGENTINA",Tve Internacional America HD (geobloqueo)
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Radio_Televisi%C3%B3n_Ceuta.svg/640px-Radio_Televisi%C3%B3n_Ceuta.svg.png" tvg-group="ARGENTINA",Rtvce HD
+https://cdnlive.codev8.net/rtvcelive/channel1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Star-TVE-logo-300x169.png/revision/latest/scale-to-width-down/300?cb=20200124195857&path-prefix=es" tvg-group="ARGENTINA",Star Tve HD
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/a3s.png" tvg-group="ARGENTINA", A3 SERIES dsr
+https://dsr.ride.com.ar/tvmia/sn13/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/638e583af9c7b007a6cc2a21_a3int.png" tvg-group="ARGENTINA", Antena 3 Internacional 
+https://dsr.ride.com.ar/tvmia/sn33/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://miguia.tv/channels/big_99.png" tvg-group="ARGENTINA", LA2
+https://dsr.ride.com.ar/tvmia/sn02/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://miguia.tv/channels/big_99.png" tvg-group="ARGENTINA", LA2 W
+https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/613_La_1.png" tvg-group="ARGENTINA", LA1 dh
+https://dh6vo1bovy43s.cloudfront.net/La_1_ES.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Dmax.png" tvg-group="ARGENTINA", D MAX 
+https://dsr.ride.com.ar/tvmia/sn16/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Pluto-TV-Animales-en-directo-Online.png?fit=1920%2C1080&ssl=1" tvg-group="ARGENTINA", Pluto TV Animales
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScdwlE8Yns5-LAlZHojszlGCumQimd-DCiGoB5a59CNonfi20yWtEtNdxZoyaeALq4iJI&usqp=CAU" tvg-group="ARGENTINA", Ama la Naturaleza
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01576-blueskyeenterta-naturetimeemea-lges/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ghKDRik.png" tvg-group=" tvg-group="ARGENTINA", Naturaleza| alta definición
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture= &buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366- 4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=97de34fa-f695-1 1ea-abc9-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nomlIR3.png" tvg-group="ARGENTINA", Animales| alta definición
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture= &buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366- 4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=29513be5-f696- 11ea-bfbf-0242ac110002&userId=&serverSideAds=true
+
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/8c3237ce-0a3c-47f0-be0c-c4916e291807-profile_image-300x300.png" tvg-group="PREMIUM", Peliculas Mania
 https://stream-cdn-iad.vaughnsoft.net/play/live_peliculas_mania.flv?android_vs.ts.m3u8
 
@@ -2671,61 +2713,6 @@ https://60417ddeaf0d9.streamlock.net:443/montemorelos/videomontemorelos/playlist
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/4f091f5c6fccbcd410cdc98e452bcb3b.png" tvg-group="CIENCIA Y CULTURA", Universidad Autonoma TV | CL
 https://unlimited1-cl-isp.dps.live/uatv/uatv.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF: -1 tvg-logo="https://www.connecttv.se/app/uploads/2020/06/channel_logo_tve_internacional.png" tvg-group="ARGENTINA", TVE Internacional | HD | España ok
-https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_720.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.connecttv.se/app/uploads/2020/06/channel_logo_tve_internacional.png" tvg-group="ARGENTINA",Tve Internacional America HD (geobloqueo)
-https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Radio_Televisi%C3%B3n_Ceuta.svg/640px-Radio_Televisi%C3%B3n_Ceuta.svg.png" tvg-group="ARGENTINA",Rtvce HD
-https://cdnlive.codev8.net/rtvcelive/channel1.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Star-TVE-logo-300x169.png/revision/latest/scale-to-width-down/300?cb=20200124195857&path-prefix=es" tvg-group="ARGENTINA",Star Tve HD
-https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/a3s.png" tvg-group="ARGENTINA", A3 SERIES dsr
-https://dsr.ride.com.ar/tvmia/sn13/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/638e583af9c7b007a6cc2a21_a3int.png" tvg-group="ARGENTINA", Antena 3 Internacional 
-https://dsr.ride.com.ar/tvmia/sn33/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://miguia.tv/channels/big_99.png" tvg-group="ARGENTINA", LA2
-https://dsr.ride.com.ar/tvmia/sn02/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://miguia.tv/channels/big_99.png" tvg-group="ARGENTINA", LA2 W
-https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/613_La_1.png" tvg-group="ARGENTINA", LA1 dh
-https://dh6vo1bovy43s.cloudfront.net/La_1_ES.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Dmax.png" tvg-group="ARGENTINA", D MAX 
-https://dsr.ride.com.ar/tvmia/sn16/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Pluto-TV-Animales-en-directo-Online.png?fit=1920%2C1080&ssl=1" tvg-group="ARGENTINA", Pluto TV Animales
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScdwlE8Yns5-LAlZHojszlGCumQimd-DCiGoB5a59CNonfi20yWtEtNdxZoyaeALq4iJI&usqp=CAU" tvg-group="ARGENTINA", Ama la Naturaleza
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01576-blueskyeenterta-naturetimeemea-lges/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ghKDRik.png" tvg-group=" tvg-group="ARGENTINA", Naturaleza| alta definición
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture= &buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366- 4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=97de34fa-f695-1 1ea-abc9-0242ac110002&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nomlIR3.png" tvg-group="ARGENTINA", Animales| alta definición
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture= &buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366- 4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=29513be5-f696- 11ea-bfbf-0242ac110002&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBQYAcg5B2Bb7_Cs4nXz7kseUTnLWagQZP36mYMDpSGpsr9Ic96-sw70dG5h1Vyb-O7E0_F7fECQRDYaCdkpfHW3LtessqGEnfcYSmsufnVIGgwvMtPapn2IELO_B1pO7Vmywxn9fPran3ykMzHbVWrizGBDMOYUd3e7h_XQKAQteXFAfW8N624gneuZQ/w1200-h630-p-k-no-nu/USA_Network.png" tvg-group="PREMIUM",USA - Syfy
-
-#EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTg2X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1708457110730" tvg-group="PREMIUM", FX
-
-#EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/3200x2400/Y2gwMTAwMDAwMDAwMDQ0X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_3200x2400.png?timestamp=1708456823258" tvg-group="PREMIUM", Serie TNT
-
-#EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/3200x2400/Y2gwMTAwMDAwMDAwMDMxX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_3200x2400.png?timestamp=1708456808952" tvg-group="PREMIUM", UNIVERSAL
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/amc_m.png" tvg-group="PREMIUM",AMC
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGkbzsP8X-SKvBh-CdOuSrDzI1yI7oxUzYZA&s",CINEMAX
-
-#EXTINF:-1 tvg-logo="https://www.movistar.com.ar/documents/10180/92712757/warnertv.png",Warner mnp
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Q0bzUYULfVE/hqdefault.jpg",Cinema
 https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/tracks-v1a1/mono.m3u8
