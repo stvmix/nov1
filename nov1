@@ -856,11 +856,6 @@ https://cdn.sensa.com.ar/live/eds/TVE/live_dash_cld/TVE.mpd?|referer=https://pla
 https://cdn.sensa.com.ar/bpk-tv/VePlus/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 
-eventos disney plus
-#EXTINF:-1 ch-number="141" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="Deportes" content-type="playlist", Eventos Disney
-http://francope.elementfx.com/disney/
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" tvg-group="ARGENTINA", 01 AMÉRICA en línea
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
@@ -3547,7 +3542,7 @@ http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2145521
 http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/158478
 
 
-#EXTINF:-1 tvg-logo="https://mbanetworks.tv/wp-content/uploads/2022/08/mc-hd.png" tvg-group="ARGENTINA",MC mx
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/e/ef/Multicinema_MC_Logo_2022.png/revision/latest/scale-to-width-down/397?cb=20240614230549" tvg-group="ARGENTINA",MC mx
 http://160.20.165.246:8000/play/a00a/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logofan/images/8/84/Multipremier_HD_%282016-2021%29.svg/revision/latest/scale-to-width-down/250?cb=20240223163524&path-prefix=es" tvg-group="ARGENTINA",MP MULTIPREMIER
@@ -3568,5 +3563,5 @@ http://160.20.165.246:8000/play/a00f/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/CaracolInternacional2019.png/revision/latest?cb=20190829020554" tvg-group="ARGENTINA",caracol int
 http://160.20.165.246:8000/play/a00h/index.m3u8 
 
-#EXTINF:-1 tvg-logo="https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/6065f6f66a70f26d6ae6626d_a3series.png" tvg-group="ARGENTINA",TA TeleAntillas
+#EXTINF:-1 tvg-logo="https://teleantillas.com.do/wp-content/uploads/2025/03/LOGO-TELEANTILLAS-2-1.png" tvg-group="ARGENTINA",TA TeleAntillas
 http://160.20.165.246:8000/play/a00p/index.m3u8 
