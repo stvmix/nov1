@@ -3563,5 +3563,5 @@ http://160.20.165.246:8000/play/a00f/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/CaracolInternacional2019.png/revision/latest?cb=20190829020554" tvg-group="ARGENTINA",caracol int
 http://160.20.165.246:8000/play/a00h/index.m3u8 
 
-#EXTINF:-1 tvg-logo="https://teleantillas.com.do/wp-content/uploads/2025/03/LOGO-TELEANTILLAS-2-1.png" tvg-group="ARGENTINA",TA TeleAntillas
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f7/Teleantillas_2012.png/revision/latest?cb=20230603165233&path-prefix=es" tvg-group="ARGENTINA",TA TeleAntillas
 http://160.20.165.246:8000/play/a00p/index.m3u8 
