@@ -3545,3 +3545,28 @@ http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2145521
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Caza-y-Pesca-Logotipo-2016.png/revision/latest?cb=20201031035450&path-prefix=es" tvg-group="ARGENTINA",Caza y pesca
 http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/158478
+
+
+#EXTINF:-1 tvg-logo="https://mbanetworks.tv/wp-content/uploads/2022/08/mc-hd.png" tvg-group="ARGENTINA",MC mx
+http://160.20.165.246:8000/play/a00a/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logofan/images/8/84/Multipremier_HD_%282016-2021%29.svg/revision/latest/scale-to-width-down/250?cb=20240223163524&path-prefix=es" tvg-group="ARGENTINA",MP MULTIPREMIER
+http://160.20.165.246:8000/play/a00b/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" tvg-group="ARGENTINA",Love Nature
+http://160.20.165.246:8000/play/a00d
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/ceiba.org.mx/wp-content/uploads/2016/11/logo-NatGeo.png?ssl=1" tvg-group="ARGENTINA",NATGEO
+http://160.20.165.246:8000/play/a00z/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Antena_3_2017.svg/revision/latest/scale-to-width-down/200?cb=20200307025520&path-prefix=es" tvg-group="ARGENTINA",ANTENA 3
+http://160.20.165.246:8000/play/a00e/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://visiondigitalsite.wordpress.com/wp-content/uploads/2016/04/atreseries-3.png?w=403&h=292" tvg-group="ARGENTINA",A3SERIES
+http://160.20.165.246:8000/play/a00f/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/CaracolInternacional2019.png/revision/latest?cb=20190829020554" tvg-group="ARGENTINA",caracol int
+http://160.20.165.246:8000/play/a00h/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/6065f6f66a70f26d6ae6626d_a3series.png" tvg-group="ARGENTINA",TA TeleAntillas
+http://160.20.165.246:8000/play/a00p/index.m3u8 
