@@ -1683,11 +1683,11 @@ https://rtvelivestream-clnx.rtve.es/rtvesec/int/clan_int_main.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png" tvg-group="INFANTILES", Clan Latinoamerica HD (geobloqueo)
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_dvr_1080.m3u8
 
-#EXTINF:-1 tvg-logo="https://dititvok.weebly.com/uploads/1/4/6/7/146735941/editor/logo-png-con-sombra.png?1713294223" tvg-group="INFANTILES", Diti TV
-https://fl1001.bozztv.com/ssh101/dititv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rvRB0hb.png" tvg-group="INFANTILES", Boing | HD | España
 https://dsr.ride.com.ar/tvmia/sn26/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/5/5f/Canal_Infantil.png/revision/latest?cb=20230419185326&path-prefix=es" tvg-group="INFANTILES",canal infantil pe
+http://160.20.165.246:8000/play/a01y/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1604_ZTV_Anime.png" tvg-group="INFANTILES", ZTV Anime | HD | Chile
 https://mitv.zplay.cl/Ztv/tracks-v1a1/mono.m3u8
@@ -1721,6 +1721,9 @@ https://cloudvideo.servers10.com:8081/8096/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/BjOe1RF.jpg" tvg-group="INFANTILES", Moni TV | FHD | Chile
 https://fl1001.bozztv.com/ssh101/monitvhd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://dititvok.weebly.com/uploads/1/4/6/7/146735941/editor/logo-png-con-sombra.png?1713294223" tvg-group="INFANTILES", Diti TV
+https://fl1001.bozztv.com/ssh101/dititv/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/pqWmos0.png" tvg-group="INFANTILES", Kanade TV | FHD | Chile
 https://stream.wifiexpert.cl/kanade/kanadetv/playlist.m3u8
@@ -3565,3 +3568,17 @@ http://160.20.165.246:8000/play/a00h/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f7/Teleantillas_2012.png/revision/latest?cb=20230603165233&path-prefix=es" tvg-group="ARGENTINA",TA TeleAntillas
 http://160.20.165.246:8000/play/a00p/index.m3u8 
+
+#EXTINF:-1 tvg-logo="" tvg-group="ARGENTINA",usa
+http://160.20.165.246:8000/play/a01e/index.m3u8 
+
+#EXTINF:-1 tvg-logo="" tvg-group="ARGENTINA",cine mexicano
+http://160.20.165.246:8000/play/a01p/index.m3u8 
+
+#EXTINF:-1 tvg-logo="" tvg-group="ARGENTINA",ecuavisahd
+http://160.20.165.246:8000/play/a01r/index.m3u8 
+
+#EXTINF:-1 tvg-logo="" tvg-group="ARGENTINA",nc
+http://160.20.165.246:8000/play/a01t/index.m3u8 
+
+
