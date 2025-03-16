@@ -1089,24 +1089,18 @@ http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2233273
 https://nxt.plus:8443/jesus01/jesus01/13229
 
 #EXTINF:-1 tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/d/t/dtv_sports_blanco_1.png" tvg-group="Deportes",DSPORTS 1 ᴴᴰ
-https://nxt.plus:8443/jesus01/jesus01/160612
 
 #EXTINF:-1 tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/d/t/dtv_sports_blanco_1.png" tvg-group="Deportes",DSPORTS 1 nxt
-http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2123473
 
 #EXTINF:-1 tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/d/t/dtv_sports_blanco_1.png" tvg-group="Deportes",DSPORTS 1
-http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/202157
 
 #EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTI4X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1718310567007" tvg-group="Deportes",DSPORTS 2
-http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2123474
 
 #EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTI4X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1718310567007" tvg-group="Deportes",DSPORTS 2 (VIP)
-https://nxt.plus:8443/jesus01/jesus01/244287
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/DSportsM%C3%A1s.png/revision/latest?cb=20221114124037" tvg-group="Deportes",DSPORTS +
-http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/203186
 
-#EXTINF:-1 tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/ESPN-Deportes-White.png.webp" tvg-group="Deportes",Espn Deportes weib-tv
+#EXTINF:-1 tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/ESPN-Deportes-White.png.webp" tvg-group="Deportes",Espn Deportes
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/6NVcwKapZwlpMVKIJ36WyhQui7E19f8PYG7yJ4uaPAyn2vGEhHPRinLIL3K3DscA4VQh=w240-h480-rw" tvg-group="Deportes", CALIENTE TV (EVENTOS) 
 
@@ -3126,17 +3120,8 @@ https://stream-cdn-iad2.vaughnsoft.net/play/live_cienciaficcion01.flv
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/A5__ZONvvqSyYLe6glndyjnFt6ff5q1ImCO9RkPw9t1cZ4je4_pXPXn7o1sUH2-wbD4q=w600-h300-pc0xffffff-pd" tvg-group="ARGENTINA", papá americano
 https://stream-cdn-iad.vaughnsoft.net/play/live_shy_ch_anaeter.flv
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/A5__ZONvvqSyYLe6glndyjnFt6ff5q1ImCO9RkPw9t1cZ4je4_pXPXn7o1sUH2-wbD4q=w600-h300-pc0xffffff-pd" tvg-group="ARGENTINA",24/7 | BONANZA
-https://nxt.plus:8443/jesus01/jesus01/91928
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/A5__ZONvvqSyYLe6glndyjnFt6ff5q1ImCO9RkPw9t1cZ4je4_pXPXn7o1sUH2-wbD4q=w600-h300-pc0xffffff-pd" tvg-group="ARGENTINA",24/7 | LOS CABALLEROS DEL ZODIACO
-https://nxt.plus:8443/jesus01/jesus01/105979
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Logo-tv247.png/800px-Logo-tv247.png" tvg-group="ARGENTINA",24/7 Los Caballeros del Zodiaco
 http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2391352
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/A5__ZONvvqSyYLe6glndyjnFt6ff5q1ImCO9RkPw9t1cZ4je4_pXPXn7o1sUH2-wbD4q=w600-h300-pc0xffffff-pd" tvg-group="ARGENTINA",24/7 | ALF
-https://nxt.plus:8443/jesus01/jesus01/140882
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Logo-tv247.png/800px-Logo-tv247.png" tvg-group="ARGENTINA",24/7 | ALF sdmx
 http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2385281
