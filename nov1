@@ -3582,3 +3582,24 @@ http://160.20.165.246:8000/play/a01r/index.m3u8
 http://160.20.165.246:8000/play/a01t/index.m3u8 
 
 
+#EXTINF:-1  tvg-logo="https://cdn.m3u.cl/logo/614_La_2.png" tvg-group="ARGENTINA",La 2 | ES
+https://ztnr.rtve.es/ztnr/1688885.m3u8?PlaylistM3UCL
+
+#EXTINF:-1  tvg-logo="https://cdn.m3u.cl/logo/1265_Tvmaxcba.png" tvg-group="ARGENTINA",Tvmaxcba | AR
+https://stmvideo3.livecastv.com/tvmaxcba/tvmaxcba/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1  tvg-logo="https://cdn.m3u.cl/logo/135_Telepacifico.png" tvg-group="ARGENTINA",Telepacífico | CO
+https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1  tvg-logo="https://cdn.m3u.cl/logo/860_TV_Penol.png" tvg-group="ARGENTINA",TV Peñol | CO
+https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1  tvg-logo="https://cdn.m3u.cl/logo/148_Telearagua.png" tvg-group="ARGENTINA",Telearagua | VE
+http://45.173.198.59:8080/hls/nginx3.m3u8?PlaylistM3UCL
+
+#EXTINF:-1  tvg-logo="https://cdn.m3u.cl/logo/1400_Torococo_TV.png" tvg-group="ARGENTINA",Torococo TV | VE
+https://us.streaminghd.cl/torococotelevision/video.m3u8?PlaylistM3UCL
+
+#EXTINF:-1  tvg-logo="https://cdn.m3u.cl/logo/1606_Tempus_Stream.png" tvg-group="ARGENTINA",Tempus Stream | MX eventos
+https://video1.getstreamhosting.com:1936/8116/8116/playlist.m3u8?PlaylistM3UCL
+
