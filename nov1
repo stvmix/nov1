@@ -220,32 +220,6 @@ deportes
 
 
 
-#EXTINF:-1 ch-number="100"  ch-number="100" tvg-id="DeporTV.ar" tvg-logo="https://git.io/JOTOg" tvg-group="ARGENTINA", DeporTV
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1904c4d846a99e940903174bdbab74f0:08a4ca972cd037a1fe042515c310bfe1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/Deportv/live_dash_cld/Deportv.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3RlIkpq7EvAYJ_sLzH0w0Mfmsd64VmqNOeXN4CMAfyKMOhj3FyhhvmJG0wDX2_OSnstm2mPBRhhKVrB7l7bGqQ7wZuuv1gTTdOgvXpLiAEvK8mkr8_JaZYYPIKe_CBT8jNXTB2Zda20g/s404/deportv-2020.png" tvg-group="Deportes",DEPORTV 190
-http://190.123.90.146:8000/play/a00a/index.m3u8
-
-#EXTINF:-1 ch-number="110"  ch-number="110" tvg-id="ClaroSports.mx.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CLASP.png?raw=true" tvg-group="ARGENTINA", Claro Sports
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/ClaroSports/live_dash_cld/ClaroSports.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1 ch-number="108" ch-number="108" tvg-id="TyCSports.ar" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png" tvg-group="ARGENTINA", TyC Sports
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=53d0cf6c1d49c16f5180f86e1870b00f:7eb6743b5f44b52ba27c88229c8c7ae2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/TYCSports/live_dash_cld/TYCSports.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1 ch-number="109" ch-number="109" tvg-id="TyCSports2.ar" tvg-logo="https://i.ibb.co/ZJMgxxp/tyc-sports2.png" tvg-group="ARGENTINA", TYC SPORTS 2
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0ae7b0708be4edf3453c1ab9d6976974:8b31a9788f6dc12640ba69560fcb4b39
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/output/ARR3/sensaeventosD/output.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #EXTINF:-1 ch-number="124" ch-number="124" tvg-id="TNT SPORTS PREMIUM HD.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTSP.png?raw=true" tvg-group="ARGENTINA", TNT Sports Premium
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -253,11 +227,20 @@ https://cdn.sensa.com.ar/output/ARR3/sensaeventosD/output.mpd?|referer=https://p
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/TNTSports/live_dash_cld/TNTSports.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
+#EXTINF:-1 tvg-logo="https://davinci.zappingtv.com/gato/media/450/canales/white/tntsportshd.png" tvg-group="Deportes",TNT Sports
+http://190.123.90.146:8000/play/a00j/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTSP.png?raw=true" tvg-group="Deportes",TNT Sports dsr
+https://dsr.ride.com.ar/tvmia/an32/playlist.m3u8
+
 #EXTINF:-1 ch-number="123" tvg-id="ESPN PREMIUM HD.ar" tvg-logo="https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png" tvg-group="ARGENTINA", ESPN Premium
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f8943d114e25151c8ae4f612351d5a5f:7f34c9a70c836020cbc3273c427ff277
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/ESPNPremium/live_dash_cld/ESPNPremium.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/espnpremium.png" tvg-group="Deportes",ESPN Premium 190
+http://190.123.90.146:8000/play/a00f/index.m3u8
 
 #EXTINF:-1 ch-number="101" tvg-id="ESPN HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/800/542/0/0/25899985073189.png" tvg-group="ARGENTINA", ESPN
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -316,14 +299,6 @@ https://dsr.ride.com.ar/tvmia/an24/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/FoxSports3.png" tvg-group="Deportes", Fox Sports 3 190
 http://190.123.90.146:8000/play/a00i/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://davinci.zappingtv.com/gato/media/450/canales/white/tntsportshd.png" tvg-group="Deportes",TNT Sports
-http://190.123.90.146:8000/play/a00j/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTSP.png?raw=true" tvg-group="Deportes",TNT Sports dsr
-https://dsr.ride.com.ar/tvmia/an32/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/espnpremium.png" tvg-group="Deportes",ESPN Premium 190
-http://190.123.90.146:8000/play/a00f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://clarovideocdn6.clarovideo.net/CVPERU/PELICULAS/ESPNNEW/EXPORTACION_WEB/SS/ESPNNEW_t-290x163.png" tvg-group="Deportes",ESPN 190
 http://190.123.90.146:8000/play/a00b/index.m3u8
@@ -375,6 +350,18 @@ https://nxt.plus:8443/jesus01/jesus01/13229
 #EXTINF:-1 tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/ESPN-Deportes-White.png.webp" tvg-group="Deportes",Espn Deportes
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/6NVcwKapZwlpMVKIJ36WyhQui7E19f8PYG7yJ4uaPAyn2vGEhHPRinLIL3K3DscA4VQh=w240-h480-rw" tvg-group="Deportes", CALIENTE TV (EVENTOS) 
+
+#EXTINF:-1 ch-number="108" ch-number="108" tvg-id="TyCSports.ar" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png" tvg-group="ARGENTINA", TyC Sports
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=53d0cf6c1d49c16f5180f86e1870b00f:7eb6743b5f44b52ba27c88229c8c7ae2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/TYCSports/live_dash_cld/TYCSports.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#EXTINF:-1 ch-number="109" ch-number="109" tvg-id="TyCSports2.ar" tvg-logo="https://i.ibb.co/ZJMgxxp/tyc-sports2.png" tvg-group="ARGENTINA", TYC SPORTS 2
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ae7b0708be4edf3453c1ab9d6976974:8b31a9788f6dc12640ba69560fcb4b39
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/output/ARR3/sensaeventosD/output.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #EXTINF:-1  tvg-logo="https://tycsports.hiringroom.com/data/accounts/tycsports/microsite/cfb58ca8d62e9685391d991717b44fb6.png" tvg-group="Deportes", TyC 190
 http://190.123.90.146:8000/play/a00k/index.m3u8
@@ -458,6 +445,22 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRaQmT4aA6_583JXa_LrNbrSa3bd6Z3ydfHflERewVSLvqwwguHttbQzrRoPHc6l52eRU&usqp=CAU" tvg-group="Deportes",ITV Deportes
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=495e9b096e96cee4e541b0c2695a0fcb&app_bundle=com.canela.ott&app_store_url=https% 3A%2F%2Fwww.canela. tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&site_page=https%253A%25 2F%252Fwww.canela.tv%252F&gender=not_specified&yob=0&livestream = 1&custom_param_0=&custom_param_1=teléfono&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%20America×tamp=1656899342&id=34434&ip=45.188.78.93&override_expiration=150 0 &sign=TxhnXtTkkmuchk54BrTTN4p4AevpD8%2Bnm3lscX9lXPg%3D
+
+#EXTINF:-1 ch-number="100"  ch-number="100" tvg-id="DeporTV.ar" tvg-logo="https://git.io/JOTOg" tvg-group="ARGENTINA", DeporTV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1904c4d846a99e940903174bdbab74f0:08a4ca972cd037a1fe042515c310bfe1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/Deportv/live_dash_cld/Deportv.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3RlIkpq7EvAYJ_sLzH0w0Mfmsd64VmqNOeXN4CMAfyKMOhj3FyhhvmJG0wDX2_OSnstm2mPBRhhKVrB7l7bGqQ7wZuuv1gTTdOgvXpLiAEvK8mkr8_JaZYYPIKe_CBT8jNXTB2Zda20g/s404/deportv-2020.png" tvg-group="Deportes",DEPORTV 190
+http://190.123.90.146:8000/play/a00a/index.m3u8
+
+#EXTINF:-1 ch-number="110"  ch-number="110" tvg-id="ClaroSports.mx.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CLASP.png?raw=true" tvg-group="ARGENTINA", Claro Sports
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/ClaroSports/live_dash_cld/ClaroSports.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
 
 #EXTINF:-1  ch-number="116" tvg-id="AmericaSports.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/AMESP.png?raw=true" tvg-group="ARGENTINA", América Sports
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
