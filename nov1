@@ -1,7 +1,16 @@
 #EXTM3U list-name="TV" list-image="https://media.licdn.com/dms/image/C4E0BAQH6PD5jVhLPTQ/company-logo_200_200/0/1649938409650/mayo_chile_logo?e=2147483647&v=beta&t=uSzzNFEX8f67VufuP7Xlz1xr8LURKPc0kNhPfr023-Y"
 
-#EXTINF:-1 tvg-logo="https://tramaeducativa.ar/wp-content/uploads/2022/10/Gran_hermano_2022.jpg" tvg-group="ARGENTINA",GRAN HERMANO
 
+#EXTINF:-1 tvg-logo="https://tramaeducativa.ar/wp-content/uploads/2022/10/Gran_hermano_2022.jpg" tvg-group="ARGENTINA",GRAN HERMANO 1
+http://teerom.site:8080/live/Amparo2024/Amparo2024/789417.m3u
+#EXTINF:-1 tvg-logo="https://tramaeducativa.ar/wp-content/uploads/2022/10/Gran_hermano_2022.jpg" tvg-group="ARGENTINA",GRAN HERMANO 1 24/7
+http://teerom.site:8080/live/Amparo2024/Amparo2024/789416.m3u
+#EXTINF:-1 tvg-logo="https://tramaeducativa.ar/wp-content/uploads/2022/10/Gran_hermano_2022.jpg" tvg-group="ARGENTINA",GRAN HERMANO 2 24/7
+http://teerom.site:8080/live/Amparo2024/Amparo2024/789414.m3u
+#EXTINF:-1 tvg-logo="https://tramaeducativa.ar/wp-content/uploads/2022/10/Gran_hermano_2022.jpg" tvg-group="ARGENTINA",GRAN HERMANO 2
+http://teerom.site:8080/live/Amparo2024/Amparo2024/789415.m3u
+#EXTINF:-1 tvg-logo="https://tramaeducativa.ar/wp-content/uploads/2022/10/Gran_hermano_2022.jpg" tvg-group="ARGENTINA",GRAN HERMANO 3
+http://teerom.site:8080/live/Amparo2024/Amparo2024/789413.m3u
 
 #EXTM3U
 
@@ -160,6 +169,9 @@ http://190.123.90.146:8000/play/a00j/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTSP.png?raw=true" tvg-group="Deportes",TNT Sports dsr
 https://dsr.ride.com.ar/tvmia/an32/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://cdn.m3u.cl/logo/1606_Tempus_Stream.png" tvg-group="Deportes",Tempus Stream tnt sports ch | eventos
+https://video1.getstreamhosting.com:1936/8116/8116/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 ch-number="123" tvg-id="ESPN PREMIUM HD.ar" tvg-logo="https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png" tvg-group="ARGENTINA", ESPN Premium
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -3425,7 +3437,4 @@ http://45.173.198.59:8080/hls/nginx3.m3u8?PlaylistM3UCL
 
 #EXTINF:-1  tvg-logo="https://cdn.m3u.cl/logo/1400_Torococo_TV.png" tvg-group="ARGENTINA",Torococo TV | VE
 https://us.streaminghd.cl/torococotelevision/video.m3u8?PlaylistM3UCL
-
-#EXTINF:-1  tvg-logo="https://cdn.m3u.cl/logo/1606_Tempus_Stream.png" tvg-group="ARGENTINA",Tempus Stream | MX eventos
-https://video1.getstreamhosting.com:1936/8116/8116/playlist.m3u8?PlaylistM3UCL
 
