@@ -2,15 +2,7 @@
 
 
 #EXTINF:-1 tvg-logo="https://tramaeducativa.ar/wp-content/uploads/2022/10/Gran_hermano_2022.jpg" tvg-group="ARGENTINA",GRAN HERMANO 1
-http://teerom.site:8080/live/Amparo2024/Amparo2024/789417.m3u
-#EXTINF:-1 tvg-logo="https://tramaeducativa.ar/wp-content/uploads/2022/10/Gran_hermano_2022.jpg" tvg-group="ARGENTINA",GRAN HERMANO 1 24/7
-http://teerom.site:8080/live/Amparo2024/Amparo2024/789416.m3u
-#EXTINF:-1 tvg-logo="https://tramaeducativa.ar/wp-content/uploads/2022/10/Gran_hermano_2022.jpg" tvg-group="ARGENTINA",GRAN HERMANO 2 24/7
-http://teerom.site:8080/live/Amparo2024/Amparo2024/789414.m3u
-#EXTINF:-1 tvg-logo="https://tramaeducativa.ar/wp-content/uploads/2022/10/Gran_hermano_2022.jpg" tvg-group="ARGENTINA",GRAN HERMANO 2
-http://teerom.site:8080/live/Amparo2024/Amparo2024/789415.m3u
-#EXTINF:-1 tvg-logo="https://tramaeducativa.ar/wp-content/uploads/2022/10/Gran_hermano_2022.jpg" tvg-group="ARGENTINA",GRAN HERMANO 3
-http://teerom.site:8080/live/Amparo2024/Amparo2024/789413.m3u
+
 
 #EXTM3U
 
@@ -289,6 +281,12 @@ https://dsr.ride.com.ar/tvmia/an24/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/FoxSports3.png" tvg-group="Deportes", Fox Sports 3 190
 http://190.123.90.146:8000/play/a00i/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZOAzgOB.png" tvg-group="Deportes",CANAL AUTOMATICO📺 (1) EVENTOS ESPECIALES
+https://tvcanales.short.gy/automatico1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZOAzgOB.png" tvg-group="Deportes",CANAL AUTOMATICO📺 (2) EVENTOS ESPECIALES
+https://tvcanales.short.gy/automatico2.m3u8
 
 #EXTINF:-1 ch-number="108" ch-number="108" tvg-id="TyCSports.ar" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png" tvg-group="ARGENTINA", TyC Sports
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -3437,4 +3435,7 @@ http://45.173.198.59:8080/hls/nginx3.m3u8?PlaylistM3UCL
 
 #EXTINF:-1  tvg-logo="https://cdn.m3u.cl/logo/1400_Torococo_TV.png" tvg-group="ARGENTINA",Torococo TV | VE
 https://us.streaminghd.cl/torococotelevision/video.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-group="ARGENTINA",EL FOLKLORICO TV
+http://201.217.246.177:8000/play/a0aa/index.m3u8
 
