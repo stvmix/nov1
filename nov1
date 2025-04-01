@@ -1009,23 +1009,21 @@ https://cdn.sensa.com.ar/live/eds/TVE/live_dash_cld/TVE.mpd?|referer=https://pla
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/bpk-tv/VePlus/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:0 tvg-logo="" tvg-group="ARGENTINA",LA VOZ TUCUMAN
-https://lavozdetucuman.com/envivo.m3u8
 
-#EXTINF:0 tvg-logo="http://www.radiosargentina.com.ar/png/VILRK363.png" tvg-group="ARGENTINA",Mi 92.7 FM Tucuman
+#EXTINF:0 tvg-logo="https://images.radiovolna.net/_files/images/stations/429096/3786f1c0d94c0be355641c068d1da8f0.png" tvg-group="ARGENTINA",Mi 92.7 FM Tucuman
 https://videostream.shockmedia.com.ar:19360/rttvoficial/rttvoficial.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX-9uHCpo3v2pHzHEdGUTs5cFC9ySZanOMKu1RDuR20Qi88m90FvT5yW2TaofDthDNWWM&usqp=CAU", METRO TV TUC
-https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
+#EXTINF:0 tvg-logo="https://ntvcanal7.ddns.net/Norte%20TV%20%E2%80%93%20Canal%207%20%E2%80%93%20Tucum%C3%A1n_files/cropped-logo-canal7.png" tvg-group="ARGENTINA", 7 NORTE TV tuc
+https://ntvcanal7.ddns.net:81/dash/stream.mpd
+
+#EXTINF:0 tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFwcC50dWN1bWFudHZkaWdpdGFsX2ljb25fMTYxMjM1NTQ0N18wMTk/icon.png?w=280&fakeurl=1" tvg-group="ARGENTINA",LA VOZ TUCUMAN
+https://lavozdetucuman.com/envivo.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FDDBNt6WYAArZVM?format=jpg&name=4096x4096", METRO TV 12 TUC
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 
-#EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n9OhYzpvfe3TOqqksSWvjj5OnwlOpGK7NQShlZrDdVwS0=s900-c-k-c0x00ffffff-no-rj" tvg-group="ARGENTINA", PALOMAR TV
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1451307711472230404/2_kj_t1w_400x400.jpg" tvg-group="ARGENTINA", PALOMAR TV
 https://ssh101.bozztv.com/ssh101/tvhd211/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n0Ac5Y1AdeH_YiOcQVLPNTLwkZeltURKPlLSIl9VKlDQ=s900-c-k-c0x00ffffff-no-rj" tvg-group="ARGENTINA", 7 NORTE TV tuc
-https://ntvcanal7.ddns.net:81/dash/stream.mpd
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBPkoMgNeNKLxEvCJoh6Zlms2uYE05yG53weTL1Oivm_VRyDtNleO9gf1oKgY4cTHYpFA&usqp=CAU" tvg-group="ARGENTINA",EL OCHO TUCUMAN 🟡
 https://github.com/azgaresncf/strm2hls/raw/refs/heads/main/streams/elocho.m3u8
@@ -3542,4 +3540,3 @@ https://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://urbanaonline.com.ar/wp-content/uploads/2024/08/cropped-2024.png" tvg-group="ARGENTINA",SEÑAL URBANA
 https://video.fiberfly.com.ar/stream/hls1/110106.m3u8
-
