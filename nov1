@@ -4042,14 +4042,3 @@ http://201.217.246.177:8000/play/a02h/index.m3u8
 http://201.217.246.177:8000/play/a04h/index.m3u8
 #EXTINF:-1 group-title="CLARO TV",el trece
 http://201.217.246.177:8000/play/a06d/index.m3u8
-
-#EXTINF:-1 ch-number="8640" tvg-logo="https://i.ibb.co/B6ZHDXy/america-tucuman.png" tvg-group="ARGENTINA", AMÉRICA TUCUMÁN
-https://cdn.cvattv.com.ar/live/c7eds/America_Tucuman/SA_Live_dash_enc/America_Tucuman.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 ch-number="845" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Elocho_TV_nuevo_logo.png/456px-Elocho_TV_nuevo_logo.png" tvg-group="ARGENTINA", EL OCHO TV TUCUMÁN
-https://cdn.cvattv.com.ar/live/c7eds/Canal_8_Tucuman/SA_Live_dash_enc/Canal_8_Tucuman.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 ch-number="866" tvg-logo="https://i.ibb.co/vvknBFv/canal10-tucuman.png" tvg-group="ARGENTINA", CANAL 10 TUCUMÁN
-https://cdn.cvattv.com.ar/live/c7eds/Ch10_Tucuman/SA_Live_dash_enc/Ch10_Tucuman.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
-
-
