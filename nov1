@@ -1,9 +1,6 @@
 #EXTM3U list-name="TV" list-image="https://media.licdn.com/dms/image/C4E0BAQH6PD5jVhLPTQ/company-logo_200_200/0/1649938409650/mayo_chile_logo?e=2147483647&v=beta&t=uSzzNFEX8f67VufuP7Xlz1xr8LURKPc0kNhPfr023-Y"
 
 
-#EXTINF:-1 tvg-logo="https://tramaeducativa.ar/wp-content/uploads/2022/10/Gran_hermano_2022.jpg" tvg-group="ARGENTINA",GRAN HERMANO 1
-
-
 #EXTM3U
 
 nacionales, aire y noticias
@@ -3408,7 +3405,7 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Caza-y-Pesca-Logotipo-2016.png/revision/latest?cb=20201031035450&path-prefix=es" tvg-group="ARGENTINA",Caza y pesca
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/e/ef/Multicinema_MC_Logo_2022.png/revision/latest/scale-to-width-down/397?cb=20240614230549" tvg-group="ARGENTINA",MC mx
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/e/ef/Multicinema_MC_Logo_2022.png/revision/latest/scale-to-width-down/397?cb=20240614230549" tvg-group="ARGENTINA",MC mx 160.20.165
 http://160.20.165.246:8000/play/a00a/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logofan/images/8/84/Multipremier_HD_%282016-2021%29.svg/revision/latest/scale-to-width-down/250?cb=20240223163524&path-prefix=es" tvg-group="ARGENTINA",MP MULTIPREMIER
@@ -3432,136 +3429,14 @@ http://160.20.165.246:8000/play/a00f/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f7/Teleantillas_2012.png/revision/latest?cb=20230603165233&path-prefix=es" tvg-group="ARGENTINA",TA TeleAntillas
 
 
-#EXTINF:-1 tvg-logo="" tvg-group="ARGENTINA",usa
+#EXTINF:-1 tvg-logo="" tvg-group="ARGENTINA",usa 160.20.165
 http://160.20.165.246:8000/play/a01e/index.m3u8 
 
-#EXTINF:-1  tvg-logo="https://cdn.m3u.cl/logo/614_La_2.png" tvg-group="ARGENTINA",La 2 | ES
-https://ztnr.rtve.es/ztnr/1688885.m3u8?PlaylistM3UCL
 
-#EXTINF:-1  tvg-logo="https://cdn.m3u.cl/logo/1265_Tvmaxcba.png" tvg-group="ARGENTINA",Tvmaxcba | AR
-https://stmvideo3.livecastv.com/tvmaxcba/tvmaxcba/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1  tvg-logo="https://cdn.m3u.cl/logo/135_Telepacifico.png" tvg-group="ARGENTINA",Telepacífico | CO
-https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1  tvg-logo="https://cdn.m3u.cl/logo/860_TV_Penol.png" tvg-group="ARGENTINA",TV Peñol | CO
-https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1  tvg-logo="https://cdn.m3u.cl/logo/148_Telearagua.png" tvg-group="ARGENTINA",Telearagua | VE
-http://45.173.198.59:8080/hls/nginx3.m3u8?PlaylistM3UCL
-
-#EXTINF:-1  tvg-logo="https://cdn.m3u.cl/logo/1400_Torococo_TV.png" tvg-group="ARGENTINA",Torococo TV | VE
-https://us.streaminghd.cl/torococotelevision/video.m3u8?PlaylistM3UCL
-
-#EXTINF:0 tvg-logo="https://elfolklorico.com/wp-content/uploads/2024/11/WhatsApp-Image-2024-11-25-at-11.42.16.jpeg" tvg-group="ARGENTINA",EL FOLKLORICO TV 201.217.246
-http://201.217.246.177:8000/play/a0aa/index.m3u8
-
-#EXTINF:0 tvg-logo="https://solivetv.net/wp-content/uploads/2020/09/cropped-logo2.png" tvg-group="ARGENTINA", SOLIVE TV
-https://stmv6.voxtvhd.com.br/solivetv/solivetv/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2025/02/canal-36-300x169.jpg" tvg-group="ARGENTINA",CANAL 8 ROSARIO santa fe
-https://stmv4.voxtvhd.com.br/canal8ros/canal8ros/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/jCVug7Pxp9oy0YMgUK9k9kM91fVgawLNf7WrpCJmyJmMSfzb5eiKvl3WPSXKskGqpuLCK9FuC3k=s160-c-k-c0x00ffffff-no-rj" tvg-group="ARGENTINA",CANAL 14 ELORTONDO
-https://stmv2.voxtvhd.com.br/canal14tv2/canal14tv2/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://ivisiontv.ar/images/sitio/logo.png" tvg-group="ARGENTINA",IVISION TV
-https://6098feb5d2881.streamlock.net/live/canallocal.stream/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/856175574116683777/HnWIt3t9_400x400.jpg" tvg-group="ARGENTINA", MILENIUM TV SALTA
-https://mileniumtv.onstreaming.live/live/7Gec1TzNpAZOdVo8XdOLEEKyPuJ2/index.m3u8
-
-#EXTINF:0 tvg-logo="https://static.wixstatic.com/media/b7b640_979e29e625374f56818318d29761e139~mv2.png/v1/fill/w_106,h_99,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo%20stv%202022%20png%20mosca.png" tvg-group="ARGENTINA",SPACIO TV METAN SALTA
-https://stream.arcast.live/spaciotv/ngrp:spaciotv_all/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://primary.jwwb.nl/public/h/j/f/temp-fyamuijlknxszsquqljq/banner-logo-high-xbn1id.png?enable-io=true&amp;enable=upscale&amp;width=848" tvg-group="ARGENTINA",BLU HD SAN JUAN
-https://vivo.solumedia.com:19360/blumedios/blumedios.m3u8
-
-#EXTINF:0 tvg-logo="https://canalcuatroposadas.com.ar/wp-content/uploads/2024/02/logo-web.png" tvg-group="ARGENTINA", 4 TELEPOSADAS misiones
-https://videostream.shockmedia.com.ar:19360/teleposadas/teleposadas.m3u8
-
-#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjy65LZXz3U86_IwOKfIGbRfdcx8_AGKjiIWtNOtJSmOAsa7YrYHWub0dMCh61W89B0fsGxsSmZKbQpuPBo5zipfk18aBO0ebngOQalKzot6o-REt2WKqW1fXdi-1dAKop_zAr5_2rJBz7sXB6Hgm7v992-8sHXmAeIOiRcsLSDRiRIkMYx1QcVll9s/s200/c4-2009.webp" tvg-group="ARGENTINA", Canal 4 San Juan | AR
-https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:0 tvg-logo="https://telearg.weebly.com/uploads/1/3/1/2/131240845/canal-40-caucete.png" tvg-group="ARGENTINA", Canal 40 Caucete | Arkansas
-https://canalsj.kozow.com/canal40/index.m3u8?PlaylistM3UCL
-
-#EXTINF:0 tvg-logo="https://cdn.m3u.cl/logo/778_Canal_5_Pico_Truncado.png" tvg-group="ARGENTINA",Canal 5 Pico Truncado | Arkansas
-https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:0 tvg-logo="https://cdn.m3u.cl/logo/773_Canal_5_Santa_Fe.png" tvg-group="ARGENTINA",Canal 5 Santa Fe | Arkansas
-https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:0 tvg-logo="https://cdn.m3u.cl/logo/1138_Canal_5_Tucuman.png" tvg-group="ARGENTINA",Canal 5 Tucumán | Arkansas
-https://videohd.live:19360/8090/8090.m3u8?PlaylistM3UCL
-
-#EXTINF:0 tvg-logo="https://cdn.m3u.cl/logo/213_Play_Television.png" tvg-group="ARGENTINA",Play Televisión | AR
-https://vivo.solumedia.com:19360/playtv/playtv.m3u8?PlaylistM3UCL
-
-#EXTINF:0 tvg-logo="https://cdn.m3u.cl/logo/1603_Caras_TV.png" tvg-group="ARGENTINA",Caras TV | Arkansas
-https://unlimited2-cl-isp.dps.live/carastv/carastv.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:0 tvg-logo="https://teveodigital.tv/wp-content/uploads/2022/07/logoweb.png" tvg-group="ARGENTINA",TEVEO DIGITAL
-https://stmvideo1.livecastv.com/tvo/tvo/playlist.m3u8
-
-#EXTINF:0 tvg-logo="http://www.radiocanal.com.ar/imagenes/estructura/img_logo.png" tvg-group="ARGENTINA",CANAL 4 RADIOCANAL
-http://204.199.3.2/.m3u8
-
-#EXTINF:0 tvg-logo="https://i.ibb.co/wFH4z4HH/46e1ead4-6e05-4363-83d6-923f9f923e9d.jpg" tvg-group="ARGENTINA",2TV San Juan
-https://vd01.streaminghd.net.ar:3293/stream/play.m3u8
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1UQVwxMMl2avE5NYKvSPpe_wifHZ2xaghY4CMM5K6UCwmAhSuNbg5xHnbxZG7ei37q2g&usqp=CAU" tvg-group="ARGENTINA",EL 10 TV
-https://stream1.el10tv.com/memfs/accd8bcb-61b0-416b-bf02-0245cb8267f6_output_0.m3u8?session=Z9Hg3ujKQVwzQydnoEM3Ev
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpSS6hJzdn1RKb1_ZddMmyfh_cE70oNis9AZUPIfcv3f3PgL-alQ9K8Xx3SVCrJEi-fgo&usqp=CAU" tvg-group="ARGENTINA",Canal 34 San Juan
-http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/913627349/telecondor_satelital_400x400.jpg" tvg-group="ARGENTINA",CANAL 4 TELECONDOR
-https://stmvideo1.livecastv.com/telecondor/telecondor/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://www.fmpowermax.com.ar/wp-content/uploads/2022/06/power-max-logo-2022.png" tvg-group="ARGENTINA",POWER MAX
-https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8
-
-#EXTINF:0 tvg-logo="https://cdn.m3u.cl/logo/1544_Megaclassic_TV.png" tvg-group="ARGENTINA",Megaclassic TV
-https://stmvideo1.livecastv.com/megaclassic/megaclassic/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://assets.platform.staylive.io/platform_VGyaCYJQkntG/logo.png" tvg-group="ARGENTINA", Dance TV
-https://stmvideo3.livecastv.com/dannceteve/dannceteve/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/PaQf44erinPrsPK1Se_oQ-Ghl5sz5jQMxKeXUn2PhohG_f44TOGB2KQLh2Fp7lsP3PZUDjp-3_g=s900-c-k-c0x00ffffff-no-rj" tvg-group="ARGENTINA",CANAL 4 NOGOYA
-https://stmvideo6.livecastv.com/canal4nogoya/canal4nogoya/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5HKtaPfA_3HynzgvVZ2S1zalD8p6JDoZliQ&s" tvg-group="ARGENTINA",FACTORY CHANNEL CANAL 11
-https://videostream.shockmedia.com.ar:19360/factorylaverde/factorylaverde.m3u8
-
-#EXTINF:0 tvg-logo="https://contactonoriega.com/wp-content/uploads/2021/01/logo-ipersonica.png" tvg-group="ARGENTINA",IPERSONICA TV
-https://xhateaec.com:8800/hls/visitor/visitor/12863a70457cecf65bd7418d858f55c2/index.m3u8
-
-#EXTINF:0 tvg-logo="https://stcchaco.com/wp-content/uploads/2022/01/logo-STC-transp-158100.png" tvg-group="ARGENTINA",STC Chaco 3CTV  Charata
-https://genexservicios.com:19360/sudoestetv/sudoestetv.m3u8
-
-#EXTINF:0 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Quatro-TV-Rio-Cuarto-en-vivo-Online.png" tvg-group="ARGENTINA",QUATRO TV RIO CUARTO
-https://stream.arcast.live/quatro/quatro/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://yt3.ggpht.com/PwVe30winK-bL-i_Ki0dKebLTZxSmH_TMouZT6uX8xaH3gPNtCHU7jxOstMbp4e8OWPyskS9gg=s176-c-k-c0x00ffffff-no-rj-mo" tvg-group="ARGENTINA",EL SELLO TV MADARIAGA
-https://elsellotv.com.ar:8443/hls/elsello_low.m3u8
-
-#EXTINF:0 tvg-logo="https://www.radiopower.com.ar/powerhd/webroot/img/logoPwrHD_small.png" tvg-group="ARGENTINA",POWER HD PINAMAR
-https://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://urbanaonline.com.ar/wp-content/uploads/2024/08/cropped-2024.png" tvg-group="ARGENTINA",SEÑAL URBANA
-https://video.fiberfly.com.ar/stream/hls1/110106.m3u8
-
-#EXTINF:0 tvg-logo="https://static.wixstatic.com/media/49365f_c6a2a1b6003947269f4ca8d79fdf0472~mv2.jpg/v1/fill/w_102,h_102,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/logo%20107_5%205_jfif.jpg" tvg-group="ARGENTINA",RMU PARANA
-https://vivo.solumedia.com:19360/rmuenvivo/rmuenvivo.m3u8
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5sUzO2MRJIdvZHhLyQM-vFFuWYF68BsyGdQ&s" tvg-group="ARGENTINA",KAIROS TV 16.4
-https://videostream.shockmedia.com.ar:19360/kairostv/kairostv.m3u8
-
-#EXTINF:0 tvg-logo="https://telecentro.com.ar/img/cm/channels/DNEWS%20128.png" tvg-group="ARGENTINA",DNews
+#EXTINF:0 tvg-logo="https://telecentro.com.ar/img/cm/channels/DNEWS%20128.png" tvg-group="ARGENTINA",DNews 45.230.38.117
 http://45.230.38.117:8000/play/a02n
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/LogoCanal26.png/900px-LogoCanal26.png" tvg-group="ARGENTINA",Cana 26
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/LogoCanal26.png/900px-LogoCanal26.png" tvg-group="ARGENTINA",Cana 26 181.176
 http://181.209.114.13:8000/play/a01r/index.m3u8
 
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/a24.png" tvg-group="ARGENTINA",A24
@@ -3825,10 +3700,10 @@ http://181.13.173.86:8000/play/a02a/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/hboxtreme.png" tvg-group="ARGENTINA",HBO Xtreme
 http://181.13.173.86:8000/play/a02b/index.m3u8
 
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/hbopop.png" tvg-group="ARGENTINA",HBO Pop
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/hbopop.png" tvg-group="ARGENTINA",HBO Pop 181.176
 http://181.176.153.106:8090/play/a0qc/index.m3u8
 
-#EXTINF:-1 grupo-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Claro_TV_wordmark.svg/2000px-Claro_TV_wordmark.svg.png" grupo-título="CLARO TV"",26TV
+#EXTINF:-1 grupo-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Claro_TV_wordmark.svg/2000px-Claro_TV_wordmark.svg.png" grupo-título="CLARO TV"",26TV 201.217
 http://201.217.246.177:8000/play/a01r/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/242/CH_LOGO/60/40/0/0/45444272073059.png" group-title="CLARO TV"",Urgencias
 http://201.217.246.177:8000/play/a05i/index.m3u8
@@ -4034,6 +3909,165 @@ http://201.217.246.177:8000/play/a0ac/index.m3u8
 http://201.217.246.177:8000/play/a02h/index.m3u8
 #EXTINF:-1 group-title="CLARO TV",el nueve
 http://201.217.246.177:8000/play/a04h/index.m3u8
-#EXTINF:-1 group-title="CLARO TV",el trece
+#EXTINF:-1 group-title="CLARO TV",el trece 201.217
 http://201.217.246.177:8000/play/a06d/index.m3u8
 
+#EXTINF:-1  tvg-logo="https://cdn.m3u.cl/logo/614_La_2.png" tvg-group="ARGENTINA",La 2 | ES
+https://ztnr.rtve.es/ztnr/1688885.m3u8?PlaylistM3UCL
+
+#EXTINF:-1  tvg-logo="https://cdn.m3u.cl/logo/1265_Tvmaxcba.png" tvg-group="ARGENTINA",Tvmaxcba | AR
+https://stmvideo3.livecastv.com/tvmaxcba/tvmaxcba/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1  tvg-logo="https://cdn.m3u.cl/logo/135_Telepacifico.png" tvg-group="ARGENTINA",Telepacífico | CO
+https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1  tvg-logo="https://cdn.m3u.cl/logo/860_TV_Penol.png" tvg-group="ARGENTINA",TV Peñol | CO
+https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1  tvg-logo="https://cdn.m3u.cl/logo/148_Telearagua.png" tvg-group="ARGENTINA",Telearagua | VE
+http://45.173.198.59:8080/hls/nginx3.m3u8?PlaylistM3UCL
+
+#EXTINF:-1  tvg-logo="https://cdn.m3u.cl/logo/1400_Torococo_TV.png" tvg-group="ARGENTINA",Torococo TV | VE
+https://us.streaminghd.cl/torococotelevision/video.m3u8?PlaylistM3UCL
+
+#EXTINF:0 tvg-logo="https://elfolklorico.com/wp-content/uploads/2024/11/WhatsApp-Image-2024-11-25-at-11.42.16.jpeg" tvg-group="ARGENTINA",EL FOLKLORICO TV 201.217.246
+http://201.217.246.177:8000/play/a0aa/index.m3u8
+
+#EXTINF:0 tvg-logo="https://solivetv.net/wp-content/uploads/2020/09/cropped-logo2.png" tvg-group="ARGENTINA", SOLIVE TV
+https://stmv6.voxtvhd.com.br/solivetv/solivetv/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2025/02/canal-36-300x169.jpg" tvg-group="ARGENTINA",CANAL 8 ROSARIO santa fe
+https://stmv4.voxtvhd.com.br/canal8ros/canal8ros/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/jCVug7Pxp9oy0YMgUK9k9kM91fVgawLNf7WrpCJmyJmMSfzb5eiKvl3WPSXKskGqpuLCK9FuC3k=s160-c-k-c0x00ffffff-no-rj" tvg-group="ARGENTINA",CANAL 14 ELORTONDO
+https://stmv2.voxtvhd.com.br/canal14tv2/canal14tv2/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://ivisiontv.ar/images/sitio/logo.png" tvg-group="ARGENTINA",IVISION TV
+https://6098feb5d2881.streamlock.net/live/canallocal.stream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/856175574116683777/HnWIt3t9_400x400.jpg" tvg-group="ARGENTINA", MILENIUM TV SALTA
+https://mileniumtv.onstreaming.live/live/7Gec1TzNpAZOdVo8XdOLEEKyPuJ2/index.m3u8
+
+#EXTINF:0 tvg-logo="https://static.wixstatic.com/media/b7b640_979e29e625374f56818318d29761e139~mv2.png/v1/fill/w_106,h_99,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo%20stv%202022%20png%20mosca.png" tvg-group="ARGENTINA",SPACIO TV METAN SALTA
+https://stream.arcast.live/spaciotv/ngrp:spaciotv_all/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://primary.jwwb.nl/public/h/j/f/temp-fyamuijlknxszsquqljq/banner-logo-high-xbn1id.png?enable-io=true&amp;enable=upscale&amp;width=848" tvg-group="ARGENTINA",BLU HD SAN JUAN
+https://vivo.solumedia.com:19360/blumedios/blumedios.m3u8
+
+#EXTINF:0 tvg-logo="https://canalcuatroposadas.com.ar/wp-content/uploads/2024/02/logo-web.png" tvg-group="ARGENTINA", 4 TELEPOSADAS misiones
+https://videostream.shockmedia.com.ar:19360/teleposadas/teleposadas.m3u8
+
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjy65LZXz3U86_IwOKfIGbRfdcx8_AGKjiIWtNOtJSmOAsa7YrYHWub0dMCh61W89B0fsGxsSmZKbQpuPBo5zipfk18aBO0ebngOQalKzot6o-REt2WKqW1fXdi-1dAKop_zAr5_2rJBz7sXB6Hgm7v992-8sHXmAeIOiRcsLSDRiRIkMYx1QcVll9s/s200/c4-2009.webp" tvg-group="ARGENTINA", Canal 4 San Juan | AR
+https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:0 tvg-logo="https://telearg.weebly.com/uploads/1/3/1/2/131240845/canal-40-caucete.png" tvg-group="ARGENTINA", Canal 40 Caucete | Arkansas
+https://canalsj.kozow.com/canal40/index.m3u8?PlaylistM3UCL
+
+#EXTINF:0 tvg-logo="https://cdn.m3u.cl/logo/778_Canal_5_Pico_Truncado.png" tvg-group="ARGENTINA",Canal 5 Pico Truncado | Arkansas
+https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:0 tvg-logo="https://cdn.m3u.cl/logo/773_Canal_5_Santa_Fe.png" tvg-group="ARGENTINA",Canal 5 Santa Fe | Arkansas
+https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:0 tvg-logo="https://cdn.m3u.cl/logo/1138_Canal_5_Tucuman.png" tvg-group="ARGENTINA",Canal 5 Tucumán | Arkansas
+https://videohd.live:19360/8090/8090.m3u8?PlaylistM3UCL
+
+#EXTINF:0 tvg-logo="https://cdn.m3u.cl/logo/213_Play_Television.png" tvg-group="ARGENTINA",Play Televisión | AR
+https://vivo.solumedia.com:19360/playtv/playtv.m3u8?PlaylistM3UCL
+
+#EXTINF:0 tvg-logo="https://cdn.m3u.cl/logo/1603_Caras_TV.png" tvg-group="ARGENTINA",Caras TV | Arkansas
+https://unlimited2-cl-isp.dps.live/carastv/carastv.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:0 tvg-logo="https://teveodigital.tv/wp-content/uploads/2022/07/logoweb.png" tvg-group="ARGENTINA",TEVEO DIGITAL
+https://stmvideo1.livecastv.com/tvo/tvo/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://www.radiocanal.com.ar/imagenes/estructura/img_logo.png" tvg-group="ARGENTINA",CANAL 4 RADIOCANAL
+http://204.199.3.2/.m3u8
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/wFH4z4HH/46e1ead4-6e05-4363-83d6-923f9f923e9d.jpg" tvg-group="ARGENTINA",2TV San Juan
+https://vd01.streaminghd.net.ar:3293/stream/play.m3u8
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1UQVwxMMl2avE5NYKvSPpe_wifHZ2xaghY4CMM5K6UCwmAhSuNbg5xHnbxZG7ei37q2g&usqp=CAU" tvg-group="ARGENTINA",EL 10 TV
+https://stream1.el10tv.com/memfs/accd8bcb-61b0-416b-bf02-0245cb8267f6_output_0.m3u8?session=Z9Hg3ujKQVwzQydnoEM3Ev
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpSS6hJzdn1RKb1_ZddMmyfh_cE70oNis9AZUPIfcv3f3PgL-alQ9K8Xx3SVCrJEi-fgo&usqp=CAU" tvg-group="ARGENTINA",Canal 34 San Juan
+http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/913627349/telecondor_satelital_400x400.jpg" tvg-group="ARGENTINA",CANAL 4 TELECONDOR
+https://stmvideo1.livecastv.com/telecondor/telecondor/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://www.fmpowermax.com.ar/wp-content/uploads/2022/06/power-max-logo-2022.png" tvg-group="ARGENTINA",POWER MAX
+https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8
+
+#EXTINF:0 tvg-logo="https://cdn.m3u.cl/logo/1544_Megaclassic_TV.png" tvg-group="ARGENTINA",Megaclassic TV
+https://stmvideo1.livecastv.com/megaclassic/megaclassic/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://assets.platform.staylive.io/platform_VGyaCYJQkntG/logo.png" tvg-group="ARGENTINA", Dance TV
+https://stmvideo3.livecastv.com/dannceteve/dannceteve/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/PaQf44erinPrsPK1Se_oQ-Ghl5sz5jQMxKeXUn2PhohG_f44TOGB2KQLh2Fp7lsP3PZUDjp-3_g=s900-c-k-c0x00ffffff-no-rj" tvg-group="ARGENTINA",CANAL 4 NOGOYA
+https://stmvideo6.livecastv.com/canal4nogoya/canal4nogoya/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5HKtaPfA_3HynzgvVZ2S1zalD8p6JDoZliQ&s" tvg-group="ARGENTINA",FACTORY CHANNEL CANAL 11
+https://videostream.shockmedia.com.ar:19360/factorylaverde/factorylaverde.m3u8
+
+#EXTINF:0 tvg-logo="https://contactonoriega.com/wp-content/uploads/2021/01/logo-ipersonica.png" tvg-group="ARGENTINA",IPERSONICA TV
+https://xhateaec.com:8800/hls/visitor/visitor/12863a70457cecf65bd7418d858f55c2/index.m3u8
+
+#EXTINF:0 tvg-logo="https://stcchaco.com/wp-content/uploads/2022/01/logo-STC-transp-158100.png" tvg-group="ARGENTINA",STC Chaco 3CTV  Charata
+https://genexservicios.com:19360/sudoestetv/sudoestetv.m3u8
+
+#EXTINF:0 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Quatro-TV-Rio-Cuarto-en-vivo-Online.png" tvg-group="ARGENTINA",QUATRO TV RIO CUARTO
+https://stream.arcast.live/quatro/quatro/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://yt3.ggpht.com/PwVe30winK-bL-i_Ki0dKebLTZxSmH_TMouZT6uX8xaH3gPNtCHU7jxOstMbp4e8OWPyskS9gg=s176-c-k-c0x00ffffff-no-rj-mo" tvg-group="ARGENTINA",EL SELLO TV MADARIAGA
+https://elsellotv.com.ar:8443/hls/elsello_low.m3u8
+
+#EXTINF:0 tvg-logo="https://www.radiopower.com.ar/powerhd/webroot/img/logoPwrHD_small.png" tvg-group="ARGENTINA",POWER HD PINAMAR
+https://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://urbanaonline.com.ar/wp-content/uploads/2024/08/cropped-2024.png" tvg-group="ARGENTINA",SEÑAL URBANA
+https://video.fiberfly.com.ar/stream/hls1/110106.m3u8
+
+#EXTINF:0 tvg-logo="https://static.wixstatic.com/media/49365f_c6a2a1b6003947269f4ca8d79fdf0472~mv2.jpg/v1/fill/w_102,h_102,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/logo%20107_5%205_jfif.jpg" tvg-group="ARGENTINA",RMU PARANA
+https://vivo.solumedia.com:19360/rmuenvivo/rmuenvivo.m3u8
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5sUzO2MRJIdvZHhLyQM-vFFuWYF68BsyGdQ&s" tvg-group="ARGENTINA",KAIROS TV 16.4
+https://videostream.shockmedia.com.ar:19360/kairostv/kairostv.m3u8
+
+#EXTINF:-1 tvg-id="1160" tvg-name="VClassicTV" tvg-logo="https://cdn.m3u.cl/logo/1160_VClassicTV.png" tvg-group="ARGENTINA", VClassicTV ✪ | CL
+https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1255" tvg-name="VClassicTV Tropical" tvg-logo="https://cdn.m3u.cl/logo/1255_VClassicTV_Tropical.png" tvg-group="ARGENTINA", VClassicTV Tropical ✪ | CL
+https://5eaccbab48461.streamlock.net:1936/8076/8076/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1605" tvg-name="Radio Fin Del Mundo TV" tvg-logo="https://cdn.m3u.cl/logo/1605_Radio_Fin_Del_Mundo_TV.png" tvg-group="ARGENTINA", Radio Fin Del Mundo TV ✪ | CL
+https://5790d294af2dc.streamlock.net:443/RFDMTV/RFDMTV/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1435" tvg-name="+Cine" tvg-logo="https://cdn.m3u.cl/logo/1435__Cine.png" tvg-group="ARGENTINA", +Cine ✪ | CL
+https://tv.arkeo.cl:19360/8128/8128.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="1300" tvg-name="Moni TV" tvg-logo="https://cdn.m3u.cl/logo/1300_Moni_TV.png" tvg-group="ARGENTINA", Moni TV ✪ | CL
+https://tv.arkeo.cl:19360/8134/8134.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="1466" tvg-name="Kanade TV" tvg-logo="https://cdn.m3u.cl/logo/1466_Kanade_TV.png" tvg-group="ARGENTINA", Kanade TV ✪ | CL
+https://xui-backend.energeek.cl/live/13/playlist.m3u8?username=D3m0M3UCLWeb&password=xN4sFVjMK7&PlaylistM3UCL
+#EXTINF:-1 tvg-id="1112" tvg-name="EnerGeek FAN" tvg-logo="https://cdn.m3u.cl/logo/1112_EnerGeek_FAN.png" tvg-group="ARGENTINA", EnerGeek FAN ✪ | CL
+https://xui-backend.energeek.cl/live/10/playlist.m3u8?username=D3m0M3UCLWeb&password=xN4sFVjMK7&PlaylistM3UCL
+#EXTINF:-1 tvg-id="947" tvg-name="EnerGeek Retro" tvg-logo="https://cdn.m3u.cl/logo/947_EnerGeek_Retro.png" tvg-group="ARGENTINA", EnerGeek Retro ✪ | CL
+https://xui-backend.energeek.cl/live/9/playlist.m3u8?username=D3m0M3UCLWeb&password=xN4sFVjMK7&PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="1604" tvg-name="ZTV Anime" tvg-logo="https://cdn.m3u.cl/logo/1604_ZTV_Anime.png" tvg-group="ARGENTINA", ZTV Anime ✪ | CL
+https://mitv.zplay.cl/Ztv/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="31" tvg-name="Portal FoxMix" tvg-logo="https://cdn.m3u.cl/logo/31_Portal_FoxMix.png" tvg-group="ARGENTINA", Portal FoxMix ✪ | CL
+https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="1014" tvg-name="PlanetaTV" tvg-logo="https://cdn.m3u.cl/logo/1014_PlanetaTV.png" tvg-group="ARGENTINA", PlanetaTV ✪ | CL
+https://tls-cl.cdnz.cl/planetatv/live/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="1650" tvg-name="Alfa TV" tvg-logo="https://cdn.m3u.cl/logo/1650_Alfa_TV.png" tvg-group="ARGENTINA", Alfa TV ✪ | CL
+https://v2.tustreaming.cl/alfatv/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="1630" tvg-name="Poesia TV" tvg-logo="https://cdn.m3u.cl/logo/1630_Poesia_TV.png" tvg-group="ARGENTINA", Poesia TV ✪ | CL
+https://stmv5.voxtvhd.com.br/radiopoesia/radiopoesia/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="52" tvg-name="Dreiko TV" tvg-logo="https://cdn.m3u.cl/logo/52_Dreiko_TV.png" tvg-group="ARGENTINA", Dreiko TV | PA
+https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8?PlaylistM3UCL
