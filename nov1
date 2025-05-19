@@ -1557,6 +1557,12 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2701&live=1&avo
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD130000205_20230809T053830SQUARE.png_20230809053830.png" tvg-group="INFANTILES",Pitufos TV
 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Dinosaurs_%28ABC_TV_series%29.png" tvg-group="INFANTILES",Dinosaurs (TV series) 209644
+https://stream.gia.tv/giatvplayout7/giatv-209644/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2024/03/Tom_and_Jerry_Logo.png" tvg-group="INFANTILES",Tom and Jerry
+https://stream.gia.tv/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ecd51263-bb0f-4465-af86-f7ed25e58e70/def0weu-9ead2c2b-feb0-466f-9156-b8bb2f4eaaee.png/v1/fill/w_303,h_165/icarly_logo__png__by_amazingtoludada3000_def0weu-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTY1IiwicGF0aCI6IlwvZlwvZWNkNTEyNjMtYmIwZi00NDY1LWFmODYtZjdlZDI1ZTU4ZTcwXC9kZWYwd2V1LTllYWQyYzJiLWZlYjAtNDY2Zi05MTU2LWI4YmIyZjRlYWFlZS5wbmciLCJ3aWR0aCI6Ijw9MzAzIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.-YQi1QQJTobBtWH0LWk3IMHt20saP3Zwm6veSid5tkI",Nickelodeon iCarly [Entretenimiento] [178] [AR]
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620ff0a01f9e8700076c6f9d/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
@@ -1696,12 +1702,6 @@ https://stream.gia.tv/giatvplayout7/giatv-209599/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://serenotv.com/cargas/2025/05/anime-presente-2-560x315.jpg" tvg-group="INFANTILES", anime pre 2 - 209624
 https://stream.gia.tv/giatvplayout7/giatv-209624/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Dinosaurs_%28ABC_TV_series%29.png" tvg-group="INFANTILES",Dinosaurs (TV series) 209644
-https://stream.gia.tv/giatvplayout7/giatv-209644/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2024/03/Tom_and_Jerry_Logo.png" tvg-group="INFANTILES",Tom and Jerry
-https://stream.gia.tv/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://serenotv.com/cargas/2025/05/canal-family-373x315.jpg" tvg-group="INFANTILES",Canal Family 209633
 https://stream.gia.tv/giatvplayout7/giatv-209633/tracks-v1a1/mono.ts.m3u8
@@ -2021,9 +2021,6 @@ https://v2.azulstream.com:8081/gamtv/gamtv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cerillion.com/media/gvipbrbc/telesurlogo.png" tvg-group="INFANTILES",1 TELESUR
 https://s1.tvdatta.com:3582/live/telesurlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bUlmXW5.jpg" tvg-group="INFANTILES",1 DEL ESTE TV
-https://stream.gia.tv/giatv/giatv-DELESTEENVIVO/DELESTEENVIVO/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://catomedia.net/images_temp/web/catomedia-1.png" tvg-group="INFANTILES", Catomedia
 https://stream.catomedia.net/catomedia-app/tracks-v1a1/mono.m3u8
@@ -4049,3 +4046,10 @@ https://stream.gia.tv/giatv/giatv-wowmovies/wowmovies/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://serenotv.com/cargas/2025/05/canal-zona-accion-300x298.jpg" tvg-group="ARGENTINA", zona accion- 209634
 https://stream.gia.tv/giatvplayout7/giatv-209634/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bUlmXW5.jpg" tvg-group="ARGENTINA", DEL ESTE TV
+https://stream.gia.tv/giatv/giatv-DELESTEENVIVO/DELESTEENVIVO/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" tvg-group="ARGENTINA",cnn cl
+https://jireh-2-hls-video-cl-vtr.dps.live/hls-video/lvcl5/cnn/cnn.smil/cnn/livestream1/chunks.m3u8
+
