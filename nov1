@@ -235,8 +235,6 @@ http://190.123.90.146:8000/play/a00e/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/DSportsM%C3%A1s.png/revision/latest?cb=20221114124037" tvg-group="Deportes",DSPORTS +
 
-#EXTINF:-1 tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/ESPN-Deportes-White.png.webp" tvg-group="Deportes",Espn Deportes
-
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/6NVcwKapZwlpMVKIJ36WyhQui7E19f8PYG7yJ4uaPAyn2vGEhHPRinLIL3K3DscA4VQh=w240-h480-rw" tvg-group="Deportes", CALIENTE TV (EVENTOS) 
 
 #EXTINF:-1 ch-number="111" tvg-id="FoxSports.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/FOXSP.png?raw=true" tvg-group="ARGENTINA", FOX Sports
@@ -366,6 +364,21 @@ https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRaQmT4aA6_583JXa_LrNbrSa3bd6Z3ydfHflERewVSLvqwwguHttbQzrRoPHc6l52eRU&usqp=CAU" tvg-group="Deportes",ITV Deportes
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=495e9b096e96cee4e541b0c2695a0fcb&app_bundle=com.canela.ott&app_store_url=https% 3A%2F%2Fwww.canela. tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&site_page=https%253A%25 2F%252Fwww.canela.tv%252F&gender=not_specified&yob=0&livestream = 1&custom_param_0=&custom_param_1=teléfono&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%20America×tamp=1656899342&id=34434&ip=45.188.78.93&override_expiration=150 0 &sign=TxhnXtTkkmuchk54BrTTN4p4AevpD8%2Bnm3lscX9lXPg%3D
 
+#EXTINF:-1 tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/ESPN-Deportes-White.png.webp" tvg-group="Deportes",ESPN DEPORTES
+http://190.92.10.66:4000/play/a003/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp0Nk-l0S0xFQu-5E_AHUU-br1WQjlfbJOdZdxe_F9BAnhaJY-VGrKHQ-Gd60jsimqbQM&usqp=CAU" tvg-group="Deportes",FOX DEPORTES
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.pirilampo.tv/uploads/tv_image/eurosport-1.png" tvg-group="Deportes",EUROSPORT 1
+http://185.189.225.157/EuroSport1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.pirilampo.tv/uploads/tv_image/eurosport-2.png" tvg-group="Deportes",EUROSPORT 2
+http://185.189.225.157/EuroSport2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/liga-mx/images/6/6c/AYMSports17Logo.png/revision/latest?cb=20170917052727&path-prefix=es" tvg-group="Deportes",AYM SPORTS
+https://aym-as.otteravision.com/aym/as/as.m3u8
+
 #EXTINF:-1 ch-number="100"  ch-number="100" tvg-id="DeporTV.ar" tvg-logo="https://git.io/JOTOg" tvg-group="ARGENTINA", DeporTV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1904c4d846a99e940903174bdbab74f0:08a4ca972cd037a1fe042515c310bfe1
@@ -408,8 +421,6 @@ https://cdn.sensa.com.ar/live/eds/GolfTV/live_dash_cld/GolfTV.mpd?|referer=https
 #KODIPROP:inputstream.adaptive.license_key=e070a7426b8cb1cab5f63996b7bd7669:1c140e0715b26c7232942ab87d232964
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/sta01/PXSports/live_dash_cld/PXSports.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-
 
 
 
@@ -2472,7 +2483,7 @@ https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5keYbdHlNOa3gdTLs2tei8hbHuwQtUp3TtWvzz7PSrzWlp2ZdkrE9vJiEcLlxiA15Vyo&usqp=CAU" tvg-group="ARGENTINA",Antena 21
-https://d1p8txxph783az.cloudfront.net/index.m3u8
+https://d1p8txxph783az.cloudfront.net/original.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5keYbdHlNOa3gdTLs2tei8hbHuwQtUp3TtWvzz7PSrzWlp2ZdkrE9vJiEcLlxiA15Vyo&usqp=CAU" tvg-group="ARGENTINA", Antena 21 HD HD
 https://alba-do-antena7-c21.stream.mediatiquestream.com/index.m3u8
@@ -3406,10 +3417,6 @@ http://160.20.165.246:8000/play/a00f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/CaracolInternacional2019.png/revision/latest?cb=20190829020554" tvg-group="ARGENTINA",caracol int
 
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f7/Teleantillas_2012.png/revision/latest?cb=20230603165233&path-prefix=es" tvg-group="ARGENTINA",TA TeleAntillas
-
-
 #EXTINF:-1 tvg-logo="" tvg-group="ARGENTINA",usa 160.20.165
 http://160.20.165.246:8000/play/a01e/index.m3u8 
 
@@ -4050,6 +4057,41 @@ https://stream.gia.tv/giatvplayout7/giatv-209634/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bUlmXW5.jpg" tvg-group="ARGENTINA", DEL ESTE TV
 https://stream.gia.tv/giatv/giatv-DELESTEENVIVO/DELESTEENVIVO/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-group="ARGENTINA",cnn cl
-https://jireh-2-hls-video-cl-vtr.dps.live/hls-video/lvcl5/cnn/cnn.smil/cnn/livestream1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/microvision-en-vivo-canal-10-online.jpg" tvg-group="ARGENTINA",MICROVISION 
+https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1580968055722713089/52RVFOpS_400x400.jpg" tvg-group="ARGENTINA",SITV 
+http://190.122.104.210:5080/LiveApp/streams/sitv2.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/DigitalQuince2018.png/revision/latest?cb=20220725023016&path-prefix=es" tvg-group="ARGENTINA",DIGITAL 15
+http://190.122.104.210:5080/LiveApp/streams/Di15.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/05/teleantillas-en-vivo-canal-2-online.jpg" tvg-group="ARGENTINA",TA TeleAntillas
+http://190.122.104.210:5080/LiveApp/streams/C6ngUWmvwMhliYPN366819347382115.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/Canal-4-rd-en-vivo-y-directo-1533x1536.png" tvg-group="ARGENTINA",CANAL 4
+https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/05/telemicro-en-vivo-canal-5-online-1.jpg" tvg-group="ARGENTINA",TELEMICRO 
+http://190.122.104.210:5080/LiveApp/streams/telemicrolocal5.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/canal-7-en-vivo-antena-7-online.png" tvg-group="ARGENTINA",ANTENA 7
+http://190.122.104.210:5080/LiveApp/streams/alatina.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/color-vision-canal-9-en-vivo-online.png" tvg-group="ARGENTINA",COLOR VISION 
+http://190.122.104.210:5080/LiveApp/streams/cvision1.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/telesistema-canal-11-en-vivo-online.png" tvg-group="ARGENTINA",TELESISTEMA 11
+http://190.122.104.210:5080/LiveApp/streams/YpEgxoW1AywHuG6b366663247164879.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/ck6WMsdXm2qqeE9XfLj8zF5xJvewktH1b-jaClxbozLaLULJSHsNBRO35HITp-btuCnfi3oItNDMmVvzieFLLEEOt3-0" tvg-group="ARGENTINA",TELEUNION 
+http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/telecentro-canal-13-en-vivo.png" tvg-group="ARGENTINA",TELECENTRO 
+http://190.122.104.210:5080/LiveApp/streams/tcentro.m3u8
+
+#EXTINF:-1 tvg-logo="https://storage.googleapis.com/proceso-storage/acdmedia/acdmedia/marcas/catorcetv.jpg" tvg-group="ARGENTINA",CATORCE TV 
+https://tv.livestreaminggroup.info:3052/live/catorcetvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/6065f6ae802b642eeeaf23cc_cnnchile.png" tvg-group="ARGENTINA",cnn cl
+https://jireh-2-hls-video-cl-vtr.dps.live/hls-video/lvcl5/cnn/cnn.smil/cnn/livestream1/chunks.m3u8
