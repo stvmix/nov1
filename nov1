@@ -221,13 +221,7 @@ http://190.123.90.146:8000/play/a00e/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/500px-ESPN_6_logo.svg.png" tvg-group="Deportes",ESPN 6 ᴴᴰ
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/500px-ESPN_6_logo.svg.png" tvg-group="Deportes",ESPN 6 sdmx
-https://nxt.plus:8443/jesus01/jesus01/24405
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/504px-ESPN_7_logo.svg.png" tvg-group="Deportes",ESPN 7 sdmx
-
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/504px-ESPN_7_logo.svg.png" tvg-group="Deportes",ESPN 7 ᴴᴰ
-https://nxt.plus:8443/jesus01/jesus01/13229
 
 #EXTINF:-1 tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/d/t/dtv_sports_blanco_1.png" tvg-group="Deportes",DSPORTS 1 ᴴᴰ
 
@@ -368,7 +362,6 @@ https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.flowics.com/wp-content/uploads/2021/11/clients_tudn.png?resize=1000%2C400&ssl=1" tvg-group="Deportes",TUDN EVENTOS weib-tv
 
 #EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/584a9b47b080d7616d298778.png" tvg-group="Deportes",Real Madrid
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRaQmT4aA6_583JXa_LrNbrSa3bd6Z3ydfHflERewVSLvqwwguHttbQzrRoPHc6l52eRU&usqp=CAU" tvg-group="Deportes",ITV Deportes
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=495e9b096e96cee4e541b0c2695a0fcb&app_bundle=com.canela.ott&app_store_url=https% 3A%2F%2Fwww.canela. tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&site_page=https%253A%25 2F%252Fwww.canela.tv%252F&gender=not_specified&yob=0&livestream = 1&custom_param_0=&custom_param_1=teléfono&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%20America×tamp=1656899342&id=34434&ip=45.188.78.93&override_expiration=150 0 &sign=TxhnXtTkkmuchk54BrTTN4p4AevpD8%2Bnm3lscX9lXPg%3D
@@ -1718,6 +1711,9 @@ https://ssh101.bozztv.com/ssh101/retromagicochnl/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/CzquR2TXgIpZ32C7Nm8_Jfa4bONgKxVoEXZpOZ2T9E6O2AB6dVty-6ZTB5vDTv46Tx7tnGBpWA=s900-c-k-c0x00ffffff-no-rj" tvg-group="INFANTILES",Retro Mágico | Argentina
 https://fl1001.bozztv.com/ssh101/retromagicochnl/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/CzquR2TXgIpZ32C7Nm8_Jfa4bONgKxVoEXZpOZ2T9E6O2AB6dVty-6ZTB5vDTv46Tx7tnGBpWA=s900-c-k-c0x00ffffff-no-rj" tvg-group="INFANTILES",Retro Mágico OK
+https://stream.gia.tv/giatv/giatv-retromagico/retromagico/chunks.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/m13TjiR.png" tvg-group="INFANTILES", Magic Kids | SD | Argentina
 https://magicstream.ddns.net/magicstream/stream.m3u8
 
@@ -2027,7 +2023,7 @@ https://fl1001.bozztv.com/ssh101/telemixlive/playlist.m3u8
 https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bdXY34n.png" tvg-group="INFANTILES",TV Retro Palmares | Costa Rica
-https://fl1001.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
+https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://static.wixstatic.com/media/0e69b2_73a15e725da441ac9acb21bcff32b928~mv2.png/v1/fill/w_360,h_360,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Artflix_Website_Spanish.png" tvg-group="INFANTILES",ArtFlix (España) (🇪🇸)
 https://amogonetworx-artflix-3-es.lg.wurl.tv/playlist.m3u8
@@ -3069,69 +3065,6 @@ https://stream-cdn-iad2.vaughnsoft.net/play/live_cienciaficcion01.flv
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/A5__ZONvvqSyYLe6glndyjnFt6ff5q1ImCO9RkPw9t1cZ4je4_pXPXn7o1sUH2-wbD4q=w600-h300-pc0xffffff-pd" tvg-group="ARGENTINA", papá americano
 https://stream-cdn-iad.vaughnsoft.net/play/live_shy_ch_anaeter.flv
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/A5__ZONvvqSyYLe6glndyjnFt6ff5q1ImCO9RkPw9t1cZ4je4_pXPXn7o1sUH2-wbD4q=w600-h300-pc0xffffff-pd" tvg-group="ARGENTINA",24/7 | DINOSAURIOS
-https://nxt.plus:8443/jesus01/jesus01/140889
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/A5__ZONvvqSyYLe6glndyjnFt6ff5q1ImCO9RkPw9t1cZ4je4_pXPXn7o1sUH2-wbD4q=w600-h300-pc0xffffff-pd" tvg-group="ARGENTINA",24/7 | DRAGON BALL SUPER
-https://nxt.plus:8443/jesus01/jesus01/177641
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/A5__ZONvvqSyYLe6glndyjnFt6ff5q1ImCO9RkPw9t1cZ4je4_pXPXn7o1sUH2-wbD4q=w600-h300-pc0xffffff-pd" tvg-group="ARGENTINA",24/7 | DRAGON BALL GT
-https://nxt.plus:8443/jesus01/jesus01/122334
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/A5__ZONvvqSyYLe6glndyjnFt6ff5q1ImCO9RkPw9t1cZ4je4_pXPXn7o1sUH2-wbD4q=w600-h300-pc0xffffff-pd" tvg-group="ARGENTINA",24/7 | DRAGON BALL
-https://nxt.plus:8443/jesus01/jesus01/214261
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/A5__ZONvvqSyYLe6glndyjnFt6ff5q1ImCO9RkPw9t1cZ4je4_pXPXn7o1sUH2-wbD4q=w600-h300-pc0xffffff-pd" tvg-group="ARGENTINA",24/7 | EL AUTO FANTÁSTICO
-https://nxt.plus:8443/jesus01/jesus01/177642
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/A5__ZONvvqSyYLe6glndyjnFt6ff5q1ImCO9RkPw9t1cZ4je4_pXPXn7o1sUH2-wbD4q=w600-h300-pc0xffffff-pd" tvg-group="ARGENTINA",24/7 | COMEDIA
-https://nxt.plus:8443/jesus01/jesus01/177644
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/A5__ZONvvqSyYLe6glndyjnFt6ff5q1ImCO9RkPw9t1cZ4je4_pXPXn7o1sUH2-wbD4q=w600-h300-pc0xffffff-pd" tvg-group="ARGENTINA",24/7 | WALKER, RANGER DE TEXAS
-https://nxt.plus:8443/jesus01/jesus01/177646
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/A5__ZONvvqSyYLe6glndyjnFt6ff5q1ImCO9RkPw9t1cZ4je4_pXPXn7o1sUH2-wbD4q=w600-h300-pc0xffffff-pd" tvg-group="ARGENTINA",24/7 | MACGYVER
-https://nxt.plus:8443/jesus01/jesus01/177647
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/A5__ZONvvqSyYLe6glndyjnFt6ff5q1ImCO9RkPw9t1cZ4je4_pXPXn7o1sUH2-wbD4q=w600-h300-pc0xffffff-pd" tvg-group="ARGENTINA",24/7 | LA FAMILIA INGALLS
-https://nxt.plus:8443/jesus01/jesus01/214266
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/A5__ZONvvqSyYLe6glndyjnFt6ff5q1ImCO9RkPw9t1cZ4je4_pXPXn7o1sUH2-wbD4q=w600-h300-pc0xffffff-pd" tvg-group="ARGENTINA",24/7 | DISNEY PIXAR
-https://nxt.plus:8443/jesus01/jesus01/214275
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/A5__ZONvvqSyYLe6glndyjnFt6ff5q1ImCO9RkPw9t1cZ4je4_pXPXn7o1sUH2-wbD4q=w600-h300-pc0xffffff-pd" tvg-group="ARGENTINA",24/7 | CLÁSICOS DE DISNEY
-https://nxt.plus:8443/jesus01/jesus01/214276
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/A5__ZONvvqSyYLe6glndyjnFt6ff5q1ImCO9RkPw9t1cZ4je4_pXPXn7o1sUH2-wbD4q=w600-h300-pc0xffffff-pd" tvg-group="ARGENTINA",24/7 | POWER RANGERS
-https://nxt.plus:8443/jesus01/jesus01/225110
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/A5__ZONvvqSyYLe6glndyjnFt6ff5q1ImCO9RkPw9t1cZ4je4_pXPXn7o1sUH2-wbD4q=w600-h300-pc0xffffff-pd" tvg-group="ARGENTINA",24/7 | EL CHAVO DEL 8
-https://nxt.plus:8443/jesus01/jesus01/91926
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/A5__ZONvvqSyYLe6glndyjnFt6ff5q1ImCO9RkPw9t1cZ4je4_pXPXn7o1sUH2-wbD4q=w600-h300-pc0xffffff-pd" tvg-group="ARGENTINA",24/7 | CHESPIRITO
-https://nxt.plus:8443/jesus01/jesus01/91927
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/A5__ZONvvqSyYLe6glndyjnFt6ff5q1ImCO9RkPw9t1cZ4je4_pXPXn7o1sUH2-wbD4q=w600-h300-pc0xffffff-pd" tvg-group="ARGENTINA",24/7 | EL CHAPULIN COLORADO
-https://nxt.plus:8443/jesus01/jesus01/236960
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/A5__ZONvvqSyYLe6glndyjnFt6ff5q1ImCO9RkPw9t1cZ4je4_pXPXn7o1sUH2-wbD4q=w600-h300-pc0xffffff-pd" tvg-group="ARGENTINA",24/7 | 40 Y 20
-https://nxt.plus:8443/jesus01/jesus01/238784
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/A5__ZONvvqSyYLe6glndyjnFt6ff5q1ImCO9RkPw9t1cZ4je4_pXPXn7o1sUH2-wbD4q=w600-h300-pc0xffffff-pd" tvg-group="ARGENTINA",24/7 | LA PANTERA ROSA
-https://nxt.plus:8443/jesus01/jesus01/140916
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/A5__ZONvvqSyYLe6glndyjnFt6ff5q1ImCO9RkPw9t1cZ4je4_pXPXn7o1sUH2-wbD4q=w600-h300-pc0xffffff-pd" tvg-group="ARGENTINA",24/7 | LOS PICAPIEDRA
-https://nxt.plus:8443/jesus01/jesus01/214262
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/A5__ZONvvqSyYLe6glndyjnFt6ff5q1ImCO9RkPw9t1cZ4je4_pXPXn7o1sUH2-wbD4q=w600-h300-pc0xffffff-pd" tvg-group="ARGENTINA",24/7 | BOB ESPONJA
-https://nxt.plus:8443/jesus01/jesus01/214272
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/A5__ZONvvqSyYLe6glndyjnFt6ff5q1ImCO9RkPw9t1cZ4je4_pXPXn7o1sUH2-wbD4q=w600-h300-pc0xffffff-pd" tvg-group="ARGENTINA",24/7 LOS SIMPSON T06-T10
-https://nxt.plus:8443/jesus01/jesus01/238719
-
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/DiscoveryFamilia.us.png" tvg-group="ARGENTINA",DISCOVERY FAMILIA ᴴᴰ
-https://nxt.plus:8443/jesus01/jesus01/29723
-
 #EXTINF:-1 group-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Tve_1_2006.svg/revision/latest/scale-to-width-down/150?cb=20210527130947&path-prefix=es" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/361/CH_LOGO/160/160/0/0/34056872073.png" group-title="TV UNO" ,#️⃣ 26 TV 
 http://190.94.186.158:8000/play/a0bp/index.m3u8
 
@@ -4071,3 +4004,126 @@ https://stmv5.voxtvhd.com.br/radiopoesia/radiopoesia/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="52" tvg-name="Dreiko TV" tvg-logo="https://cdn.m3u.cl/logo/52_Dreiko_TV.png" tvg-group="ARGENTINA", Dreiko TV | PA
 https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8?PlaylistM3UCL
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToliYXdieIkc0PmT0ZspszVuwTi4XsrseIi3ShXB-kf0tIDLac70SMdJsOwdqJMhyipdo&usqp=CAU" tvg-group="ARGENTINA",tv plan
+https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://serenotv.com/cargas/2025/05/anime-presente-2-560x315.jpg" tvg-group="ARGENTINA", anime pre 2 - 209624
+https://stream.gia.tv/giatvplayout7/giatv-209624/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://serenotv.com/cargas/2025/05/canal-zona-accion-300x298.jpg" tvg-group="ARGENTINA", zona accion- 209634
+https://stream.gia.tv/giatvplayout7/giatv-209634/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://serenotv.com/cargas/2025/05/canal-family-373x315.jpg" tvg-group="ARGENTINA",Canal Family 209633
+https://stream.gia.tv/giatvplayout7/giatv-209633/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcdoXBSiWBuxFvS2W-Yn4pdeSci1pB_eL3bNb3zmkB6l_sjRRXdbW4GeGas8XX08W6Ms&usqp=CAU" tvg-group="ARGENTINA",Canal Clasicos Animados CR
+https://stream.gia.tv/giatvplayout7/giatv-209599/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" tvg-group="ARGENTINA",208768
+https://stream.gia.tv/giatvplayout7/giatv-208768/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" tvg-group="ARGENTINA",Turismo 208343
+https://stream.gia.tv/giatvplayout7/giatv-208343/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://serenotv.com/cargas/2025/05/canal-sangre-tv-296x300.jpg" tvg-group="ARGENTINA",canal sangre tv 209642
+https://stream.gia.tv/giatvplayout7/giatv-209642/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Dinosaurs_%28ABC_TV_series%29.png" tvg-group="ARGENTINA",Dinosaurs (TV series) 209644
+https://stream.gia.tv/giatvplayout7/giatv-209644/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2024/03/Tom_and_Jerry_Logo.png" tvg-group="ARGENTINA",Tom and Jerry
+https://stream.gia.tv/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://serenotv.com/cargas/2025/05/retro-tv-560x315.jpg" tvg-group="ARGENTINA",retrooooooo
+https://stream.gia.tv/giatvplayout7/giatv-209604/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="" tvg-group="ARGENTINA",wow movies
+https://stream.gia.tv/giatv/giatv-wowmovies/wowmovies/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" tvg-group="ARGENTINA",Antena 21
+https://d1p8txxph783az.cloudfront.net/index.m3u8
+
+#EXTINF:-1 tvg-logo="" tvg-group="ARGENTINA", Antena 21 HD HD
+https://alba-do-antena7-c21.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:0,tvg-logo="https://www.verfutbollibre.com/uploads/canal-argentinisima-online.jpg" tvg-group="ARGENTINA", Argentinisima
+https://streamstat.net/play.cgi?sid=726016704&ext=embed.m3u8
+
+#EXTINF:-1 tvg-logo="" tvg-group="ARGENTINA",dbsuperlat
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/dbsuperlat/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" tvg-group="ARGENTINA",Canal ZoyTV Bolivia
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/zoytvbo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" tvg-group="ARGENTINA",retrotoons
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/retrotoons/chunks
+
+#EXTINF:-1 tvg-logo="" tvg-group="ARGENTINA",MULTIVISION RD
+https://5790d294af2dc.streamlock.net/MULTIVISIONRD/MULTIVISIONRD/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" tvg-group="ARGENTINA",1 TELECLASICA
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/teleclasik/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="" tvg-group="ARGENTINA",1 RETRO TV ONLINE
+https://retromusictv.streamtech.com.co:5443/retromusic/streams/zNDymkVySau6UBcU381637625188.m3u8
+
+
+#EXTINF:-1 tvg-logo="" tvg-group="ARGENTINA",1 TELESISTEMA
+https://k20.usastreams.com:8081/telesistema/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="" tvg-group="ARGENTINA",1  MITV CLASICA
+https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="" tvg-group="ARGENTINA",1 RETROX TV
+https://acceso.radiosportstv.online:3259/hybrid/play.m3u8
+
+
+#EXTINF:-1 tvg-logo="" tvg-group="ARGENTINA",1 TELERED
+https://k20.usastreams.com:8081/telered/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="" tvg-group="ARGENTINA",1 GAM TV
+https://v2.azulstream.com:8081/gamtv/gamtv/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="" tvg-group="ARGENTINA",1 STV
+https://lstv.duckdns.org:449/hls/stv.m3u8
+
+
+#EXTINF:-1 tvg-logo="" tvg-group="ARGENTINA",1 OPINION SUR CINE
+https://5790d294af2dc.streamlock.net/opinionsur/opinionsur/chunklist_w881642739.m3u8
+
+
+#EXTINF:-1 tvg-logo="" tvg-group="ARGENTINA",1 MAX CARTOONS
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/maxcartoon/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="" tvg-group="ARGENTINA",1 OPINION SUR SERIES
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/opinionsurs/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="" tvg-group="ARGENTINA",ACS NETWORK
+https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/chunklist_w426077389.m3u8
+
+
+#EXTINF:-1 tvg-logo="" tvg-group="ARGENTINA",1 CARACOLA TV
+https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/chunks.m3u8?nimblesessionid=131971577
+
+
+#EXTINF:-1 tvg-logo="" tvg-group="ARGENTINA",1 TELESUR
+https://s1.tvdatta.com:3582/live/telesurlive.m3u8
+
+
+#EXTINF:-1 tvg-logo="" tvg-group="ARGENTINA",1 WESTERN TV
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/westernteve/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="" tvg-group="ARGENTINA",1 DEL ESTE TV
+https://stream.gia.tv/giatv/giatv-DELESTEENVIVO/DELESTEENVIVO/chunks.m3u8
