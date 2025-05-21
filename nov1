@@ -4664,7 +4664,7 @@ https://cdn.cvattv.com.ar/live/c7eds//WarnerHD/SA_Live_dash_enc/WarnerHD.mpd?|re
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"MX7IdkGfW6OAFz2ocwEFGw","k":"XHMy0i69qWfTvpS7tItqoA"},{"kty":"oct","kid":"2fpUAF8jWTuKXqOmEHFShQ","k":"-XaoXpDCDtXAEtMdItLzBQ"},{"kty":"oct","kid":"ItJt3qMYUXKOl-XWSqRbPA","k":"jgRYrPueW6s442qDz1Grfg"},{"kty":"oct","kid":"FMZGiq1WUlmjICNXeseaOQ","k":"UWOKYb-DsroGJTgx2YZ2LA"}],"type":"temporary"}
-#EXTINF:-1 ch-number="350" tvg-id="cinelatino" tvg-name="" tvg-country="" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTA2X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1734227721685" group-title="Peliculas y Series", Cine Latino
+#EXTINF:-1 ch-number="350" tvg-id="cinelatino" tvg-name="" tvg-country="" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTA2X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1734227721685" group-title="Cine, Novelas y Series", Cine Latino
 #EXTVLCOPT:http-origin=android_mobile.directvgo.com
 #EXTVLCOPT:http-user-agent=dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1
 http://m.mtd.llc:8880/CH0100000000106/index.mpd?|Origin="android_mobile.directvgo.com"
@@ -5142,7 +5142,7 @@ https://cdn.cvattv.com.ar/live/c7eds/Universo/SA_Live_dash_enc/Universo.mpd?|ref
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ed542fdaa4598671e26aca3e160afed7&key=cdb880c60523b9ebc61b9003c41f8048
-#EXTINF:-1 ch-number="8640" tvg-logo="https://i.ibb.co/B6ZHDXy/america-tucuman.png" group-title="Tucumán", AMERICA TUCUMÁN
+#EXTINF:-1 ch-number="8640" tvg-logo="https://i.ibb.co/B6ZHDXy/america-tucuman.png" tvg-group="ARGENTINA", AMERICA TUCUMÁN
 https://cdn.cvattv.com.ar/live/c7eds/America_Tucuman/SA_Live_dash_enc/America_Tucuman.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 
