@@ -1826,7 +1826,17 @@ https://fl1001.bozztv.com/ssh101/retromagicochnl/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/m13TjiR.png" tvg-group="INFANTILES", Magic Kids | SD | Argentina
 https://magicstream.ddns.net/magicstream/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5OYccJH.png" tvg-group="INFANTILES",Gogoplay televisión | bolivia
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mix-bolivia-tv-bo.png" tvg-group="INFANTILES",Gogoplay giatv-neogogoplaymix
+https://giatv.bozztv.com/giatv/giatv-neogogoplaymix/neogogoplaymix/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mix-bolivia-tv-bo.png" tvg-group="INFANTILES",Gogoplay giatv-NEOMIXHD
+https://giatv.bozztv.com/giatv/giatv-NEOMIXHD/NEOMIXHD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5OYccJH.png" tvg-group="INFANTILES",NEOGOGOPLAY
+https://giatv.bozztv.com/giatv/giatv-NEOGOGOPLAY/NEOGOGOPLAY/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5OYccJH.png" tvg-group="INFANTILES",NEOGOGOPLAYTVE
+https://giatv.bozztv.com/giatv/giatv-NEOGOGOPLAYTVE/NEOGOGOPLAYTVE/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RUuoMlL.png" tvg-group="INFANTILES",Canal LMS | México
 
