@@ -1035,6 +1035,17 @@ https://ssh101.bozztv.com/ssh101/tvhd211/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBPkoMgNeNKLxEvCJoh6Zlms2uYE05yG53weTL1Oivm_VRyDtNleO9gf1oKgY4cTHYpFA&usqp=CAU" tvg-group="ARGENTINA",EL OCHO TUCUMAN 🟡
 https://github.com/azgaresncf/strm2hls/raw/refs/heads/main/streams/elocho.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Elocho_TV_nuevo_logo.png" tvg-group="ARGENTINA", CANAL 8 TUKUMAN ok
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7760caa058b51b7cce151c0539fa4a8f:edd086c1011ed2c54cbe869d0e8d9289
+https://cdn.cvattv.com.ar/live/c7eds/Canal_8_Tucuman/SA_Live_dash_enc/Canal_8_Tucuman.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7a53740aa52d8b50ccb218aab5e9d50e&key=e772fa4a4997b50a0ff04e2ef286a864
+#EXTINF:-1 ch-number="866" tvg-logo="https://i.ibb.co/vvknBFv/canal10-tucuman.png" tvg-group="ARGENTINA", CANAL 10 TUCUMÁN
+https://cdn.cvattv.com.ar/live/c7eds/Ch10_Tucuman/SA_Live_dash_enc/Ch10_Tucuman.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
 #EXTINF:-1  tvg-id="AmericaTV.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/AMER2.png?raw=true" tvg-group="ARGENTINA", América
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b5651806b42f087c58332b052de727c5:11901b35cc3e5aa73619f64d02c38a0f
