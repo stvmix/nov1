@@ -1043,7 +1043,7 @@ https://cdn.cvattv.com.ar/live/c7eds/Canal_8_Tucuman/SA_Live_dash_enc/Canal_8_Tu
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7a53740aa52d8b50ccb218aab5e9d50e&key=e772fa4a4997b50a0ff04e2ef286a864
-#EXTINF:-1 ch-number="866" tvg-logo="https://i.ibb.co/vvknBFv/canal10-tucuman.png" tvg-group="ARGENTINA", CANAL 10 TUCUMÁN
+#EXTINF:-1 ch-number="866" tvg-logo="https://i.ibb.co/vvknBFv/canal10-tucuman.png" tvg-group="ARGENTINA", CANAL 10 TUKUMAN
 https://cdn.cvattv.com.ar/live/c7eds/Ch10_Tucuman/SA_Live_dash_enc/Ch10_Tucuman.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #EXTINF:-1  tvg-id="AmericaTV.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/AMER2.png?raw=true" tvg-group="ARGENTINA", América
@@ -4106,17 +4106,3 @@ https://tv.livestreaminggroup.info:3052/live/catorcetvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/6065f6ae802b642eeeaf23cc_cnnchile.png" tvg-group="ARGENTINA",cnn cl
 https://jireh-2-hls-video-cl-vtr.dps.live/hls-video/lvcl5/cnn/cnn.smil/cnn/livestream1/chunks.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Elocho_TV_nuevo_logo.png" group-title="INTERIOR DE ARGENTINA", CANAL 8 TUKUMAN ok
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7760caa058b51b7cce151c0539fa4a8f:edd086c1011ed2c54cbe869d0e8d9289
-https://cdn.cvattv.com.ar/live/c7eds/Canal_8_Tucuman/SA_Live_dash_enc/Canal_8_Tucuman.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7a53740aa52d8b50ccb218aab5e9d50e&key=e772fa4a4997b50a0ff04e2ef286a864
-#EXTINF:-1 ch-number="866" tvg-logo="https://i.ibb.co/vvknBFv/canal10-tucuman.png" group-title="Tucumán", CANAL 10 TUCUMÁN
-https://cdn.cvattv.com.ar/live/c7eds/Ch10_Tucuman/SA_Live_dash_enc/Ch10_Tucuman.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
