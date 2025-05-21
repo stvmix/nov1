@@ -2790,54 +2790,6 @@ https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/channel-true_crime-16x9.jpg" tvg-group="PREMIUM", CRIMEN VERDADERO DE CANELA
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/fb8c01f83f28e273af1edd823437795d.webp" tvg-group="PREMIUM", CANELA TODO CINE
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4565
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RhmStg9H/run_time.png" tvg-group="PREMIUM",DURACIÓN 1
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2218
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RhmStg9H/run_time.png" tvg-group="PREMIUM", TIEMPO DE EJECUCIÓN 2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2562
-
-#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" tvg-group="PREMIUM", TIEMPO DE EJECUCIÓN LATINO
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2567
-
-#EXTINF:-1 tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/51/ESBC400001QQ_20220323T082052.png" tvg-group="PREMIUM", Tiempo de ejecución rt
-https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_es/rt_es.m3u8?ads.de vice_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51xeNXguMqL.png" tvg-group="PREMIUM", Duración Español 1
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2511
-
-#EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_las_1920x1080.jpg" tvg-group="PREMIUM", Runtime Español
-https://run-rt-es.otteravision.com/run/rt_es/rt_es.m3u8
-
-#EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_las_action_bg.jpg" tvg-group="PREMIUM",Runtime Acción
-https://run-ra-es.otteravision.com/run/ra_es/ra_es.m3u8
-
-#EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_las_comedy_bg.jpg" tvg-group="PREMIUM",Comedia en tiempo de ejecución
-https://run-rc-es.otteravision.com/run/rc_es/rc_es.m3u8
-
-#EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_thriller_latam_16x9.jpg" tvg-group="PREMIUM",Suspenso en tiempo real
-https://run-th-es.otteravision.com/run/th_es/th_es.m3u8
-
-#EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_crimen_latam_16x9.jpg" tvg-group="PREMIUM",Runtime Crimen
-https://run-cr-es.otteravision.com/run/cr_es/cr_es.m3u8
-
-#EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_romance_latam_16x9.jpg" tvg-group="PREMIUM",Romance de tiempo de ejecución
-https://run-rr-es.otteravision.com/run/rr_es/rr_es.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Cla%CC%81sicos-en-directo-Online.png" tvg-group="PREMIUM",Clásicos en tiempo de ejecución
-https://run-cl-es.otteravision.com/run/cl_es/cl_es.m3u8
-
-#EXTINF:-1 tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/elementor/thumbs/logo-white-ovbvbhqmsdprb6sqz8bdil61k1zcy8bv2whim3g1os.png" tvg-group="PREMIUM", PELÍCULAS MYTIME MX
-https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://assets.tv24.co/channels/mytime-movie-network-l.webp" tvg-group="PREMIUM", PELÍCULAS MYTIME
-https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/cine-estrella-white.png?ch=width&auto=format%2Ccompress&w=0.4&h=0.4" tvg-group="PREMIUM",Estrella TV cine
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lgus/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://readytelevision.com/wp-content/uploads/2020/10/ready200.png" tvg-group="PREMIUM",Ready TV Canal 6
 https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
 
@@ -3680,39 +3632,6 @@ https://stmv5.voxtvhd.com.br/radiopoesia/radiopoesia/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/microvision-en-vivo-canal-10-online.jpg" tvg-group="ARGENTINA",MICROVISION 
 https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1580968055722713089/52RVFOpS_400x400.jpg" tvg-group="ARGENTINA",SITV 
-http://190.122.104.210:5080/LiveApp/streams/sitv2.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/DigitalQuince2018.png/revision/latest?cb=20220725023016&path-prefix=es" tvg-group="ARGENTINA",DIGITAL 15
-http://190.122.104.210:5080/LiveApp/streams/Di15.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/05/teleantillas-en-vivo-canal-2-online.jpg" tvg-group="ARGENTINA",TA TeleAntillas
-http://190.122.104.210:5080/LiveApp/streams/C6ngUWmvwMhliYPN366819347382115.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/Canal-4-rd-en-vivo-y-directo-1533x1536.png" tvg-group="ARGENTINA",CANAL 4
-https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/05/telemicro-en-vivo-canal-5-online-1.jpg" tvg-group="ARGENTINA",TELEMICRO 
-http://190.122.104.210:5080/LiveApp/streams/telemicrolocal5.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/canal-7-en-vivo-antena-7-online.png" tvg-group="ARGENTINA",ANTENA 7
-http://190.122.104.210:5080/LiveApp/streams/alatina.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/color-vision-canal-9-en-vivo-online.png" tvg-group="ARGENTINA",COLOR VISION 
-http://190.122.104.210:5080/LiveApp/streams/cvision1.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/telesistema-canal-11-en-vivo-online.png" tvg-group="ARGENTINA",TELESISTEMA 11
-http://190.122.104.210:5080/LiveApp/streams/YpEgxoW1AywHuG6b366663247164879.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/su_WW56pZH07SatnVhXbcQTWz0XvIqw3oBe75lqvvnahlncks2dY5Bjox2djmwPwFn-9DsIasNyczCltm91u0abB0cK5" tvg-group="ARGENTINA",TELEUNION 
-http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/telecentro-canal-13-en-vivo.png" tvg-group="ARGENTINA",TELECENTRO 
-http://190.122.104.210:5080/LiveApp/streams/tcentro.m3u8
-
-#EXTINF:-1 tvg-logo="https://storage.googleapis.com/proceso-storage/acdmedia/acdmedia/marcas/catorcetv.jpg" tvg-group="ARGENTINA",CATORCE TV 
-https://tv.livestreaminggroup.info:3052/live/catorcetvlive.m3u8
-
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc8c82ac2ec7e9799527c29db7354e81:cc4aae173dd2ef17ae26be3f7ae87662
@@ -4235,6 +4154,53 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1733
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-accion-mexicana-16x9.jpg" group-title="Cine, Novelas y Series", Accion Mexicana
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/fb8c01f83f28e273af1edd823437795d.webp" group-title="Cine, Novelas y Series", CANELA TODO CINE
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4565
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RhmStg9H/run_time.png" group-title="Cine, Novelas y Series",DURACIÓN 1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2218
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RhmStg9H/run_time.png" group-title="Cine, Novelas y Series", TIEMPO DE EJECUCIÓN 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2562
+
+#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="Cine, Novelas y Series", TIEMPO DE EJECUCIÓN LATINO
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2567
+
+#EXTINF:-1 tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/51/ESBC400001QQ_20220323T082052.png" group-title="Cine, Novelas y Series", Tiempo de ejecución rt
+https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_es/rt_es.m3u8?ads.de vice_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51xeNXguMqL.png" group-title="Cine, Novelas y Series", Duración Español 1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2511
+
+#EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_las_1920x1080.jpg" group-title="Cine, Novelas y Series", Runtime Español
+https://run-rt-es.otteravision.com/run/rt_es/rt_es.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_las_action_bg.jpg" group-title="Cine, Novelas y Series",Runtime Acción
+https://run-ra-es.otteravision.com/run/ra_es/ra_es.m3u8
+
+#EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_las_comedy_bg.jpg" group-title="Cine, Novelas y Series",Comedia en tiempo de ejecución
+https://run-rc-es.otteravision.com/run/rc_es/rc_es.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_thriller_latam_16x9.jpg" group-title="Cine, Novelas y Series",Suspenso en tiempo real
+https://run-th-es.otteravision.com/run/th_es/th_es.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_crimen_latam_16x9.jpg" group-title="Cine, Novelas y Series",Runtime Crimen
+https://run-cr-es.otteravision.com/run/cr_es/cr_es.m3u8
+
+#EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_romance_latam_16x9.jpg" group-title="Cine, Novelas y Series",Romance de tiempo de ejecución
+https://run-rr-es.otteravision.com/run/rr_es/rr_es.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Cla%CC%81sicos-en-directo-Online.png" group-title="Cine, Novelas y Series",Clásicos en tiempo de ejecución
+https://run-cl-es.otteravision.com/run/cl_es/cl_es.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/elementor/thumbs/logo-white-ovbvbhqmsdprb6sqz8bdil61k1zcy8bv2whim3g1os.png" group-title="Cine, Novelas y Series", PELÍCULAS MYTIME MX
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.tv24.co/channels/mytime-movie-network-l.webp" group-title="Cine, Novelas y Series", PELÍCULAS MYTIME
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/cine-estrella-white.png?ch=width&auto=format%2Ccompress&w=0.4&h=0.4" group-title="Cine, Novelas y Series",Estrella TV cine
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lgus/playlist.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -4584,6 +4550,39 @@ https://cdn.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd?|referer
 #EXTINF:-1 group-title="Mundo", ch-number="732" tvg-id="universoTV.py" tvg-logo="https://hoypyspace.sfo2.cdn.digitaloceanspaces.com/imagenes/2025/04/logo-popu-tv-white.png", Universo TV Paraguay
 https://cdn.cvattv.com.ar/live/c7eds/Universo/SA_Live_dash_enc/Universo.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1580968055722713089/52RVFOpS_400x400.jpg" group-title="Mundo",SITV 
+http://190.122.104.210:5080/LiveApp/streams/sitv2.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/DigitalQuince2018.png/revision/latest?cb=20220725023016&path-prefix=es" group-title="Mundo",DIGITAL 15
+http://190.122.104.210:5080/LiveApp/streams/Di15.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/05/teleantillas-en-vivo-canal-2-online.jpg" group-title="Mundo",TA TeleAntillas
+http://190.122.104.210:5080/LiveApp/streams/C6ngUWmvwMhliYPN366819347382115.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/Canal-4-rd-en-vivo-y-directo-1533x1536.png" group-title="Mundo",CANAL 4
+https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/05/telemicro-en-vivo-canal-5-online-1.jpg" group-title="Mundo",TELEMICRO 
+http://190.122.104.210:5080/LiveApp/streams/telemicrolocal5.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/canal-7-en-vivo-antena-7-online.png" group-title="Mundo",ANTENA 7
+http://190.122.104.210:5080/LiveApp/streams/alatina.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/color-vision-canal-9-en-vivo-online.png" group-title="Mundo",COLOR VISION 
+http://190.122.104.210:5080/LiveApp/streams/cvision1.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/telesistema-canal-11-en-vivo-online.png" group-title="Mundo",TELESISTEMA 11
+http://190.122.104.210:5080/LiveApp/streams/YpEgxoW1AywHuG6b366663247164879.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/su_WW56pZH07SatnVhXbcQTWz0XvIqw3oBe75lqvvnahlncks2dY5Bjox2djmwPwFn-9DsIasNyczCltm91u0abB0cK5" group-title="Mundo",TELEUNION 
+http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/telecentro-canal-13-en-vivo.png" group-title="Mundo",TELECENTRO 
+http://190.122.104.210:5080/LiveApp/streams/tcentro.m3u8
+
+#EXTINF:-1 tvg-logo="https://storage.googleapis.com/proceso-storage/acdmedia/acdmedia/marcas/catorcetv.jpg" group-title="Mundo",CATORCE TV 
+https://tv.livestreaminggroup.info:3052/live/catorcetvlive.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ed542fdaa4598671e26aca3e160afed7&key=cdb880c60523b9ebc61b9003c41f8048
 #EXTINF:-1 ch-number="8640" tvg-logo="https://i.ibb.co/B6ZHDXy/america-tucuman.png" tvg-group="ARGENTINA", AMERICA TUCUMÁN
@@ -4609,3 +4608,4 @@ https://cdn.cvattv.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc/Sextreme.mpd?|ref
 #EXTINF:-1 group-title="Adultos" adult=1 ch-number="1002" tvg-id="Venus.ar.uy" tvg-logo="https://dl.dropbox.com/scl/fi/ccb7fp8758t7obaa9037c/venus.jpg?rlkey=tyvcaenu68rwe1ir2hj9amtc9&dl=1", Venus (18+)
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://cdn.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc/Venus.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
