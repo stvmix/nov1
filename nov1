@@ -1889,19 +1889,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e98a911c881310007d7aa
 #EXTINF:-81 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqqSL08yg3W2IM_K91EPu9zCApDkbHBF5uEYRlL_03CdJf3iiAei7RSesGllVtQyzGGds&usqp=CAU" tvg-group="INFANTILES", MTV VINTAGE SERIES
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91b7ea86ee60009d89e75/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=3eb20d33-c88f-4384-ad85-b2ee2a35575c&deviceLat=-32.0644&deviceLon=-60.6425&deviceMake=Firefox&deviceModel=Firefox&deviceType=web&deviceVersion=74.0&includeExtendedEvents=false&sid=945b0b37-ec2d-4eeb-a440-15f271e2e718&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66a01dcb8561260008b0a41d/featuredImage.jpg?auto=&q=70&fit=fill&fill=blur&ixlib=react-9.1.5",MTV Classic [Entretenimiento] [157] [AR]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqqSL08yg3W2IM_K91EPu9zCApDkbHBF5uEYRlL_03CdJf3iiAei7RSesGllVtQyzGGds&usqp=CAU",MTV Classic [Entretenimiento] [157] [AR]
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de91b7ea86ee60009d89e75/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6686796619311200085310a0/colorLogoPNG.png", MTV Flow Latino
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=85a85ad1-7bde-49e4-8ce9-39bcfed2588f
-
-#EXTINF:0 tvg-logo="https://images.pluto.tv/channels/66a01b52a4ee27000808ea36/colorLogoPNG.png", MTV Rocks
-https://stitcher.pluto.tv/stitch/hls/channel/66a01b52a4ee27000808ea36/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=09083b97-7943-11ef-be08-92fcbbc12eaa
-                    
-#EXTINF:0 tvg-logo="https://images.pluto.tv/channels/66a11a21a79dea0008aa90ca/colorLogoPNG.png", MTV Classic
-https://stitcher.pluto.tv/stitch/hls/channel/66a11a21a79dea0008aa90ca/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=09083b97-7943-11ef-be08-92fcbbc12eaa
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NickMusic.svg/512px-NickMusic.svg.png",NickMusic
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kwIrTSI.png" tvg-group="INFANTILES",Futurama stream
 https://stream-cdn-iad.vaughnsoft.net/play/live_futurama_mania_.flv?android_vs.ts.m3u8
@@ -3798,6 +3787,15 @@ https://cdn.cvattv.com.ar/live/c7eds/MTV00/SA_Live_dash_enc/MTV00.mpd?|referer=h
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://cdn.cvattv.com.ar/live/c6eds/MTV_Hits/SA_Live_dash_enc/MTV_Hits.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6686796619311200085310a0/colorLogoPNG.png" group-title="Música", MTV Flow Latino
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=85a85ad1-7bde-49e4-8ce9-39bcfed2588f
+
+#EXTINF:0 tvg-logo="https://images.pluto.tv/channels/66a11a21a79dea0008aa90ca/colorLogoPNG.png" group-title="Música", MTV Classic
+https://stitcher.pluto.tv/stitch/hls/channel/66a11a21a79dea0008aa90ca/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=09083b97-7943-11ef-be08-92fcbbc12eaa
+
+#EXTINF:0 tvg-logo="https://images.pluto.tv/channels/66a01b52a4ee27000808ea36/colorLogoPNG.png" group-title="Música", MTV Rocks
+https://stitcher.pluto.tv/stitch/hls/channel/66a01b52a4ee27000808ea36/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=09083b97-7943-11ef-be08-92fcbbc12eaa
+    
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a354b0c82a3a720c4a6f52ed5a1190f4:45a76dcc84f058cfabc8b958d7303b28
 #EXTINF:-1 ch-number="514" tvg-id="QuieroMusicaenmiIdioma.ar" tvg-logo="https://static.flow.com.ar/images/715/CH_LOGO/1920/1080/0/0/80393273073281.png" group-title="Música", Quiero Musica
@@ -4270,4 +4268,3 @@ https://cdn.cvattv.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc/Sextreme.mpd?|ref
 #EXTINF:-1 group-title="Adultos" adult=1 ch-number="1002" tvg-id="Venus.ar.uy" tvg-logo="https://dl.dropbox.com/scl/fi/ccb7fp8758t7obaa9037c/venus.jpg?rlkey=tyvcaenu68rwe1ir2hj9amtc9&dl=1", Venus (18+)
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://cdn.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc/Venus.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
-
