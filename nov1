@@ -1,4 +1,4 @@
-#EXTM3U list-name="TV" list-image="https://media.licdn.com/dms/image/C4E0BAQH6PD5jVhLPTQ/company-logo_200_200/0/1649938409650/mayo_chile_logo?e=2147483647&v=beta&t=uSzzNFEX8f67VufuP7Xlz1xr8LURKPc0kNhPfr023-Y"
+#EXTM3U list-name="XD" list-image="https://media.licdn.com/dms/image/C4E0BAQH6PD5jVhLPTQ/company-logo_200_200/0/1649938409650/mayo_chile_logo?e=2147483647&v=beta&t=uSzzNFEX8f67VufuP7Xlz1xr8LURKPc0kNhPfr023-Y"
 
 
 #EXTM3U
@@ -3494,6 +3494,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1733
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-accion-mexicana-16x9.jpg" group-title="Cine, Novelas y Series", Accion Mexicana
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
 
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/f5457ac0-sangre_fria_1920x1080_0.jpg" group-title="Cine, Novelas y Series",Sangre Fría
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6130
+
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/fb8c01f83f28e273af1edd823437795d.webp" group-title="Cine, Novelas y Series", CANELA TODO CINE
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4565
 
@@ -4268,3 +4271,5 @@ https://cdn.cvattv.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc/Sextreme.mpd?|ref
 #EXTINF:-1 group-title="Adultos" adult=1 ch-number="1002" tvg-id="Venus.ar.uy" tvg-logo="https://dl.dropbox.com/scl/fi/ccb7fp8758t7obaa9037c/venus.jpg?rlkey=tyvcaenu68rwe1ir2hj9amtc9&dl=1", Venus (18+)
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://cdn.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc/Venus.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+
