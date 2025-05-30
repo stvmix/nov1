@@ -4198,11 +4198,11 @@ http://190.122.104.210:5080/LiveApp/streams/cvision1.m3u8
 #EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/telesistema-canal-11-en-vivo-online.png" group-title="Mundo",TELESISTEMA 11
 http://190.122.104.210:5080/LiveApp/streams/YpEgxoW1AywHuG6b366663247164879.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/YV6bllEm1yoJiIb7WOYXa7SjcZOw4RU8JOYaCXMsPUn4L9Xd1GBoUzRnBrUcVDIcbZQ3-43kfwiJBUhOmcEiOwH_Hx87" group-title="Mundo",TELEUNION 
-http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/telecentro-canal-13-en-vivo.png" group-title="Mundo",TELECENTRO 
 http://190.122.104.210:5080/LiveApp/streams/tcentro.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.megavisiontvrd.com/assets/img/Logo%20Teleunion%20FINAL.jpg" group-title="Mundo",TELEUNION 
+http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://storage.googleapis.com/proceso-storage/acdmedia/acdmedia/marcas/catorcetv.jpg" group-title="Mundo",CATORCE TV 
 https://tv.livestreaminggroup.info:3052/live/catorcetvlive.m3u8
@@ -4261,8 +4261,8 @@ https://cdn.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc/Venus.mpd?|referer=h
 #EXTINF:-1 group-title="Canales 24/7" tvg-logo="https://dl.dropboxusercontent.com/s/c90stem0d14pp6a/chicassuperpoderosas.png" tvg-group="ARGENTINA",24/7 Chicas Superpoderosas
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333137
 
-#EXTINF:-1 group-title="Canales 24/7" tvg-logo="https://img.tvcl.xyz/247/247.png" tvg-group="ARGENTINA",24/7 El Chavo Del 8 SD
+#EXTINF:-1 group-title="Canales 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/El_chavo_animado_logo.png" tvg-group="ARGENTINA",24/7 El Chavo Del 8 SD
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58278
 
-#EXTINF:-1 group-title="Canales 24/7" tvg-logo="https://img.tvcl.xyz/247/247.png" tvg-group="ARGENTINA",24/7 VIP Los Simpsons FHD
+#EXTINF:-1 group-title="Canales 24/7" tvg-logo="https://mechanicrobotic.files.wordpress.com/2007/07/simpsons_logo.gif" tvg-group="ARGENTINA",24/7 VIP Los Simpsons FHD
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50616
