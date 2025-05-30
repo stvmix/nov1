@@ -4255,3 +4255,14 @@ https://cdn.cvattv.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc/Sextreme.mpd?|ref
 #EXTINF:-1 group-title="Adultos" adult=1 ch-number="1002" tvg-id="Venus.ar.uy" tvg-logo="https://dl.dropbox.com/scl/fi/ccb7fp8758t7obaa9037c/venus.jpg?rlkey=tyvcaenu68rwe1ir2hj9amtc9&dl=1", Venus (18+)
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://cdn.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc/Venus.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+
+
+#EXTINF:-1 group-title="Canales 24/7" tvg-logo="https://dl.dropboxusercontent.com/s/c90stem0d14pp6a/chicassuperpoderosas.png" tvg-group="ARGENTINA",24/7 Chicas Superpoderosas
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333137
+
+#EXTINF:-1 group-title="Canales 24/7" tvg-logo="https://img.tvcl.xyz/247/247.png" tvg-group="ARGENTINA",24/7 El Chavo Del 8 SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58278
+
+#EXTINF:-1 group-title="Canales 24/7" tvg-logo="https://img.tvcl.xyz/247/247.png" tvg-group="ARGENTINA",24/7 VIP Los Simpsons FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50616
