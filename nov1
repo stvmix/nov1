@@ -4308,7 +4308,7 @@ https://CSC-ARR-EDGE01.sensa.com.ar/live/eds/Canal9/live_dash_cld/Canal9.mpd?|re
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=faf29a5a543c9d82ef34ec2479140003:2452197f9d4eb63a3081d986ca413375
-#EXTINF:-1 tvg-id="Canal 10.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/590/CH_LOGO/160/160/0/0/7476260107885.png" group-title="Córdoba",Canal 10 Córdoba
+#EXTINF:-1 tvg-id="Canal 10.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/590/CH_LOGO/160/160/0/0/7476260107885.png" group-title="Argentina",Canal 10 Córdoba
 https://CSC-ARR-EDGE01.sensa.com.ar/bpk-tv/Canal10cba/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -4316,20 +4316,20 @@ https://CSC-ARR-EDGE01.sensa.com.ar/bpk-tv/Canal10cba/default/index.mpd?|referer
 #EXTINF:-1  ch-number="11" tvg-id="telefe" tvg-name="Telefe.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/115/CH_LOGO/160/160/0/0/57769025072354.png" group-title="Argentina", Telefé
 https://CSC-ARR-EDGE01.sensa.com.ar/live/eds/Telefe/live_dash_cld/Telefe.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 ch-number="11" tvg-id="Telefe Rosario.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1081/CH_LOGO/160/160/0/0/86810730078.png" group-title="Santa Fe", Telefé Rosario
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1081/CH_LOGO/160/160/0/0/86810730078.png" group-title="Argentina", Telefé Rosario
 https://CSC-ARR-EDGE01.sensa.com.ar/output/ARR2/TelefeRosarioH/playlist.m3u8
 
-#EXTINF:-1 ch-number="11" tvg-id="Telefe Santa Fe.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/961/CH_LOGO/160/160/0/0/7886775407228.png" group-title="Santa Fe", Telefé Santa Fé
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/961/CH_LOGO/160/160/0/0/7886775407228.png" group-title="Argentina", Telefé Santa Fé
 https://CSC-ARR-EDGE01.sensa.com.ar/output/COR/TSFH/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=40eb9a4d4c2d374123cdaa14325f9589:432059bce61664caffc06223a1c081e2
-#EXTINF:-1  ch-number="" tvg-id="Telefe Cordoba.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/588/CH_LOGO/160/160/0/0/887528030752.png" group-title="Córdoba", Telefé Córdoba
+#EXTINF:-1  ch-number="" tvg-id="Telefe Cordoba.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/588/CH_LOGO/160/160/0/0/887528030752.png" group-title="Argentina", Telefé Córdoba
 https://CSC-ARR-EDGE01.sensa.com.ar/bpk-tv/Canal8cba/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4c816a8c004ab857e53d7897c7c1db1b:a57bb2fbf55f52d9d827a04bbb531588
-#EXTINF:-1 ch-number="12" tvg-id="eldoce tvg-name="Canal 12.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/589/CH_LOGO/160/160/0/0/51636269072.png" group-title="Córdoba", El Doce Córdoba
+#EXTINF:-1 ch-number="12" tvg-id="eldoce tvg-name="Canal 12.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/589/CH_LOGO/160/160/0/0/51636269072.png" group-title="Argentina", El Doce Córdoba
 https://CSC-ARR-EDGE01.sensa.com.ar/bpk-tv/Canal12cba/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -4376,11 +4376,6 @@ https://CSC-ARR-EDGE01.sensa.com.ar/live/eds/CanalRural/live_dash_cld/CanalRural
 #KODIPROP:inputstream.adaptive.license_key=68e7788389d18bfa49daf812c581a3b0:b4ef16f31325e24d16390ea74b088512
 #EXTINF:-1  tvg-id="Chacra TV.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/591/CH_LOGO/160/160/0/0/44952019073840.png" group-title="Argentina", Chacra TV
 https://CSC-ARR-EDGE01.sensa.com.ar/bpk-tv/ChacraTV/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0c7cb1ff69ab931bc2348f2e00381544:e89139fc667b4e306f1accb3db40a584
-#EXTINF:-1 tvg-id="[T5SATA] T5 Satelital" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1161/CH_LOGO/160/160/0/0/62114771072283.png" group-title="Corrientes", T5 Satelital
-https://CSC-ARR-EDGE01.sensa.com.ar/bpk-tv/T5Satelital/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2b1d643b42908bda2927137cf3747e1a:9ccd9052a9a28c05096996e82c080eb3
@@ -4995,27 +4990,6 @@ https://CSC-ARR-EDGE01.sensa.com.ar/bpk-tv/ElFolklorico/default/index.mpd?|refer
 https://CSC-ARR-EDGE01.sensa.com.ar/output/SMT1/BLBD/output.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 
-
-religión (490xx)
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=43ef5f8823a35d1ac482dc48dca4c273:b535315a329dfd850082d0f441b0c463
-#EXTINF:-1 group-title="Religión" ch-number="490" tvg-id="354#Canal LUZ (ARG)" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/483/CH_LOGO/160/160/0/0/4012387807349.png", Canal Luz
-https://CSC-ARR-EDGE01.sensa.com.ar/live/eds/CanalLuz/live_dash_cld/CanalLuz.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=20de9c8173c1cf6d9cf22d20325e447e:58b855b048f7f5bba4ec5d47fdbe3fc9
-#EXTINF:-1 ch-number="491" tvg-id="350#Eternal Word TV Network" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/366/CH_LOGO/160/160/0/0/231984100764.png" group-title="Religión", EWTN
-https://CSC-ARR-EDGE01.sensa.com.ar/live/eds/EWTN/live_dash_cld/EWTN.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7b1e631ba089c345f38a0bc04acf459b:1b26ad9df48567b9bdc0216e7711b85e
-#EXTINF:-1 group-title="Religión" ch-number="493" tvg-id="[CNSTMAR] Canal Santa Maria" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2281/CH_LOGO/160/160/0/0/37747274077987.png", Radio María TV
-https://CSC-ARR-EDGE01.sensa.com.ar/bpk-tv/RadioMaria/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-
-
-
 mundiales e internacionales
 
 
@@ -5070,43 +5044,18 @@ https://CSC-ARR-EDGE01.sensa.com.ar/live/eds/TVE/live_dash_cld/TVE.mpd?|referer=
 #EXTINF:-1 group-title="Mundo" ch-number="624" tvg-id="VE PLUS TV" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1761/CH_LOGO/160/160/0/0/2565660807177.png", Ve Plus
 https://CSC-ARR-EDGE01.sensa.com.ar/bpk-tv/VePlus/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5746dc57cb1c26d5267d116d3f49d871:d1dc3a3a13fc3981c08a0376706b2e61
-#EXTINF:-1 group-title="Mundo" ch-number="625" tvg-id="UCL.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/4001/CH_LOGO/160/160/0/0/62763250072541.png", UCL
-https://CSC-ARR-EDGE01.sensa.com.ar/bpk-tv/UCL/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-
-
-
-
-
-misiones
-
-#EXTINF:-1 ch-number="832" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/981/CH_LOGO/160/160/0/0/98840360071467.png" group-title="Misiones", Doce Misiones
+#EXTINF:-1 ch-number="832" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/981/CH_LOGO/160/160/0/0/98840360071467.png" group-title="Argentina", Doce Misiones
 https://CSC-ARR-EDGE01.sensa.com.ar/output/c12pos/playlist.m3u8
-
-
-
-
-santa fe
-
-
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=662447df521fb590b72b1a11671c2afd&key=81c204c443987d7b176587d626a124a0
-#EXTINF:-1 ch-number="843" tvg-id="Rosario 3" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1301/CH_LOGO/160/160/0/0/1420770707895.png" group-title="Santa Fe", El Tres TV Rosario
+#EXTINF:-1 ch-number="843" tvg-id="Rosario 3" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1301/CH_LOGO/160/160/0/0/1420770707895.png" group-title="Argentina", El Tres TV Rosario
 https://CSC-ARR-EDGE01.sensa.com.ar/output/ARR2/C3RH/playlist.m3u8
 
 
 
 regionales 
 
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ff1e6f58369fa0457670eb452cb49f8a:4a5b005a7dbd38fe00c50d27fa23ab0a
-#EXTINF:-1 ch-number="" tvg-id="132#Telediario Television" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/782/CH_LOGO/160/160/0/0/93452015074309.png" group-title="Córdoba", Telediario Televisión
-https://CSC-ARR-EDGE01.sensa.com.ar/bpk-tv/TelediarioTelevision/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8f9261beee045d06c325c380b9275e15:89976f64ccde3509e15e38c9196a529f
@@ -5367,34 +5316,10 @@ https://CSC-ARR-EDGE01.sensa.com.ar/output/SMT3/CHTVD/output.mpd?|referer=https:
 
 
 
-
-
-
-
-
-
-música
-
-#EXTINF:-1 ch-number="" tvg-id="popular" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/3982/CH_LOGO/160/160/0/0/67035155079040.png" group-title="Radios", La Popu
-https://CSC-ARR-EDGE01.sensa.com.ar/output/ET-01/popular/master.m3u8
-
-#EXTINF:-1 ch-number="" tvg-id="cosquinrock" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/3981/CH_LOGO/160/160/0/0/71941975079039.png" group-title="Radios", Cosquín Rock
-https://CSC-ARR-EDGE01.sensa.com.ar/output/ET-01/cosquinrock/master.m3u8
-
-#EXTINF:-1 ch-number="" tvg-id="Cadena3" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/3841/CH_LOGO/160/160/0/0/71241680072511.png" group-title="Radios", Cadena 3
-https://CSC-ARR-EDGE01.sensa.com.ar/output/ET-01/Cadena3/master.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
-#EXTINF:-1 ch-number="" tvg-id="Futurock" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/4384/CH_LOGO/160/160/0/0/18277879079297.png" group-title="Provinciales", Futuröck
-https://CSC-ARR-EDGE01.sensa.com.ar/output/SMT6/FTRd/output.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-
 adultos
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f51160ad68cb411abbae2b7e51e20ad4:3015d76327dcd38f19037e5af639ebb2
 #EXTINF:-1 group-title="Adultos" adult=1 ch-number="1000" tvg-id="Playboy.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/112/CH_LOGO/160/160/0/0/8669389807114.png", Playboy TV (18+)
 https://CSC-ARR-EDGE01.sensa.com.ar/live/eds/Playboy/live_dash_cld/Playboy.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
 
