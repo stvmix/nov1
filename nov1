@@ -4272,11 +4272,6 @@ https://cdn.cvattv.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc/Sextreme.mpd?|ref
 https://cdn.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc/Venus.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/El_chavo_animado_logo.png" tvg-group="ARGENTINA",24/7 El Chavo Del 8 SD
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58278
-
-
 #EXTM3U url-tvg="https://www.open-epg.com/files/argentina2.xml.gz"
 
 
@@ -5157,6 +5152,16 @@ https://cdn.cvattv.com.ar/live/c3eds/Eventos_PY/SA_Live_dash_enc/Eventos_PY.mpd
 https://cdn.cvattv.com.ar/live/c4eds/Eventos2_PY/SA_Live_dash_enc/Eventos2_PY.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/El_chavo_animado_logo.png" tvg-group="ARGENTINA",24/7 El Chavo Del 8 SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58278
 
-#EXTINF:-1 tvg-logo="https://commerce.nbcuni.com/public/strapi-smart-microsite-uploads/Telemundo_white_logo_f6fc7bff8b.png" group-title="📺​ Live", TEMUNDO 52
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s-v2/Live/channel(kvea)/master.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oPH8V9c.png" group-title="Sport Argentina",ESPN Premium HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
+https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/84erChI.png" group-title="Sport Argentina",TNT Sports
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
+https://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd
