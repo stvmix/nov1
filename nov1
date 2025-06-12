@@ -4700,6 +4700,22 @@ https://cdn.cvattv.com.ar/live/c6eds/HBO_Plus/SA_Live_dash_enc/HBO_Plus.mpd?|ref
 #KODIPROP:inputstream.adaptive.license_key=f4e1ce5cef7e9a110fe968f8881b21fa:6bbe2062b150b11496cdd5fbdd9c89d6
 https://cdn.cvattv.com.ar/live/c7eds/HBO_POP/SA_Live_dash_enc/HBO_POP.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Elocho_TV_nuevo_logo.png" group-title="🇦🇷 ARGENTINA", CANAL 8 TUKUMAN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7760caa058b51b7cce151c0539fa4a8f:edd086c1011ed2c54cbe869d0e8d9289
+https://cdn.cvattv.com.ar/live/c7eds/Canal_8_Tucuman/SA_Live_dash_enc/Canal_8_Tucuman.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="CANAL.10.HD.uy" tvg-logo="https://i.ibb.co/vvknBFv/canal10-tucuman.png" group-title="🇦🇷 ARGENTINA", CANAL 10 TUKUMAN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7a53740aa52d8b50ccb218aab5e9d50e:e772fa4a4997b50a0ff04e2ef286a864
+https://cdn.cvattv.com.ar/live/c7eds/Ch10_Tucuman/SA_Live_dash_enc/Ch10_Tucuman.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5nJff9s/cronica-Bravo-TV.jpg" group-title="🇦🇷 ARGENTINA", BRAVO TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ad7fbbec39cea4a5a63ac13d94da48d4:f71087b4dc211db079237c0fb783eb93
+https://cdn.cvattv.com.ar/live/c7eds/BravoTV/SA_Live_dash_enc/BravoTV.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Logo_Canal_13_200_8.png/800px-Logo_Canal_13_200_8.png" group-title="🇦🇷 ARGENTINA", EL TRECE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5179017f49326d14af0a9ceec831aee6:09b4a463b029ebc28a288bed2da70a76
@@ -4770,49 +4786,12 @@ https://cdn.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc_wl/TodoNotici
 #KODIPROP:inputstream.adaptive.license_key=3b1b027dd011af20fd9956c16dc084fb:45f75aacf06593c9b693fe427c67e5b8
 https://cdn.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc/America24.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5nJff9s/cronica-Bravo-TV.jpg" group-title="INTERIOR DE ARGENTINA", BRAVO TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ad7fbbec39cea4a5a63ac13d94da48d4:f71087b4dc211db079237c0fb783eb93
-https://cdn.cvattv.com.ar/live/c7eds/BravoTV/SA_Live_dash_enc/BravoTV.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Elocho_TV_nuevo_logo.png" group-title="INTERIOR DE ARGENTINA", CANAL 8 TUKUMAN
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7760caa058b51b7cce151c0539fa4a8f:edd086c1011ed2c54cbe869d0e8d9289
-https://cdn.cvattv.com.ar/live/c7eds/Canal_8_Tucuman/SA_Live_dash_enc/Canal_8_Tucuman.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-id="CANAL.10.HD.uy" tvg-logo="https://4.bp.blogspot.com/-OUx3MrU8EFk/WDyKrgWT7xI/AAAAAAAABPI/GMsSZyCV_HYjqZaCrlKU13d82a3mI45mgCLcB/s1600/c10-tucuman.png" group-title="INTERIOR DE ARGENTINA", CANAL 10 TUKUMAN
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7a53740aa52d8b50ccb218aab5e9d50e:e772fa4a4997b50a0ff04e2ef286a864
-https://cdn.cvattv.com.ar/live/c7eds/Ch10_Tucuman/SA_Live_dash_enc/Ch10_Tucuman.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-logo="" group-title="INTERIOR DE ARGENTINA", CANAL 3 ROSARIO
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=662447df521fb590b72b1a11671c2afd:81c204c443987d7b176587d626a124a0
-https://cdn.cvattv.com.ar/live/c3eds/Canal_3_Rosario/SA_Live_dash_enc/Canal_3_Rosario.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/60sFBfY/og-image.jpg" group-title="INTERIOR DE ARGENTINA", CANAL 12 CORDOBA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60sFBfY/og-image.jpg" group-title="🇦🇷 ARGENTINA", CANAL 12 CORDOBA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=90422640d3e846159fa450f83870ed4a:abb3cd94aece1a462df25a8f21085cca
 https://cdn.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc/Canal_12_CBA.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/60sFBfY/og-image.jpg" group-title="INTERIOR DE ARGENTINA", CANAL 12 CORDOBA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=90422640d3e846159fa450f83870ed4a:abb3cd94aece1a462df25a8f21085cca
-https://cdn.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc/Canal_12_CBA.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-logo="https://static.tvar.io/imagenes/34sanjuan.png" group-title="INTERIOR DE ARGENTINA", Canal 34 San juan
-http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.tvar.io/imagenes/canal10cba.jpg" group-title="INTERIOR DE ARGENTINA", CANAL 10 CORDOBA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d85fcc70989d0dbe8d70dd70a4629c0:a953290192fd5db5bf7936a88ecc6877
-https://cdn.cvattv.com.ar/live/c4eds/Canal10_CBA_HD/SA_Live_dash_enc/Canal10_CBA_HD.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-logo="https://barranquerasonline.com.ar/wp-content/uploads/2018/05/unnamed.jpg" group-title="INTERIOR DE ARGENTINA", Chaco TV (720p)
-https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.tvar.io/imagenes/13maxdigital.png" group-title="INTERIOR DE ARGENTINA", 13 Max Televisi\u00f3n
+#EXTINF:-1 tvg-logo="https://static.tvar.io/imagenes/13maxdigital.png" group-title="🇦🇷 ARGENTINA", 13 Max Televisi\u00f3n
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/chunklist_w247540946.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/axBsGZpuo18ahgTOr8vsQ2KQH1hNbxPlXG3b-Ylf4CX1hB7_eHH5_yBaSQ3Hj0CQFrXyXLanMzZi" group-title="⚽ DEPORTES ", UNIVERSO NBC
