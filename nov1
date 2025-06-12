@@ -4442,11 +4442,6 @@ https://cdn.cvattv.com.ar/live/c7eds/Boomerang/SA_Live_dash_enc/Boomerang.mpd?|r
 #KODIPROP:inputstream.adaptive.license_key=9e09f0a3ecb932582e0f3bc6a6194c8d:6d2363b7ba7680ea3bf6dcbad1efa5bf
 https://cdn.cvattv.com.ar/live/c7eds/BabyTV/SA_Live_dash_enc/BabyTV.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/KG2cJ5f/Plim-Plim.png" group-title="👩‍👦‍👦 INFANTILES", PLIM PLIM TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=334001b2f2644df9bdf35e92d2b89f8f:475ec87d86ed0636dbb6d6d9d4a43bb7
-https://cdn.cvattv.com.ar/live/c7eds/Plim_Plim/SA_Live_dash_enc/Plim_Plim.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pzxBWZj/Dream-Works-Channel.png" group-title="👩‍👦‍👦 INFANTILES", DREAMWORKS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7f30c43e47544412221fd64201d92f4b:f83d09d75a0946b1d71aa48c201b4d8b
