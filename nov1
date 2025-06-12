@@ -5124,12 +5124,6 @@ https://cdn.cvattv.com.ar/live/c4eds/Canal4_URU/SA_Live_dash_enc/Canal4_URU.mpd?
 #KODIPROP:inputstream.adaptive.license_key=dfde9d35d7438bfdf61da5dfac0557c1:acb13370c03a7254e2bb9cc9d2125017
 https://cdn.cvattv.com.ar/live/c4eds/Canal12URU/SA_Live_dash_enc/Canal12URU.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
-
-#EXTINF:-1 tvg-logo="https://commerce.nbcuni.com/public/strapi-smart-microsite-uploads/Telemundo_white_logo_f6fc7bff8b.png" group-title="📺​ Live", TEMUNDO 52
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dfde9d35d7438bfdf61da5dfac0557c1:acb13370c03a7254e2bb9cc9d2125017
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s-v2/Live/channel(kvea)/master.mpd
-
 #EXTINF:-1 tvg-logo="https://telefullhd.com/imagenes2/sextreme.png" group-title="ADULTOSADULTOS",SEXTREME
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=95bd64227acf458daf7886f803d0298e:79e28ee0ec58958bb666f9e53a0cd434
@@ -5163,3 +5157,8 @@ https://cdn.cvattv.com.ar/live/c3eds/Eventos_PY/SA_Live_dash_enc/Eventos_PY.mpd
 https://cdn.cvattv.com.ar/live/c4eds/Eventos2_PY/SA_Live_dash_enc/Eventos2_PY.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
 
+
+#EXTINF:-1 tvg-logo="https://commerce.nbcuni.com/public/strapi-smart-microsite-uploads/Telemundo_white_logo_f6fc7bff8b.png" group-title="📺​ Live", TEMUNDO 52
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dfde9d35d7438bfdf61da5dfac0557c1:acb13370c03a7254e2bb9cc9d2125017
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s-v2/Live/channel(kvea)/master.mpd
