@@ -5159,6 +5159,4 @@ https://cdn.cvattv.com.ar/live/c4eds/Eventos2_PY/SA_Live_dash_enc/Eventos2_PY.mp
 
 
 #EXTINF:-1 tvg-logo="https://commerce.nbcuni.com/public/strapi-smart-microsite-uploads/Telemundo_white_logo_f6fc7bff8b.png" group-title="📺​ Live", TEMUNDO 52
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dfde9d35d7438bfdf61da5dfac0557c1:acb13370c03a7254e2bb9cc9d2125017
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s-v2/Live/channel(kvea)/master.mpd
