@@ -1978,11 +1978,15 @@ https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 #EXTINF:-1  tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/13cable.png" tvg-group="INFANTILES", 13C Cable
 https://marine2.miplay.cl/canal13cable/playlist.m3u8
 
+#EXTINF:-1  tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/13cable.png" tvg-group="INFANTILES",13C (🇨🇱)
+https://marine2.miplay.cl/canal13cable/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f66c8380f9a3880549a0_13cable.png" tvg-group="INFANTILES", C13 CL
 https://marine2.miplay.cl/c13/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/canal13.png" tvg-group="INFANTILES", CL C13 OK
 https://marine2.miplay.cl/c13/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/lared.png" tvg-group="INFANTILES", La Red | CL
 
@@ -6516,40 +6520,14 @@ https://cdn.sensa.com.ar/live/eds/Playboy/live_dash_cld/Playboy.mpd?|referer=htt
 
 
 
-
-
-
-
-
-
-#EXTINF:0,11 (Honduras) (🇭🇳)
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/ceeaa5b7b321683f8105e31e645329fc49dc4108103aef6d9e540f0a5e1183f3.png" tvg-group="ARGENTINA",11 (Honduras) (🇭🇳)
 https://tinyurl.com/4z3cwea2?.m3u8
-#EXTINF:0,12 (Rep. Dominicana) (🇩🇴)
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/Canal_12_2018.png/revision/latest?cb=20210622012639&path-prefix=es
+" tvg-group="ARGENTINA",12 (Rep. Dominicana) (🇩🇴)
 https://rdn.essastream.com:3258/live/telecanal12live.m3u8
 
-
-#EXTINF:0,13 Cultura (Chile) (🇨🇱)
-https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
-#EXTINF:0,13 Deporte (Chile) (🇨🇱)
-https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8
-#EXTINF:0,13 Entretencion (Chile) (🇨🇱)
-https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
-#EXTINF:0,13 Esquipulas (Guatemala) (🇬🇹)
-https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
-#EXTINF:0,13 Festival (Chile) (🇨🇱)
-https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
-
-#EXTINF:-1 tvg-logo="" tvg-group="ARGENTINA",13 Realities (Chile) (🇨🇱)
-https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
-
-#EXTINF:-1 tvg-logo="" tvg-group="ARGENTINA",13 Teleseries (Chile) (🇨🇱)
-https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
-
-#EXTINF:-1 tvg-logo="" tvg-group="ARGENTINA",13C (Chile) (🇨🇱)
-https://marine2.miplay.cl/canal13cable/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="" tvg-group="ARGENTINA",14 (Mexico) (🇲🇽)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Logo_Canal_14_M%C3%A9xico.svg" tvg-group="ARGENTINA",14 (Mexico) (🇲🇽)
 https://s5.mexside.net:1936/canal14/canal14/.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3-mspro.nyc3.cdn.digitaloceanspaces.com/tenant/62ed6e625a88e7000951ac98/mediaLibrary/photo/2e324b2a-7bc2-4eee-bba3-958741c0962e-medium-standard-q100.png" tvg-group="ARGENTINA",2 Quellon (Chile) (🇨🇱)
@@ -6576,7 +6554,7 @@ https://origin.dpsgo.com/ssai/event/xR5RHThTSgaLb_5uiEiKqw/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" tvg-group="ARGENTINA",France 24 (España) (🇪🇸)
 https://s5.mexside.net:1936/france24/france24/.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.favpng.com/25/8/4/feira-de-santana-youtube-logo-video-adoration-png-favpng-k5hPmbYa5fe9N9Eb0JZhD98X0_t.jpg" tvg-group="ARGENTINA",Impacto (Peru) (🇵🇪)
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Dh5O_L4jxuLl9veehCH0Js7sHWhFOcZuE7qUVOxa7ZXj_1gK9An_u7v20N60TT5cMUs" tvg-group="ARGENTINA",Impacto (Peru) (🇵🇪)
 https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://d32139y4w3ahij.cloudfront.net/wp-content/uploads/2021/02/cropped-cropped-Logo-top-2.png" tvg-group="ARGENTINA",La Top 102.9 (Honduras) (🇭🇳)
