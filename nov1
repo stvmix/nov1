@@ -6538,117 +6538,97 @@ https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
 https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
 #EXTINF:0,13 Festival (Chile) (🇨🇱)
 https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
-#EXTINF:0,13 La Rioja (Argentina) (🇦🇷)
-http://arcast.net:1935/mp/mp/.m3u8
-#EXTINF:0,13 Realities (Chile) (🇨🇱)
+
+#EXTINF:-1 tvg-logo="" tvg-group="ARGENTINA",13 Realities (Chile) (🇨🇱)
 https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
-#EXTINF:0,13 Teleseries (Chile) (🇨🇱)
+
+#EXTINF:-1 tvg-logo="" tvg-group="ARGENTINA",13 Teleseries (Chile) (🇨🇱)
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
-#EXTINF:0,13C (Chile) (🇨🇱)
+
+#EXTINF:-1 tvg-logo="" tvg-group="ARGENTINA",13C (Chile) (🇨🇱)
 https://marine2.miplay.cl/canal13cable/index.m3u8
 
-#EXTINF:0,14 (Mexico) (🇲🇽)
+
+#EXTINF:-1 tvg-logo="" tvg-group="ARGENTINA",14 (Mexico) (🇲🇽)
 https://s5.mexside.net:1936/canal14/canal14/.m3u8
 
-#EXTINF:0,2 Quellon (Chile) (🇨🇱)
+#EXTINF:-1 tvg-logo="https://s3-mspro.nyc3.cdn.digitaloceanspaces.com/tenant/62ed6e625a88e7000951ac98/mediaLibrary/photo/2e324b2a-7bc2-4eee-bba3-958741c0962e-medium-standard-q100.png" tvg-group="ARGENTINA",2 Quellon (Chile) (🇨🇱)
 https://marine2.miplay.cl/canal2quellon/index.m3u8
 
-#EXTINF:0,6 Repretel (Costa Rica) (🇨🇷)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/Repretel62024.svg/revision/latest/scale-to-width-down/200?cb=20241001185943&path-prefix=es" tvg-group="ARGENTINA",6 Repretel (Costa Rica) (🇨🇷)
 https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:0,Bigtime (España) (🇪🇸)
+#EXTINF:-1 tvg-logo="https://nexusbase.io/wp-content/uploads/2022/07/bigtime-logo.png" tvg-group="ARGENTINA",Bigtime (España) (🇪🇸)
 https://amogonetworx-bigtjme-2-eu.vidaa.wurl.tv/playlist.m3u8
 
-#EXTINF:0,Canal Del Sol (Rep. Dominicana) (🇩🇴)
-https://5790d294af2dc.streamlock.net/sol65/sol65/.m3u8
-
-#EXTINF:0,Chinola (Rep. Dominicana) (🇩🇴)
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/chinola-tv.png" tvg-group="ARGENTINA",Chinola (Rep. Dominicana) (🇩🇴)
 https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
 
-#EXTINF:0,Codigo (Rep. Dominicana) (🇩🇴)
+#EXTINF:-1 tvg-logo="https://codigotv.net/wp-content/uploads/2024/12/Sin-titulo-4.png" tvg-group="ARGENTINA",Codigo (Rep. Dominicana) (🇩🇴)
 https://vdo2.streamgato.us:3313/live/codigotvlive.m3u8
 
-#EXTINF:0,Color 36 (Ecuador) (🇪🇨)
+#EXTINF:-1 tvg-logo="https://tvcolorcanal36.com/wp-content/uploads/2022/09/para-app-tv-color.png" tvg-group="ARGENTINA",Color 36 (Ecuador) (🇪🇨)
 https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
 
-#EXTINF:0,English (Chile) (🇨🇱)
+#EXTINF:-1 tvg-logo="https://english-tv.com/img/english-tv-logo.png" tvg-group="ARGENTINA",English (Chile) (🇨🇱)
 https://origin.dpsgo.com/ssai/event/xR5RHThTSgaLb_5uiEiKqw/master.m3u8
 
-#EXTINF:0,France 24 (España) (🇪🇸)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" tvg-group="ARGENTINA",France 24 (España) (🇪🇸)
 https://s5.mexside.net:1936/france24/france24/.m3u8
 
-
-
-#EXTINF:0,Impacto (Peru) (🇵🇪)
+#EXTINF:-1 tvg-logo="https://img.favpng.com/25/8/4/feira-de-santana-youtube-logo-video-adoration-png-favpng-k5hPmbYa5fe9N9Eb0JZhD98X0_t.jpg" tvg-group="ARGENTINA",Impacto (Peru) (🇵🇪)
 https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
 
-
-#EXTINF:0,La Top 102.9 (Honduras) (🇭🇳)
+#EXTINF:-1 tvg-logo="https://d32139y4w3ahij.cloudfront.net/wp-content/uploads/2021/02/cropped-cropped-Logo-top-2.png" tvg-group="ARGENTINA",La Top 102.9 (Honduras) (🇭🇳)
 https://59d39900ebfb8.streamlock.net/top102/top102/.m3u8
 
-#EXTINF:0,La Top 107.7 (Honduras) (🇭🇳)
-https://59d39900ebfb8.streamlock.net/top107/top107/.m3u8
-
-#EXTINF:0,La Voz Grupera (Mexico) (🇲🇽)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ku1CEeb.png" tvg-group="ARGENTINA",La Voz Grupera (Mexico) (🇲🇽)
 https://cloudvideo.servers10.com:8081/8128/index.m3u8
 
-#EXTINF:0,Latin Zone (USA) (🇺🇸)
+#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image30414748238.jpg" tvg-group="ARGENTINA",Latin Zone (USA) (🇺🇸)
 https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8
 
-#EXTINF:0,Makao (Rep. Dominicana) (🇩🇴)
+#EXTINF:-1 tvg-logo="https://makaoradio.com/wp-content/uploads/2021/06/makao_new_332.png" tvg-group="ARGENTINA",Makao (Rep. Dominicana) (🇩🇴)
 https://live.obslivestream.com/makaomux/index.m3u8
 
-#EXTINF:0,Marga Marga (Chile) (🇨🇱)
-https://v1.tustreaming.cl/margamargatv/index.m3u8
-
-#EXTINF:0,Mas (Colombia) (🇨🇴)
-https://movil.ejeserver.com/live/teledoradahd.m3u8
-
-#EXTINF:0,Mas (Honduras) (🇭🇳)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNOTHsKbsZt0w2XXSNmqk5uiRHKBoUswG-kNAl_Bu1cfuTuD6qEfUdEtfJ3sZf-3np2Go&usqp=CAU" tvg-group="ARGENTINA",Mas (Honduras) (🇭🇳)
 https://s1.tvdatta.com:3991/live/tvmashdlive.m3u8
 
-#EXTINF:0,Mas (Mexico) (🇲🇽)
-https://5ca9af4645e15.streamlock.net/rtv/videortv/.m3u8
-
-#EXTINF:0,Mega (Peru) (🇵🇪)
+#EXTINF:-1 tvg-logo="https://megatvjaen.pe/wp-content/uploads/2022/12/LOGO-MEGA-PNG-e1669659423790.png" tvg-group="ARGENTINA",Mega (Peru) (🇵🇪)
 https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
 
-#EXTINF:0,Metropolis 19.2 (Honduras) (🇭🇳)
+#EXTINF:-1 tvg-logo="https://comunicacionesmetropolis.com/assets/images/logo-19.2-v2-1076x605.png" tvg-group="ARGENTINA",Metropolis 19.2 (Honduras) (🇭🇳)
 https://5e85d90130e77.streamlock.net/6014/6014/.m3u8
 
-#EXTINF:0,Movie Sphere (España) (🇪🇸)
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/f2313e05-03e3-44df-802c-415368e9356a/MovieSphere_Plex_LogoDisplay_OnDark.png" tvg-group="ARGENTINA",Movie Sphere (España) (🇪🇸)
 https://amg00353-lionsgatestudio-moviespheremexico-runtimelatam-n6pue.amagi.tv/playlist/amg00353-lionsgatestudio-moviespheremexico-runtimelatam/playlist.m3u8
 
-#EXTINF:0,Next (Paraguay) (🇵🇾)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKWS6D-vdDIgPweY8hxuIeNzll5zzwZhV3E12IDcbPG9DXhh2otKa4rwYZAXEwpSs__ro&usqp=CAU" tvg-group="ARGENTINA",Next (Paraguay) (🇵🇾)
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 
-#EXTINF:0,Nosey Escandalos (España) (🇪🇸)
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/nosey_escandalos_logo_dark.png" tvg-group="ARGENTINA",Nosey Escandalos (España) (🇪🇸)
 https://b8fd51ec533f400cb683d981449b20fa.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NoseyEscandalos/playlist.m3u8
 
-#EXTINF:0,Olanchito (Honduras) (🇭🇳)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSevPJtGAy2Udhr4U7hsvmp02mnHKhE0hkHeKQSoY-KO3iaDaeAJpM9IGYl3G8UIDZqNAg&usqp=CAU" tvg-group="ARGENTINA",Olanchito (Honduras) (🇭🇳)
 http://168.181.121.194:1836/hlscha3/llive.m3u8?key=3D8aUsX2w
 
-#EXTINF:0,Sony Cine (España) (🇪🇸)
+#EXTINF:-1 tvg-logo="" tvg-group="ARGENTINA",Sony Cine (España) (🇪🇸)
 https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/index.m3u8
 
-#EXTINF:0,Sony Novelas (España) (🇪🇸)
-https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
-
-#EXTINF:0,Tele Brunca (Costa Rica) (🇨🇷)
+#EXTINF:-1 tvg-logo="https://www.retroxtv.com/diminup/2023/09/Logo-De-Brunca-Texto-Blanco-1024x900.png" tvg-group="ARGENTINA",Tele Brunca (Costa Rica) (🇨🇷)
 https://59ef525c24caa.streamlock.net:443/telebrunca/telebrunca/.m3u8
 
-#EXTINF:0,Tele Ritmo (Mexico) (🇲🇽)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Teleritmo_2023.png/revision/latest/scale-to-width-down/241?cb=20250324000228" tvg-group="ARGENTINA",Tele Ritmo (Mexico) (🇲🇽)
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
-#EXTINF:0,Tele Uno (Costa Rica) (🇨🇷)
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/04c6ac_24ea33fa6d5e4bb8ae4d9b2808e9eac5~mv2_d_1662_1536_s_2.png/v1/fill/w_273,h_252,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/logo%20canal%20nuevo.png" tvg-group="ARGENTINA",Tele Uno (Costa Rica) (🇨🇷)
 http://5d16127744872.streamlock.net:1935/TVUNO/TVUNO/.m3u8
 
-#EXTINF:0,Telerayo (Honduras) (🇭🇳)
+#EXTINF:-1 tvg-logo="https://scontent.ftuc1-2.fna.fbcdn.net/v/t39.30808-6/252017889_278464574288325_1051739013137594164_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=rKu7_7U4ahQQ7kNvwGZP0sb&_nc_oc=AdkOvY-21b_N63Pjt_OmAKXbglFriDKSZtyXV1HA_1SBI-OGDiMt2P3VSKOLCcGQ-E0&_nc_zt=23&_nc_ht=scontent.ftuc1-2.fna&_nc_gid=3AJMoX0NcmPnlhfM5Ay_9Q&oh=00_AfODxYcfAIkiHzpj-qJR5TlUV1TqJJUjemRllYy1HaY1bg&oe=6857D0B9" tvg-group="ARGENTINA",Telerayo (Honduras) (🇭🇳)
 https://s.emisoras.tv:8081/telerayo/index.m3u8
 
-#EXTINF:0,TS Tele Siglo (Rep. Dominicana) (🇩🇴)
+#EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/telesiglo.png" tvg-group="ARGENTINA",TS Tele Siglo (Rep. Dominicana) (🇩🇴)
 https://vdo2.streamgato.us:3562/live/dantvlive.m3u8
 
-#EXTINF:0,Veo (Colombia) (🇨🇴)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9tZae88.png" tvg-group="ARGENTINA",Veo (Colombia) (🇨🇴)
 https://movil.ejeserver.com/live/veotv.m3u8
-
