@@ -5303,30 +5303,6 @@ https://cdn.cvattv.com.ar/live/c6eds/Tv_Chile/SA_Live_dash_enc/Tv_Chile.mpd?|ori
 #EXTINF:-1 tvg-id="TVE.uy" tvg-name="TVE" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TVESP.png?raw=true" group-title="Mundo" ch-number="623" type="channel",TVE
 https://cdn.cvattv.com.ar/live/c6eds/TV_Espana/SA_Live_dash_enc/TV_Espana.mpd?|origin=https://portal.app.flow.com.ar
 
-#EXTINF:-1 tvg-name="LA 100" group-title="Radios" ch-number="900" type="radio",LA 100
-https://musicsrc.cvattv.com.ar/L100
-
-#EXTINF:-1 tvg-name="RIVADAVIA" group-title="Radios" ch-number="901" type="radio",RIVADAVIA
-https://musicsrc.cvattv.com.ar/RRIV
-
-#EXTINF:-1 tvg-name="MITRE" group-title="Radios" ch-number="902" type="radio",MITRE
-https://musicsrc.cvattv.com.ar/RMIT
-
-#EXTINF:-1 tvg-id="901#DSPORTS Radio" tvg-name="d sports radio" group-title="Radios" ch-number="903" type="radio",d sports radio
-http://playerservices.streamtheworld.com/api/livestream-redirect/DSPORTSRADIO
-
-#EXTINF:-1 tvg-name="CONTINENTAL" group-title="Radios" ch-number="904" type="radio",CONTINENTAL
-http://playerservices.streamtheworld.com/api/livestream-redirect/CONTINENTAL
-
-#EXTINF:-1 tvg-name="LA RED" group-title="Radios" ch-number="905" type="radio",LA RED
-http://playerservices.streamtheworld.com/api/livestream-redirect/LA_RED_AM910
-
-#EXTINF:-1 tvg-name="CNN RADIO" group-title="Radios" ch-number="906" type="radio",CNN RADIO
-https://musicsrc.cvattv.com.ar/RCNN
-
-#EXTINF:-1 tvg-name="NACIONAL" group-title="Radios" ch-number="907" type="radio",NACIONAL
-https://musicsrc.cvattv.com.ar/RNAC
-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8577d81eaf33436d9f1e482360685a7c:f608a0ac703cfaaf9442574d9a2b87fb
 #EXTINF:-1 tvg-id="Playboy.ar" tvg-name="Playboy.ar" tvg-logo="https://dl.dropbox.com/scl/fi/7feu1a3ikd6r8r77pgses/playboy.jpg?rlkey=02u5uorraf4qldh8dxqc43vyh&dl=1" group-title="Adulto" ch-number="1000" type="channel",Playboy TV (18+)
@@ -6531,34 +6507,148 @@ https://cdn.sensa.com.ar/output/SMT3/CHTVD/output.mpd?|referer=https://player.se
 
 
 
-
-
-
-
-
-
-
-música
-
-#EXTINF:-1 ch-number="" tvg-id="popular" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/3982/CH_LOGO/160/160/0/0/67035155079040.png" group-title="Radios", La Popu
-https://cdn.sensa.com.ar/output/ET-01/popular/master.m3u8
-
-#EXTINF:-1 ch-number="" tvg-id="cosquinrock" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/3981/CH_LOGO/160/160/0/0/71941975079039.png" group-title="Radios", Cosquín Rock
-https://cdn.sensa.com.ar/output/ET-01/cosquinrock/master.m3u8
-
-#EXTINF:-1 ch-number="" tvg-id="Cadena3" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/3841/CH_LOGO/160/160/0/0/71241680072511.png" group-title="Radios", Cadena 3
-https://cdn.sensa.com.ar/output/ET-01/Cadena3/master.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
-#EXTINF:-1 ch-number="" tvg-id="Futurock" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/4384/CH_LOGO/160/160/0/0/18277879079297.png" group-title="Radios", Futuröck
-https://cdn.sensa.com.ar/output/SMT6/FTRd/output.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-
 adultos
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f51160ad68cb411abbae2b7e51e20ad4:3015d76327dcd38f19037e5af639ebb2
 #EXTINF:-1 group-title="Adultos" adult=1 ch-number="1000" tvg-id="Playboy.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/112/CH_LOGO/160/160/0/0/8669389807114.png", Playboy TV (18+)
 https://cdn.sensa.com.ar/live/eds/Playboy/live_dash_cld/Playboy.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+
+
+
+
+
+
+
+
+#EXTINF:0,11 (Honduras) (🇭🇳)
+https://tinyurl.com/4z3cwea2?.m3u8
+#EXTINF:0,12 (Rep. Dominicana) (🇩🇴)
+https://rdn.essastream.com:3258/live/telecanal12live.m3u8
+
+
+#EXTINF:0,13 Cultura (Chile) (🇨🇱)
+https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
+#EXTINF:0,13 Deporte (Chile) (🇨🇱)
+https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8
+#EXTINF:0,13 Entretencion (Chile) (🇨🇱)
+https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
+#EXTINF:0,13 Esquipulas (Guatemala) (🇬🇹)
+https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
+#EXTINF:0,13 Festival (Chile) (🇨🇱)
+https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
+#EXTINF:0,13 La Rioja (Argentina) (🇦🇷)
+http://arcast.net:1935/mp/mp/.m3u8
+#EXTINF:0,13 Realities (Chile) (🇨🇱)
+https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
+#EXTINF:0,13 Teleseries (Chile) (🇨🇱)
+https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
+#EXTINF:0,13C (Chile) (🇨🇱)
+https://marine2.miplay.cl/canal13cable/index.m3u8
+
+#EXTINF:0,14 (Mexico) (🇲🇽)
+https://s5.mexside.net:1936/canal14/canal14/.m3u8
+
+#EXTINF:0,2 Quellon (Chile) (🇨🇱)
+https://marine2.miplay.cl/canal2quellon/index.m3u8
+
+#EXTINF:0,6 Repretel (Costa Rica) (🇨🇷)
+https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:0,Bigtime (España) (🇪🇸)
+https://amogonetworx-bigtjme-2-eu.vidaa.wurl.tv/playlist.m3u8
+
+#EXTINF:0,Canal Del Sol (Rep. Dominicana) (🇩🇴)
+https://5790d294af2dc.streamlock.net/sol65/sol65/.m3u8
+
+#EXTINF:0,Chinola (Rep. Dominicana) (🇩🇴)
+https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
+
+#EXTINF:0,Codigo (Rep. Dominicana) (🇩🇴)
+https://vdo2.streamgato.us:3313/live/codigotvlive.m3u8
+
+#EXTINF:0,Color 36 (Ecuador) (🇪🇨)
+https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
+
+#EXTINF:0,English (Chile) (🇨🇱)
+https://origin.dpsgo.com/ssai/event/xR5RHThTSgaLb_5uiEiKqw/master.m3u8
+
+#EXTINF:0,France 24 (España) (🇪🇸)
+https://s5.mexside.net:1936/france24/france24/.m3u8
+
+
+
+#EXTINF:0,Impacto (Peru) (🇵🇪)
+https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
+
+
+#EXTINF:0,La Top 102.9 (Honduras) (🇭🇳)
+https://59d39900ebfb8.streamlock.net/top102/top102/.m3u8
+
+#EXTINF:0,La Top 107.7 (Honduras) (🇭🇳)
+https://59d39900ebfb8.streamlock.net/top107/top107/.m3u8
+
+#EXTINF:0,La Voz Grupera (Mexico) (🇲🇽)
+https://cloudvideo.servers10.com:8081/8128/index.m3u8
+
+#EXTINF:0,Latin Zone (USA) (🇺🇸)
+https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8
+
+#EXTINF:0,Makao (Rep. Dominicana) (🇩🇴)
+https://live.obslivestream.com/makaomux/index.m3u8
+
+#EXTINF:0,Marga Marga (Chile) (🇨🇱)
+https://v1.tustreaming.cl/margamargatv/index.m3u8
+
+#EXTINF:0,Mas (Colombia) (🇨🇴)
+https://movil.ejeserver.com/live/teledoradahd.m3u8
+
+#EXTINF:0,Mas (Honduras) (🇭🇳)
+https://s1.tvdatta.com:3991/live/tvmashdlive.m3u8
+
+#EXTINF:0,Mas (Mexico) (🇲🇽)
+https://5ca9af4645e15.streamlock.net/rtv/videortv/.m3u8
+
+#EXTINF:0,Mega (Peru) (🇵🇪)
+https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
+
+#EXTINF:0,Metropolis 19.2 (Honduras) (🇭🇳)
+https://5e85d90130e77.streamlock.net/6014/6014/.m3u8
+
+#EXTINF:0,Movie Sphere (España) (🇪🇸)
+https://amg00353-lionsgatestudio-moviespheremexico-runtimelatam-n6pue.amagi.tv/playlist/amg00353-lionsgatestudio-moviespheremexico-runtimelatam/playlist.m3u8
+
+#EXTINF:0,Next (Paraguay) (🇵🇾)
+https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
+
+#EXTINF:0,Nosey Escandalos (España) (🇪🇸)
+https://b8fd51ec533f400cb683d981449b20fa.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NoseyEscandalos/playlist.m3u8
+
+#EXTINF:0,Olanchito (Honduras) (🇭🇳)
+http://168.181.121.194:1836/hlscha3/llive.m3u8?key=3D8aUsX2w
+
+#EXTINF:0,Sony Cine (España) (🇪🇸)
+https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/index.m3u8
+
+#EXTINF:0,Sony Novelas (España) (🇪🇸)
+https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
+
+#EXTINF:0,Tele Brunca (Costa Rica) (🇨🇷)
+https://59ef525c24caa.streamlock.net:443/telebrunca/telebrunca/.m3u8
+
+#EXTINF:0,Tele Ritmo (Mexico) (🇲🇽)
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+
+#EXTINF:0,Tele Uno (Costa Rica) (🇨🇷)
+http://5d16127744872.streamlock.net:1935/TVUNO/TVUNO/.m3u8
+
+#EXTINF:0,Telerayo (Honduras) (🇭🇳)
+https://s.emisoras.tv:8081/telerayo/index.m3u8
+
+#EXTINF:0,TS Tele Siglo (Rep. Dominicana) (🇩🇴)
+https://vdo2.streamgato.us:3562/live/dantvlive.m3u8
+
+#EXTINF:0,Veo (Colombia) (🇨🇴)
+https://movil.ejeserver.com/live/veotv.m3u8
 
