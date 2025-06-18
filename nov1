@@ -4,8 +4,8 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/El_chavo_animado_logo.png" tvg-group="ARGENTINA",24/7 El Chavo Del 8 SD
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58278
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN8NAi-kZZWiXRCw7ASH7Ku_vG7C0sLpcxy2a8WMKziCqFt8U_iM4bBdRtpfN3E_6zvGA&usqp=CAU" tvg-group="ARGENTINA", COCO HD ot
-https://otakon.bemtv.cn/STREAM/8077/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/El_Chavo_%28simple_logo%29.svg/revision/latest/scale-to-width-down/284?cb=20170119025543" tvg-group="ARGENTINA", El Chavo ot
+https://otakon.bemtv.cn/STREAM/23447/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/960px-The_Simpsons_yellow_logo.svg.png" tvg-group="ARGENTINA", LOS SIMPSONS
 http://srv3.zcast.com.br/sim1al5/sim1al5/playlist.m3u8
@@ -13,11 +13,11 @@ http://srv3.zcast.com.br/sim1al5/sim1al5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/960px-The_Simpsons_yellow_logo.svg.png" tvg-group="ARGENTINA", LOS SIMPSONS II
 http://srv3.zcast.com.br/sim6al10/sim6al10/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/El_Chavo_%28simple_logo%29.svg/revision/latest/scale-to-width-down/284?cb=20170119025543" tvg-group="ARGENTINA", El Chavo ot
-https://otakon.bemtv.cn/STREAM/23447/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://boxbrazil.tv.br/assets/images/pages/boxKids/images/imgTitle.png" tvg-group="ARGENTINA", BOX KIDS TV
 https://stmvideo3.livecastv.com/kidsbox/kidsbox/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN8NAi-kZZWiXRCw7ASH7Ku_vG7C0sLpcxy2a8WMKziCqFt8U_iM4bBdRtpfN3E_6zvGA&usqp=CAU" tvg-group="ARGENTINA", COCO HD ot
+https://otakon.bemtv.cn/STREAM/8077/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/canal5.png" tvg-group="ARGENTINA",MEXICO CANAL 5 c
 http://novabox.club/live/conectStreax/K2tbMNebMW/357666.m3u8
