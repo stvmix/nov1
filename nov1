@@ -26,37 +26,6 @@ http://novabox.club/live/conectStreax/K2tbMNebMW/357666.m3u8
 https://origin.dpsgo.com/ssai/event/xR5RHThTSgaLb_5uiEiKqw/master.m3u8
 
 
-gran hermano
-
-#EXTINF:-1 group-logo="https://i.ibb.co/RkHjHXXq/2025-05-06-13-36-20.png" 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"fHz2EQodSu6BTklsp6OqLQ","k":"1y6eBolxwMv27uN5EGd11Q"},{"kty":"oct","kid":"3n197Ui0N9aRlmrNyKlyYg","k":"DRHMXVAueJSzZKS3yqu_9A"}],"type":"temporary"}
-#EXTINF:-1 tvg-id="granhermano" tvg-logo="https://i.ibb.co/tq4M9Pk/granhermano.png", group-title="🇦🇷Gran Hermano", Gran Hermano
-#EXTVLCOPT:http-origin=android_mobile.directvgo.com
-#EXTVLCOPT:http-user-agent=dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1
-http://m.mtd.llc:8880/VHgrYzAyL0tWY056WVFOcXZMaGhENkwwWlFSdjdLREt6aFUrTGlJMnowOD0=/CH0100000000341/index_fk.mpd?|Origin="android_mobile.directvgo.com"
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gfbfsbvhSK2XV9fw1_c65w","k":"a0IfFxHEsTQYHScGbloHtw"},{"kty":"oct","kid":"lVFVkIWENIiHa0cs1UFgAA","k":"wSwvs6diLmOxz5nCLGBNPQ"}],"type":"temporary"}
-#EXTINF:-1 tvg-id="granhermano" tvg-logo="https://i.ibb.co/tq4M9Pk/granhermano.png", group-title="🇦🇷Gran Hermano", Gran Hermano cámara 1
-#EXTVLCOPT:http-origin=android_mobile.directvgo.com
-#EXTVLCOPT:http-user-agent=dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1
-http://m.mtd.llc:8880/VHgrYzAyL0tWY056WVFOcXZMaGhENkwwWlFSdjdLREt6aFUrTGlJMnowOD0=/CH0100000000342/index_fk.mpd?|Origin="android_mobile.directvgo.com"
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"rUZcQoUbRMyoTwambDOuWw","k":"U_tkaRfJFDm3wA0bR7HbxA"},{"kty":"oct","kid":"IGuij2kfNPiNiIbMQnAsTA","k":"eDC2kkFqQT4fMfuBo733Ug"}],"type":"temporary"}
-#EXTINF:-1 tvg-id="granhermano" tvg-logo="https://i.ibb.co/tq4M9Pk/granhermano.png", group-title="🇦🇷Gran Hermano", Gran Hermano Cámara 2
-#EXTVLCOPT:http-origin=android_mobile.directvgo.com
-#EXTVLCOPT:http-user-agent=dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1
-http://m.mtd.llc:8880/VHgrYzAyL0tWY056WVFOcXZMaGhENkwwWlFSdjdLREt6aFUrTGlJMnowOD0=/CH0100000000343/index_fk.mpd?|Origin="android_mobile.directvgo.com"
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"a5R84Jf6TlGHXRWouLWBoA","k":"WGcZTy86VNw32RbWyH5V7Q"},{"kty":"oct","kid":"zZlB53_GMQCYas3La8umYQ","k":"16vFV9VGXvMKiQZJPs5A-g"}],"type":"temporary"}
-#EXTINF:-1 tvg-id="granhermano" tvg-logo="https://i.ibb.co/tq4M9Pk/granhermano.png", group-title="🇦🇷Gran Hermano", Gran Hermano Cámara 3
-#EXTVLCOPT:http-origin=android_mobile.directvgo.com
-#EXTVLCOPT:http-user-agent=dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1
-http://m.mtd.llc:8880/VHgrYzAyL0tWY056WVFOcXZMaGhENkwwWlFSdjdLREt6aFUrTGlJMnowOD0=/CH0100000000340/index_fk.mpd?|Origin="android_mobile.directvgo.com"
-
 
 nacionales, aire y noticias
 
@@ -923,11 +892,11 @@ http://190.123.90.146:8000/play/a00q/index.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-7-Catamarca-TV-en-vivo-Online.png?fit=1920%2C1080&ssl=1" tvg-group="ARGENTINA",Catamarca TVP
 https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=
 
-#EXTINF:-1 tvg-logo="https://www.canal12misiones.com/wp-content/uploads/2023/06/Recurso-3full-blanco-224x300.png" tvg-group="ARGENTINA", 12 MISIONES HD
-https://iptv.ixfo.com.ar:30443/vivo/canal12/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/El_doce_tv_cba_logo.png" tvg-group="ARGENTINA",EL 12 CORDOBA 190
 http://190.123.90.146:8000/play/a039/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canal12misiones.com/wp-content/uploads/2023/06/Recurso-3full-blanco-224x300.png" tvg-group="ARGENTINA", 12 MISIONES HD
+https://iptv.ixfo.com.ar:30443/vivo/canal12/playlist.m3u8
 
 #EXTINF:-1  tvg-id="ElNueve.ar.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CAN9.png?raw=true" tvg-group="ARGENTINA", El nueve
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2759,6 +2728,9 @@ https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8V
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png" group-title="Cine, Novelas y Series",Cgtn Espanol SD
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/Romance_logo.png" group-title="Cine, Novelas y Series",ROMANCE CHANNEL
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/romance-channel/manifest.m3u8
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/Waqc5qZ.png" group-title="Cine, Novelas y Series", RCN+ R (Colombia) (🇨🇴)
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 
@@ -4124,6 +4096,29 @@ https://dh6vo1bovy43s.cloudfront.net/La_1_ES.m3u8
 #EXTINF:-1  tvg-logo="https://cdn.m3u.cl/logo/614_La_2.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL",La 2 | ES
 https://ztnr.rtve.es/ztnr/1688885.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/ceeaa5b7b321683f8105e31e645329fc49dc4108103aef6d9e540f0a5e1183f3.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL",11 (Honduras) (🇭🇳)
+https://tinyurl.com/4z3cwea2?.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/Canal_12_2018.png/revision/latest?cb=20210622012639&path-prefix=es" group-title="🌍 TELEVISIÓN  INTERNACIONAL",12 (Rep. Dominicana) (🇩🇴)
+https://rdn.essastream.com:3258/live/telecanal12live.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1934699897757773824/bxkvHycz_400x400.jpg" group-title="🌍 TELEVISIÓN  INTERNACIONAL",14 (Mexico) (🇲🇽)
+https://s5.mexside.net:1936/canal14/canal14/.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3-mspro.nyc3.cdn.digitaloceanspaces.com/tenant/62ed6e625a88e7000951ac98/mediaLibrary/photo/2e324b2a-7bc2-4eee-bba3-958741c0962e-medium-standard-q100.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL",2 Quellon (Chile) (🇨🇱)
+https://marine2.miplay.cl/canal2quellon/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/Repretel62024.svg/revision/latest/scale-to-width-down/200?cb=20241001185943&path-prefix=es" group-title="🌍 TELEVISIÓN  INTERNACIONAL",6 Repretel (Costa Rica) (🇨🇷)
+https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Repretel_2_CDR.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL",Canal 2
+https://alba-cr-repretel-c2.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Repretel_4_logo.png/1024px-Repretel_4_logo.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL",Canal 4
+https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/04c6ac_24ea33fa6d5e4bb8ae4d9b2808e9eac5~mv2_d_1662_1536_s_2.png/v1/fill/w_273,h_252,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/logo%20canal%20nuevo.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL",Tele Uno (Costa Rica) (🇨🇷)
+http://5d16127744872.streamlock.net:1935/TVUNO/TVUNO/.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5nJff9s/cronica-Bravo-TV.jpg" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES", BRAVO TV
@@ -5556,11 +5551,6 @@ https://cdn.sensa.com.ar/live/eds/CanalRural/live_dash_cld/CanalRural.mpd?|refer
 https://cdn.sensa.com.ar/bpk-tv/ChacraTV/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0c7cb1ff69ab931bc2348f2e00381544:e89139fc667b4e306f1accb3db40a584
-#EXTINF:-1 tvg-id="[T5SATA] T5 Satelital" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1161/CH_LOGO/160/160/0/0/62114771072283.png" group-title="Corrientes", T5 Satelital
-https://cdn.sensa.com.ar/bpk-tv/T5Satelital/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2b1d643b42908bda2927137cf3747e1a:9ccd9052a9a28c05096996e82c080eb3
 #EXTINF:-1  tvg-id="CineAr.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/61/CH_LOGO/160/160/0/0/98997452071605.png" group-title="Argentina", Cine.AR
 https://cdn.sensa.com.ar/live/eds/CineAR/live_dash_cld/CineAR.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
@@ -6267,16 +6257,6 @@ https://cdn.sensa.com.ar/bpk-tv/UCL/default/index.mpd?|referer=https://player.se
 
 
 
-
-
-misiones
-
-#EXTINF:-1 ch-number="832" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/981/CH_LOGO/160/160/0/0/98840360071467.png" group-title="Misiones", Doce Misiones
-https://cdn.sensa.com.ar/output/c12pos/playlist.m3u8
-
-
-
-
 santa fe
 
 
@@ -6563,34 +6543,10 @@ https://cdn.sensa.com.ar/live/eds/Playboy/live_dash_cld/Playboy.mpd?|referer=htt
 
 
 
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/ceeaa5b7b321683f8105e31e645329fc49dc4108103aef6d9e540f0a5e1183f3.png" tvg-group="ARGENTINA",11 (Honduras) (🇭🇳)
-https://tinyurl.com/4z3cwea2?.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/Canal_12_2018.png/revision/latest?cb=20210622012639&path-prefix=es" tvg-group="ARGENTINA",12 (Rep. Dominicana) (🇩🇴)
-https://rdn.essastream.com:3258/live/telecanal12live.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1934699897757773824/bxkvHycz_400x400.jpg" tvg-group="ARGENTINA",14 (Mexico) (🇲🇽)
-https://s5.mexside.net:1936/canal14/canal14/.m3u8
-
-#EXTINF:-1 tvg-logo="https://s3-mspro.nyc3.cdn.digitaloceanspaces.com/tenant/62ed6e625a88e7000951ac98/mediaLibrary/photo/2e324b2a-7bc2-4eee-bba3-958741c0962e-medium-standard-q100.png" tvg-group="ARGENTINA",2 Quellon (Chile) (🇨🇱)
-https://marine2.miplay.cl/canal2quellon/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/Repretel62024.svg/revision/latest/scale-to-width-down/200?cb=20241001185943&path-prefix=es" tvg-group="ARGENTINA",6 Repretel (Costa Rica) (🇨🇷)
-https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Repretel_2_CDR.png" tvg-group="ARGENTINA",Canal 2
-https://alba-cr-repretel-c2.stream.mediatiquestream.com/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Repretel_4_logo.png/1024px-Repretel_4_logo.png" tvg-group="ARGENTINA",Canal 4
-https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/1200px-Repretel_11_logo.png" tvg-group="ARGENTINA",Canal 11
-https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://nexusbase.io/wp-content/uploads/2022/07/bigtime-logo.png" tvg-group="ARGENTINA",Bigtime (España) (🇪🇸)
 https://amogonetworx-bigtjme-2-eu.vidaa.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/ESBC2700003T8_20220914T041131.png" tvg-group="ARGENTINA", Bjgtjme 
+#EXTINF:-1 tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/ESBC2700003T8_20220914T041131.png" tvg-group="ARGENTINA", Bjgtjme ok
 https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_BjgtjmePeliculasGratis/playlist.m3u8?ads.wurl_channel=1251&ads.wurl_name=BjgtjmePeliculasGratis&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
 #EXTINF:-1 tvg-logo="https://codigotv.net/wp-content/uploads/2024/12/Sin-titulo-4.png" tvg-group="ARGENTINA",Codigo (Rep. Dominicana) (🇩🇴)
@@ -6638,9 +6594,6 @@ https://59ef525c24caa.streamlock.net:443/telebrunca/telebrunca/.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Teleritmo_2023.png/revision/latest/scale-to-width-down/241?cb=20250324000228" tvg-group="ARGENTINA",Tele Ritmo (Mexico) (🇲🇽)
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/04c6ac_24ea33fa6d5e4bb8ae4d9b2808e9eac5~mv2_d_1662_1536_s_2.png/v1/fill/w_273,h_252,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/logo%20canal%20nuevo.png" tvg-group="ARGENTINA",Tele Uno (Costa Rica) (🇨🇷)
-http://5d16127744872.streamlock.net:1935/TVUNO/TVUNO/.m3u8
-
 #EXTINF:-1 tvg-logo="https://scontent.ftuc1-2.fna.fbcdn.net/v/t39.30808-6/252017889_278464574288325_1051739013137594164_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=rKu7_7U4ahQQ7kNvwGZP0sb&_nc_oc=AdkOvY-21b_N63Pjt_OmAKXbglFriDKSZtyXV1HA_1SBI-OGDiMt2P3VSKOLCcGQ-E0&_nc_zt=23&_nc_ht=scontent.ftuc1-2.fna&_nc_gid=3AJMoX0NcmPnlhfM5Ay_9Q&oh=00_AfODxYcfAIkiHzpj-qJR5TlUV1TqJJUjemRllYy1HaY1bg&oe=6857D0B9" tvg-group="ARGENTINA",Telerayo (Honduras) (🇭🇳)
 https://s.emisoras.tv:8081/telerayo/index.m3u8
 
@@ -6668,11 +6621,5 @@ https://live-zlr1.tv360.bitel.com.pe/bitel/cineclub/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/67cPJ3Lg/box-cinema.png" tvg-group="ARGENTINA",BOX CINEMA
 https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/QK2TKFREGRYXDI8IJGHW/hls3/now,-1m/m.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/Romance_logo.png" tvg-group="ARGENTINA",ROMANCE CHANNEL
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/romance-channel/manifest.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn.battlerite.com/press/2018/04/10093025/tales_of_horror_logo_highres.png" tvg-group="ARGENTINA",CINE DE HORROR
 https://amg02724-amg02724c2-runtime-latam-2586.playouts.now.amagi.tv/playlist/amg02724-somosfast-cinedehorror-runtimelatam/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6076cd1df8576d0007c82193/colorLogoPNG.png" tvg-group="ARGENTINA", VH1 Classics
-https://stitcher.pluto.tv/stitch/hls/channel/6076cd1df8576d0007c82193/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
