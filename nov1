@@ -1,6 +1,30 @@
 #EXTM3U list-name="XD" list-image="https://media.licdn.com/dms/image/C4E0BAQH6PD5jVhLPTQ/company-logo_200_200/0/1649938409650/mayo_chile_logo?e=2147483647&v=beta&t=uSzzNFEX8f67VufuP7Xlz1xr8LURKPc0kNhPfr023-Y"
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/El_chavo_animado_logo.png" tvg-group="ARGENTINA",24/7 El Chavo Del 8 SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58278
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN8NAi-kZZWiXRCw7ASH7Ku_vG7C0sLpcxy2a8WMKziCqFt8U_iM4bBdRtpfN3E_6zvGA&usqp=CAU" tvg-group="ARGENTINA", COCO HD ot
+https://otakon.bemtv.cn/STREAM/8077/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/960px-The_Simpsons_yellow_logo.svg.png" tvg-group="ARGENTINA", LOS SIMPSONS
+http://srv3.zcast.com.br/sim1al5/sim1al5/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/960px-The_Simpsons_yellow_logo.svg.png" tvg-group="ARGENTINA", LOS SIMPSONS II
+http://srv3.zcast.com.br/sim6al10/sim6al10/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/El_Chavo_%28simple_logo%29.svg/revision/latest/scale-to-width-down/284?cb=20170119025543" tvg-group="ARGENTINA", El Chavo ot
+https://otakon.bemtv.cn/STREAM/23447/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://boxbrazil.tv.br/assets/images/pages/boxKids/images/imgTitle.png" tvg-group="ARGENTINA", BOX KIDS TV
+https://stmvideo3.livecastv.com/kidsbox/kidsbox/index.m3u8
+
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/canal5.png" tvg-group="ARGENTINA",MEXICO CANAL 5 c
+http://novabox.club/live/conectStreax/K2tbMNebMW/357666.m3u8
+
+#EXTINF:-1 tvg-logo="https://english-tv.com/img/english-tv-logo.png" tvg-group="ARGENTINA",English (Chile) (🇨🇱)
+https://origin.dpsgo.com/ssai/event/xR5RHThTSgaLb_5uiEiKqw/master.m3u8
+
 
 gran hermano
 
@@ -162,6 +186,12 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YqFOB1h.png" tvg-group="ARGENTINA", DW en español
 https://streamstat.net/play.cgi?sid=726018522&ext=embed.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" tvg-group="ARGENTINA",France 24 (España) (🇪🇸)
+https://s5.mexside.net:1936/france24/france24/.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.freecast.com/_next/image?url=https%3A%2F%2Fd3e3bui7xn67l.cloudfront.net%2Fcms_media%2Fmedia%2Flive%2Fchannel%2Fff270419-798c-4ee7-897b-7b197dc9fa7a-1689106721.353391.256x256.png&w=256&q=75" tvg-group="ARGENTINA",Euronews pl
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02b1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
 infantiles
@@ -1153,6 +1183,9 @@ https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 #EXTINF:0 tvg-logo="https://play-lh.googleusercontent.com/mqchAS5utGd4_Xuo3g7rJQGRPWkOxIajffMeW6KDiIrYR5to_nbGW3Ln9-nDpCdXacY" tvg-group="INFANTILES",3 Punt (España) (🇪🇸)
 https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8
 
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/chinola-tv.png" tvg-group="INFANTILES",Chinola (Rep. Dominicana) (🇩🇴)
+https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uGwFXeM.png" tvg-group="INFANTILES", Educa TV | Ecuador
 https://vid2.ecuamedia.net/educatv/live/chunklist_w401884011.m3u8
 
@@ -1298,14 +1331,20 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=514
 #EXTINF:-1 tvg-logo="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2633950/header.jpg" tvg-group="INFANTILES", Rugrats 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architec ture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366- 4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=22941a63-f69a -11ea-bfbf-0242ac110002&userId=&serverSideAds=true
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png" tvg-group="INFANTILES", * Anime
+https://stitcher.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:-53 tvg-logo="https://img.anime2you.de/2021/06/pluto-tv-anime-logo.jpg" tvg-group="INFANTILES",ANIME DE PLUTO TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architec ture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366- 4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=02c02686-f692 -11ea-abc9-0242ac110002&userId=&serverSideAds=true
 
 #EXTINF:-53 tvg-logo="https://1.bp.blogspot.com/-cmtidHqFXtQ/XshcrCBM0VI/AAAAAAAAK68/VIfj4xN7pHoIiREgwxB3e5CArDd51PPuQCLcBGAsYHQ/s640/errrrrrrrrrr.png" tvg-group="INFANTILES",PLUTO TV ANIME ACCIÓN
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture= &buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366- 4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=9aa7b802-f692 -11ea-abc9-0242ac110002&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e6a4d875d7ccf0007cc2cf1/colorLogoPNG.png" tvg-group="INFANTILES", * Animé Acción
+https://stitcher.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://fwmedia.fandomwire.com/wp-content/uploads/2023/09/08033039/Death-Note-Anime-scaled.jpg" tvg-group="INFANTILES",Death Note [Animé y juegos] [332] [AR]
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/626c2ed933a2890007e91422/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/626c2ed933a2890007e91422/colorLogoPNG.png" tvg-group="INFANTILES",  Death Note
+https://stitcher.pluto.tv/stitch/hls/channel/626c2ed933a2890007e91422/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQz2xLFCdELUNAA6nxUAsrmEHur2maWgFGthnHuMuL3fiRf9wsJMD4b5oEuzKlEZv-AqE&usqp=CAU" tvg-group="INFANTILES",Naruto [Animé y juegos] [331] [AR]
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
@@ -1315,10 +1354,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee92e72fb286e0007
 
 #EXTINF:0 tvg-logo="https://images.pluto.tv/channels/64c92fea3c3344000869e8a9/colorLogoPNG.png" tvg-group="INFANTILES", Naruto Shippuden
 https://stitcher.pluto.tv/stitch/hls/channel/64c92fea3c3344000869e8a9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=09083b97-7943-11ef-be08-92fcbbc12eaa
-                  
+
 #EXTINF:0 tvg-logo="https://images.pluto.tv/channels/656f37f257fe4a000884dfee/colorLogoPNG.png" tvg-group="INFANTILES", Boruto Naruto Next Generations
 https://stitcher.pluto.tv/stitch/hls/channel/656f37f257fe4a000884dfee/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=09083b97-7943-11ef-be08-92fcbbc12eaa
-        
+   
 #EXTINF:0 tvg-logo="https://images.pluto.tv/channels/64666345f3f5b1000882bfb4/colorLogoPNG.png" tvg-group="INFANTILES", Captain Tsubasa
 https://stitcher.pluto.tv/stitch/hls/channel/64666345f3f5b1000882bfb4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=09083b97-7943-11ef-be08-92fcbbc12eaa
 
@@ -1683,6 +1722,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e82bb378
 
 #EXTINF:-1 tvg-logo="https://www.distro.tv/espanol-latam/img/elconflicto_600x600.jpg" tvg-group="PREMIUM",El Conflicto Tribunal del Pueblo TV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1965
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/nosey_escandalos_logo_dark.png" tvg-group="PREMIUM",Nosey Escandalos (España) (🇪🇸)
+https://b8fd51ec533f400cb683d981449b20fa.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NoseyEscandalos/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dei8941/images/3/3f/Caso_cerrado_-_Logo_%28Espa%C3%B1ol%2C_octubre_de_2018%29.png/revision/latest/scale-to-width/360?cb=20220131005735&path-prefix=es" tvg-group="PREMIUM",Casos de la Dra. Polo
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60d393e5579a420007ee553c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c276ad3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=cde127fb-082c-4bae-bbc8-eb5fcecf263d
@@ -4236,9 +4278,6 @@ https://cdn.cvattv.com.ar/live/c3eds/Eventos_PY/SA_Live_dash_enc/Eventos_PY.mpd
 https://cdn.cvattv.com.ar/live/c4eds/Eventos2_PY/SA_Live_dash_enc/Eventos2_PY.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/El_chavo_animado_logo.png" tvg-group="ARGENTINA",24/7 El Chavo Del 8 SD
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58278
-
 #EXTM3U url-tvg="https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/FLOWTV.xml.gz,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz,https://www.open-epg.com/files/paraguay2.xml.gz" 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a6243f46366445ebbf3117ec27365481:81667cdc3bcf19a6a66c0919fa00a20b
@@ -6551,20 +6590,14 @@ https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-logo="https://nexusbase.io/wp-content/uploads/2022/07/bigtime-logo.png" tvg-group="ARGENTINA",Bigtime (España) (🇪🇸)
 https://amogonetworx-bigtjme-2-eu.vidaa.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/chinola-tv.png" tvg-group="ARGENTINA",Chinola (Rep. Dominicana) (🇩🇴)
-https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
+#EXTINF:-1 tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/ESBC2700003T8_20220914T041131.png" tvg-group="ARGENTINA", Bjgtjme 
+https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_BjgtjmePeliculasGratis/playlist.m3u8?ads.wurl_channel=1251&ads.wurl_name=BjgtjmePeliculasGratis&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
 #EXTINF:-1 tvg-logo="https://codigotv.net/wp-content/uploads/2024/12/Sin-titulo-4.png" tvg-group="ARGENTINA",Codigo (Rep. Dominicana) (🇩🇴)
 https://vdo2.streamgato.us:3313/live/codigotvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvcolorcanal36.com/wp-content/uploads/2022/09/para-app-tv-color.png" tvg-group="ARGENTINA",Color 36 (Ecuador) (🇪🇨)
 https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://english-tv.com/img/english-tv-logo.png" tvg-group="ARGENTINA",English (Chile) (🇨🇱)
-https://origin.dpsgo.com/ssai/event/xR5RHThTSgaLb_5uiEiKqw/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" tvg-group="ARGENTINA",France 24 (España) (🇪🇸)
-https://s5.mexside.net:1936/france24/france24/.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Dh5O_L4jxuLl9veehCH0Js7sHWhFOcZuE7qUVOxa7ZXj_1gK9An_u7v20N60TT5cMUs" tvg-group="ARGENTINA",Impacto (Peru) (🇵🇪)
 https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
@@ -6596,9 +6629,6 @@ https://amg00353-lionsgatestudio-moviespheremexico-runtimelatam-n6pue.amagi.tv/p
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKWS6D-vdDIgPweY8hxuIeNzll5zzwZhV3E12IDcbPG9DXhh2otKa4rwYZAXEwpSs__ro&usqp=CAU" tvg-group="ARGENTINA",Next (Paraguay) (🇵🇾)
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/nosey_escandalos_logo_dark.png" tvg-group="ARGENTINA",Nosey Escandalos (España) (🇪🇸)
-https://b8fd51ec533f400cb683d981449b20fa.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NoseyEscandalos/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSevPJtGAy2Udhr4U7hsvmp02mnHKhE0hkHeKQSoY-KO3iaDaeAJpM9IGYl3G8UIDZqNAg&usqp=CAU" tvg-group="ARGENTINA",Olanchito (Honduras) (🇭🇳)
 http://168.181.121.194:1836/hlscha3/llive.m3u8?key=3D8aUsX2w
 
@@ -6620,66 +6650,13 @@ https://vdo2.streamgato.us:3562/live/dantvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9tZae88.png" tvg-group="ARGENTINA",Veo (Colombia) (🇨🇴)
 https://movil.ejeserver.com/live/veotv.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60d3583ef310610007fb02b1/colorLogoPNG.png" tvg-group="ARGENTINA",Euronews
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02b1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/canal5.png" tvg-group="ARGENTINA",MEXICO CANAL 5 c
-http://novabox.club/live/conectStreax/K2tbMNebMW/357666.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/azteca7.png" tvg-group="ARGENTINA",MEXICO AZTECA 7 c
-http://novabox.club/live/conectStreax/K2tbMNebMW/357663.m3u8
-
-#EXTINF:-1 tvg-logo="http://meta.nordvpn.best/coco.png" tvg-group="ARGENTINA", COCO HD ot
-https://otakon.bemtv.cn/STREAM/8077/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/960px-The_Simpsons_yellow_logo.svg.png" tvg-group="ARGENTINA", LOS SIMPSONS
-http://srv3.zcast.com.br/sim1al5/sim1al5/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/960px-The_Simpsons_yellow_logo.svg.png" tvg-group="ARGENTINA", LOS SIMPSONS II
-http://srv3.zcast.com.br/sim6al10/sim6al10/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQgTHDJzDv9sEtEIcrLzyhC8PwZ3fBjBAFxg&s" tvg-group="ARGENTINA", El Chavo ot
-https://otakon.bemtv.cn/STREAM/23447/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP4CgcL7oP9nzqB-FbNCyhOzXsn3tIEtfJSg&s" tvg-group="ARGENTINA", Chespirito b
-https://metalgear.bemtv.cn/STREAM/23614/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://boxbrazil.tv.br/assets/images/pages/boxKids/images/imgTitle.png" tvg-group="ARGENTINA", BOX KIDS TV
-https://stmvideo3.livecastv.com/kidsbox/kidsbox/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/44C048j/Logo-Anime-Onegai-TV.png" tvg-group="ARGENTINA", 1 Canal Anime Onegai 1 HD
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11057
-#EXTINF:-1 tvg-logo="https://i.ibb.co/44C048j/Logo-Anime-Onegai-TV.png" tvg-group="ARGENTINA", 2 Canal Anime Onegai 2 HD
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11058
-#EXTINF:-1 tvg-logo="https://i.ibb.co/44C048j/Logo-Anime-Onegai-TV.png" tvg-group="ARGENTINA", 3 Canal Anime Onegai 3 HD
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11059
-#EXTINF:-1 tvg-logo="https://i.ibb.co/44C048j/Logo-Anime-Onegai-TV.png" tvg-group="ARGENTINA", 4 Canal Anime Onegai 4 HD
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11060
-#EXTINF:-1 tvg-logo="https://i.ibb.co/44C048j/Logo-Anime-Onegai-TV.png" tvg-group="ARGENTINA", 5 Canal Anime Onegai 5 HD
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11061
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/44C048j/Logo-Anime-Onegai-TV.png" tvg-group="ARGENTINA", ANIME ONEGAI 1 TV PLUS
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=10931
-#EXTINF:-1 tvg-logo="https://i.ibb.co/44C048j/Logo-Anime-Onegai-TV.png" tvg-group="ARGENTINA", ANIME ONEGAI 2 TV PLUS 
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=10932
-#EXTINF:-1 tvg-logo="https://i.ibb.co/44C048j/Logo-Anime-Onegai-TV.png" tvg-group="ARGENTINA", ANIME ONEGAI 3 TV PLUS 
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=10933
-#EXTINF:-1 tvg-logo="https://i.ibb.co/44C048j/Logo-Anime-Onegai-TV.png" tvg-group="ARGENTINA", ANIME ONEGAI 4 TV PLUS 
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=10934
-#EXTINF:-1 tvg-logo="https://i.ibb.co/44C048j/Logo-Anime-Onegai-TV.png" tvg-group="ARGENTINA", ANIME ONEGAI 5 TV PLUS 5
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=10935
-
-
-#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=254x10000:format=jpg/path/sdc3404aa05b6ec66/image/id1a56b866cde1b6d/version/1668709855/image.jpg" tvg-group="ARGENTINA", TV DONNA DIGITAL
-https://live.enhdtv.com:8081/donnatvdigital/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://onetv.com.ar/wp-content/uploads/2024/01/29.4-transformed.png" tvg-group="ARGENTINA", ONE TV SAN JUAN
 https://videostream.shockmedia.com.ar:19360/onetv/onetv.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1669538372061208579/Wibfqd9H_400x400.jpg" tvg-group="ARGENTINA", TELEFE SANTA FE smt
 https://smt-usr-edge01.sensa.com.ar/output/COR/TSFH/track_0_3000/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://vivotv.uy/wp-content/uploads/2020/08/logo-white.png" group-title="URUGUAY", VIVO TV
+#EXTINF:-1 tvg-logo="https://vivotv.uy/wp-content/uploads/2020/08/logo-white.png" tvg-group="ARGENTINA", VIVO TV
 https://stream.vivotv.uy/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/hM1tpQ7lGzoKJgbZ1Fg0PZvS_PeypucTuMMTJvHYNT1DE-a44M_WSeIqOOG3bOK_TaSf=w240-h480" tvg-group="ARGENTINA", Canal Más
@@ -6687,9 +6664,6 @@ https://clientestv.bachistreaming.com:3721/multi_web/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZzF5nkv2/CINECLUB-TV.png" tvg-group="ARGENTINA", CINE CLUB bitel
 https://live-zlr1.tv360.bitel.com.pe/bitel/cineclub/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/ESBC2700003T8_20220914T041131.png" tvg-group="ARGENTINA", Bjgtjme 
-https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_BjgtjmePeliculasGratis/playlist.m3u8?ads.wurl_channel=1251&ads.wurl_name=BjgtjmePeliculasGratis&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/67cPJ3Lg/box-cinema.png" tvg-group="ARGENTINA",BOX CINEMA
 https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/QK2TKFREGRYXDI8IJGHW/hls3/now,-1m/m.m3u8
@@ -6702,24 +6676,3 @@ https://amg02724-amg02724c2-runtime-latam-2586.playouts.now.amagi.tv/playlist/am
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6076cd1df8576d0007c82193/colorLogoPNG.png" tvg-group="ARGENTINA", VH1 Classics
 https://stitcher.pluto.tv/stitch/hls/channel/6076cd1df8576d0007c82193/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60dd6b1da79e4d0007309455/colorLogoPNG.png" tvg-group="ARGENTINA", Nature Time
-https://stitcher.pluto.tv/stitch/hls/channel/60dd6b1da79e4d0007309455/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png" tvg-group="ARGENTINA", * Anime
-https://stitcher.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e6a4d875d7ccf0007cc2cf1/colorLogoPNG.png" tvg-group="ARGENTINA", * Animé Acción
-https://stitcher.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/colorLogoPNG.png" tvg-group="ARGENTINA",  Naruto
-https://stitcher.pluto.tv/stitch/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64c92fea3c3344000869e8a9/colorLogoPNG.png" tvg-group="ARGENTINA",  Naruto Shippuden
-https://stitcher.pluto.tv/stitch/hls/channel/64c92fea3c3344000869e8a9/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/656f37f257fe4a000884dfee/colorLogoPNG.png" tvg-group="ARGENTINA",  Boruto: Naruto Next Generations
-https://stitcher.pluto.tv/stitch/hls/channel/656f37f257fe4a000884dfee/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/626c2ed933a2890007e91422/colorLogoPNG.png" tvg-group="ARGENTINA",  Death Note
-https://stitcher.pluto.tv/stitch/hls/channel/626c2ed933a2890007e91422/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
