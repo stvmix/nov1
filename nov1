@@ -6523,11 +6523,10 @@ https://cdn.sensa.com.ar/live/eds/Playboy/live_dash_cld/Playboy.mpd?|referer=htt
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/ceeaa5b7b321683f8105e31e645329fc49dc4108103aef6d9e540f0a5e1183f3.png" tvg-group="ARGENTINA",11 (Honduras) (🇭🇳)
 https://tinyurl.com/4z3cwea2?.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/Canal_12_2018.png/revision/latest?cb=20210622012639&path-prefix=es
-" tvg-group="ARGENTINA",12 (Rep. Dominicana) (🇩🇴)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/Canal_12_2018.png/revision/latest?cb=20210622012639&path-prefix=es" tvg-group="ARGENTINA",12 (Rep. Dominicana) (🇩🇴)
 https://rdn.essastream.com:3258/live/telecanal12live.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Logo_Canal_14_M%C3%A9xico.svg" tvg-group="ARGENTINA",14 (Mexico) (🇲🇽)
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1934699897757773824/bxkvHycz_400x400.jpg" tvg-group="ARGENTINA",14 (Mexico) (🇲🇽)
 https://s5.mexside.net:1936/canal14/canal14/.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3-mspro.nyc3.cdn.digitaloceanspaces.com/tenant/62ed6e625a88e7000951ac98/mediaLibrary/photo/2e324b2a-7bc2-4eee-bba3-958741c0962e-medium-standard-q100.png" tvg-group="ARGENTINA",2 Quellon (Chile) (🇨🇱)
@@ -6535,6 +6534,15 @@ https://marine2.miplay.cl/canal2quellon/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/Repretel62024.svg/revision/latest/scale-to-width-down/200?cb=20241001185943&path-prefix=es" tvg-group="ARGENTINA",6 Repretel (Costa Rica) (🇨🇷)
 https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Repretel_2_CDR.png" tvg-group="ARGENTINA",Canal 2
+https://alba-cr-repretel-c2.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Repretel_4_logo.png/1024px-Repretel_4_logo.png" tvg-group="ARGENTINA",Canal 4
+https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/1200px-Repretel_11_logo.png" tvg-group="ARGENTINA",Canal 11
+https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://nexusbase.io/wp-content/uploads/2022/07/bigtime-logo.png" tvg-group="ARGENTINA",Bigtime (España) (🇪🇸)
 https://amogonetworx-bigtjme-2-eu.vidaa.wurl.tv/playlist.m3u8
@@ -6589,9 +6597,6 @@ https://b8fd51ec533f400cb683d981449b20fa.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSevPJtGAy2Udhr4U7hsvmp02mnHKhE0hkHeKQSoY-KO3iaDaeAJpM9IGYl3G8UIDZqNAg&usqp=CAU" tvg-group="ARGENTINA",Olanchito (Honduras) (🇭🇳)
 http://168.181.121.194:1836/hlscha3/llive.m3u8?key=3D8aUsX2w
-
-#EXTINF:-1 tvg-logo="" tvg-group="ARGENTINA",Sony Cine (España) (🇪🇸)
-https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.retroxtv.com/diminup/2023/09/Logo-De-Brunca-Texto-Blanco-1024x900.png" tvg-group="ARGENTINA",Tele Brunca (Costa Rica) (🇨🇷)
 https://59ef525c24caa.streamlock.net:443/telebrunca/telebrunca/.m3u8
