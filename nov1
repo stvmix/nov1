@@ -6551,33 +6551,29 @@ https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/QK2TKFREGRYXDI8IJGHW/hls3/now,
 https://amg02724-amg02724c2-runtime-latam-2586.playouts.now.amagi.tv/playlist/amg02724-somosfast-cinedehorror-runtimelatam/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="" tvg-group="ARGENTINA",Telecinco 🇦🇷
+#EXTINF:-1 tvg-logo="https://telearg.weebly.com/uploads/1/3/1/2/131240845/telecinco_1.png" tvg-group="ARGENTINA",Telecinco 🇦🇷
 https://videohd.live:19360/8016/8016.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-group="ARGENTINA",VTV Canal 17 🇧🇴
-https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" tvg-group="ARGENTINA",Red CCTV 🇧🇴
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/khY04_kPWbkOhnEnibakfJ9Q96PAw7_pHRnJ_biUY-um8gO8jgRqMxSQBEl4FhlUV6nr=w1024-h500" tvg-group="ARGENTINA",Red CCTV 🇧🇴
 https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-group="ARGENTINA",Bolivia TV 7.2 🇧🇴
+#EXTINF:-1 tvg-logo="https://i0.wp.com/nomada.bo/wp-content/uploads/2022/08/LOGO-BOLIVIA-TV.png?fit=800%2C542&ssl=1" tvg-group="ARGENTINA",Bolivia TV 🇧🇴
 https://video1.getstreamhosting.com:1936/8224/8224/chunklist_w1684483949.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-group="ARGENTINA",Dios Te Ve Kids 🇭🇳
+#EXTINF:-1 tvg-logo="https://online-television.net/uploads/posts/2022-12/dios-te-ve-kids.webp" tvg-group="ARGENTINA",Dios Te Ve Kids 🇭🇳
 https://s.emisoras.tv:8081/diostevekids/index.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-group="ARGENTINA",TV Centro HD 🇭🇳
-https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" tvg-group="ARGENTINA",Puringla TV 🇭🇳
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/_bvxLP-83J5Hop4SlkN-li7stjBpLP_NvgduAZaZEN30aiIkIgGHpTVoEADeUrtsvf66=w240-h480-rw" tvg-group="ARGENTINA",Puringla TV 🇭🇳
 https://stmv1.srvif.com/puringla/puringla/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-group="ARGENTINA",TV Centro 272 HD 🇭🇳
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/Rmt1998.png/revision/latest?cb=20200620233756" tvg-group="ARGENTINA",TV Centro HD 🇭🇳
 https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-group="ARGENTINA",Girasol TV 🇭🇳
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/Rmt1998.png/revision/latest?cb=20200620233756" tvg-group="ARGENTINA",TV Centro HD II 🇭🇳
+https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://girasoltv.girasolradiotvhn.com/wp-content/uploads/2020/10/cropped-logo-girasoltv-400x200px963.png" tvg-group="ARGENTINA",Girasol TV 🇭🇳
 https://video.misistemareseller.com/Girasoltv/Girasoltv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-group="ARGENTINA",CTV International 🇭🇳
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/d4c016aa681d0d9e3f09ee4c743e0365628f3a5304006a61b1faa417af08ba0b.png" tvg-group="ARGENTINA",CTV International 🇭🇳
 https://mediacp.us:8081/ctvhn/index.m3u8
-
