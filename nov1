@@ -5193,7 +5193,7 @@ https://cdn.sensa.com.ar/live/eds/ElGarage/live_dash_cld/ElGarage.mpd?|referer=h
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e070a7426b8cb1cab5f63996b7bd7669:1c140e0715b26c7232942ab87d232964
-#EXTINF:-1 group-title="CANALES SENSA" ch-number="127" tvg-id="[PXSP] PX Sports" tvg-name="PX Sports" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1811/CH_LOGO/800/542/0/0/70671934073582.png", PX Sports
+#EXTINF:-1 group-title="CANALES SENSA" ch-number="127" tvg-id="[PXSP] PX Sports" tvg-name="PX Sports" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1811/CH_LOGO/800/542/0/0/70671934073582.png" group-title="CANALES SENSA", PX Sports
 https://cdn.sensa.com.ar/live/sta01/PXSports/live_dash_cld/PXSports.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -5809,11 +5809,11 @@ https://bigboss.bemtv.cn/STREAM/6593/playlist.m3u8
 #EXTINF:0 tvg-logo="http://meta.nordvpn.best/uni-cine.png" group-title="🎬PELICULAS",Universal Cinema HD b
 https://bigboss.bemtv.cn/STREAM/6594/playlist.m3u8
 
-#EXTINF:0 group-title="Pack Universal" tvg-logo="http://meta.nordvpn.best/uni-crime.png" group-title="🎬PELICULAS",Universal Crime HD
+#EXTINF:0 tvg-logo="http://meta.nordvpn.best/uni-crime.png" group-title="🎬PELICULAS",Universal Crime HD
 https://otakon.bemtv.cn/STREAM/9086/playlist.m3u8
-#EXTINF:0 group-title="Pack Universal" tvg-logo="http://meta.nordvpn.best/uni-comedy.png" group-title="🎬PELICULAS",Universal Comedy HD
+#EXTINF:0 tvg-logo="http://meta.nordvpn.best/uni-comedy.png" group-title="🎬PELICULAS",Universal Comedy HD
 https://otakon.bemtv.cn/STREAM/9112/playlist.m3u8
-#EXTINF:0 group-title="Pack Universal" tvg-logo="http://meta.nordvpn.best/uni-real.png" group-title="🎬PELICULAS",Universal Reality HD
+#EXTINF:0 tvg-logo="http://meta.nordvpn.best/uni-real.png" group-title="🎬PELICULAS",Universal Reality HD
 https://otakon.bemtv.cn/STREAM/9111/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://meta.nordvpn.best/skysportsmx.png" group-title="⚽ DEPORTES ",Sky Sports 1 HD
@@ -5876,7 +5876,7 @@ https://otakon.bemtv.cn/STREAM/16059/playlist.m3u8
 https://bigboss.bemtv.cn/STREAM/22877/playlist.m3u8
 #EXTINF:0 tvg-logo="http://meta.nordvpn.best/tyc_sports.png" group-title="⚽ DEPORTES ",TYC Sports Int HD
 https://bigboss.bemtv.cn/STREAM/6810/playlist.m3u8
-#EXTINF:0 group-title="Conect Deportes" tvg-logo="http://meta.nordvpn.best/tntsport.png" group-title="⚽ DEPORTES ",TNT Sports HD (ARG)
+#EXTINF:0 tvg-logo="http://meta.nordvpn.best/tntsport.png" group-title="⚽ DEPORTES ",TNT Sports HD (ARG)
 https://otakon.bemtv.cn/STREAM/10914/playlist.m3u8
 #EXTINF:0 tvg-logo="http://meta.nordvpn.best/espn_lam.png" group-title="⚽ DEPORTES ",ESPN Premium HD (ARG)
 https://otakon.bemtv.cn/STREAM/7782/playlist.m3u8
