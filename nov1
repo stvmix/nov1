@@ -5,69 +5,61 @@
 nacionales, aire y noticias
 
 
-#EXTINF:-1  tvg-id="A24.ar.uy" tvg-name="AME24" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/51/CH_LOGO/800/542/0/0/2944696007343.png" tvg-group="ARGENTINA", A24
+#EXTINF:-1  tvg-id="A24.ar.uy" tvg-name="AME24" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/51/CH_LOGO/800/542/0/0/2944696007343.png" group-title="🇦🇷 ARGENTINA", A24
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ed936cd5cb59eeee83addafb446662a4:dd4b7aeb2bc000468883296e7ae4a09b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/A24/live_dash_cld/A24.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/51/CH_LOGO/800/542/0/0/2944696007343.png" tvg-group="ARGENTINA", A24 36.3
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/51/CH_LOGO/800/542/0/0/2944696007343.png" group-title="🇦🇷 ARGENTINA", A24 36.3
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/51/CH_LOGO/800/542/0/0/2944696007343.png" tvg-group="ARGENTINA",A24 (720p)
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/51/CH_LOGO/800/542/0/0/2944696007343.png" group-title="🇦🇷 ARGENTINA",A24 (720p)
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3361-320x180-000000.jpg" tvg-group="ARGENTINA",A24 SD 190
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3361-320x180-000000.jpg" group-title="🇦🇷 ARGENTINA",A24 SD 190
 http://190.123.90.146:8000/play/a002/index.m3u8
 
-#EXTINF:-1  tvg-id="C5N.ar.uy" tvg-name="C5NOT" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/C5NAR.png?raw=true" tvg-group="ARGENTINA", C5N
+#EXTINF:-1  tvg-id="C5N.ar.uy" tvg-name="C5NOT" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/C5NAR.png?raw=true" group-title="🇦🇷 ARGENTINA", C5N
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd1767fe3554f1285222b5610105c0e9:839d5b1eec7eb70d68c1e1531fc0d6d4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/C5N/live_dash_cld/C5N.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 tvg-logo="https://www.c5n.com/css-custom/326/images/mtg_logo-326.png" tvg-group="ARGENTINA", C5N dsr
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png" tvg-group="ARGENTINA",26 190
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png" group-title="🇦🇷 ARGENTINA",26 190
 http://190.123.90.146:8000/play/a001/index.m3u8
 
-#EXTINF:-1  tvg-id="Canal26.ar.uy" tvg-name="CAN26" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CAN26.png?raw=true" tvg-group="ARGENTINA", Canal 26
+#EXTINF:-1  tvg-id="Canal26.ar.uy" tvg-name="CAN26" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CAN26.png?raw=true" group-title="🇦🇷 ARGENTINA", Canal 26
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b35aecc554b859a97cf11b892731af1f:3a5da1a7c6a5cc6e488bdbbbf09132ff
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/Canal26/live_dash_cld/Canal26.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1  tvg-id="CronicaTV.ar.uy" tvg-name="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CRNCA.png?raw=true" tvg-group="ARGENTINA", Cronica
+#EXTINF:-1  tvg-id="CronicaTV.ar.uy" tvg-name="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CRNCA.png?raw=true" group-title="🇦🇷 ARGENTINA", Cronica
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=194f0682180e147f7928078dcc78a019:ddfc08545e74a6bd8870f1189cd1bec0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/Cronica/live_dash_cld/Cronica.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTE2X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1708456591202" tvg-group="ARGENTINA", CRONICA HD 24.4
+#EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTE2X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1708456591202" group-title="🇦🇷 ARGENTINA", CRONICA HD 24.4
 https://g4.vxral-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTE2X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1708456591202" tvg-group="ARGENTINA",CRONICA 190
+#EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTE2X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1708456591202" group-title="🇦🇷 ARGENTINA",CRONICA 190
 http://190.123.90.146:8000/play/a005/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lanacion.in/uploads/1617992939-logo%20LN+.png" tvg-group="ARGENTINA", LN+ drs
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vJYzGt1.png" tvg-group="ARGENTINA",LN+ sd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vJYzGt1.png" group-title="🇦🇷 ARGENTINA",LN+ sd
 http://190.123.90.146:8000/play/a006/index.m3u8
 
-#EXTINF:-1  tvg-id="LaNacionPlus.ar.uy" tvg-name="LNAC+" tvg-logo="https://git.io/J35ry" tvg-group="ARGENTINA", La Nación +
+#EXTINF:-1  tvg-id="LaNacionPlus.ar.uy" tvg-name="LNAC+" tvg-logo="https://git.io/J35ry" group-title="🇦🇷 ARGENTINA", La Nación +
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a002010b506854599dffbb8b9048ec7c:160eedf85229da919a7c5eec4fbef809
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/LaNacionMas/live_dash_cld/LaNacionMas.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vFwPhPS.png" tvg-group="ARGENTINA",TN HD dsr
-
-
-#EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/tn@2x.png" tvg-group="ARGENTINA",TN 190
+#EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/tn@2x.png" group-title="🇦🇷 ARGENTINA",TN 190
 http://190.123.90.146:8000/play/a032/index.m3u8
 
-#EXTINF:-1  tvg-id="TN HD.uy" tvg-name="TNNOT" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNARG.png?raw=true" tvg-group="ARGENTINA", TN
+#EXTINF:-1  tvg-id="TN HD.uy" tvg-name="TNNOT" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNARG.png?raw=true" group-title="🇦🇷 ARGENTINA", TN
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4b4ebe3c68c4c95c7639096e76c233d0:0c48cd5e3298b762a099acdc05a5182a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
@@ -75,66 +67,64 @@ https://cdn.sensa.com.ar/live/eds/TN/live_dash_cld/TN.mpd?|referer=https://playe
 
 #EXTINF:-1 tvg-logo="https://telearg.weebly.com/uploads/1/3/1/2/131240845/ip_1.png" tvg-group="ARGENTINA",IP dsr
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/PMh8A79.png" tvg-group="ARGENTINA", RT Rusia Hoy  
+#EXTINF: -1 tvg-logo="https://i.imgur.com/PMh8A79.png" group-title="🇦🇷 ARGENTINA", RT Rusia Hoy  
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Logo_Canal_24_horas.svg/2399px-Logo_Canal_24_horas.svg.png" tvg-group= "ARGENTINA", 24h
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Logo_Canal_24_horas.svg/2399px-Logo_Canal_24_horas.svg.png" group-title="🇦🇷 ARGENTINA", 24h
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 
-#EXTINF:-1  tvg-id="CanalE" tvg-current-title="Programación Canal E" tvg-logo="https://www.perfil.com/img/minisitios/econocanal/logo.png" tvg-group="ARGENTINA", Canal E
+#EXTINF:-1  tvg-id="CanalE" tvg-current-title="Programación Canal E" tvg-logo="https://www.perfil.com/img/minisitios/econocanal/logo.png" group-title="🇦🇷 ARGENTINA", Canal E
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1894229072ccac2d0f6a101d618d039d:9a7ea848df202bf22ac51bda4482a4c2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/bpk-tv/CanalE/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 tvg-logo="https://fotos.perfil.com/2023/06/01/trim/900/900/canal-e-1579846.jpg" tvg-group="ARGENTINA", Canal E (720p)
+#EXTINF:-1 tvg-logo="https://fotos.perfil.com/2023/06/01/trim/900/900/canal-e-1579846.jpg" group-title="🇦🇷 ARGENTINA", Canal E (720p)
 https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/NOTICIAS_CARACOL.svg/1200px-NOTICIAS_CARACOL.svg.png" tvg-group="ARGENTINA", Caracol Noticias
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/NOTICIAS_CARACOL.svg/1200px-NOTICIAS_CARACOL.svg.png" group-title="🇦🇷 ARGENTINA", Caracol Noticias
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/96/ESBC1400001L8_20220426T161624.png" tvg-group="ARGENTINA",El Confidencial
+#EXTINF:-1 tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/96/ESBC1400001L8_20220426T161624.png" group-title="🇦🇷 ARGENTINA",El Confidencial
 https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8?ads.device_did=%7BPSID%7D &ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
-#EXTINF:-1 tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/ESBC39000033J_20221026T010920.png" tvg-group="ARGENTINA",El País
+#EXTINF:-1 tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/ESBC39000033J_20221026T010920.png" group-title="🇦🇷 ARGENTINA",El País
 https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8?ads.device_did=%7BPSID%7D&ads%7DTARGETOads%7Bdnt=dominio_aplicación=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
-#EXTINF:-1 tvg-logo="https://www.freecast.com/_next/image?url=https%3A%2F%2Fd3e3bui7xn67l.cloudfront.net%2Fcms_media%2Fmedia%2Flive%2Fchannel%2Fff270419-798c-4ee7-897b-7b197dc9fa7a-1689106721.353391.256x256.png&w=256&q=75" tvg-group="ARGENTINA", Euronoticias | unión europea
+#EXTINF:-1 tvg-logo="https://www.freecast.com/_next/image?url=https%3A%2F%2Fd3e3bui7xn67l.cloudfront.net%2Fcms_media%2Fmedia%2Flive%2Fchannel%2Fff270419-798c-4ee7-897b-7b197dc9fa7a-1689106721.353391.256x256.png&w=256&q=75" group-title="🇦🇷 ARGENTINA", Euronoticias | unión europea
 https://2e0d18116bec40e088c0723dc56accf5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_EuronewsSpanish/playlist.m3u8?ads.wurl_channel=671&ads.wurl_name=EuronewsSpanish&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.plex_id=60089d97f682a3002c34829d&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/46/7a/8c/467a8cba-eb8a-4649-d154-c9172e28ea6f/AppIcon-0-1x_U007emarketing-0-6-0-85-220-0.png/256x256bb.jpg" tvg-group="ARGENTINA", francia 24 dsr
-
-#EXTINF:0  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/CNN_Chile_boxless_2024.svg/revision/latest/scale-to-width-down/250?cb=20240517225007" tvg-group="ARGENTINA",CNN (Chile) (🇨🇱)
+#EXTINF:0  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/CNN_Chile_boxless_2024.svg/revision/latest/scale-to-width-down/250?cb=20240517225007" group-title="🇦🇷 ARGENTINA",CNN (Chile) (🇨🇱)
 https://redirector.rudo.video/hls-video/lvcl5/cnn/cnn.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/362/CH_LOGO/160/160/0/0/439650900762.png" tvg-group="ARGENTINA",CNN E SD 190
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/362/CH_LOGO/160/160/0/0/439650900762.png" group-title="🇦🇷 ARGENTINA",CNN E SD 190
 http://190.123.90.146:8000/play/a004/index.m3u8
 
-#EXTINF:-1  ch-number="606" tvg-id="CNNenEspanol.us.uy" tvg-name="CNNEE" tvg-logo="https://logo.iptveditor.com/cnnenespaol.png" tvg-group="ARGENTINA", CNN En Español
+#EXTINF:-1  ch-number="606" tvg-id="CNNenEspanol.us.uy" tvg-name="CNNEE" tvg-logo="https://logo.iptveditor.com/cnnenespaol.png" group-title="🇦🇷 ARGENTINA", CNN En Español
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=718f07e2beccf40cc207365ea8a70ef6:672d59d617c4a697025be0fb8d382cc0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/CnnEspanol/live_dash_cld/CnnEspanol.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 tvg-logo="https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/6065f6ae802b642eeeaf23cc_cnnchile.png" tvg-group="ARGENTINA",cnn cl NEW
+#EXTINF:-1 tvg-logo="https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/6065f6ae802b642eeeaf23cc_cnnchile.png" group-title="🇦🇷 ARGENTINA",cnn cl NEW
 https://jireh-2-hls-video-cl-vtr.dps.live/hls-video/lvcl5/cnn/cnn.smil/cnn/livestream1/chunks.m3u8
 
-#EXTINF:-1  ch-number="609" tvg-id="Deustche Welle.uy" tvg-logo="https://git.io/JOTLM" tvg-group="ARGENTINA", Deutsche Welle
+#EXTINF:-1  ch-number="609" tvg-id="Deustche Welle.uy" tvg-logo="https://git.io/JOTLM" group-title="🇦🇷 ARGENTINA", Deutsche Welle
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5a24d18dae30689d554afc6fc1348734:2f7420bfacfeac635b9e8ed0b5afa554
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/DWChannel/live_dash_cld/DWChannel.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YqFOB1h.png" tvg-group="ARGENTINA", DW en español | FHD | alemania
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YqFOB1h.png" group-title="🇦🇷 ARGENTINA", DW en español | FHD | alemania
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YqFOB1h.png" tvg-group="ARGENTINA", DW en español
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YqFOB1h.png" group-title="🇦🇷 ARGENTINA", DW en español
 https://streamstat.net/play.cgi?sid=726018522&ext=embed.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" tvg-group="ARGENTINA",France 24 (España) (🇪🇸)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="🇦🇷 ARGENTINA",France 24 (España) (🇪🇸)
 https://s5.mexside.net:1936/france24/france24/.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.freecast.com/_next/image?url=https%3A%2F%2Fd3e3bui7xn67l.cloudfront.net%2Fcms_media%2Fmedia%2Flive%2Fchannel%2Fff270419-798c-4ee7-897b-7b197dc9fa7a-1689106721.353391.256x256.png&w=256&q=75" tvg-group="ARGENTINA",Euronews pl
+#EXTINF:-1 tvg-logo="https://www.freecast.com/_next/image?url=https%3A%2F%2Fd3e3bui7xn67l.cloudfront.net%2Fcms_media%2Fmedia%2Flive%2Fchannel%2Fff270419-798c-4ee7-897b-7b197dc9fa7a-1689106721.353391.256x256.png&w=256&q=75" group-title="🇦🇷 ARGENTINA",Euronews pl
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02b1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
@@ -726,11 +716,6 @@ https://cdn.sensa.com.ar/bpk-tv/VePlus/default/index.mpd?|referer=https://player
 
 #EXTINF:0 tvg-logo="https://television-libre.tv/img/telemax.webp" tvg-group="ARGENTINA",Telemax AR
 
-#EXTINF:0 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2019_08/small.Logo_TierramiaTV.png.52a0b19eb1a7425c43898d0766558d1a.png.89d25e14cb6955263ac79d3c3469774d.png" tvg-group="ARGENTINA",Tierramia TV | Arkansas
-
-#EXTINF:-1 tvg-logo="https://static.tvar.io/imagenes/13maxdigital.png" group-title="🇦🇷 ARGENTINA", 13 Max Televisi\u00f3n
-http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/chunklist_w247540946.m3u8
-
 #EXTINF:0 tvg-logo="https://canal3argentina.tv/wp-content/uploads/2018/11/cropped-logoweb.png" group-title="🇦🇷 ARGENTINA",CANAL 3 ARGENTINA
 https://stmv6.voxtvhd.com.br/canal3argentina/canal3argentina/playlist.m3u8
 
@@ -792,7 +777,7 @@ https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8?Playli
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/Canal_7_Neuquen_2023.png/revision/latest/scale-to-width-down/150?cb= 20230902134221&path-prefix=es" group-title="🇦🇷 ARGENTINA", Canal 7 Neuquén | Arkansas
 https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF: -1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-9-Televida-en-vivo-Online.png?resize=696%2C392&ssl=1" tvg-group="ARGENTINA", Canal 9 Televida | HD | Mendoza
+#EXTINF: -1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-9-Televida-en-vivo-Online.png?resize=696%2C392&ssl=1" group-title="🇦🇷 ARGENTINA", Canal 9 Televida | HD | Mendoza
 https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/televidaar/livestream1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/22R2eBR.png" group-title="🇦🇷 ARGENTINA", 13max | Corrientes
@@ -800,6 +785,9 @@ https://617c5175c970b.streamlock.net:4444/13maxhd/live13maxtvnuevo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/22R2eBR.png" group-title="🇦🇷 ARGENTINA",13Max Televisión (1080p)
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.tvar.io/imagenes/13maxdigital.png" group-title="🇦🇷 ARGENTINA", 13 Max Televisi\u00f3n
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/chunklist_w247540946.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_09/large.643551553_BravoTV.png.57a91952c5e4e5fd1a66c5b047909fb4.png" tvg-group="ARGENTINA",BRAVO TV
 
@@ -903,7 +891,7 @@ http://190.123.90.146:8000/play/a035/index.m3u8
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/285/CH_LOGO/160/160/0/0/1820288007328.png" group-title="🇦🇷 ARGENTINA",TCM 190
 http://190.123.90.146:8000/play/a01b/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/f8hSs6J/Punto-99-Logo-Reducido.png" tvg-group="ARGENTINA", PUNTO 99
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f8hSs6J/Punto-99-Logo-Reducido.png" group-title="🇦🇷 ARGENTINA", PUNTO 99
 https://stmv5.voxtvhd.com.br/99online/99online/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ydqK2H0.png" group-title="🇦🇷 ARGENTINA",Ciudad Mágica Tv | Argentina
@@ -944,13 +932,13 @@ https://cdn.sensa.com.ar/live/eds/Encuentro/live_dash_cld/Encuentro.mpd?|referer
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/122/CH_LOGO/160/160/0/0/1011215007477.png" group-title="🇦🇷 ARGENTINA",Encuentro 190
 http://190.123.90.146:8000/play/a00o/index.m3u8
 
-#EXTINF:-1  tvg-id="CanalRural.ar" tvg-logo="https://3.bp.blogspot.com/-kRrQVEhftUU/V-_RmD35S8I/AAAAAAAABB0/3CbSCG5SblctjXDXlMkNc8V0bZHVAfFZACLcB/s1600/canalrural-2016.png" tvg-group="ARGENTINA", Canal Rural
+#EXTINF:-1  tvg-id="CanalRural.ar" tvg-logo="https://3.bp.blogspot.com/-kRrQVEhftUU/V-_RmD35S8I/AAAAAAAABB0/3CbSCG5SblctjXDXlMkNc8V0bZHVAfFZACLcB/s1600/canalrural-2016.png" group-title="🇦🇷 ARGENTINA", Canal Rural
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=24ecaed20225a367ad8fde9b6e826cd6:14dbfc007a3f5648d2c30075f037a830
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/CanalRural/live_dash_cld/CanalRural.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/GRGTV.png?raw=true" tvg-group="ARGENTINA",Garage TV Latin America
+#EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/GRGTV.png?raw=true" group-title="🇦🇷 ARGENTINA",Garage TV Latin America
 https://stream1.sersat.com/hls/garagetv.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fmh.la/images/team/logo_movies.png" tvg-group="PREMIUM", fmh movies| HD | Lima
@@ -1098,332 +1086,6 @@ https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 #EXTINF:0 tvg-logo="https://play-lh.googleusercontent.com/mqchAS5utGd4_Xuo3g7rJQGRPWkOxIajffMeW6KDiIrYR5to_nbGW3Ln9-nDpCdXacY" tvg-group="INFANTILES",3 Punt (España) (🇪🇸)
 https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8
 
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/chinola-tv.png" tvg-group="INFANTILES",Chinola (Rep. Dominicana) (🇩🇴)
-https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uGwFXeM.png" tvg-group="INFANTILES", Educa TV | Ecuador
-https://vid2.ecuamedia.net/educatv/live/chunklist_w401884011.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6vvB5g3/Disney-Channel.png" tvg-group="INFANTILES",DISNEY
-http://190.123.90.146:8000/play/a02a/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DSNJR.png?raw=true" tvg-group="INFANTILES",Disney Junior SD 190
-http://190.123.90.146:8000/play/a02b/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/226.png" tvg-group="INFANTILES", Cartoon Network x
-http://190.123.90.146:8000/play/a02x/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/ecbb842d-3b93-4c7b-90fd-9a188d7b4f20" tvg-group="INFANTILES",DISCOVERY KIDS sdmx
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/ecbb842d-3b93-4c7b-90fd-9a188d7b4f20" tvg-group="INFANTILES",DISCOVERY KIDS 190
-http://190.123.90.146:8000/play/a029/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/Tooncast_%28green%29.png/revision/latest?cb=20161207193208" tvg-group="INFANTILES", TOONCAST
-
-#EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1181x886/Y2gwMTAwMDAwMDAwMjI5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1181x886.png?timestamp=1708457100995" tvg-group="INFANTILES",NICKELODEON 190
-http://190.123.90.146:8000/play/a02e/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nick_Jr._logo_2023.webp" tvg-group="INFANTILES",NICK JRS 190
-http://190.123.90.146:8000/play/a02c/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F619PhG.png" tvg-group="INFANTILES", Nick Junior Club| alta definición
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=& buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366- 4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=22941a63-f69a -11ea-bfbf-0242ac110002&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VLQJ8Svc/NICK-CL-SICO.png" tvg-group="INFANTILES",NICK CLASICO
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=bc342b32-6e53-468c-9a43-1cbc213945ac&clientModelNumber=na&deviceDNT=false&deviceId=bc342b32-6e53-468c-9a43-1cbc213945ac&deviceLat=13.7066&deviceLon=-89.2053&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=d5b8a4f4-6969-11eb-ac8e-0242ac110002&sid=d5b8a4f4-6969-11eb-ac8e-0242ac110002&userId=
-
-#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/54872a85-54f7-4314-9841-81720821be3e/dg61r59-d66b5105-e6e5-40ac-a619-d7f2788caa37.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU0ODcyYTg1LTU0ZjctNDMxNC05ODQxLTgxNzIwODIxYmUzZVwvZGc2MXI1OS1kNjZiNTEwNS1lNmU1LTQwYWMtYTYxOS1kN2YyNzg4Y2FhMzcucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.RUDjMlargDjSbClToZL0xiGkoe2m7j4l3ZxoYngDCJE" tvg-group="INFANTILES", NICKTEEN
-https://stitcher.pluto.tv/stitch/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=c16ba9e4-85a7-11eb-a861-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FlqeZFf.png" tvg-group="INFANTILES", Pluto TV Adolescente| alta definición teen
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6de52b9914200091f047a/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture =&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366- 4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=70b83b16-f690 -11ea-a685-0242ac110002&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/WR5rDFjq1lw/maxresdefault.jpg" tvg-group="INFANTILES",Nickelodeon en español
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/WR5rDFjq1lw/maxresdefault.jpg" tvg-group="INFANTILES",Nickelodeon en español cfd
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5107-30d3- 11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=919bc5fd-6cce-44a6-bb39-2894dea1c988
-
-#EXTINF:-1 tvg-logo="https://jrsy.tmsimg.com/assets/p18368280_b_h9_aa.jpg" tvg-group="INFANTILES", Pluto TV retro Cartoons hls
-https://stitcher.pluto.tv/stitch/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=83ae8ae2-b28d-11ee-bbe9-962bf7ca3ddb
-
-#EXTINF:-1 tvg-logo="https://jrsy.tmsimg.com/assets/p18368280_b_h9_aa.jpg" tvg-group="INFANTILES", Pluto TV Dibujos Animados Retro Entretenimiento
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/babyfirsttv/images/c/ce/2006-2008.png/revision/latest?cb=20240220175353" tvg-group="INFANTILES", Babyfirst
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=& buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366- 4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=a65bdf35-f699 -11ea-b899-0242ac110002&userId=&serverSideAds=true
-
-#EXTINF:0 tvg-logo="https://provider-static.plex.tv/epg/cms/production/f8f7c285-f574-4037-84cd-131a22066e57/Channel_Logo_dark_1500x1000_.png" tvg-group="INFANTILES", Baby Shark TV
-https://stitcher.pluto.tv/stitch/hls/channel/619d5e6a093e7c0007489211/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=09083b97-7943-11ef-be08-92fcbbc12eaa
-
-#EXTINF:0 tvg-logo="https://1000marcas.net/wp-content/uploads/2023/09/Dora-the-Explorer-Logo-2000.png" tvg-group="INFANTILES", Dora La Exploradora
-https://stitcher.pluto.tv/stitch/hls/channel/656e28a2954b020008ed133a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=09083b97-7943-11ef-be08-92fcbbc12eaa
-                    
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/b1/1b/78/b11b786687bb990ea5f05d1fc4c89326.png" tvg-group="INFANTILES",PAW Patrol Patrulla de Cachorros
-https://stitcher.pluto.tv/stitch/hls/channel/6495c6ad115d060008bf6b52/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=09083b97-7943-11ef-be08-92fcbbc12eaa
-           
-#EXTINF:-1 tvg-logo="https://partners.elreinoinfantil.com/wp-content/uploads/2024/01/Recurso-9-e1706542238720.png" tvg-group="INFANTILES",El Reino Infantil [Kids] [717] [AR]
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d3d06fb60d8000781fce8/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EaYYKb7.png" tvg-group="INFANTILES",Planeta Junior TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4311&checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Rv7T3bF/Logo-Planeta-Junior-TV.png" tvg-group="INFANTILES"Planeta Junior TV HD
-https://daiconnect.com/live/hls/tvup/tvfy-pljr/.m3u8
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-_Z008vfbTzU/YLFmmFBX6qI/AAAAAAAAD4s/1gAWpUIrEUU3s1hnLbTSffX4XnOOT_A3wCLcBGAsYHQ/s540/happykids.tv-espa%25C3%25B1ol-logoroku.png" tvg-group="INFANTILES",Kids Es
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=514
-
-#EXTINF:-1 tvg-logo="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2633950/header.jpg" tvg-group="INFANTILES", Rugrats 
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architec ture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366- 4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=22941a63-f69a -11ea-bfbf-0242ac110002&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png" tvg-group="INFANTILES", * Anime
-https://stitcher.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:-53 tvg-logo="https://img.anime2you.de/2021/06/pluto-tv-anime-logo.jpg" tvg-group="INFANTILES",ANIME DE PLUTO TV
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architec ture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366- 4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=02c02686-f692 -11ea-abc9-0242ac110002&userId=&serverSideAds=true
-
-#EXTINF:-53 tvg-logo="https://1.bp.blogspot.com/-cmtidHqFXtQ/XshcrCBM0VI/AAAAAAAAK68/VIfj4xN7pHoIiREgwxB3e5CArDd51PPuQCLcBGAsYHQ/s640/errrrrrrrrrr.png" tvg-group="INFANTILES",PLUTO TV ANIME ACCIÓN
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture= &buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366- 4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=9aa7b802-f692 -11ea-abc9-0242ac110002&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e6a4d875d7ccf0007cc2cf1/colorLogoPNG.png" tvg-group="INFANTILES", * Animé Acción
-https://stitcher.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="https://fwmedia.fandomwire.com/wp-content/uploads/2023/09/08033039/Death-Note-Anime-scaled.jpg" tvg-group="INFANTILES",Death Note [Animé y juegos] [332] [AR]
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/626c2ed933a2890007e91422/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/626c2ed933a2890007e91422/colorLogoPNG.png" tvg-group="INFANTILES",  Death Note
-https://stitcher.pluto.tv/stitch/hls/channel/626c2ed933a2890007e91422/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQz2xLFCdELUNAA6nxUAsrmEHur2maWgFGthnHuMuL3fiRf9wsJMD4b5oEuzKlEZv-AqE&usqp=CAU" tvg-group="INFANTILES",Naruto [Animé y juegos] [331] [AR]
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1qdPq58.png" tvg-group="INFANTILES", Naruto| alta definición
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture= &buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366- 4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=00e032f5-f693 -11ea-b899-0242ac110002&userId=&serverSideAds=true
-
-#EXTINF:0 tvg-logo="https://images.pluto.tv/channels/64c92fea3c3344000869e8a9/colorLogoPNG.png" tvg-group="INFANTILES", Naruto Shippuden
-https://stitcher.pluto.tv/stitch/hls/channel/64c92fea3c3344000869e8a9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=09083b97-7943-11ef-be08-92fcbbc12eaa
-
-#EXTINF:0 tvg-logo="https://images.pluto.tv/channels/656f37f257fe4a000884dfee/colorLogoPNG.png" tvg-group="INFANTILES", Boruto Naruto Next Generations
-https://stitcher.pluto.tv/stitch/hls/channel/656f37f257fe4a000884dfee/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=09083b97-7943-11ef-be08-92fcbbc12eaa
-   
-#EXTINF:0 tvg-logo="https://images.pluto.tv/channels/64666345f3f5b1000882bfb4/colorLogoPNG.png" tvg-group="INFANTILES", Captain Tsubasa
-https://stitcher.pluto.tv/stitch/hls/channel/64666345f3f5b1000882bfb4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=09083b97-7943-11ef-be08-92fcbbc12eaa
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/2e/90/10/2e90102e5cf32c96e5bbc436938f8c6d.png" tvg-group="INFANTILES", SUPERCAMPEONES
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=11681
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yvShCF9.png" tvg-group="INFANTILES", Yu-Gi-Oh! | alta definición
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId =canal&embedPartner= rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
-
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Tv-Costa-Chile-en-vivo-Online.png" tvg-group="INFANTILES", TV Costa | CL
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMdKXPfUDKkq2zM-SFqg4a-KRP2DVGl0CerkbVyGW7g1TPqJ8sKFVd-rapYzpzw8IuodE&usqp=CAU" tvg-group="INFANTILES", Ganja TV
-https://stream-cdn-iad.vaughnsoft.net/play/live_ganja_tv_2.flv
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DdYrpbY.png" tvg-group="INFANTILES", Zaz TV | México
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzqhkN_MIPP4txuejfFHs3nm3gRZaCN5xCRxin91zk9GkqpTNnYmpu2-sxxlwEClwDa2o&usqp=CAU" tvg-group="INFANTILES",NTV miplay
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD130000205_20230809T053830SQUARE.png_20230809053830.png" tvg-group="INFANTILES",Pitufos TV
-https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Dinosaurs_%28ABC_TV_series%29.png" tvg-group="INFANTILES",Dinosaurs (TV series) 209644
-
-#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2024/03/Tom_and_Jerry_Logo.png" tvg-group="INFANTILES",Tom and Jerry
-
-#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ecd51263-bb0f-4465-af86-f7ed25e58e70/def0weu-9ead2c2b-feb0-466f-9156-b8bb2f4eaaee.png/v1/fill/w_303,h_165/icarly_logo__png__by_amazingtoludada3000_def0weu-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTY1IiwicGF0aCI6IlwvZlwvZWNkNTEyNjMtYmIwZi00NDY1LWFmODYtZjdlZDI1ZTU4ZTcwXC9kZWYwd2V1LTllYWQyYzJiLWZlYjAtNDY2Zi05MTU2LWI4YmIyZjRlYWFlZS5wbmciLCJ3aWR0aCI6Ijw9MzAzIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.-YQi1QQJTobBtWH0LWk3IMHt20saP3Zwm6veSid5tkI",Nickelodeon iCarly [Entretenimiento] [178] [AR]
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620ff0a01f9e8700076c6f9d/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-
-#EXTINF:-1 tvg-logo="https://images.fineartamerica.com/images/artworkimages/medium/1/kenan-and-kel-janis-m-carrier-transparent.png" tvg-group="INFANTILES",Kenan y Kel [Entretenimiento] [177] [AR]
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fcea93ffcf94500071c4b2f/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Bob Esponja" tvg-logo="https://1.bp.blogspot.com/-j4Ki8YyD7kQ/WD8HODeu1eI/AAAAAAAAB9A/WzguSQQjJj8lheiEnNAAw_N8lVpYNzstgCLcB/s1600/png_bob_6.png" tvg-group="INFANTILES",Bob Esponja
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-logo="https://f.rpp-noticias.io/2024/05/03/1576458poster-fotor-2024050313299jpg.jpg" tvg-group="INFANTILES", LOS PADRINOS MAGICOS 
-https://stitcher.pluto.tv/stitch/hls/channel/6322099c822bbc00074857db/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="https://caracoltv.brightspotcdn.com/dims4/default/cd920b7/2147483647/strip/true/crop/1200x800+0+0/resize/1000x667!/quality/90/?url=http%3A%2F%2Fcaracol-brightspot.s3.amazonaws.com%2Fa4%2Fc7%2F0093276747b98696a1e86ad53233%2Flas-pistas-de-blue.jpg" tvg-group="INFANTILES",Pluto TV Las Pistas de Blue (360p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9996533c9de3000759ccb5/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name= web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f- 1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0. 4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857- 714a-11eb-b532-0242ac110002&userId=
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/paramountanimation/images/4/4b/UPN_Kids_logo.png/revision/latest?cb=20210813190320" tvg-group="INFANTILES",¡Haz Clic!
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4310
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnC3r32J8pcTjmS4uZR130RD8Ky9WQjebHI_yIvJGsEkIC02McoGWHBNVghgz8Og1FNNk&usqp=CAU" tvg-group="INFANTILES",Zona de Acción
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4312
-
-#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/copia_de_linear-canela_kids-16x9-jainer_2_0.jpg" tvg-group="INFANTILES",Mundo Pequeño
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3366
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g3Jreh3.png" tvg-group="INFANTILES",Canela Kids
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
-
-#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-planeta_de_aventuras.estreno.nav_.jpg" tvg-group="INFANTILES", Planeta de Aventuras
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4311
-
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/d417b288678c643f010ee46bcebaa397945fe33daccc818cd730e9b2e7e674de.png" tvg-group="INFANTILES", kids tv es
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-et/master_es.m3u8
-
-#EXTINF:-61 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGca7RDM9MXALaTrPbjj0dQFCWLuxTD4y_ZmYKrWDmcDHOHFjO332IoXG335_KeXctRtw&usqp=CAU" tvg-group="INFANTILES",PLUTO TV JUNIOR
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde2ac4bc6c500094ab45b/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=& buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366- 4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=e5728363-f699 -11ea-bfbf-0242ac110002&userId=&serverSideAds=true
-
-#EXTINF:-61 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Pluto-TV-Kids-en-directo-Online.png?fit=1920%2C1080&ssl=1" tvg-group="INFANTILES",PLUTO TV NIÑOS
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=& buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366- 4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=22941a63-f69a -11ea-bfbf-0242ac110002&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="https://www.contenidostv.es/images/pequeRadio-512.png" tvg-group="INFANTILES", Pequeradio TV
-https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
-
-#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ec545603-cf4e-48e0-936d-5376ea12fdc0/dg3e0gx-66b50610-5b93-43d6-b39a-f94e6651bb6f.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VjNTQ1NjAzLWNmNGUtNDhlMC05MzZkLTUzNzZlYTEyZmRjMFwvZGczZTBneC02NmI1MDYxMC01YjkzLTQzZDYtYjM5YS1mOTRlNjY1MWJiNmYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ughot1eF4DU-E7VB9-2Dw0ZY344wDAQYHi_4o8lQZW0" tvg-group="INFANTILES", Barney
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f29ada4bdaebd000708d49d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId =canal&embedPartner= rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
-
-#EXTINF:-1 tvg-logo="https://teleclub.es/wp-content/uploads/2023/04/toongoggles_logo_light_1500x1000.png" tvg-group="INFANTILES",Toon Goggles Dibujos Animados
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
-
-#EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/580b57fcd9996e24bc43c515.png" tvg-group="INFANTILES", ANGRY BIRDS
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=547&avod=1&coppa=1&is_lat=1&us_privacy=1---&did=29d976831067d48c1669f305dcaea6f9&app_bundle=com.toongoggles.html5&app_store_url=http%3A%2F%2Fwww.toongoggles.com%2Fdevices&app_domain=toongoggles.com&app_name=toongoggles&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=toongoggles&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&livestream=1&timestamp=1616162944&id=266911&ip=92.38.148.59&override_expiration=1500&sign=xjG7CjbtexmXurqdKFkyO0wdwLtEAWU50VjIK587uGs%3D
-
-#EXTINF:-1 tvg-id="ESBA3300020W5" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/00/55/ESBA3300020W5_20210113T004316.png" tvg-group="INFANTILES",Caillou | Espanha
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKtUtqnit5WieHZbiESS7HA408rb7mb7_bg6heZvk6LSN3fMD1Zd5Hvf-Q25elAQtOSTQ&usqp=CAU" tvg-group="INFANTILES",Extrema Kids
-https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/wRuHWNCjqvo/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD4V8G6EoBn1Rh72zZxU-LXSfRNZw" tvg-group="INFANTILES", BEBESITO BUM Y SUS AMIGOS
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60493283ffc52f000710edae/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId= canal&embedPartner= rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
-#EXTINF:-1 tvg-logo="https://licensing.biz/wp-content/uploads/2023/05/MB_KEYART-2023_LANDSCAPE_01-copy-1024x576.jpg" tvg-group="INFANTILES", Moonbug Kids L
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3365
-
-#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991687/600x337.webp?type=channelTile" tvg-group="INFANTILES", MOJITV
-https://dbrb49pjoymg4.cloudfront.net/10001/99991687/hls/master.m3u8?ads.xumo_channelId=99991687
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2SkMY7n/kids-tv.png" tvg-group="INFANTILES", TV INFANTIL
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-et/master_es.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zxjmbLC/toonz-kids.png" tvg-group="INFANTILES", TOONZ KIDS
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids-spanish/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Mr%20Bean.webp" tvg-group="INFANTILES",Mr. Bean 🇪🇸
-https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/123TV_%282022%29.png/revision/latest/scale-to-width-down/200?cb=20220903004013&path-prefix=es" tvg-group="INFANTILES", 145 | 1·2·3 TV
-http://38.41.8.1:8000/play/a03o
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BADfaU8.png" tvg-group="INFANTILES",Canal Ipe | Perú
-https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
-
-#EXTINF:-1 tvg-logo="https://xhateaec.com/upload/photos/2025/01/MmoWlIPCxmaWG69VXC86_11_65958d4ac2c70a80babc2fa6c5c5cd8f_avatar_full.png" tvg-group="INFANTILES", FUNTV
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/funtvretro/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png" tvg-group="INFANTILES", CLAN
-https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png" tvg-group="INFANTILES", CLAN E
-https://rtvelivestream-clnx.rtve.es/rtvesec/int/clan_int_main.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png" tvg-group="INFANTILES", Clan Latinoamerica HD (geobloqueo)
-https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_dvr_1080.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rvRB0hb.png" tvg-group="INFANTILES", Boing | HD | España
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/5/5f/Canal_Infantil.png/revision/latest?cb=20230419185326&path-prefix=es" tvg-group="INFANTILES",canal infantil pe
-http://160.20.165.246:8000/play/a01y/index.m3u8 
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1604_ZTV_Anime.png" tvg-group="INFANTILES", ZTV Anime | HD | Chile
-https://mitv.zplay.cl/Ztv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1604_ZTV_Anime.png" tvg-group="INFANTILES", ZTV Anime ✪ | CL
-https://mitv.zplay.cl/Ztv/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/BitMe2025Logo.png/revision/latest/scale-to-width-down/1280?cb=20250108200145&path-prefix=es" tvg-group="INFANTILES",BITME HD
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/6/6d/Loco2006.png/revision/latest/scale-to-width-down/300?cb=20230129233817" tvg-group="INFANTILES", Locomoción | SD | republica dominicana
-http://51.222.85.85:81/hls/loco/index.m3u8
-
-#EXTINF: -1 tvg-logo="https://d0cdb7b2de.cbaul-cdnwnd.com/9c7dbb7eba389216910092fa77cc9fd0/200000018-c0ed9c0eda/GGGGGGGG.png?ph=d0cdb7b2de" tvg-group="INFANTILES", Anime Tal Tal TV |
-https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8
-
-#EXTINF:0  tvg-logo="https://d0cdb7b2de.cbaul-cdnwnd.com/9c7dbb7eba389216910092fa77cc9fd0/200000020-a4c85a4c8a/LOGO%20SEP%202024.png?ph=d0cdb7b2de" tvg-group="INFANTILES",Taltal (Chile) (🇨🇱)
-
-#EXTINF:0  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/ADSM.png?raw=true" tvg-group="INFANTILES", Adult Swim 201.217
-http://201.217.246.177:8000/play/a0a5/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://xhateaec.com/upload/photos/2024/01/sTJgBrLBRjoF8WQJHf9B_27_78b613ce1dc4a6c24d32b9ecd851456e_avatar_full.png" tvg-group="INFANTILES",Toonizaki Chile
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YM56WZg.png" tvg-group="INFANTILES", Aniretro | HD | Chile
-https://tv.arkeo.cl:19360/8000/8000.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/4Wi6WcF.png" tvg-group="INFANTILES", Dreiko TV | HD | Panamá
-https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcdoXBSiWBuxFvS2W-Yn4pdeSci1pB_eL3bNb3zmkB6l_sjRRXdbW4GeGas8XX08W6Ms&usqp=CAU" tvg-group="INFANTILES",Canal Clasicos Animados CR
-
-#EXTINF:-1 tvg-logo="https://serenotv.com/cargas/2025/05/anime-presente-2-560x315.jpg" tvg-group="INFANTILES", anime pre 2 - 209624
-
-#EXTINF:-1 tvg-logo="https://serenotv.com/cargas/2025/05/canal-family-373x315.jpg" tvg-group="INFANTILES",Canal Family 209633
-
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/bcfee93729cf215127d129a9f1ff778a378024e596d119bf57818cc80a0e96bb.png" tvg-group="INFANTILES",Turismo 208343
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/BjOe1RF.jpg" tvg-group="INFANTILES", Moni TV ✪ | CL
-https://tv.arkeo.cl:19360/8134/8134.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://dititvok.weebly.com/uploads/1/4/6/7/146735941/editor/logo-png-con-sombra.png?1713294223" tvg-group="INFANTILES", Diti TV
-https://fl1001.bozztv.com/ssh101/dititv/playlist.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/pqWmos0.png" tvg-group="INFANTILES", Kanade TV | FHD | Chile
-https://stream.wifiexpert.cl/kanade/kanadetv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="1466" tvg-name="Kanade TV" tvg-logo="https://cdn.m3u.cl/logo/1466_Kanade_TV.png" tvg-group="INFANTILES", Kanade TV ✪ | CL
-https://xui-backend.energeek.cl/live/13/playlist.m3u8?username=D3m0M3UCLWeb&password=xN4sFVjMK7&PlaylistM3UCL
-
-#EXTINF: -1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGnaUX6Ar_0WColseJ1dF080f-k3WfhnR5_0taz9y7aVmEzOJh-_1QGXbYfmj96Ly2JqKViMpBAzCVO-6HSTONxr_Mv3oF4fig3VrmCpf7XtS92KoKH4PaYYCzQI_RfRMmNsxJtH-GYL_Qj5YGJl3WdvPNy6ol8MV49nxDFFSI3zIzQci-vD3c5W7Yhsnr/s800/max-anime.jpg" tvg-group="INFANTILES", Max Anime | HD | Venezuela
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/q2Fd958.png" tvg-group="INFANTILES", BIG CHANNEL Gran Canal | SD | Argentina
-https://ssh101.bozztv.com/ssh101/bigchannel/chunks.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/KUETG3N.png" tvg-group="INFANTILES", TV variada | HD | Argentina
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/hc1Lvl7.png" tvg-group="INFANTILES", Retro Mágico | HD | Argentina
-https://ssh101.bozztv.com/ssh101/retromagicochnl/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/CzquR2TXgIpZ32C7Nm8_Jfa4bONgKxVoEXZpOZ2T9E6O2AB6dVty-6ZTB5vDTv46Tx7tnGBpWA=s900-c-k-c0x00ffffff-no-rj" tvg-group="INFANTILES",Retro Mágico | Argentina
-https://fl1001.bozztv.com/ssh101/retromagicochnl/playlist.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/m13TjiR.png" tvg-group="INFANTILES", Magic Kids | SD | Argentina
-https://magicstream.ddns.net/magicstream/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mix-bolivia-tv-bo.png" tvg-group="INFANTILES",Gogoplay giatv-neogogoplaymix
-https://giatv.bozztv.com/giatv/giatv-neogogoplaymix/neogogoplaymix/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mix-bolivia-tv-bo.png" tvg-group="INFANTILES",Gogoplay giatv-NEOMIXHD
-https://giatv.bozztv.com/giatv/giatv-NEOMIXHD/NEOMIXHD/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5OYccJH.png" tvg-group="INFANTILES",NEOGOGOPLAY
-https://giatv.bozztv.com/giatv/giatv-NEOGOGOPLAY/NEOGOGOPLAY/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5OYccJH.png" tvg-group="INFANTILES",NEOGOGOPLAYTVE
-https://giatv.bozztv.com/giatv/giatv-NEOGOGOPLAYTVE/NEOGOGOPLAYTVE/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RUuoMlL.png" tvg-group="INFANTILES",Canal LMS | México
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/F65Lc2nWcAATF7z?format=jpg&name=large" tvg-group="INFANTILES",AnimeStation | Argentina
-https://ssh101.bozztv.com/ssh101/livestreamingtv/playlist.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/KwYvaKL.png" tvg-group="INFANTILES", Fanpop | FHD | Chile
-https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f.m3u8
-
-#EXTINF:-1 tvg-id="1112" tvg-name="EnerGeek FAN" tvg-logo="https://cdn.m3u.cl/logo/1112_EnerGeek_FAN.png" tvg-group="INFANTILES", EnerGeek FAN ✪ | CL
-https://xui-backend.energeek.cl/live/10/playlist.m3u8?username=D3m0M3UCLWeb&password=xN4sFVjMK7&PlaylistM3UCL
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/OR6mxRB.png" tvg-group="INFANTILES", Energeek | FHD | Chile
-https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65.m3u8
-
-#EXTINF:-1 tvg-id="947" tvg-name="EnerGeek Retro" tvg-logo="https://cdn.m3u.cl/logo/947_EnerGeek_Retro.png" tvg-group="INFANTILES", EnerGeek Retro ✪ | CL
-https://xui-backend.energeek.cl/live/9/playlist.m3u8?username=D3m0M3UCLWeb&password=xN4sFVjMK7&PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="1650" tvg-name="Alfa TV" tvg-logo="https://cdn.m3u.cl/logo/1650_Alfa_TV.png" tvg-group="INFANTILES", Alfa TV ✪ | CL
-https://v2.tustreaming.cl/alfatv/index.m3u8?PlaylistM3UCL
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/H4N6qC6.png" tvg-group="INFANTILES", Canal 74 | FHD | Placilla
-https://stmv5.voxtvhd.com.br/canal74hd/canal74hd/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NY6SGkv.png" tvg-group="INFANTILES", Metaversus TV | SD | Costa Rica
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mtv_m.png" tvg-group="MUSICA",MTV 190
@@ -1547,9 +1209,6 @@ https://inliveserver.com:1936/10016/10016/chunklist_w1357319705.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyoptMei6_QX_CHVzyPKpsVD1w2dRQes2JUw&usqp=CAU" tvg-group="INFANTILES", grjngo del oeste retro
 https://45e603c214f5438cae8872707b7fd678.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_GrjngoPeliculasDelOeste/playlist.m3u8?ads.wurl_channel=1239&ads.wurl_name=GrjngoPeliculasDelOeste&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLDxINuhCPQh57qgYqFPf9FpsgYObBbewgxBEpUQHy1Tj6NsHib6ZsRqXGpS1sgj0viIw&usqp=CAU" tvg-group="PREMIUM", | Los Tres Chiflados TV
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff35bd0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=025be615-509e-4721-8804-92898ace6781&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE11rlG9TaVncXzpkSl83_5lSivtKGTsa87I6WDSqNqaMt64lqYE0vWxOITm-ODxRdj7s&usqp=CAU" tvg-group="PREMIUM", Anger Management Español (🇪🇸)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01264-vidaausainc-angermanagementespanol-vidaa/playlist.m3u8
@@ -2401,8 +2060,11 @@ http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58278
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/El_Chavo_%28simple_logo%29.svg/revision/latest/scale-to-width-down/284?cb=20170119025543" group-title="👩‍👦‍👦 INFANTILES", El Chavo ot
 https://otakon.bemtv.cn/STREAM/23447/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/960px-The_Simpsons_yellow_logo.svg.png" group-title="👩‍👦‍👦 INFANTILES", LOS SIMPSONS
-http://srv3.zcast.com.br/sim1al5/sim1al5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLDxINuhCPQh57qgYqFPf9FpsgYObBbewgxBEpUQHy1Tj6NsHib6ZsRqXGpS1sgj0viIw&usqp=CAU" group-title="👩‍👦‍👦 INFANTILES", | Los Tres Chiflados TV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff35bd0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=025be615-509e-4721-8804-92898ace6781&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://online-television.net/uploads/posts/2022-12/dios-te-ve-kids.webp" group-title="👩‍👦‍👦 INFANTILES",Dios Te Ve Kids 🇭🇳
+https://s.emisoras.tv:8081/diostevekids/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/960px-The_Simpsons_yellow_logo.svg.png" group-title="👩‍👦‍👦 INFANTILES", LOS SIMPSONS II
 http://srv3.zcast.com.br/sim6al10/sim6al10/playlist.m3u8
@@ -2430,6 +2092,308 @@ http://novabox.club/live/conectStreax/K2tbMNebMW/357666.m3u8
 
 #EXTINF:-1 tvg-logo="https://english-tv.com/img/english-tv-logo.png" group-title="👩‍👦‍👦 INFANTILES",English (Chile) (🇨🇱)
 https://origin.dpsgo.com/ssai/event/xR5RHThTSgaLb_5uiEiKqw/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/chinola-tv.png" group-title="👩‍👦‍👦 INFANTILES",Chinola (Rep. Dominicana) (🇩🇴)
+https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uGwFXeM.png" group-title="👩‍👦‍👦 INFANTILES", Educa TV | Ecuador
+https://vid2.ecuamedia.net/educatv/live/chunklist_w401884011.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6vvB5g3/Disney-Channel.png" group-title="👩‍👦‍👦 INFANTILES",DISNEY
+http://190.123.90.146:8000/play/a02a/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DSNJR.png?raw=true" group-title="👩‍👦‍👦 INFANTILES",Disney Junior SD 190
+http://190.123.90.146:8000/play/a02b/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/226.png" group-title="👩‍👦‍👦 INFANTILES", Cartoon Network x
+http://190.123.90.146:8000/play/a02x/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/ecbb842d-3b93-4c7b-90fd-9a188d7b4f20" group-title="👩‍👦‍👦 INFANTILES",DISCOVERY KIDS 190
+http://190.123.90.146:8000/play/a029/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1181x886/Y2gwMTAwMDAwMDAwMjI5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1181x886.png?timestamp=1708457100995" group-title="👩‍👦‍👦 INFANTILES",NICKELODEON 190
+http://190.123.90.146:8000/play/a02e/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nick_Jr._logo_2023.webp" group-title="👩‍👦‍👦 INFANTILES",NICK JRS 190
+http://190.123.90.146:8000/play/a02c/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F619PhG.png" group-title="👩‍👦‍👦 INFANTILES", Nick Junior Club| alta definición
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=& buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366- 4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=22941a63-f69a -11ea-bfbf-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VLQJ8Svc/NICK-CL-SICO.png" group-title="👩‍👦‍👦 INFANTILES",NICK CLASICO
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=bc342b32-6e53-468c-9a43-1cbc213945ac&clientModelNumber=na&deviceDNT=false&deviceId=bc342b32-6e53-468c-9a43-1cbc213945ac&deviceLat=13.7066&deviceLon=-89.2053&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=d5b8a4f4-6969-11eb-ac8e-0242ac110002&sid=d5b8a4f4-6969-11eb-ac8e-0242ac110002&userId=
+
+#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/54872a85-54f7-4314-9841-81720821be3e/dg61r59-d66b5105-e6e5-40ac-a619-d7f2788caa37.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU0ODcyYTg1LTU0ZjctNDMxNC05ODQxLTgxNzIwODIxYmUzZVwvZGc2MXI1OS1kNjZiNTEwNS1lNmU1LTQwYWMtYTYxOS1kN2YyNzg4Y2FhMzcucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.RUDjMlargDjSbClToZL0xiGkoe2m7j4l3ZxoYngDCJE" group-title="👩‍👦‍👦 INFANTILES", NICKTEEN
+https://stitcher.pluto.tv/stitch/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=c16ba9e4-85a7-11eb-a861-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FlqeZFf.png" group-title="👩‍👦‍👦 INFANTILES", Pluto TV Adolescente| alta definición teen
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6de52b9914200091f047a/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture =&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366- 4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=70b83b16-f690 -11ea-a685-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/WR5rDFjq1lw/maxresdefault.jpg" group-title="👩‍👦‍👦 INFANTILES",Nickelodeon en español
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/WR5rDFjq1lw/maxresdefault.jpg" group-title="👩‍👦‍👦 INFANTILES",Nickelodeon en español cfd
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5107-30d3- 11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=919bc5fd-6cce-44a6-bb39-2894dea1c988
+
+#EXTINF:-1 tvg-logo="https://jrsy.tmsimg.com/assets/p18368280_b_h9_aa.jpg" group-title="👩‍👦‍👦 INFANTILES", Pluto TV retro Cartoons hls
+https://stitcher.pluto.tv/stitch/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=83ae8ae2-b28d-11ee-bbe9-962bf7ca3ddb
+
+#EXTINF:-1 tvg-logo="https://jrsy.tmsimg.com/assets/p18368280_b_h9_aa.jpg" group-title="👩‍👦‍👦 INFANTILES", Pluto TV Dibujos Animados Retro Entretenimiento
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/babyfirsttv/images/c/ce/2006-2008.png/revision/latest?cb=20240220175353" group-title="👩‍👦‍👦 INFANTILES", Babyfirst
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=& buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366- 4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=a65bdf35-f699 -11ea-b899-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-logo="https://provider-static.plex.tv/epg/cms/production/f8f7c285-f574-4037-84cd-131a22066e57/Channel_Logo_dark_1500x1000_.png" group-title="👩‍👦‍👦 INFANTILES", Baby Shark TV
+https://stitcher.pluto.tv/stitch/hls/channel/619d5e6a093e7c0007489211/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=09083b97-7943-11ef-be08-92fcbbc12eaa
+
+#EXTINF:0 tvg-logo="https://1000marcas.net/wp-content/uploads/2023/09/Dora-the-Explorer-Logo-2000.png" group-title="👩‍👦‍👦 INFANTILES", Dora La Exploradora
+https://stitcher.pluto.tv/stitch/hls/channel/656e28a2954b020008ed133a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=09083b97-7943-11ef-be08-92fcbbc12eaa
+                    
+#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/b1/1b/78/b11b786687bb990ea5f05d1fc4c89326.png" group-title="👩‍👦‍👦 INFANTILES",PAW Patrol Patrulla de Cachorros
+https://stitcher.pluto.tv/stitch/hls/channel/6495c6ad115d060008bf6b52/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=09083b97-7943-11ef-be08-92fcbbc12eaa
+           
+#EXTINF:-1 tvg-logo="https://partners.elreinoinfantil.com/wp-content/uploads/2024/01/Recurso-9-e1706542238720.png" group-title="👩‍👦‍👦 INFANTILES",El Reino Infantil [Kids] [717] [AR]
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d3d06fb60d8000781fce8/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EaYYKb7.png" group-title="👩‍👦‍👦 INFANTILES",Planeta Junior TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4311&checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Rv7T3bF/Logo-Planeta-Junior-TV.png" group-title="👩‍👦‍👦 INFANTILES", Planeta Junior TV HD
+https://daiconnect.com/live/hls/tvup/tvfy-pljr/.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-_Z008vfbTzU/YLFmmFBX6qI/AAAAAAAAD4s/1gAWpUIrEUU3s1hnLbTSffX4XnOOT_A3wCLcBGAsYHQ/s540/happykids.tv-espa%25C3%25B1ol-logoroku.png" group-title="👩‍👦‍👦 INFANTILES",Kids Es
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=514
+
+#EXTINF:-1 tvg-logo="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2633950/header.jpg" group-title="👩‍👦‍👦 INFANTILES", Rugrats 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architec ture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366- 4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=22941a63-f69a -11ea-bfbf-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png" group-title="👩‍👦‍👦 INFANTILES", * Anime
+https://stitcher.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-53 tvg-logo="https://img.anime2you.de/2021/06/pluto-tv-anime-logo.jpg" group-title="👩‍👦‍👦 INFANTILES",ANIME DE PLUTO TV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architec ture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366- 4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=02c02686-f692 -11ea-abc9-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-53 tvg-logo="https://1.bp.blogspot.com/-cmtidHqFXtQ/XshcrCBM0VI/AAAAAAAAK68/VIfj4xN7pHoIiREgwxB3e5CArDd51PPuQCLcBGAsYHQ/s640/errrrrrrrrrr.png" group-title="👩‍👦‍👦 INFANTILES",PLUTO TV ANIME ACCIÓN
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture= &buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366- 4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=9aa7b802-f692 -11ea-abc9-0242ac110002&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e6a4d875d7ccf0007cc2cf1/colorLogoPNG.png" group-title="👩‍👦‍👦 INFANTILES", * Animé Acción
+https://stitcher.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://fwmedia.fandomwire.com/wp-content/uploads/2023/09/08033039/Death-Note-Anime-scaled.jpg" group-title="👩‍👦‍👦 INFANTILES",Death Note [Animé y juegos] [332] [AR]
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/626c2ed933a2890007e91422/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/626c2ed933a2890007e91422/colorLogoPNG.png" group-title="👩‍👦‍👦 INFANTILES",  Death Note
+https://stitcher.pluto.tv/stitch/hls/channel/626c2ed933a2890007e91422/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQz2xLFCdELUNAA6nxUAsrmEHur2maWgFGthnHuMuL3fiRf9wsJMD4b5oEuzKlEZv-AqE&usqp=CAU" group-title="👩‍👦‍👦 INFANTILES",Naruto [Animé y juegos] [331] [AR]
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1qdPq58.png" group-title="👩‍👦‍👦 INFANTILES", Naruto| alta definición
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture= &buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366- 4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=00e032f5-f693 -11ea-b899-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-logo="https://images.pluto.tv/channels/64c92fea3c3344000869e8a9/colorLogoPNG.png" group-title="👩‍👦‍👦 INFANTILES", Naruto Shippuden
+https://stitcher.pluto.tv/stitch/hls/channel/64c92fea3c3344000869e8a9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=09083b97-7943-11ef-be08-92fcbbc12eaa
+
+#EXTINF:0 tvg-logo="https://images.pluto.tv/channels/656f37f257fe4a000884dfee/colorLogoPNG.png" group-title="👩‍👦‍👦 INFANTILES", Boruto Naruto Next Generations
+https://stitcher.pluto.tv/stitch/hls/channel/656f37f257fe4a000884dfee/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=09083b97-7943-11ef-be08-92fcbbc12eaa
+   
+#EXTINF:0 tvg-logo="https://images.pluto.tv/channels/64666345f3f5b1000882bfb4/colorLogoPNG.png" group-title="👩‍👦‍👦 INFANTILES", Captain Tsubasa
+https://stitcher.pluto.tv/stitch/hls/channel/64666345f3f5b1000882bfb4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=09083b97-7943-11ef-be08-92fcbbc12eaa
+
+#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/2e/90/10/2e90102e5cf32c96e5bbc436938f8c6d.png" group-title="👩‍👦‍👦 INFANTILES", SUPERCAMPEONES
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=11681
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yvShCF9.png" group-title="👩‍👦‍👦 INFANTILES", Yu-Gi-Oh! | alta definición
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId =canal&embedPartner= rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Tv-Costa-Chile-en-vivo-Online.png" group-title="👩‍👦‍👦 INFANTILES", TV Costa | CL
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMdKXPfUDKkq2zM-SFqg4a-KRP2DVGl0CerkbVyGW7g1TPqJ8sKFVd-rapYzpzw8IuodE&usqp=CAU" group-title="👩‍👦‍👦 INFANTILES", Ganja TV
+https://stream-cdn-iad.vaughnsoft.net/play/live_ganja_tv_2.flv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DdYrpbY.png" tvg-group="INFANTILES", Zaz TV | México
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD130000205_20230809T053830SQUARE.png_20230809053830.png" group-title="👩‍👦‍👦 INFANTILES",Pitufos TV
+https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ecd51263-bb0f-4465-af86-f7ed25e58e70/def0weu-9ead2c2b-feb0-466f-9156-b8bb2f4eaaee.png/v1/fill/w_303,h_165/icarly_logo__png__by_amazingtoludada3000_def0weu-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTY1IiwicGF0aCI6IlwvZlwvZWNkNTEyNjMtYmIwZi00NDY1LWFmODYtZjdlZDI1ZTU4ZTcwXC9kZWYwd2V1LTllYWQyYzJiLWZlYjAtNDY2Zi05MTU2LWI4YmIyZjRlYWFlZS5wbmciLCJ3aWR0aCI6Ijw9MzAzIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.-YQi1QQJTobBtWH0LWk3IMHt20saP3Zwm6veSid5tkI" group-title="👩‍👦‍👦 INFANTILES",Nickelodeon iCarly [Entretenimiento] [178] [AR]
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620ff0a01f9e8700076c6f9d/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
+
+#EXTINF:-1 tvg-logo="https://images.fineartamerica.com/images/artworkimages/medium/1/kenan-and-kel-janis-m-carrier-transparent.png" group-title="👩‍👦‍👦 INFANTILES",Kenan y Kel [Entretenimiento] [177] [AR]
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fcea93ffcf94500071c4b2f/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
+
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Bob Esponja" tvg-logo="https://1.bp.blogspot.com/-j4Ki8YyD7kQ/WD8HODeu1eI/AAAAAAAAB9A/WzguSQQjJj8lheiEnNAAw_N8lVpYNzstgCLcB/s1600/png_bob_6.png" group-title="👩‍👦‍👦 INFANTILES",Bob Esponja
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-logo="https://f.rpp-noticias.io/2024/05/03/1576458poster-fotor-2024050313299jpg.jpg" group-title="👩‍👦‍👦 INFANTILES", LOS PADRINOS MAGICOS 
+https://stitcher.pluto.tv/stitch/hls/channel/6322099c822bbc00074857db/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://caracoltv.brightspotcdn.com/dims4/default/cd920b7/2147483647/strip/true/crop/1200x800+0+0/resize/1000x667!/quality/90/?url=http%3A%2F%2Fcaracol-brightspot.s3.amazonaws.com%2Fa4%2Fc7%2F0093276747b98696a1e86ad53233%2Flas-pistas-de-blue.jpg" group-title="👩‍👦‍👦 INFANTILES",Pluto TV Las Pistas de Blue (360p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9996533c9de3000759ccb5/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name= web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f- 1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0. 4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857- 714a-11eb-b532-0242ac110002&userId=
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/paramountanimation/images/4/4b/UPN_Kids_logo.png/revision/latest?cb=20210813190320" group-title="👩‍👦‍👦 INFANTILES",¡Haz Clic!
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4310
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnC3r32J8pcTjmS4uZR130RD8Ky9WQjebHI_yIvJGsEkIC02McoGWHBNVghgz8Og1FNNk&usqp=CAU" group-title="👩‍👦‍👦 INFANTILES",Zona de Acción
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4312
+
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/copia_de_linear-canela_kids-16x9-jainer_2_0.jpg" group-title="👩‍👦‍👦 INFANTILES",Mundo Pequeño
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3366
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g3Jreh3.png" group-title="👩‍👦‍👦 INFANTILES",Canela Kids
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
+
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-planeta_de_aventuras.estreno.nav_.jpg" group-title="👩‍👦‍👦 INFANTILES", Planeta de Aventuras
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4311
+
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/d417b288678c643f010ee46bcebaa397945fe33daccc818cd730e9b2e7e674de.png" group-title="👩‍👦‍👦 INFANTILES", kids tv es
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-et/master_es.m3u8
+
+#EXTINF:-61 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGca7RDM9MXALaTrPbjj0dQFCWLuxTD4y_ZmYKrWDmcDHOHFjO332IoXG335_KeXctRtw&usqp=CAU" group-title="👩‍👦‍👦 INFANTILES",PLUTO TV JUNIOR
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde2ac4bc6c500094ab45b/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=& buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366- 4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=e5728363-f699 -11ea-bfbf-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-61 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Pluto-TV-Kids-en-directo-Online.png?fit=1920%2C1080&ssl=1" group-title="👩‍👦‍👦 INFANTILES",PLUTO TV NIÑOS
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=& buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366- 4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=22941a63-f69a -11ea-bfbf-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/960px-The_Simpsons_yellow_logo.svg.png" group-title="👩‍👦‍👦 INFANTILES", LOS SIMPSONS
+http://srv3.zcast.com.br/sim1al5/sim1al5/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.contenidostv.es/images/pequeRadio-512.png" group-title="👩‍👦‍👦 INFANTILES", Pequeradio TV
+https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ec545603-cf4e-48e0-936d-5376ea12fdc0/dg3e0gx-66b50610-5b93-43d6-b39a-f94e6651bb6f.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VjNTQ1NjAzLWNmNGUtNDhlMC05MzZkLTUzNzZlYTEyZmRjMFwvZGczZTBneC02NmI1MDYxMC01YjkzLTQzZDYtYjM5YS1mOTRlNjY1MWJiNmYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ughot1eF4DU-E7VB9-2Dw0ZY344wDAQYHi_4o8lQZW0" group-title="👩‍👦‍👦 INFANTILES", Barney
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f29ada4bdaebd000708d49d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId =canal&embedPartner= rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+
+#EXTINF:-1 tvg-logo="https://teleclub.es/wp-content/uploads/2023/04/toongoggles_logo_light_1500x1000.png" group-title="👩‍👦‍👦 INFANTILES",Toon Goggles Dibujos Animados
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
+
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/580b57fcd9996e24bc43c515.png" group-title="👩‍👦‍👦 INFANTILES", ANGRY BIRDS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=547&avod=1&coppa=1&is_lat=1&us_privacy=1---&did=29d976831067d48c1669f305dcaea6f9&app_bundle=com.toongoggles.html5&app_store_url=http%3A%2F%2Fwww.toongoggles.com%2Fdevices&app_domain=toongoggles.com&app_name=toongoggles&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=toongoggles&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&livestream=1&timestamp=1616162944&id=266911&ip=92.38.148.59&override_expiration=1500&sign=xjG7CjbtexmXurqdKFkyO0wdwLtEAWU50VjIK587uGs%3D
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKtUtqnit5WieHZbiESS7HA408rb7mb7_bg6heZvk6LSN3fMD1Zd5Hvf-Q25elAQtOSTQ&usqp=CAU" group-title="👩‍👦‍👦 INFANTILES",Extrema Kids
+https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/wRuHWNCjqvo/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD4V8G6EoBn1Rh72zZxU-LXSfRNZw" group-title="👩‍👦‍👦 INFANTILES", BEBESITO BUM Y SUS AMIGOS
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60493283ffc52f000710edae/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId= canal&embedPartner= rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-logo="https://licensing.biz/wp-content/uploads/2023/05/MB_KEYART-2023_LANDSCAPE_01-copy-1024x576.jpg" group-title="👩‍👦‍👦 INFANTILES", Moonbug Kids L
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3365
+
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991687/600x337.webp?type=channelTile" group-title="👩‍👦‍👦 INFANTILES", MOJITV
+https://dbrb49pjoymg4.cloudfront.net/10001/99991687/hls/master.m3u8?ads.xumo_channelId=99991687
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2SkMY7n/kids-tv.png" group-title="👩‍👦‍👦 INFANTILES", TV INFANTIL
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-et/master_es.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zxjmbLC/toonz-kids.png" group-title="👩‍👦‍👦 INFANTILES", TOONZ KIDS
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids-spanish/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Mr%20Bean.webp" group-title="👩‍👦‍👦 INFANTILES",Mr. Bean 🇪🇸
+https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/123TV_%282022%29.png/revision/latest/scale-to-width-down/200?cb=20220903004013&path-prefix=es" group-title="👩‍👦‍👦 INFANTILES", 145 | 1·2·3 TV
+http://38.41.8.1:8000/play/a03o
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BADfaU8.png" group-title="👩‍👦‍👦 INFANTILES",Canal Ipe | Perú
+https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png" group-title="👩‍👦‍👦 INFANTILES", CLAN
+https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png" group-title="👩‍👦‍👦 INFANTILES", CLAN E
+https://rtvelivestream-clnx.rtve.es/rtvesec/int/clan_int_main.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png" group-title="👩‍👦‍👦 INFANTILES", Clan Latinoamerica HD (geobloqueo)
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_dvr_1080.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/5/5f/Canal_Infantil.png/revision/latest?cb=20230419185326&path-prefix=es" group-title="👩‍👦‍👦 INFANTILES",canal infantil pe
+http://160.20.165.246:8000/play/a01y/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1604_ZTV_Anime.png" group-title="👩‍👦‍👦 INFANTILES", ZTV Anime | HD | Chile
+https://mitv.zplay.cl/Ztv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1604_ZTV_Anime.png" group-title="👩‍👦‍👦 INFANTILES", ZTV Anime ✪ | CL
+https://mitv.zplay.cl/Ztv/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/BitMe2025Logo.png/revision/latest/scale-to-width-down/1280?cb=20250108200145&path-prefix=es" group-title="👩‍👦‍👦 INFANTILES",BITME HD
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/6/6d/Loco2006.png/revision/latest/scale-to-width-down/300?cb=20230129233817" group-title="👩‍👦‍👦 INFANTILES", Locomoción | SD | republica dominicana
+http://51.222.85.85:81/hls/loco/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://d0cdb7b2de.cbaul-cdnwnd.com/9c7dbb7eba389216910092fa77cc9fd0/200000018-c0ed9c0eda/GGGGGGGG.png?ph=d0cdb7b2de" group-title="👩‍👦‍👦 INFANTILES", Anime Tal Tal TV |
+https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8
+
+#EXTINF:0  tvg-logo="https://d0cdb7b2de.cbaul-cdnwnd.com/9c7dbb7eba389216910092fa77cc9fd0/200000020-a4c85a4c8a/LOGO%20SEP%202024.png?ph=d0cdb7b2de" group-title="👩‍👦‍👦 INFANTILES",Taltal (Chile) (🇨🇱)
+
+#EXTINF:0  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/ADSM.png?raw=true" group-title="👩‍👦‍👦 INFANTILES", Adult Swim 201.217
+http://201.217.246.177:8000/play/a0a5/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YM56WZg.png" group-title="👩‍👦‍👦 INFANTILES", Aniretro | HD | Chile
+https://tv.arkeo.cl:19360/8000/8000.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/4Wi6WcF.png" group-title="👩‍👦‍👦 INFANTILES", Dreiko TV | HD | Panamá
+https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8?PlaylistM3UCL
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/BjOe1RF.jpg" group-title="👩‍👦‍👦 INFANTILES", Moni TV ✪ | CL
+https://tv.arkeo.cl:19360/8134/8134.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://dititvok.weebly.com/uploads/1/4/6/7/146735941/editor/logo-png-con-sombra.png?1713294223" group-title="👩‍👦‍👦 INFANTILES", Diti TV
+https://fl1001.bozztv.com/ssh101/dititv/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/pqWmos0.png" group-title="👩‍👦‍👦 INFANTILES", Kanade TV | FHD | Chile
+https://stream.wifiexpert.cl/kanade/kanadetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1466" tvg-name="Kanade TV" tvg-logo="https://cdn.m3u.cl/logo/1466_Kanade_TV.png" group-title="👩‍👦‍👦 INFANTILES", Kanade TV ✪ | CL
+https://xui-backend.energeek.cl/live/13/playlist.m3u8?username=D3m0M3UCLWeb&password=xN4sFVjMK7&PlaylistM3UCL
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/q2Fd958.png" group-title="👩‍👦‍👦 INFANTILES", BIG CHANNEL Gran Canal | SD | Argentina
+https://ssh101.bozztv.com/ssh101/bigchannel/chunks.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/KUETG3N.png" tvg-group="INFANTILES", TV variada | HD | Argentina
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hc1Lvl7.png" group-title="👩‍👦‍👦 INFANTILES", Retro Mágico | HD | Argentina
+https://ssh101.bozztv.com/ssh101/retromagicochnl/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/CzquR2TXgIpZ32C7Nm8_Jfa4bONgKxVoEXZpOZ2T9E6O2AB6dVty-6ZTB5vDTv46Tx7tnGBpWA=s900-c-k-c0x00ffffff-no-rj" group-title="👩‍👦‍👦 INFANTILES",Retro Mágico | Argentina
+https://fl1001.bozztv.com/ssh101/retromagicochnl/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/m13TjiR.png" group-title="👩‍👦‍👦 INFANTILES", Magic Kids | SD | Argentina
+https://magicstream.ddns.net/magicstream/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mix-bolivia-tv-bo.png" group-title="👩‍👦‍👦 INFANTILES",Gogoplay giatv-neogogoplaymix
+https://giatv.bozztv.com/giatv/giatv-neogogoplaymix/neogogoplaymix/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mix-bolivia-tv-bo.png" group-title="👩‍👦‍👦 INFANTILES",Gogoplay giatv-NEOMIXHD
+https://giatv.bozztv.com/giatv/giatv-NEOMIXHD/NEOMIXHD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5OYccJH.png" group-title="👩‍👦‍👦 INFANTILES",NEOGOGOPLAY
+https://giatv.bozztv.com/giatv/giatv-NEOGOGOPLAY/NEOGOGOPLAY/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5OYccJH.png" group-title="👩‍👦‍👦 INFANTILES",NEOGOGOPLAYTVE
+https://giatv.bozztv.com/giatv/giatv-NEOGOGOPLAYTVE/NEOGOGOPLAYTVE/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RUuoMlL.png" group-title="👩‍👦‍👦 INFANTILES",Canal LMS | México
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/F65Lc2nWcAATF7z?format=jpg&name=large" group-title="👩‍👦‍👦 INFANTILES",AnimeStation | Argentina
+https://ssh101.bozztv.com/ssh101/livestreamingtv/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/KwYvaKL.png" group-title="👩‍👦‍👦 INFANTILES", Fanpop | FHD | Chile
+https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f.m3u8
+
+#EXTINF:-1 tvg-id="1112" tvg-name="EnerGeek FAN" tvg-logo="https://cdn.m3u.cl/logo/1112_EnerGeek_FAN.png" group-title="👩‍👦‍👦 INFANTILES", EnerGeek FAN ✪ | CL
+https://xui-backend.energeek.cl/live/10/playlist.m3u8?username=D3m0M3UCLWeb&password=xN4sFVjMK7&PlaylistM3UCL
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/OR6mxRB.png" group-title="👩‍👦‍👦 INFANTILES", Energeek | FHD | Chile
+https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65.m3u8
+
+#EXTINF:-1 tvg-id="947" tvg-name="EnerGeek Retro" tvg-logo="https://cdn.m3u.cl/logo/947_EnerGeek_Retro.png" group-title="👩‍👦‍👦 INFANTILES", EnerGeek Retro ✪ | CL
+https://xui-backend.energeek.cl/live/9/playlist.m3u8?username=D3m0M3UCLWeb&password=xN4sFVjMK7&PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="1650" tvg-name="Alfa TV" tvg-logo="https://cdn.m3u.cl/logo/1650_Alfa_TV.png" group-title="👩‍👦‍👦 INFANTILES", Alfa TV ✪ | CL
+https://v2.tustreaming.cl/alfatv/index.m3u8?PlaylistM3UCL
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/H4N6qC6.png" group-title="👩‍👦‍👦 INFANTILES", Canal 74 | FHD | Placilla
+https://stmv5.voxtvhd.com.br/canal74hd/canal74hd/playlist.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rfDTXwt/music-top.png" group-title="🎵 MÚSICA", MUSIC TOP
@@ -3277,9 +3241,6 @@ https://estrellanews-roku.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Canal1Colombia2024.svg/1200px-Canal1Colombia2024.svg.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL",1 uno (Colombia) (🇨🇴)
 http://tvmate.icu:8080/nCqH8t/631017/78698?extension=m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ATV%2B_%28Peru%29_-_2018_logo.png/1200px-ATV%2B_%28Peru%29_-_2018_logo.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL", ATV PLUS
-https://live-evg25.tv360.bitel.com.pe/bitel/atvmas/playlist.m3u8
-
 #EXTINF:0  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/ATV_Sur_2018_2.svg/revision/latest/scale-to-width-down/300?cb=20210522015013&path-prefix=es" group-title="🌍 TELEVISIÓN  INTERNACIONAL", ATV Sur (Peru) (🇵🇪) al
 https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
 
@@ -3287,7 +3248,6 @@ https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
 https://d3r5ioyjqcy69v.cloudfront.net/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/ATV_%28Per%C3%BA%29_logo_blanco_3D_2018.svg/revision/latest/scale-to-width-down/250?cb=20220127235956&path-prefix=es" group-title="🌍 TELEVISIÓN  INTERNACIONAL", ATV HD
-https://live-evg25.tv360.bitel.com.pe/bitel/atv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BmTrRtV.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL", ATV | HD | Lima  
 https://live-zlr1.tv360.bitel.com.pe/bitel/atv/playlist.m3u8
@@ -3295,32 +3255,14 @@ https://live-zlr1.tv360.bitel.com.pe/bitel/atv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1aJZr2i.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL", Panamericana | HD | Lima
 https://live-zlr1.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/2c8716_4f3507ff3d0e43e492726a180e3a6313~mv2.png/v1/fill/w_980,h_980,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/2c8716_4f3507ff3d0e43e492726a180e3a6313~mv2.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL",Panamericana
-https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vr3mTZv.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL", América TV | HD | Lima EVENTOS
 https://live-zlr1.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://spotlight-pe.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F07%2F60%2F7603587_DDA3D54A42268071.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL",America Television bitel EVENTOS
-https://live-evg1.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Global_logo_2019.png/800px-Global_logo_2019.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL", global| HD | Lima
 https://live-zlr1.tv360.bitel.com.pe/bitel/global/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Global_logo_2019.png/800px-Global_logo_2019.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL", global HD II
-https://live-evg25.tv360.bitel.com.pe/bitel/global/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/2c8716_635a0d3bc8054d92a5e21c4a47818f85~mv2.png/v1/fill/w_450,h_450,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/2c8716_635a0d3bc8054d92a5e21c4a47818f85~mv2.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL", latina HD bitel
-https://live-evg25.tv360.bitel.com.pe/bitel/latina/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9E9h3Gd.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL", Latina TV | HD | Lima
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/2c8716_635a0d3bc8054d92a5e21c4a47818f85~mv2.png/v1/fill/w_450,h_450,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/2c8716_635a0d3bc8054d92a5e21c4a47818f85~mv2.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL", Latina TV | HD | Lima OK
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina/.m3u8
-
-#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/06/14/04/1718314360922/897a9e36e82d_640_360.jpg" group-title="🌍 TELEVISIÓN  INTERNACIONAL", CTV (Peru) (🇵🇪)
-https://live-evg1.tv360.bitel.com.pe/bitel/ctv/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://conecta2.pe/wp-content/uploads/2023/09/logo.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL",Conecta2 (Peru) (🇵🇪)
-https://servilive.com:3114/live/liveulive.m3u8
 
 #EXTINF:-1 tvg-chno="10.7" tvg-id="AztecaGuatemala.gt" tvg-logo="https://i.imgur.com/UJhQoUK.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL", AZTECA GUATE 
 https://ch1-tva.duin.dev/hls/stream.m3u8
@@ -3370,7 +3312,6 @@ https://alba-do-antena7-c21.stream.mediatiquestream.com/index.m3u8
 https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s5rPNIW.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL", Nex TV | HD | Panamá
-https://vcp8.myplaytv.com:1936/nextv/nextv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/EcuadorTV_logo.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL", EC: ECUADOR TV
 https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8
@@ -3404,9 +3345,6 @@ https://marine2.miplay.cl/canal13cable/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f66c8380f9a3880549a0_13cable.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL", C13 CL
 https://marine2.miplay.cl/c13/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/canal13.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL", CL C13 OK
-https://marine2.miplay.cl/c13/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/lared.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL", La Red | CL
 
@@ -4741,9 +4679,6 @@ https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/nomada.bo/wp-content/uploads/2022/08/LOGO-BOLIVIA-TV.png?fit=800%2C542&ssl=1" tvg-group="ARGENTINA",Bolivia TV 🇧🇴
 https://video1.getstreamhosting.com:1936/8224/8224/chunklist_w1684483949.m3u8
 
-#EXTINF:-1 tvg-logo="https://online-television.net/uploads/posts/2022-12/dios-te-ve-kids.webp" tvg-group="ARGENTINA",Dios Te Ve Kids 🇭🇳
-https://s.emisoras.tv:8081/diostevekids/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/_bvxLP-83J5Hop4SlkN-li7stjBpLP_NvgduAZaZEN30aiIkIgGHpTVoEADeUrtsvf66=w240-h480-rw" tvg-group="ARGENTINA",Puringla TV 🇭🇳
 https://stmv1.srvif.com/puringla/puringla/playlist.m3u8
 
@@ -4759,7 +4694,7 @@ https://video.misistemareseller.com/Girasoltv/Girasoltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/d4c016aa681d0d9e3f09ee4c743e0365628f3a5304006a61b1faa417af08ba0b.png" tvg-group="ARGENTINA",CTV International 🇭🇳
 https://mediacp.us:8081/ctvhn/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.5900.tv/wp-content/uploads/2022/02/terramiatvok.jpg" tvg-group="ARGENTINA", TERRAMIA TV
+#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2019_08/small.Logo_TierramiaTV.png.52a0b19eb1a7425c43898d0766558d1a.png.89d25e14cb6955263ac79d3c3469774d.png" tvg-group="ARGENTINA", TERRAMIA TV
 https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/0/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://elfolklorico.com/wp-content/uploads/2024/11/WhatsApp-Image-2024-11-25-at-11.42.16.jpeg" tvg-group="ARGENTINA", EL FOLKLORICO OK
