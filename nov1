@@ -5822,7 +5822,7 @@ https://otakon.bemtv.cn/STREAM/12249/playlist.m3u8
 #EXTINF:0 tvg-logo="http://meta.nordvpn.best/skysportsmx.png" group-title="⚽ DEPORTES ",Sky Sports b
 https://bigboss.bemtv.cn/STREAM/8458/playlist.m3u8
 
-#EXTINF:0 tvg-logo="http://logos.com/logo.png" group-title="⚽ DEPORTES ",Sky Sports 2
+#EXTINF:0 tvg-logo="http://meta.nordvpn.best/skysportsmx.png" group-title="⚽ DEPORTES ",Sky Sports 2
 https://bigboss.bemtv.cn/STREAM/22637/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://meta.nordvpn.best/skysportsmx.png" group-title="⚽ DEPORTES ",Sky Sports 21
@@ -5831,55 +5831,15 @@ https://bigboss.bemtv.cn/STREAM/22638/playlist.m3u8
 #EXTINF:0 tvg-logo="http://meta.nordvpn.best/skysportsmx.png" group-title="⚽ DEPORTES ",Sky Sports 24 HD
 https://otakon.bemtv.cn/STREAM/8468/playlist.m3u8
 
-#EXTINF:0 tvg-logo="http://meta.nordvpn.best/sportsmax-jm.png" group-title="⚽ DEPORTES ",SportMax 1 HD
-https://otakon.bemtv.cn/STREAM/22392/playlist.m3u8
-
-#EXTINF:0 tvg-logo="http://meta.nordvpn.best/sportsmax-jm.png" group-title="⚽ DEPORTES ",SportMax 2 HD
-https://otakon.bemtv.cn/STREAM/22393/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://meta.nordvpn.best/eurosport2.png" group-title="⚽ DEPORTES ",Eurosport 2
+https://metalgear.bemtv.cn/STREAM/23019/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://meta.nordvpn.best/eurosport1.png" group-title="⚽ DEPORTES ",Eurosport 1
+https://metalgear.bemtv.cn/STREAM/22813/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://meta.nordvpn.best/win-sportplusco.png" group-title="⚽ DEPORTES ",Win Sports+ HD m
 https://metalgear.bemtv.cn/STREAM/6561/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://meta.nordvpn.best/win-sportco.png" group-title="⚽ DEPORTES ",Win Sports HD m
 https://metalgear.bemtv.cn/STREAM/413/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://meta.nordvpn.best/eurosport1.png" group-title="⚽ DEPORTES ",Eurosport 1
-https://metalgear.bemtv.cn/STREAM/22813/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://meta.nordvpn.best/eurosport2.png" group-title="⚽ DEPORTES ",Eurosport 2
-https://metalgear.bemtv.cn/STREAM/23019/playlist.m3u8
-
-#EXTINF:0 tvg-logo="http://meta.nordvpn.best/fox_sports_3_lam.png" group-title="⚽ DEPORTES ",Fox Sports 3 HD (ARG) B
-https://bigboss.bemtv.cn/STREAM/23022/playlist.m3u8
-#EXTINF:0 tvg-logo="http://meta.nordvpn.best/fox_sports_global.png" group-title="⚽ DEPORTES ",Fox Sports HD (ARG) B
-https://bigboss.bemtv.cn/STREAM/23023/playlist.m3u8
-#EXTINF:0 tvg-logo="http://meta.nordvpn.best/fox_sports_global.png" group-title="⚽ DEPORTES ",Fox Sports 1 US B
-https://bigboss.bemtv.cn/STREAM/932/playlist.m3u8
-
-#EXTINF:0 tvg-logo="http://meta.nordvpn.best/tnthd.png" group-title="⚽ DEPORTES ",TNT Sports HD m
-https://metalgear.bemtv.cn/STREAM/11604/playlist.m3u8
-
-#EXTINF:0 tvg-logo="http://meta.nordvpn.best/tnt2.png" group-title="⚽ DEPORTES ",TNT Sports 2 HD
-https://otakon.bemtv.cn/STREAM/22614/playlist.m3u8
-
-#EXTINF:0 tvg-logo="http://meta.nordvpn.best/tnt2.png" group-title="⚽ DEPORTES ",TNT Sports 2
-https://otakon.bemtv.cn/STREAM/386/playlist.m3u8
-
-#EXTINF:0 tvg-logo="http://meta.nordvpn.best/tnt3.png" group-title="⚽ DEPORTES ",TNT Sports 3 HD m
-https://metalgear.bemtv.cn/STREAM/21842/playlist.m3u8
-
-#EXTINF:0 tvg-logo="http://meta.nordvpn.best/tnt3.png" group-title="⚽ DEPORTES ",TNT Sports 3 b
-https://bigboss.bemtv.cn/STREAM/412/playlist.m3u8
-
-#EXTINF:0 tvg-logo="http://meta.nordvpn.best/tyc_sports.png" group-title="⚽ DEPORTES ",TYC Sports HD
-https://otakon.bemtv.cn/STREAM/16059/playlist.m3u8
-#EXTINF:0 tvg-logo="http://meta.nordvpn.best/tyc_sports.png" group-title="⚽ DEPORTES ",TYC Sports
-https://bigboss.bemtv.cn/STREAM/22877/playlist.m3u8
-#EXTINF:0 tvg-logo="http://meta.nordvpn.best/tyc_sports.png" group-title="⚽ DEPORTES ",TYC Sports Int HD
-https://bigboss.bemtv.cn/STREAM/6810/playlist.m3u8
-#EXTINF:0 tvg-logo="http://meta.nordvpn.best/tntsport.png" group-title="⚽ DEPORTES ",TNT Sports HD (ARG)
-https://otakon.bemtv.cn/STREAM/10914/playlist.m3u8
-#EXTINF:0 tvg-logo="http://meta.nordvpn.best/espn_lam.png" group-title="⚽ DEPORTES ",ESPN Premium HD (ARG)
-https://otakon.bemtv.cn/STREAM/7782/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://meta.nordvpn.best/fox-sports.png" group-title="⚽ DEPORTES ",Fox Sports Premium HD (Mexico) m
 https://metalgear.bemtv.cn/STREAM/11463/playlist.m3u8
@@ -5889,14 +5849,31 @@ https://bigboss.bemtv.cn/STREAM/22883/playlist.m3u8
 https://otakon.bemtv.cn/STREAM/22890/playlist.m3u8
 #EXTINF:0 tvg-logo="http://meta.nordvpn.best/fox_sports_3_lam.png" group-title="⚽ DEPORTES ",Fox Sports 3 HD (Mexico)
 https://otakon.bemtv.cn/STREAM/22891/playlist.m3u8
-#EXTINF:0 tvg-logo="http://meta.nordvpn.best/fox_sports_2_lam.png" group-title="⚽ DEPORTES ",Fox Sports 2 HD (ARG)
-https://otakon.bemtv.cn/STREAM/22892/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://meta.nordvpn.best/tyc_sports.png" group-title="⚽ DEPORTES ",TYC Sports Int HD
+https://bigboss.bemtv.cn/STREAM/6810/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://meta.nordvpn.best/tnt3.png" group-title="⚽ DEPORTES ",TNT Sports 3 CL HD m
+https://metalgear.bemtv.cn/STREAM/21842/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://meta.nordvpn.best/tnt3.png" group-title="⚽ DEPORTES ",TNT Sports 3 b
+https://bigboss.bemtv.cn/STREAM/412/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://meta.nordvpn.best/tnt2.png" group-title="⚽ DEPORTES ",TNT Sports PREMIUM 2 CL HD
+https://otakon.bemtv.cn/STREAM/22614/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://meta.nordvpn.best/tnthd.png" group-title="⚽ DEPORTES ",TNT Sports HD m
+https://metalgear.bemtv.cn/STREAM/11604/playlist.m3u8
+#EXTINF:0 tvg-logo="http://meta.nordvpn.best/tntsport.png" group-title="⚽ DEPORTES ",TNT Sports HD (ARG)
+https://otakon.bemtv.cn/STREAM/10914/playlist.m3u8
+#EXTINF:0 tvg-logo="http://meta.nordvpn.best/espn_lam.png" group-title="⚽ DEPORTES ",ESPN Premium HD (ARG)
+https://otakon.bemtv.cn/STREAM/7782/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://meta.nordvpn.best/dmx1.png" group-title="⚽ DEPORTES ",Copa DSports ARG
 https://metalgear.bemtv.cn/STREAM/22645/playlist.m3u8
 #EXTINF:0 tvg-logo="http://meta.nordvpn.best/dmx1.png" group-title="⚽ DEPORTES ",Copa DSports CO
 https://otakon.bemtv.cn/STREAM/22647/playlist.m3u8
-#EXTINF:0 tvg-logo="http://meta.nordvpn.best/dmx1.png" group-title="⚽ DEPORTES ",Copa DSports PE
+#EXTINF:0 tvg-logo="http://meta.nordvpn.best/dmx1.png" group-title="⚽ DEPORTES ",Copa DSports 2 PE
 https://otakon.bemtv.cn/STREAM/21240/playlist.m3u8
-#EXTINF:0 tvg-logo="http://meta.nordvpn.best/dmx1.png" group-title="⚽ DEPORTES ",COPA DSports PY
+#EXTINF:0 tvg-logo="http://meta.nordvpn.best/dmx1.png" group-title="⚽ DEPORTES ",COPA DSports+ PY
 https://otakon.bemtv.cn/STREAM/22995/playlist.m3u8
