@@ -4946,6 +4946,9 @@ https://stmv4.voxtvhd.com.br/canal8ros/canal8ros/playlist.m3u8
 #EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/jCVug7Pxp9oy0YMgUK9k9kM91fVgawLNf7WrpCJmyJmMSfzb5eiKvl3WPSXKskGqpuLCK9FuC3k=s160-c-k-c0x00ffffff-no-rj" group-title="🎬PELICULAS",CANAL 14 ELORTONDO
 https://stmv2.voxtvhd.com.br/canal14tv2/canal14tv2/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIFIVETV.png" group-title="🎬PELICULAS", FIVE TV  16.1
+https://panel.host-live.com:19360/8118/8118.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyoptMei6_QX_CHVzyPKpsVD1w2dRQes2JUw&usqp=CAU" group-title="🎬PELICULAS", grjngo del oeste retro
 https://45e603c214f5438cae8872707b7fd678.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_GrjngoPeliculasDelOeste/playlist.m3u8?ads.wurl_channel=1239&ads.wurl_name=GrjngoPeliculasDelOeste&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
@@ -5773,3 +5776,127 @@ https://cdn.sensa.com.ar/live/eds/Tooncast/live_dash_cld/Tooncast.mpd?|referer=h
 #KODIPROP:inputstream.adaptive.license_key=070660c4a07ab644fba62dab07306d43:6786eb56337a318fce0b7f9cccf96478
 #EXTINF:-1 group-title="CANALES SENSA" ch-number="213" tvg-id="ZooMoo.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1812/CH_LOGO/800/542/0/0/10249036073271.png", ZooMoo
 https://cdn.sensa.com.ar/live/sta01/ZooMoo/live_dash_cld/ZooMoo.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+
+
+#EXTINF:0 tvg-logo="http://meta.nordvpn.best/hbo_latinoamerica.png" group-title="🎬PELICULAS",HBO HD
+https://otakon.bemtv.cn/STREAM/13035/playlist.m3u8
+#EXTINF:0 tvg-logo="http://meta.nordvpn.best/hbo_latinoamerica.png" group-title="🎬PELICULAS",HBO HD (Oeste)
+https://otakon.bemtv.cn/STREAM/16087/playlist.m3u8
+#EXTINF:0 tvg-logo="http://meta.nordvpn.best/hbo2_lam.png" group-title="🎬PELICULAS",HBO 2 HD
+https://otakon.bemtv.cn/STREAM/11293/playlist.m3u8
+#EXTINF:0 tvg-logo="http://meta.nordvpn.best/hbo2_lam.png" group-title="🎬PELICULAS",HBO 2 HD (Oeste)
+https://otakon.bemtv.cn/STREAM/16106/playlist.m3u8
+#EXTINF:0 tvg-logo="http://meta.nordvpn.best/hbo_plus_este.png" group-title="🎬PELICULAS",HBO Plus HD
+https://otakon.bemtv.cn/STREAM/11296/playlist.m3u8
+#EXTINF:0 tvg-logo="http://meta.nordvpn.best/hbo_plus_este.png" group-title="🎬PELICULAS",HBO Plus HD (Oeste)
+https://otakon.bemtv.cn/STREAM/16107/playlist.m3u8
+#EXTINF:0 tvg-logo="http://meta.nordvpn.best/hbo_family_lam2.png" group-title="🎬PELICULAS",HBO Family HD
+https://otakon.bemtv.cn/STREAM/11295/playlist.m3u8
+#EXTINF:0 tvg-logo="http://meta.nordvpn.best/hbo_signature_east.png" group-title="🎬PELICULAS",HBO Signature HD
+https://otakon.bemtv.cn/STREAM/11294/playlist.m3u8
+#EXTINF:0 tvg-logo="http://meta.nordvpn.best/hbopop.png" group-title="🎬PELICULAS",HBO Pop HD
+https://otakon.bemtv.cn/STREAM/13030/playlist.m3u8
+#EXTINF:0 tvg-logo="http://meta.nordvpn.best/hboxtreme.png" group-title="🎬PELICULAS",HBO Xtreme HD
+https://otakon.bemtv.cn/STREAM/16108/playlist.m3u8
+#EXTINF:0 tvg-logo="http://meta.nordvpn.best/hbomundilogo.png" group-title="🎬PELICULAS",HBO Mundi HD
+https://otakon.bemtv.cn/STREAM/11440/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://meta.nordvpn.best/universal_channel_global.png" group-title="🎬PELICULAS",Universal HD b
+https://bigboss.bemtv.cn/STREAM/459/playlist.m3u8
+#EXTINF:0 tvg-logo="http://meta.nordvpn.best/uni-pre.png" group-title="🎬PELICULAS",Universal Premier HD b
+https://bigboss.bemtv.cn/STREAM/6593/playlist.m3u8
+#EXTINF:0 tvg-logo="http://meta.nordvpn.best/uni-cine.png" group-title="🎬PELICULAS",Universal Cinema HD b
+https://bigboss.bemtv.cn/STREAM/6594/playlist.m3u8
+
+#EXTINF:0 group-title="Pack Universal" tvg-logo="http://meta.nordvpn.best/uni-crime.png" group-title="🎬PELICULAS",Universal Crime HD
+https://otakon.bemtv.cn/STREAM/9086/playlist.m3u8
+#EXTINF:0 group-title="Pack Universal" tvg-logo="http://meta.nordvpn.best/uni-comedy.png" group-title="🎬PELICULAS",Universal Comedy HD
+https://otakon.bemtv.cn/STREAM/9112/playlist.m3u8
+#EXTINF:0 group-title="Pack Universal" tvg-logo="http://meta.nordvpn.best/uni-real.png" group-title="🎬PELICULAS",Universal Reality HD
+https://otakon.bemtv.cn/STREAM/9111/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://meta.nordvpn.best/skysportsmx.png" group-title="⚽ DEPORTES ",Sky Sports 1 HD
+https://otakon.bemtv.cn/STREAM/12249/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://meta.nordvpn.best/skysportsmx.png" group-title="⚽ DEPORTES ",Sky Sports b
+https://bigboss.bemtv.cn/STREAM/8458/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://logos.com/logo.png" group-title="⚽ DEPORTES ",Sky Sports 2
+https://bigboss.bemtv.cn/STREAM/22637/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://meta.nordvpn.best/skysportsmx.png" group-title="⚽ DEPORTES ",Sky Sports 21
+https://bigboss.bemtv.cn/STREAM/22638/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://meta.nordvpn.best/skysportsmx.png" group-title="⚽ DEPORTES ",Sky Sports 24 HD
+https://otakon.bemtv.cn/STREAM/8468/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://meta.nordvpn.best/sportsmax-jm.png" group-title="⚽ DEPORTES ",SportMax 1 HD
+https://otakon.bemtv.cn/STREAM/22392/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://meta.nordvpn.best/sportsmax-jm.png" group-title="⚽ DEPORTES ",SportMax 2 HD
+https://otakon.bemtv.cn/STREAM/22393/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://meta.nordvpn.best/win-sportplusco.png" group-title="⚽ DEPORTES ",Win Sports+ HD m
+https://metalgear.bemtv.cn/STREAM/6561/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://meta.nordvpn.best/win-sportco.png" group-title="⚽ DEPORTES ",Win Sports HD m
+https://metalgear.bemtv.cn/STREAM/413/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://meta.nordvpn.best/eurosport1.png" group-title="⚽ DEPORTES ",Eurosport 1
+https://metalgear.bemtv.cn/STREAM/22813/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://meta.nordvpn.best/eurosport2.png" group-title="⚽ DEPORTES ",Eurosport 2
+https://metalgear.bemtv.cn/STREAM/23019/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://meta.nordvpn.best/fox_sports_3_lam.png" group-title="⚽ DEPORTES ",Fox Sports 3 HD (ARG) B
+https://bigboss.bemtv.cn/STREAM/23022/playlist.m3u8
+#EXTINF:0 tvg-logo="http://meta.nordvpn.best/fox_sports_global.png" group-title="⚽ DEPORTES ",Fox Sports HD (ARG) B
+https://bigboss.bemtv.cn/STREAM/23023/playlist.m3u8
+#EXTINF:0 tvg-logo="http://meta.nordvpn.best/fox_sports_global.png" group-title="⚽ DEPORTES ",Fox Sports 1 US B
+https://bigboss.bemtv.cn/STREAM/932/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://meta.nordvpn.best/tnthd.png" group-title="⚽ DEPORTES ",TNT Sports HD m
+https://metalgear.bemtv.cn/STREAM/11604/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://meta.nordvpn.best/tnt2.png" group-title="⚽ DEPORTES ",TNT Sports 2 HD
+https://otakon.bemtv.cn/STREAM/22614/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://meta.nordvpn.best/tnt2.png" group-title="⚽ DEPORTES ",TNT Sports 2
+https://otakon.bemtv.cn/STREAM/386/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://meta.nordvpn.best/tnt3.png" group-title="⚽ DEPORTES ",TNT Sports 3 HD m
+https://metalgear.bemtv.cn/STREAM/21842/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://meta.nordvpn.best/tnt3.png" group-title="⚽ DEPORTES ",TNT Sports 3 b
+https://bigboss.bemtv.cn/STREAM/412/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://meta.nordvpn.best/tyc_sports.png" group-title="⚽ DEPORTES ",TYC Sports HD
+https://otakon.bemtv.cn/STREAM/16059/playlist.m3u8
+#EXTINF:0 tvg-logo="http://meta.nordvpn.best/tyc_sports.png" group-title="⚽ DEPORTES ",TYC Sports
+https://bigboss.bemtv.cn/STREAM/22877/playlist.m3u8
+#EXTINF:0 tvg-logo="http://meta.nordvpn.best/tyc_sports.png" group-title="⚽ DEPORTES ",TYC Sports Int HD
+https://bigboss.bemtv.cn/STREAM/6810/playlist.m3u8
+#EXTINF:0 group-title="Conect Deportes" tvg-logo="http://meta.nordvpn.best/tntsport.png" group-title="⚽ DEPORTES ",TNT Sports HD (ARG)
+https://otakon.bemtv.cn/STREAM/10914/playlist.m3u8
+#EXTINF:0 tvg-logo="http://meta.nordvpn.best/espn_lam.png" group-title="⚽ DEPORTES ",ESPN Premium HD (ARG)
+https://otakon.bemtv.cn/STREAM/7782/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://meta.nordvpn.best/fox-sports.png" group-title="⚽ DEPORTES ",Fox Sports Premium HD (Mexico) m
+https://metalgear.bemtv.cn/STREAM/11463/playlist.m3u8
+#EXTINF:0 tvg-logo="http://meta.nordvpn.best/fox_sports_global.png" group-title="⚽ DEPORTES ",Fox Sports HD (Mexico)
+https://bigboss.bemtv.cn/STREAM/22883/playlist.m3u8
+#EXTINF:0 tvg-logo="http://meta.nordvpn.best/fox_sports_2_lam.png" group-title="⚽ DEPORTES ",Fox Sports 2 HD (Mexico)
+https://otakon.bemtv.cn/STREAM/22890/playlist.m3u8
+#EXTINF:0 tvg-logo="http://meta.nordvpn.best/fox_sports_3_lam.png" group-title="⚽ DEPORTES ",Fox Sports 3 HD (Mexico)
+https://otakon.bemtv.cn/STREAM/22891/playlist.m3u8
+#EXTINF:0 tvg-logo="http://meta.nordvpn.best/fox_sports_2_lam.png" group-title="⚽ DEPORTES ",Fox Sports 2 HD (ARG)
+https://otakon.bemtv.cn/STREAM/22892/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://meta.nordvpn.best/dmx1.png" group-title="⚽ DEPORTES ",Copa DSports ARG
+https://metalgear.bemtv.cn/STREAM/22645/playlist.m3u8
+#EXTINF:0 tvg-logo="http://meta.nordvpn.best/dmx1.png" group-title="⚽ DEPORTES ",Copa DSports CO
+https://otakon.bemtv.cn/STREAM/22647/playlist.m3u8
+#EXTINF:0 tvg-logo="http://meta.nordvpn.best/dmx1.png" group-title="⚽ DEPORTES ",Copa DSports PE
+https://otakon.bemtv.cn/STREAM/21240/playlist.m3u8
+#EXTINF:0 tvg-logo="http://meta.nordvpn.best/dmx1.png" group-title="⚽ DEPORTES ",COPA DSports PY
+https://otakon.bemtv.cn/STREAM/22995/playlist.m3u8
