@@ -127,6 +127,8 @@ https://s5.mexside.net:1936/france24/france24/.m3u8
 #EXTINF:-1 tvg-logo="https://www.freecast.com/_next/image?url=https%3A%2F%2Fd3e3bui7xn67l.cloudfront.net%2Fcms_media%2Fmedia%2Flive%2Fchannel%2Fff270419-798c-4ee7-897b-7b197dc9fa7a-1689106721.353391.256x256.png&w=256&q=75" group-title="🇦🇷 ARGENTINA",Euronews pl
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02b1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ZveR1R3.png" group-title="🇦🇷 ARGENTINA", Hispan TV |
+https://live.presstv.ir/hls/hispantv.m3u8
 
 infantiles
 
@@ -909,6 +911,9 @@ http://190.123.90.146:8000/play/a035/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/285/CH_LOGO/160/160/0/0/1820288007328.png" group-title="🇦🇷 ARGENTINA",TCM 190
 http://190.123.90.146:8000/play/a01b/index.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/SgXqV7p.png" group-title="🇦🇷 ARGENTINA",,Canal 34 San Juan
+http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/f8hSs6J/Punto-99-Logo-Reducido.png" group-title="🇦🇷 ARGENTINA", PUNTO 99
 https://stmv5.voxtvhd.com.br/99online/99online/playlist.m3u8
@@ -1777,9 +1782,6 @@ http://204.199.3.2/.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1UQVwxMMl2avE5NYKvSPpe_wifHZ2xaghY4CMM5K6UCwmAhSuNbg5xHnbxZG7ei37q2g&usqp=CAU" tvg-group="ARGENTINA",EL 10 TV
 
-#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpXF42Pr8P0PoXw-mKCZnLy01YNLXFJBmEiXscpV3U0mjeBOlvqP1PRrJrN-k-npDmlxvXAOKSjbD2-DvSgxCA-UcImjJ1VltG08E9DJ_kS7OwFM8lJyeTBUZHppUlGyiEziqDhvfgYGA/s720/Canal+34+de+San+Juan+en+vivo.png" tvg-group="ARGENTINA",Canal 34 San Juan
-http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
-
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/913627349/telecondor_satelital_400x400.jpg" tvg-group="ARGENTINA",CANAL 4 TELECONDOR
 https://stmvideo1.livecastv.com/telecondor/telecondor/playlist.m3u8
 
@@ -1926,7 +1928,7 @@ http://srv3.zcast.com.br/sim1al5/sim1al5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/960px-The_Simpsons_yellow_logo.svg.png" group-title="👩‍👦‍👦 INFANTILES", LOS SIMPSONS II
 http://srv3.zcast.com.br/sim6al10/sim6al10/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD130000205_20230809T053830SQUARE.png_20230809053830.png" group-title="👩‍👦‍👦 INFANTILES",Pitufos TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/juUkPQy.png" group-title="👩‍👦‍👦 INFANTILES",Pitufos TV
 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Bob Esponja" tvg-logo="https://1.bp.blogspot.com/-j4Ki8YyD7kQ/WD8HODeu1eI/AAAAAAAAB9A/WzguSQQjJj8lheiEnNAAw_N8lVpYNzstgCLcB/s1600/png_bob_6.png" group-title="👩‍👦‍👦 INFANTILES",Bob Esponja
@@ -2093,7 +2095,7 @@ https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg0
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/123TV_%282022%29.png/revision/latest/scale-to-width-down/200?cb=20220903004013&path-prefix=es" group-title="👩‍👦‍👦 INFANTILES", 145 | 1·2·3 TV
 http://38.41.8.1:8000/play/a03o
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uGwFXeM.png" group-title="👩‍👦‍👦 INFANTILES", Educa TV | Ecuador
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DQrkjNV.png" group-title="👩‍👦‍👦 INFANTILES", Educa TV | Ecuador
 https://vid2.ecuamedia.net/educatv/live/chunklist_w401884011.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BADfaU8.png" group-title="👩‍👦‍👦 INFANTILES",Canal Ipe | Perú
@@ -2156,9 +2158,14 @@ http://201.217.246.177:8000/play/a0a5/index.m3u8
 https://xui-backend.energeek.cl/live/13/playlist.m3u8?username=D3m0M3UCLWeb&password=xN4sFVjMK7&PlaylistM3UCL
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/q2Fd958.png" group-title="👩‍👦‍👦 INFANTILES", BIG CHANNEL Gran Canal | SD | Argentina
-https://ssh101.bozztv.com/ssh101/bigchannel/chunks.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/KUETG3N.png" tvg-group="INFANTILES", TV variada | HD | Argentina
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1335_VariedTV.png" group-title="👩‍👦‍👦 INFANTILES", VariedTV | AR
+https://live20.bozztv.com/akamaissh101/ssh101/variedtvonline/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b22f37_08732b455b364020a15b035f20e84668~mv2.png" group-title="👩‍👦‍👦 INFANTILES", ZyoonTV | UY
+https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/hc1Lvl7.png" group-title="👩‍👦‍👦 INFANTILES", Retro Mágico | HD | Argentina
 
@@ -2174,10 +2181,6 @@ https://giatv.bozztv.com/giatv/giatv-neogogoplaymix/neogogoplaymix/playlist.m3u8
 https://giatv.bozztv.com/giatv/giatv-NEOMIXHD/NEOMIXHD/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5OYccJH.png" group-title="👩‍👦‍👦 INFANTILES",NEOGOGOPLAY
-https://giatv.bozztv.com/giatv/giatv-NEOGOGOPLAY/NEOGOGOPLAY/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5OYccJH.png" group-title="👩‍👦‍👦 INFANTILES",NEOGOGOPLAYTVE
-https://giatv.bozztv.com/giatv/giatv-NEOGOGOPLAYTVE/NEOGOGOPLAYTVE/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RUuoMlL.png" group-title="👩‍👦‍👦 INFANTILES",Canal LMS | México
 
@@ -3004,8 +3007,8 @@ https://d1rqgw5gocwo9i.cloudfront.net/10009/88886036/hls/playlist.m3u8?ads.xumo_
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvstations/images/c/cd/Telemundo_Nueva_Inglaterra_2018.png/revision/latest?cb=20190613134710" group-title="🌍 TELEVISIÓN  INTERNACIONAL", TELEMUNDO NE
 https://d1rqgw5gocwo9i.cloudfront.net/10009/88886036/hls/playlist.m3u8?ads.xumo_channelId=99951228
 
-#EXTINF:-1 tvg-logo="https://img.nbc.com/files/images/2019/4/16/Telemundo-Logo-White-360x300.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL", LO MEJOR DE TELEMUNDO 
-https://d1rqgw5gocwo9i.cloudfront.net/10009/99991748/hls/master.m3u8?ads.xumo_channelId=99991748
+#EXTINF:-1 tvg-logo="https://img.nbc.com/files/images/2019/4/16/Telemundo-Logo-White-360x300.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL", Telemundo | HD | San Juan ok
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/446FABE6-D80D-406D-9254-99DCBF06DE3D/3-1x1.png/900" group-title="🌍 TELEVISIÓN  INTERNACIONAL", TELEMUNDO AL DÍA 
 https://d1rqgw5gocwo9i.cloudfront.net/10009/99991747/hls/master.m3u8?ads.xumo_channelId=99991747
@@ -3133,7 +3136,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 #EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/16af5933-c8e0-4d5b-8488-45339c5b0252/df370sk-a879aab8-13d0-4b4d-ad86-83b503184afe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE2YWY1OTMzLWM4ZTAtNGQ1Yi04NDg4LTQ1MzM5YzViMDI1MlwvZGYzNzBzay1hODc5YWFiOC0xM2QwLTRiNGQtYWQ4Ni04M2I1MDMxODRhZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.H8DsHNAxD2uGYEx21R2BA2OmADNmIm1Dcxlx4PykGao" group-title="🌍 TELEVISIÓN  INTERNACIONAL", IMAGEN TV igd
 https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/diretelemexico.com/wp-content/uploads/2021/08/Multimedios-TV-Canal-6-en-vivo.png?fit=1920%2C1080&ssl=1" group-title="🌍 TELEVISIÓN  INTERNACIONAL", CDMX CANAL 6.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cQXAcDA.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL", CDMX CANAL 6.1
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8?
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/1200px-Multimedios_Canal_Seis_Logo.svg.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL", Canal 6 CDMX 
@@ -3180,11 +3183,12 @@ https://live-zlr1.tv360.bitel.com.pe/bitel/global/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/2c8716_635a0d3bc8054d92a5e21c4a47818f85~mv2.png/v1/fill/w_450,h_450,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/2c8716_635a0d3bc8054d92a5e21c4a47818f85~mv2.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL", Latina TV | HD | Lima OK
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina/.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0yoX0Aa.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL", Univisión 34 | HD | Los Ángeles
+https://d2c043ja5c3fzo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kbmx2rye8x0uq/server/distrib/0d5L5aFqyXYNTJbA/zuvPJYoOOdEMDNF2j2mvmg.XD-5XW7bmDpD5yWfV328oU9NWPX1Y7dhiYqJY3ymkerRKjKvBm9YaKmRu09CS8ak3vKkgVwPUO3_k0fGhRTEqm9C52Akmi0bMrtkdFN-ApwGS5bzMeefjZWDmajrGpA-z7QefASsKjTkWAe3BlRJ_vz3lQhvxyaR-gTRDOtaBmPVj7kcBaZplJ2o86Rm6t4OZaOmdnH6WiW1GoB__4qhQJvpE8uBN8i_t4EJLrXsgpMTqttdcsGYmhH3W1nRYhFZ7tHSwWnrpfbk73-fLrtWcw/manifest.m3u8
+
 #EXTINF:-1 tvg-chno="10.7" tvg-id="AztecaGuatemala.gt" tvg-logo="https://i.imgur.com/UJhQoUK.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL", AZTECA GUATE 
-https://ch1-tva.duin.dev/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Azteca_35_2020.png/revision/latest?cb=20201105021918" group-title="🌍 TELEVISIÓN  INTERNACIONAL", A+ GUATE 
-https://ch2-tva.duin.dev/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O4mk6Er.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL", Bolivisión | HD | la paz
 https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
@@ -3207,10 +3211,8 @@ https://cloud2.streaminglivehd.com:1936/8048/8048/playlist.m3u8
 https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/Canal_19_El_Salvador_%282022%29.svg/revision/latest/scale-to-width-down/300?cb=20240131022938" group-title="🌍 TELEVISIÓN  INTERNACIONAL", Canal 19 Megavisión | HD | salvador
-https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Rlm5PhK.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL", Canal 21 Megavisión | HD | salvador
-https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2oPG1Mz6Nhz6NpDZ_LteOYuQY16Z5Px8JvzaIXmV_BWjjVZvY6gAr24niS4bFB52D3HQ&usqp=CAU" group-title="🌍 TELEVISIÓN  INTERNACIONAL", TCS+ | HD | salvador
 https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
@@ -3232,11 +3234,51 @@ https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/EcuadorTV_logo.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL", EC: ECUADOR TV
 https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8
 
+
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/PzuteqP.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL", Marga Marga TV  | HD | Valparaíso
+https://v1.tustreaming.cl/margamargatv/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/oe76IC2.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL", Estación TV  | HD | Limache
+https://v4.tustreaming.cl/limachemovil/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1qX1L8t.jpeg" group-title="🌍 TELEVISIÓN  INTERNACIONAL", Retroplus 2 | HD | Chile
+https://tls-cl.cdnz.cl/retroplustvdos/live/chunklist_w1061482613.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1qX1L8t.jpeg" group-title="🌍 TELEVISIÓN  INTERNACIONAL", Retroplus | HD | Chile
+https://tls-cl.cdnz.cl/retroplustvtres/live/chunklist_w2053190015.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wheM0ma.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL", La Granja TV | HD | La Granja
+https://oracle.streaminghd.cl/8126/8126/chunklist_w759863669.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ocZGrm7.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL", Canal 2 | HD | San Antonio
+https://unlimited1-cl-isp.dps.live/canal2/canal2.smil/canal2/livestream1/chunks.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/8ZR2XHN.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL", TVN3 | FHD | Santiago
+https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/PjAS6V9.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL", UCV | HD | Valparaíso
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/4ZLt6ep.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL", UCV2 | HD | Valparaíso
 https://unlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1193_13_Cultura.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL", 13 Cultura | CL
+https://redirector.dps.live/hls/13cultura/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1683_13_Cocina.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL", 13 Cocina | CL
+https://redirector.dps.live/hls/13cocina/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1033_13_Pop.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL", 13 Pop | CL
+https://redirector.dps.live/hls/13pop/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1032_13_Teleseries.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL", 13 Teleseries | CL
+https://redirector.dps.live/hls/13t/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1446_13_Festival.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL", 13 Festival | CL
+https://redirector.dps.live/hls/13festival/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1448_13_Realities.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL", 13 Realities | CL
+https://redirector.dps.live/hls/13realities/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1684_13_Viajes.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL", 13 Viajes | CL
+https://redirector.dps.live/hls/13viajes/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1685_13_Internacional.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL", 13 Internacional | CL
+https://redirector.dps.live/hls/13intav/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/F3sDlSe.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL", Canal 13 Cultura | FHD | santiago
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
@@ -3260,12 +3302,10 @@ https://marine2.miplay.cl/canal13cable/playlist.m3u8
 https://marine2.miplay.cl/canal13cable/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f66c8380f9a3880549a0_13cable.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL", C13 CL
-https://marine2.miplay.cl/c13/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/lared.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL", La Red | CL
 
 #EXTINF:-1  tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/mega.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL", Mega cl
-https://marine2.miplay.cl/megacl/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.13.cl/7/sites/all/themes/rec_v2/images/logo2_2018.png?202308181060" group-title="🌍 TELEVISIÓN  INTERNACIONAL",Rec 13 Tv
 https://marine2.miplay.cl/rec/mono.m3u8
@@ -3276,17 +3316,26 @@ https://marine2.miplay.cl/tateti/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/tvmas.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL", Tv Mas
 https://marine2.miplay.cl/tvmas/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5fmCgtuKCreJJO5y2p4wqf6KM-uSgc9YdMQeNobloIIEuWi0Ac3Q5FE7VYq1QzVrsQZM&usqp=CAU" group-title="🌍 TELEVISIÓN  INTERNACIONAL", Click TV (Coronel) (720p)
+#EXTINF: -1 tvg-logo="https://i.imgur.com/yjYuZSV.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL", Click TV (Coronel) (720p)
 https://v2.tustreaming.cl/clicktv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/55_UTalcaTV.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL", UTalcaTV | CL
+https://unlimited1-cl-isp.dps.live/campustv/campustv.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF: -1 tvg-logo="https://atacamatelevision.com/archivos/img/logo.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL", Atacama TV | HD | Copiapó
 https://v2.tustreaming.cl/atacamatv/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/1851727139189432320/jZuJ97vd_400x400.jpg" group-title="🌍 TELEVISIÓN  INTERNACIONAL", Canal 1 | HD | Chillán
+#EXTINF: -1 tvg-logo="https://i.imgur.com/BifBunb.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL", Canal 1 | HD | Chillán
 https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/sU0PwHK.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL", Club TV | HD | Santa Juana
+https://cloudpro.servidoresdestream.com:8081/8010/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FYCp7FK.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL", Milodón TV | SD | Puerto Natales
 https://video8.servidordevideo.net:3161/live/ynhpdikjlive.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/TUz4zSi.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL", Décima TV | HD | Ancud
+https://unlimited2-cl-isp.dps.live/decimatv/decimatv.smil/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/a17p8Dh.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL", ITV | FHD | Punta Arenas
 https://unlimited1-cl-isp.dps.live/itv/itv.smil/playlist.m3u8
@@ -6100,7 +6149,7 @@ https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/o
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd
 
 
-#EXTINF:-1 vg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/Trece_Paraguay.svg/revision/latest/scale-to-width-down/343?cb=20250114154714" group-title="🌍 TELEVISIÓN  INTERNACIONAL", El Trece.py cdn.cvattv
+#EXTINF:-1 vg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Trece_Paraguay_2025.svg" group-title="🌍 TELEVISIÓN  INTERNACIONAL", El Trece.py cdn.cvattv
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a8093cdcb2d504bd38f16764bd21b6e5:bfcf3b033b5f0b5ae020751a6746326f
 https://cdn.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd
