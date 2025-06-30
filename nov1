@@ -5787,12 +5787,12 @@ https://cdn.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc/HBO_Extreme.mp
 #KODIPROP:inputstream.adaptive.license_key=7821b2662148fe333d5191acbb8a5c1f:ae43f3e2545237ebda58b13813b5d328
 https://cdn.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_Live_dash_enc/HBO_Mundi.mpd
 
-#EXTINF:-1, tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNICI.png?raw =true"  group-title="🎬PELICULAS", UNIV CINEMA cdn.cvattv
+#EXTINF:-1, tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNICI.png?raw=true"  group-title="🎬PELICULAS", UNIV CINEMA cdn.cvattv
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f6ae2e17173055e4ca69dc18963406ae:5a955c29eb88a0b4c9a2538cc4b3aea2
 https://cdn.cvattv.com.ar/live/c6eds/Universal_Cinema/SA_Live_dash_cenc/Universal_Cinema.mpd
 
-#EXTINF:-1, tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNICO.png?raw =true"  group-title="🎬PELICULAS", UNIV COMEDY
+#EXTINF:-1, tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNICO.png?raw=true"  group-title="🎬PELICULAS", UNIV COMEDY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=062c5d25105a3a935b67e36923c73f28:88c2d4cec420f18d2477152c66c7870d
 https://cdn.cvattv.com.ar/live/c6eds/Universal_Comedy/SA_Live_dash_enc/Universal_Comedy.mpd
