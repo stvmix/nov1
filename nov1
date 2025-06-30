@@ -6149,7 +6149,7 @@ https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/o
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd
 
 
-#EXTINF:-1 vg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Trece_Paraguay_2025.svg" group-title="🌍 TELEVISIÓN  INTERNACIONAL", El Trece.py cdn.cvattv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Trece_Paraguay_2025.svg" group-title="🌍 TELEVISIÓN  INTERNACIONAL", El Trece.py cdn.cvattv
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a8093cdcb2d504bd38f16764bd21b6e5:bfcf3b033b5f0b5ae020751a6746326f
 https://cdn.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd
