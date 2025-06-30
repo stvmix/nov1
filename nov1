@@ -4854,13 +4854,8 @@ https://s2.tvdatta.com:3753/hybrid/play.m3u8?PlaylistM3UCL
 https://live.obslivestream.com/autenticatvmux/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fmh.la/images/team/logo_movies.png" group-title="🎬PELICULAS", fmh movies| HD | Lima
-https://live-zlr1.tv360.bitel.com.pe/bitel/fmhmovies/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/eQEQiSe.png" group-title="🎬PELICULAS", FMH Kids | FHD | Perú
-https://live-zlr1.tv360.bitel.com.pe/bitel/fmhkids/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/eQEQiSe.png" group-title="🎬PELICULAS", FMH Kids 160 (España) (🇪🇸)
-http://160.20.165.246:8000/play/a01f
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/Golden_Blanco_2020.png/revision/latest?cb=20220131141053&path-prefix=es" tvg-group="PREMIUM",Golden nxt
 
@@ -4872,35 +4867,9 @@ http://160.20.165.246:8000/play/a01f
 
 #EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDE3X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1708456806050" tvg-group="PREMIUM", HBO MX HD
 
-#EXTINF:-1 tvg-logo="https://www.tvlibrehd.com/img/hbo2.webp" tvg-group="PREMIUM", HBO 2 170
-
-#EXTINF:-1 tvg-logo="https://ia804502.us.archive.org/33/items/logo.brootv_hbo/HBO_FAMILY.png" group-title="🎬PELICULAS", hbo family 190
-http://190.123.90.146:8000/play/a03d/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://clarovideocdn1.clarovideo.net/HBO/PELICULAS/HBOFAMILYCHANNEL/EXPORTACION_WEB/SS/HBOFAMILYCHANNEL_t-290x163.png" tvg-group="PREMIUM", HBO Family HD SDMX
-
-#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_hbo/HBO_MUNDI.png" group-title="🎬PELICULAS",HBO Mundi 190
-http://190.123.90.146:8000/play/a027/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://archive.org/download/logo.brootv_hbo/HBO_PLUS.png" tvg-group="PREMIUM", HBO Plus nex
-
-#EXTINF:-1 tvg-logo="https://www.codice.tv/wp-content/uploads/2022/04/hbo-pop1-300x300.png" tvg-group="PREMIUM", HBO POP nex
-
-#EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMjAxX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1708456926578" tvg-group="PREMIUM",HBO Signature SDMX
-
-#EXTINF:-1 tvg-logo="https://www.codice.tv/wp-content/uploads/2022/04/hbo-xtreme1.png" tvg-group="PREMIUM",HBO Xtreme nex
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="🎬PELICULAS",Sony Cine klowdtv OK
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/996px-Sony_Movies_Logo.svg.png" group-title="🎬PELICULAS",Sony Movies 190
-http://190.123.90.146:8000/play/a017/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://mondrian.claro.com.br/channels/inverse/sony@3x.png" group-title="🎬PELICULAS",Sony Channel 190
-http://190.123.90.146:8000/play/a016/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DM4fxGB/Star-Channel.png" group-title="🎬PELICULAS",STAR CH 190
-http://190.123.90.146:8000/play/a019/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://canaldhe.com/wp-content/uploads/2019/09/logo-7-11.png" tvg-group="PREMIUM", Canal DHE
 
@@ -4924,16 +4893,6 @@ https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/chunklist_w878297441.
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1q0R6R9.png" group-title="🎬PELICULAS", Señal Peru TV
 https://livestream.perucast.com/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.1316118004_UniversalPremiere-Claro.png.dd093e77a73e1cc71ccb2e3b7983d187.png" tvg-group="ARGENTINA",Universal Premier 190.60.40
-
-#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/small.701883225_UniversalCrime-Claro.png.efbf81f9308ad0902624e172dc455503.png" tvg-group="ARGENTINA",Universal Crime Este
-
-#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/small.1414587199_UniversalCinema-Claro.png.a88ebacac50bab493289c33a1afef121.png" tvg-group="ARGENTINA",Universal Cinema
-
-#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.1490211344_UniversalComedy-Claro.png.61669777e8ebe4f90876b91db5ef8466.png" tvg-group="ARGENTINA",Universal Comedy
-
-#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/small.1365450986_UniversalReality-Claro.png.f81d451e3c0704d97dad0839c8fb4eb3.png" tvg-group="ARGENTINA",Universal Reality
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u1dnEVv.png" tvg-group="ARGENTINA", PANC TV | Arkansas
 
@@ -5779,39 +5738,41 @@ https://cdn.sensa.com.ar/live/sta01/ZooMoo/live_dash_cld/ZooMoo.mpd?|referer=htt
 
 
 
-#EXTINF:0 tvg-logo="http://meta.nordvpn.best/hbo_latinoamerica.png" group-title="🎬PELICULAS",HBO HD
+
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/hbo.png" group-title="🎬PELICULAS",HBO HD
 https://otakon.bemtv.cn/STREAM/13035/playlist.m3u8
-#EXTINF:0 tvg-logo="http://meta.nordvpn.best/hbo_latinoamerica.png" group-title="🎬PELICULAS",HBO HD (Oeste)
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/hbo.png" group-title="🎬PELICULAS",HBO HD (Oeste)
 https://otakon.bemtv.cn/STREAM/16087/playlist.m3u8
-#EXTINF:0 tvg-logo="http://meta.nordvpn.best/hbo2_lam.png" group-title="🎬PELICULAS",HBO 2 HD
+#EXTINF:0 tvg-logo="https://www.tvlibrehd.com/img/hbo2.webp" group-title="🎬PELICULAS",HBO 2 HD
 https://otakon.bemtv.cn/STREAM/11293/playlist.m3u8
-#EXTINF:0 tvg-logo="http://meta.nordvpn.best/hbo2_lam.png" group-title="🎬PELICULAS",HBO 2 HD (Oeste)
+#EXTINF:0 tvg-logo="https://www.tvlibrehd.com/img/hbo2.webp" group-title="🎬PELICULAS",HBO 2 HD (Oeste)
 https://otakon.bemtv.cn/STREAM/16106/playlist.m3u8
-#EXTINF:0 tvg-logo="http://meta.nordvpn.best/hbo_plus_este.png" group-title="🎬PELICULAS",HBO Plus HD
+#EXTINF:0 tvg-logo="https://archive.org/download/logo.brootv_hbo/HBO_PLUS.png" group-title="🎬PELICULAS",HBO Plus HD
 https://otakon.bemtv.cn/STREAM/11296/playlist.m3u8
-#EXTINF:0 tvg-logo="http://meta.nordvpn.best/hbo_plus_este.png" group-title="🎬PELICULAS",HBO Plus HD (Oeste)
+#EXTINF:0 tvg-logo="https://archive.org/download/logo.brootv_hbo/HBO_PLUS.png" group-title="🎬PELICULAS",HBO Plus HD (Oeste)
 https://otakon.bemtv.cn/STREAM/16107/playlist.m3u8
-#EXTINF:0 tvg-logo="http://meta.nordvpn.best/hbo_family_lam2.png" group-title="🎬PELICULAS",HBO Family HD
+#EXTINF:0 tvg-logo="https://clarovideocdn1.clarovideo.net/HBO/PELICULAS/HBOFAMILYCHANNEL/EXPORTACION_WEB/SS/HBOFAMILYCHANNEL_t-290x163.png" group-title="🎬PELICULAS",HBO Family HD
 https://otakon.bemtv.cn/STREAM/11295/playlist.m3u8
-#EXTINF:0 tvg-logo="http://meta.nordvpn.best/hbo_signature_east.png" group-title="🎬PELICULAS",HBO Signature HD
+#EXTINF:0 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMjAxX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1708456926578" group-title="🎬PELICULAS",HBO Signature HD
 https://otakon.bemtv.cn/STREAM/11294/playlist.m3u8
-#EXTINF:0 tvg-logo="http://meta.nordvpn.best/hbopop.png" group-title="🎬PELICULAS",HBO Pop HD
+#EXTINF:0 tvg-logo="https://www.codice.tv/wp-content/uploads/2022/04/hbo-pop1-300x300.png" group-title="🎬PELICULAS",HBO Pop HD
 https://otakon.bemtv.cn/STREAM/13030/playlist.m3u8
-#EXTINF:0 tvg-logo="http://meta.nordvpn.best/hboxtreme.png" group-title="🎬PELICULAS",HBO Xtreme HD
+#EXTINF:0 tvg-logo="https://www.codice.tv/wp-content/uploads/2022/04/hbo-xtreme1.png" group-title="🎬PELICULAS",HBO Xtreme HD
 https://otakon.bemtv.cn/STREAM/16108/playlist.m3u8
-#EXTINF:0 tvg-logo="http://meta.nordvpn.best/hbomundilogo.png" group-title="🎬PELICULAS",HBO Mundi HD
+#EXTINF:0 tvg-logo="https://archive.org/download/logo.brootv_hbo/HBO_MUNDI.png" group-title="🎬PELICULAS",HBO Mundi HD
 https://otakon.bemtv.cn/STREAM/11440/playlist.m3u8
 
-#EXTINF:0 tvg-logo="http://meta.nordvpn.best/universal_channel_global.png" group-title="🎬PELICULAS",Universal HD b
+
+#EXTINF:0 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/41/CH_LOGO/800/542/0/0/9929073907327.png" group-title="🎬PELICULAS",Universal HD b
 https://bigboss.bemtv.cn/STREAM/459/playlist.m3u8
-#EXTINF:0 tvg-logo="http://meta.nordvpn.best/uni-pre.png" group-title="🎬PELICULAS",Universal Premier HD b
+#EXTINF:0 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNIPR.png?raw=true" group-title="🎬PELICULAS",Universal Premier HD b
 https://bigboss.bemtv.cn/STREAM/6593/playlist.m3u8
-#EXTINF:0 tvg-logo="http://meta.nordvpn.best/uni-cine.png" group-title="🎬PELICULAS",Universal Cinema HD b
+#EXTINF:0 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNICI.png?raw=true" group-title="🎬PELICULAS",Universal Cinema HD b
 https://bigboss.bemtv.cn/STREAM/6594/playlist.m3u8
 
-#EXTINF:0 tvg-logo="http://meta.nordvpn.best/uni-crime.png" group-title="🎬PELICULAS",Universal Crime HD
+#EXTINF:0 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNICR.png?raw=true" group-title="🎬PELICULAS",Universal Crime HD
 https://otakon.bemtv.cn/STREAM/9086/playlist.m3u8
-#EXTINF:0 tvg-logo="http://meta.nordvpn.best/uni-comedy.png" group-title="🎬PELICULAS",Universal Comedy HD
+#EXTINF:0 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNICO.png?raw=true" group-title="🎬PELICULAS",Universal Comedy HD
 https://otakon.bemtv.cn/STREAM/9112/playlist.m3u8
 #EXTINF:0 tvg-logo="http://meta.nordvpn.best/uni-real.png" group-title="🎬PELICULAS",Universal Reality HD
 https://otakon.bemtv.cn/STREAM/9111/playlist.m3u8
