@@ -4914,9 +4914,6 @@ https://45e603c214f5438cae8872707b7fd678.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NMszpbjy/crimen-de-warner.png" group-title="🎬PELICULAS",CRIMEN DE WARNER TV
 https://amg00136-amg00136c60-canelatv-international-6417.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-crimen-canelatvinternational/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BVk47mx3/horrorvision-logo.png" group-title="🎬PELICULAS",HORROR VISION
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?&ads.xumo_channelId=88883019
-
 #EXTINF:-1 tvg-logo="https://cdn.battlerite.com/press/2018/04/10093025/tales_of_horror_logo_highres.png" group-title="🎬PELICULAS",CINE DE HORROR
 https://amg02724-amg02724c2-runtime-latam-2586.playouts.now.amagi.tv/playlist/amg02724-somosfast-cinedehorror-runtimelatam/playlist.m3u8
 
@@ -5774,7 +5771,7 @@ https://bigboss.bemtv.cn/STREAM/6594/playlist.m3u8
 https://otakon.bemtv.cn/STREAM/9086/playlist.m3u8
 #EXTINF:0 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNICO.png?raw=true" group-title="🎬PELICULAS",Universal Comedy HD
 https://otakon.bemtv.cn/STREAM/9112/playlist.m3u8
-#EXTINF:0 tvg-logo="http://meta.nordvpn.best/uni-real.png" group-title="🎬PELICULAS",Universal Reality HD
+#EXTINF:0 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNIRE.png?raw=true" group-title="🎬PELICULAS",Universal Reality HD
 https://otakon.bemtv.cn/STREAM/9111/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://meta.nordvpn.best/skysportsmx.png" group-title="⚽ DEPORTES ",Sky Sports 1 HD
