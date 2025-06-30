@@ -718,22 +718,22 @@ https://cdn.sensa.com.ar/bpk-tv/VePlus/default/index.mpd?|referer=https://player
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e7ec364ad6854fedad797538cb58780d:57dfb3fca2ca35b37ff81c35595e9be8
-#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/723/CH_LOGO/60/40/0/0/7392338407887.png" tvg-group="ARGENTINA", Telemax chromecast
+#EXTINF:-1   tvg-logo="https://tvlibreonline.org/img/telemax.webp" group-title="🇦🇷 ARGENTINA", Telemax chromecast
 https://chromecast.cvattv.com.ar/live/c6eds/Telemax/SA_Live_dash_enc_C/Telemax.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ed542fdaa4598671e26aca3e160afed7:cdb880c60523b9ebc61b9003c41f8048
-#EXTINF:-1    tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcj2knBfG_p6DC8Vxb9_1NzM8lSmu9TQVSFab8ToqU_gusu7kccOkTClxQW_LTsUw9JCGmZE8yvosjkFrO_rOS95mSvQT785RYYY-VQ1lQw71n-YtW8gW2SXg5Wuh3OMWhDb71COlJLOfG4ovsmf2vjx2ZaOBiQzl0Vg24snZ9bthlwC4gk8eLlTTI/s614/Am%C3%A9rica_Tucum%C3%A1n-2019.png" tvg-group="ARGENTINA", AMERICA TUCUMÁN chromecast
+#EXTINF:-1    tvg-logo="https://i.ibb.co/B6ZHDXy/america-tucuman.png" group-title="🇦🇷 ARGENTINA", AMERICA TUCUMÁN chromecast
 https://chromecast.cvattv.com.ar/live/c7eds/America_Tucuman/SA_Live_dash_enc_C/America_Tucuman.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7760caa058b51b7cce151c0539fa4a8f:edd086c1011ed2c54cbe869d0e8d9289
-#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo-Canal-8-tucum%C3%A1n.png" tvg-group="ARGENTINA", Canal 8 TV TUCUMÁN chromecast
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Elocho_TV_nuevo_logo.png/456px-Elocho_TV_nuevo_logo.png" group-title="🇦🇷 ARGENTINA", Canal 8 TV TUCUMÁN chromecast
 https://chromecast.cvattv.com.ar/live/c7eds/Canal_8_Tucuman/SA_Live_dash_enc_C/Canal_8_Tucuman.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7a53740aa52d8b50ccb218aab5e9d50e:e772fa4a4997b50a0ff04e2ef286a864
-#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_Canal_10_de_Tucum%C3%A1n.png" tvg-group="ARGENTINA", Canal 10 TUCUMÁN chromecast
+#EXTINF:-1   tvg-logo="https://i.ibb.co/vvknBFv/canal10-tucuman.png" group-title="🇦🇷 ARGENTINA", Canal 10 TUCUMÁN chromecast
 https://chromecast.cvattv.com.ar/live/c7eds/Ch10_Tucuman/SA_Live_dash_enc_C/Ch10_Tucuman.mpd
 
 #EXTINF:0 tvg-logo="https://television-libre.tv/img/telemax.webp" tvg-group="ARGENTINA",Telemax AR
@@ -753,9 +753,6 @@ https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1451307711472230404/2_kj_t1w_400x400.jpg" group-title="🇦🇷 ARGENTINA", PALOMAR TV ok
 https://stmv1.voxtvhd.com.br/palomartv/palomartv/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBPkoMgNeNKLxEvCJoh6Zlms2uYE05yG53weTL1Oivm_VRyDtNleO9gf1oKgY4cTHYpFA&usqp=CAU" tvg-group="ARGENTINA",EL OCHO TUCUMAN 🟡
-https://github.com/azgaresncf/strm2hls/raw/refs/heads/main/streams/elocho.m3u8
 
 #EXTINF:-1  tvg-id="AmericaTV.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/AMER2.png?raw=true" group-title="🇦🇷 ARGENTINA", América
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -6206,32 +6203,32 @@ https://cdn.cvattv.com.ar/live/c6eds/Quiero_HD/SA_Live_dash_enc/Quiero_HD.mpd
 https://cdn.cvattv.com.ar/live/c6eds/HTV/SA_Live_dash_enc/HTV.mpd
 
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://tele-libre.com/img/telefe.png"  group-title="🇦🇷 ARGENTINA",TELEFE cdn.cvattv
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/115/CH_LOGO/800/542/0/0/57769025072354.png"  group-title="🇦🇷 ARGENTINA",TELEFE cdn.cvattv
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3cec1b1ea9799dda5596e64f37e5ed20:c69f3afde2085dcaaaddbf55246a0323
 https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://tele-libre.com/img/tvpublica.webp"  group-title="🇦🇷 ARGENTINA",TV PUBLICA
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/C7TVP.png?raw=true"  group-title="🇦🇷 ARGENTINA",TV PUBLICA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc8c82ac2ec7e9799527c29db7354e81:cc4aae173dd2ef17ae26be3f7ae87662
 https://cdn.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc/Canal7.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://tele-libre.com/img/eltrece.webp"  group-title="🇦🇷 ARGENTINA",EL TRECE
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EL13.png?raw=true"  group-title="🇦🇷 ARGENTINA",EL TRECE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5179017f49326d14af0a9ceec831aee6:09b4a463b029ebc28a288bed2da70a76
 https://cdn.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc/ArtearHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://tele-libre.com/img/nueve.webp"  group-title="🇦🇷 ARGENTINA",EL NUEVE
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CAN9.png?raw=true"  group-title="🇦🇷 ARGENTINA",EL NUEVE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=24f4ff211136ae6512a1b552200db405:602122f8426c5c942b8c18d299cc6020
 https://cdn.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc/Canal9.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://tele-libre.com/img/tn.png"  group-title="🇦🇷 ARGENTINA",TN
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNARG.png?raw=true"  group-title="🇦🇷 ARGENTINA",TN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ceb1cd0622cd7e88fcdc99fe3a55de6:951637093d41c7388a1ef3f620cfea21
 https://cdn.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc/TodoNoticias.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://tele-libre.com/img/c5n.webp"  group-title="🇦🇷 ARGENTINA",C5N
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://github.com/masterentertainment/listas/blob/main /logos/C5NAR.png?raw=true"  group-title="🇦🇷 ARGENTINA",C5N
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=050df5c6e78c774e78c3e99eef8a1b29:0e4141d6ab21a36cbc4da777ab3096d4
 https://cdn.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc/C5N.mpd
