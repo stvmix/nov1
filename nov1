@@ -1917,7 +1917,6 @@ https://tv.arkeo.cl:19360/8000/8000.m3u8
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58278
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/El_Chavo_%28simple_logo%29.svg/revision/latest/scale-to-width-down/284?cb=20170119025543" group-title="👩‍👦‍👦 INFANTILES", El Chavo ot
-https://otakon.bemtv.cn/STREAM/23447/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/de/5c/50/de5c5028876e2a0564a634f349bef881.png" group-title="👩‍👦‍👦 INFANTILES", | Los Tres Chiflados TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff35bd0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=025be615-509e-4721-8804-92898ace6781&userId=&serverSideAds=true
@@ -1950,7 +1949,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/620e67a63b5e370007e06bb2/master.m3u
 https://stitcher.pluto.tv/stitch/hls/channel/63f6294449839300085c4bd2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN8NAi-kZZWiXRCw7ASH7Ku_vG7C0sLpcxy2a8WMKziCqFt8U_iM4bBdRtpfN3E_6zvGA&usqp=CAU" group-title="👩‍👦‍👦 INFANTILES", COCO HD ot
-https://otakon.bemtv.cn/STREAM/8077/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png" group-title="👩‍👦‍👦 INFANTILES",ETC TV cl 38.211.242.12
 http://38.211.242.128:8001/play/a0dw/index.m3u8
@@ -2730,6 +2728,27 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 #KODIPROP:inputstream.adaptive.license_key=49020ffc8b5cc542c469370c40000565:8ea4292586d4df3ab4ef173453f6c555 
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOX_SPORTS2_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
 
+#EXTINF:-1 tvg-id="ESPN 7 HD.uy" tvg-logo="" group-title="⚽ DEPORTES ", WINPREMIUM 🇨🇴
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=49020ffc8b5cc542c469370c40000565:8ea4292586d4df3ab4ef173453f6c555 
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(WINPREMIUM)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
+
+#EXTINF:-1 tvg-id="ESPN 7 HD.uy" tvg-logo="" group-title="⚽ DEPORTES ", win latamo 🇨🇴
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=49020ffc8b5cc542c469370c40000565:8ea4292586d4df3ab4ef173453f6c555 
+https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(WINPREMIUM)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
+
+
 #EXTINF:-1 ch-number="111" tvg-id="FoxSports.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/FOXSP.png?raw=true" group-title="⚽ DEPORTES ", FOX Sports s
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a61b644fdc68568b5be3e2629041564:a1672cdfb5de64707151128f811da667
@@ -2793,17 +2812,6 @@ http://190.123.90.146:8000/play/a00d/index.m3u8
 #EXTINF:-1  tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/espn4.png" group-title="⚽ DEPORTES ",ESPN4 190
 http://190.123.90.146:8000/play/a00e/index.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=49b2c0e7037042b2aff9f064e0bb3311:83849e30adf85440550292693147fbf7
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yBxFktW2/GHMKASZKH5-FATO6-MMTEH2-EREPY.jpg" group-title="⚽ DEPORTES ", Tigo PY  
-https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yBxFktW2/GHMKASZKH5-FATO6-MMTEH2-EREPY.jpg" group-title="⚽ DEPORTES ",DSports OT 1
-https://otakon.bemtv.cn/STREAM/22647/playlist.m3u8
-
-#EXTINF:0 tvg-logo="http://meta.nordvpn.best/dmx1.png" group-title="⚽ DEPORTES ",DSports OT 2
-https://otakon.bemtv.cn/STREAM/22995/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/d/t/dtv_sports_blanco_1.png" tvg-group="Deportes",DSPORTS 1 ᴴᴰ
 
 #EXTINF:-1 tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/d/t/dtv_sports_blanco_1.png" tvg-group="Deportes",DSPORTS 1 nxt
@@ -2826,11 +2834,11 @@ https://otakon.bemtv.cn/STREAM/22995/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/TYCSports/live_dash_cld/TYCSports.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png" group-title="⚽ DEPORTES ",TyC Sports u34
-http://38.44.109.41:8003/play/a02l
-
 #EXTINF:-1  tvg-logo="https://tycsports.hiringroom.com/data/accounts/tycsports/microsite/cfb58ca8d62e9685391d991717b44fb6.png" group-title="⚽ DEPORTES ", TyC 190
 http://190.123.90.146:8000/play/a00k/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png" group-title="⚽ DEPORTES ",TyC Sports u34
+http://38.44.109.41:8003/play/a02l
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/FhOQWiELN6RRFwFbxKWWWEBLgGhXifnJfWT8SWtHZUdSH6fT3Jc_IC88xtebGFXTbQ" group-title="⚽ DEPORTES ",TYC Sports Play 🇦🇷 ⚽ EVENTOS
 https://d1scuk1wvkchtc.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index.m3u8
@@ -2878,8 +2886,10 @@ https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/in
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1280px-GolTV_logo.svg.png" tvg-group="Deportes", GOL TV dsr
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Gol_Per%C3%BA_2016.svg/revision/latest/scale-to-width-down/1200?cb=20240224034010&path-prefix=es" tvg-group="Deportes", GOL PERU 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/E8uMTXgXMAQX8j2.jpg" group-title="⚽ DEPORTES ", EVENTOS Multicanal Televisión (Santiago de Cali | Valle del Cauca) (720p)
-https://cloud2.streaminglivehd.com:1936/8010/8010/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=49b2c0e7037042b2aff9f064e0bb3311:83849e30adf85440550292693147fbf7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V9hAGpb.png" group-title="⚽ DEPORTES ", Tigo PY  
+https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1zGkNs79 /BEIN-SPORTS-EXTRA-VU-TV-PLAYER.png" group-title="⚽ DEPORTES ", Bein Sports Xtra EVENTOS
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
@@ -2891,9 +2901,6 @@ https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey						
 #KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/V9hAGpb.png" group-title="⚽ DEPORTES ", Tigo Sports | HD | Guatemala EVENTOS
-https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/liga-mx/images/3/30/TUDNlogo.png/revision/latest?cb=20190721040715&path-prefix=es" tvg-group="Deportes",Zona TUDN Mex EVENTOS
 
@@ -2910,6 +2917,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010&avod=1&coppa=0&is_lat
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp0Nk-l0S0xFQu-5E_AHUU-br1WQjlfbJOdZdxe_F9BAnhaJY-VGrKHQ-Gd60jsimqbQM&usqp=CAU" group-title="⚽ DEPORTES ",FOX DEPORTES TUBI
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/E8uMTXgXMAQX8j2.jpg" group-title="⚽ DEPORTES ", EVENTOS Multicanal Televisión (Santiago de Cali | Valle del Cauca) (720p)
+https://cloud2.streaminglivehd.com:1936/8010/8010/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.pirilampo.tv/uploads/tv_image/eurosport-1.png" group-title="Deportes",EUROSPORT 1
 
@@ -2975,7 +2985,7 @@ https://dish.akamaized.net/Content/DASH/Live/channel(espn_3)/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvR9Mnjh/worldtv2.png" group-title="⚽ DEPORTES ",ESPN 4 MX
 https://dish.akamaized.net/Content/DASH/Live/channel(espn_extra)/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HtXvSMJ/fsp.png" group-title="⚽ DEPORTES ", FOX SPORTS PREMIUM MX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HtXvSMJ/fsp.png" group-title="⚽ DEPORTES ", FOX SPORTS PREMIUM MX ottb
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"9f327d24c66fbd84e15ab5c9ead7c7a4":"83837185529c0c4048f81386c2d36426"}
@@ -5990,104 +6000,15 @@ https://cdn.sensa.com.ar/live/sta01/CineHispano/live_dash_cld/CineHispano.mpd?|r
 
 
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/hbo.png" group-title="🎬PELICULAS",HBO HD
-https://otakon.bemtv.cn/STREAM/13035/playlist.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/hbo.png" group-title="🎬PELICULAS",HBO HD (Oeste)
-https://otakon.bemtv.cn/STREAM/16087/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.tvlibrehd.com/img/hbo2.webp" group-title="🎬PELICULAS",HBO 2 HD
-https://otakon.bemtv.cn/STREAM/11293/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.tvlibrehd.com/img/hbo2.webp" group-title="🎬PELICULAS",HBO 2 HD (Oeste)
-https://otakon.bemtv.cn/STREAM/16106/playlist.m3u8
 #EXTINF:0 tvg-logo="https://archive.org/download/logo.brootv_hbo/HBO_PLUS.png" group-title="🎬PELICULAS",HBO Plus HD
-https://otakon.bemtv.cn/STREAM/11296/playlist.m3u8
 #EXTINF:0 tvg-logo="https://archive.org/download/logo.brootv_hbo/HBO_PLUS.png" group-title="🎬PELICULAS",HBO Plus HD (Oeste)
-https://otakon.bemtv.cn/STREAM/16107/playlist.m3u8
 #EXTINF:0 tvg-logo="https://clarovideocdn1.clarovideo.net/HBO/PELICULAS/HBOFAMILYCHANNEL/EXPORTACION_WEB/SS/HBOFAMILYCHANNEL_t-290x163.png" group-title="🎬PELICULAS",HBO Family HD
-https://otakon.bemtv.cn/STREAM/11295/playlist.m3u8
 #EXTINF:0 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMjAxX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1708456926578" group-title="🎬PELICULAS",HBO Signature HD
-https://otakon.bemtv.cn/STREAM/11294/playlist.m3u8
-#EXTINF:0 tvg-logo="https://www.codice.tv/wp-content/uploads/2022/04/hbo-pop1-300x300.png" group-title="🎬PELICULAS",HBO Pop HD
-https://otakon.bemtv.cn/STREAM/13030/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.codice.tv/wp-content/uploads/2022/04/hbo-xtreme1.png" group-title="🎬PELICULAS",HBO Xtreme HD
-https://otakon.bemtv.cn/STREAM/16108/playlist.m3u8
 #EXTINF:0 tvg-logo="https://archive.org/download/logo.brootv_hbo/HBO_MUNDI.png" group-title="🎬PELICULAS",HBO Mundi HD
-https://otakon.bemtv.cn/STREAM/11440/playlist.m3u8
-
-
-#EXTINF:0 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/41/CH_LOGO/800/542/0/0/9929073907327.png" group-title="🎬PELICULAS",Universal HD b
-https://bigboss.bemtv.cn/STREAM/459/playlist.m3u8
-#EXTINF:0 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNIPR.png?raw=true" group-title="🎬PELICULAS",Universal Premier HD b
-https://bigboss.bemtv.cn/STREAM/6593/playlist.m3u8
-#EXTINF:0 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNICI.png?raw=true" group-title="🎬PELICULAS",Universal Cinema HD b
-https://bigboss.bemtv.cn/STREAM/6594/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNICR.png?raw=true" group-title="🎬PELICULAS",Universal Crime HD
-https://otakon.bemtv.cn/STREAM/9086/playlist.m3u8
-#EXTINF:0 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNICO.png?raw=true" group-title="🎬PELICULAS",Universal Comedy HD
-https://otakon.bemtv.cn/STREAM/9112/playlist.m3u8
-#EXTINF:0 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNIRE.png?raw=true" group-title="🎬PELICULAS",Universal Reality HD
-https://otakon.bemtv.cn/STREAM/9111/playlist.m3u8
-
-#EXTINF:0 tvg-logo="http://meta.nordvpn.best/skysportsmx.png" group-title="⚽ DEPORTES ",Sky Sports 1 HD
-https://otakon.bemtv.cn/STREAM/12249/playlist.m3u8
-
-#EXTINF:0 tvg-logo="http://meta.nordvpn.best/skysportsmx.png" group-title="⚽ DEPORTES ",Sky Sports b
-https://bigboss.bemtv.cn/STREAM/8458/playlist.m3u8
-
-#EXTINF:0 tvg-logo="http://meta.nordvpn.best/skysportsmx.png" group-title="⚽ DEPORTES ",Sky Sports 2
-https://bigboss.bemtv.cn/STREAM/22637/playlist.m3u8
-
-#EXTINF:0 tvg-logo="http://meta.nordvpn.best/skysportsmx.png" group-title="⚽ DEPORTES ",Sky Sports 21
-https://bigboss.bemtv.cn/STREAM/22638/playlist.m3u8
-
-#EXTINF:0 tvg-logo="http://meta.nordvpn.best/skysportsmx.png" group-title="⚽ DEPORTES ",Sky Sports 24 HD
-https://otakon.bemtv.cn/STREAM/8468/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://meta.nordvpn.best/eurosport2.png" group-title="⚽ DEPORTES ",Eurosport 2
-https://metalgear.bemtv.cn/STREAM/23019/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://meta.nordvpn.best/eurosport1.png" group-title="⚽ DEPORTES ",Eurosport 1
-https://metalgear.bemtv.cn/STREAM/22813/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://meta.nordvpn.best/win-sportplusco.png" group-title="⚽ DEPORTES ",Win Sports+ HD m
-https://metalgear.bemtv.cn/STREAM/6561/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://meta.nordvpn.best/win-sportco.png" group-title="⚽ DEPORTES ",Win Sports HD m
-https://metalgear.bemtv.cn/STREAM/413/playlist.m3u8
-
-#EXTINF:0 tvg-logo="http://meta.nordvpn.best/fox-sports.png" group-title="⚽ DEPORTES ",Fox Sports Premium HD (Mexico) m
-https://metalgear.bemtv.cn/STREAM/11463/playlist.m3u8
-#EXTINF:0 tvg-logo="http://meta.nordvpn.best/fox_sports_global.png" group-title="⚽ DEPORTES ",Fox Sports HD (Mexico)
-https://bigboss.bemtv.cn/STREAM/22883/playlist.m3u8
-#EXTINF:0 tvg-logo="http://meta.nordvpn.best/fox_sports_2_lam.png" group-title="⚽ DEPORTES ",Fox Sports 2 HD (Mexico)
-https://otakon.bemtv.cn/STREAM/22890/playlist.m3u8
-#EXTINF:0 tvg-logo="http://meta.nordvpn.best/fox_sports_3_lam.png" group-title="⚽ DEPORTES ",Fox Sports 3 HD (Mexico)
-https://otakon.bemtv.cn/STREAM/22891/playlist.m3u8
-
-#EXTINF:0 tvg-logo="http://meta.nordvpn.best/tyc_sports.png" group-title="⚽ DEPORTES ",TYC Sports Int HD
-https://bigboss.bemtv.cn/STREAM/6810/playlist.m3u8
-
-#EXTINF:0 tvg-logo="http://meta.nordvpn.best/tnt3.png" group-title="⚽ DEPORTES ",TNT Sports 3 CL HD m
-https://metalgear.bemtv.cn/STREAM/21842/playlist.m3u8
-
-#EXTINF:0 tvg-logo="http://meta.nordvpn.best/tnt3.png" group-title="⚽ DEPORTES ",TNT Sports 3 b
-https://bigboss.bemtv.cn/STREAM/412/playlist.m3u8
-
-#EXTINF:0 tvg-logo="http://meta.nordvpn.best/tnt2.png" group-title="⚽ DEPORTES ",TNT Sports PREMIUM 2 CL HD
-https://otakon.bemtv.cn/STREAM/22614/playlist.m3u8
-
-#EXTINF:0 tvg-logo="http://meta.nordvpn.best/tnthd.png" group-title="⚽ DEPORTES ",TNT Sports HD m
-https://metalgear.bemtv.cn/STREAM/11604/playlist.m3u8
-#EXTINF:0 tvg-logo="http://meta.nordvpn.best/tntsport.png" group-title="⚽ DEPORTES ",TNT Sports HD (ARG)
-https://otakon.bemtv.cn/STREAM/10914/playlist.m3u8
-#EXTINF:0 tvg-logo="http://meta.nordvpn.best/espn_lam.png" group-title="⚽ DEPORTES ",ESPN Premium HD (ARG)
-https://otakon.bemtv.cn/STREAM/7782/playlist.m3u8
-
-#EXTINF:0 tvg-logo="http://meta.nordvpn.best/dmx1.png" group-title="⚽ DEPORTES ",Copa DSports ARG
-https://metalgear.bemtv.cn/STREAM/22645/playlist.m3u8
-#EXTINF:0 tvg-logo="http://meta.nordvpn.best/dmx1.png" group-title="⚽ DEPORTES ",Copa DSports CO
-https://otakon.bemtv.cn/STREAM/22647/playlist.m3u8
-#EXTINF:0 tvg-logo="http://meta.nordvpn.best/dmx1.png" group-title="⚽ DEPORTES ",Copa DSports 2 PE
-https://otakon.bemtv.cn/STREAM/21240/playlist.m3u8
-#EXTINF:0 tvg-logo="http://meta.nordvpn.best/dmx1.png" group-title="⚽ DEPORTES ",COPA DSports+ PY
-https://otakon.bemtv.cn/STREAM/22995/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://mondrian.claro.com.br/channels/inverse/espn@3x.png"  group-title="⚽ DEPORTES ",ESPN cdn.cvattv
