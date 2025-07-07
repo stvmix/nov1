@@ -2728,6 +2728,18 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 #KODIPROP:inputstream.adaptive.license_key=49020ffc8b5cc542c469370c40000565:8ea4292586d4df3ab4ef173453f6c555 
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOX_SPORTS2_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
 
+#EXTINF:-1 tvg-id="WINPREMIUM.uy" tvg-logo="" group-title="⚽ DEPORTES ", WINPREMIUM 🇨🇴
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=49020ffc8b5cc542c469370c40000565:8ea4292586d4df3ab4ef173453f6c555 
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(WINPREMIUM)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
+
+
+
 #EXTINF:-1 ch-number="111" tvg-id="FoxSports.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/FOXSP.png?raw=true" group-title="⚽ DEPORTES ", FOX Sports s
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a61b644fdc68568b5be3e2629041564:a1672cdfb5de64707151128f811da667
@@ -5979,15 +5991,33 @@ https://cdn.sensa.com.ar/live/sta01/CineHispano/live_dash_cld/CineHispano.mpd?|r
 
 
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/hbo.png" group-title="🎬PELICULAS",HBO HD
+
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/hbo.png" group-title="🎬PELICULAS",HBO HD (Oeste)
+
 #EXTINF:0 tvg-logo="https://www.tvlibrehd.com/img/hbo2.webp" group-title="🎬PELICULAS",HBO 2 HD
+
 #EXTINF:0 tvg-logo="https://www.tvlibrehd.com/img/hbo2.webp" group-title="🎬PELICULAS",HBO 2 HD (Oeste)
+
 #EXTINF:0 tvg-logo="https://archive.org/download/logo.brootv_hbo/HBO_PLUS.png" group-title="🎬PELICULAS",HBO Plus HD
+
 #EXTINF:0 tvg-logo="https://archive.org/download/logo.brootv_hbo/HBO_PLUS.png" group-title="🎬PELICULAS",HBO Plus HD (Oeste)
+
 #EXTINF:0 tvg-logo="https://clarovideocdn1.clarovideo.net/HBO/PELICULAS/HBOFAMILYCHANNEL/EXPORTACION_WEB/SS/HBOFAMILYCHANNEL_t-290x163.png" group-title="🎬PELICULAS",HBO Family HD
+
 #EXTINF:0 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMjAxX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1708456926578" group-title="🎬PELICULAS",HBO Signature HD
+
+#EXTINF:0 tvg-logo="https://www.codice.tv/wp-content/uploads/2022/04/hbo-pop1-300x300.png" group-title="🎬PELICULAS",HBO Pop HD
+
 #EXTINF:0 tvg-logo="https://www.codice.tv/wp-content/uploads/2022/04/hbo-xtreme1.png" group-title="🎬PELICULAS",HBO Xtreme HD
+
 #EXTINF:0 tvg-logo="https://archive.org/download/logo.brootv_hbo/HBO_MUNDI.png" group-title="🎬PELICULAS",HBO Mundi HD
+
+#EXTINF:0 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/41/CH_LOGO/800/542/0/0/9929073907327.png" group-title="🎬PELICULAS",Universal HD b
+#EXTINF:0 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNIPR.png?raw=true" group-title="🎬PELICULAS",Universal Premier HD b
+#EXTINF:0 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNICI.png?raw=true" group-title="🎬PELICULAS",Universal Cinema HD b
+#EXTINF:0 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNICR.png?raw=true" group-title="🎬PELICULAS",Universal Crime HD
+#EXTINF:0 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNICO.png?raw=true" group-title="🎬PELICULAS",Universal Comedy HD
+#EXTINF:0 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNIRE.png?raw=true" group-title="🎬PELICULAS",Universal Reality HD
 
 
 #EXTINF:-1 tvg-logo="https://mondrian.claro.com.br/channels/inverse/espn@3x.png"  group-title="⚽ DEPORTES ",ESPN cdn.cvattv
@@ -7227,17 +7257,3 @@ https://chromecast.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc_C/Cana
 #KODIPROP:inputstream.adaptive.license_key=103ce214b4d04c8eb4dd43670e956dad:20e030576b8dc4df0d1c68e16af3bc0f
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Telefe_Santa_Fe.png" group-title="🇦🇷 FLOW"  ,🌐 Telefe Córdoba
 https://chromecast.cvattv.com.ar/live/c6eds/Canal_8_CBA/SA_Live_dash_enc_C/Canal_8_CBA.mpd
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="⚽ DEPORTES ", ESTRELLAS_HD 🇨🇴
-https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESTRELLAS_HD)/manifest.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="⚽ DEPORTES ", RCN_HD 🇨🇴
-https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(RCN_HD)/manifest.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="⚽ DEPORTES ", CANAL_UNO_HD 🇨🇴
-https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(CANAL_UNO_HD)/manifest.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="⚽ DEPORTES ", ANIMAL_PLANET_HD 🇨🇴
-https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ANIMAL_PLANET_HD)/manifest.mpd
