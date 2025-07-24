@@ -1885,7 +1885,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 #EXTINF:-1 tvg-logo="http://core1.hdlatam.tv/media/images/channel/logo-tequierotv.png" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES", Te quiero TV | Cajamarca
 https://ott1.hdlatam.tv/live/tequierotv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://kanalddrama.com/assets/img/logotop2.png" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES", Kanal D Drama
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1803/CH_LOGO/800/542/0/0/91513859074694.png" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES", Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US27000033D_20240826T235549SQUARE.png" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES",Novelas Turcas 🇲🇽
@@ -1914,9 +1914,6 @@ https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8?PlaylistM3UCL
 https://tv.arkeo.cl:19360/8000/8000.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/El_chavo_animado_logo.png" group-title="👩‍👦‍👦 INFANTILES",24/7 El Chavo Del 8 SD
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58278
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/El_Chavo_%28simple_logo%29.svg/revision/latest/scale-to-width-down/284?cb=20170119025543" group-title="👩‍👦‍👦 INFANTILES", El Chavo ot
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/de/5c/50/de5c5028876e2a0564a634f349bef881.png" group-title="👩‍👦‍👦 INFANTILES", | Los Tres Chiflados TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff35bd0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=025be615-509e-4721-8804-92898ace6781&userId=&serverSideAds=true
@@ -1956,7 +1953,6 @@ http://38.211.242.128:8001/play/a0dw/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/canal5.png" group-title="👩‍👦‍👦 INFANTILES",MEXICO CANAL 5 c
 
 #EXTINF:-1 tvg-logo="https://english-tv.com/img/english-tv-logo.png" group-title="👩‍👦‍👦 INFANTILES",English (Chile) (🇨🇱)
-https://origin.dpsgo.com/ssai/event/xR5RHThTSgaLb_5uiEiKqw/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png" group-title="👩‍👦‍👦 INFANTILES", Clan Latinoamerica HD (geobloqueo)
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_dvr_1080.m3u8
@@ -2160,7 +2156,6 @@ https://xui-backend.energeek.cl/live/13/playlist.m3u8?username=D3m0M3UCLWeb&pass
 #EXTINF: -1 tvg-logo="https://i.imgur.com/KUETG3N.png" tvg-group="INFANTILES", TV variada | HD | Argentina
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1335_VariedTV.png" group-title="👩‍👦‍👦 INFANTILES", VariedTV | AR
-https://live20.bozztv.com/akamaissh101/ssh101/variedtvonline/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b22f37_08732b455b364020a15b035f20e84668~mv2.png" group-title="👩‍👦‍👦 INFANTILES", ZyoonTV | UY
 https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8?PlaylistM3UCL
@@ -2176,7 +2171,6 @@ https://magicstream.ddns.net/magicstream/stream.m3u8
 https://giatv.bozztv.com/giatv/giatv-neogogoplaymix/neogogoplaymix/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mix-bolivia-tv-bo.png" group-title="👩‍👦‍👦 INFANTILES",Gogoplay giatv-NEOMIXHD
-https://giatv.bozztv.com/giatv/giatv-NEOMIXHD/NEOMIXHD/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5OYccJH.png" group-title="👩‍👦‍👦 INFANTILES",NEOGOGOPLAY
 
@@ -2186,10 +2180,6 @@ https://giatv.bozztv.com/giatv/giatv-NEOMIXHD/NEOMIXHD/playlist.m3u8
 https://ssh101.bozztv.com/ssh101/livestreamingtv/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/KwYvaKL.png" group-title="👩‍👦‍👦 INFANTILES", Fanpop | FHD | Chile
-https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f.m3u8
-
-#EXTINF:-1 tvg-id="1112" tvg-name="EnerGeek FAN" tvg-logo="https://cdn.m3u.cl/logo/1112_EnerGeek_FAN.png" group-title="👩‍👦‍👦 INFANTILES", EnerGeek FAN ✪ | CL
-https://xui-backend.energeek.cl/live/10/playlist.m3u8?username=D3m0M3UCLWeb&password=xN4sFVjMK7&PlaylistM3UCL
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/OR6mxRB.png" group-title="👩‍👦‍👦 INFANTILES", Energeek | FHD | Chile
 https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65.m3u8
@@ -2198,10 +2188,8 @@ https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65.m3u8
 https://xui-backend.energeek.cl/live/9/playlist.m3u8?username=D3m0M3UCLWeb&password=xN4sFVjMK7&PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="1650" tvg-name="Alfa TV" tvg-logo="https://cdn.m3u.cl/logo/1650_Alfa_TV.png" group-title="👩‍👦‍👦 INFANTILES", Alfa TV ✪ | CL
-https://v2.tustreaming.cl/alfatv/index.m3u8?PlaylistM3UCL
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/H4N6qC6.png" group-title="👩‍👦‍👦 INFANTILES", Canal 74 | FHD | Placilla
-https://stmv5.voxtvhd.com.br/canal74hd/canal74hd/playlist.m3u8
 
 
 
@@ -2728,17 +2716,6 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 #KODIPROP:inputstream.adaptive.license_key=49020ffc8b5cc542c469370c40000565:8ea4292586d4df3ab4ef173453f6c555 
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOX_SPORTS2_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
 
-#EXTINF:-1 tvg-id="WINPREMIUM.uy" tvg-logo="" group-title="⚽ DEPORTES ", WINPREMIUM 🇨🇴
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=49020ffc8b5cc542c469370c40000565:8ea4292586d4df3ab4ef173453f6c555 
-https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(WINPREMIUM)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
-
-
 
 #EXTINF:-1 ch-number="111" tvg-id="FoxSports.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/FOXSP.png?raw=true" group-title="⚽ DEPORTES ", FOX Sports s
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2955,32 +2932,6 @@ https://cdn.sensa.com.ar/live/eds/ElGarage/live_dash_cld/ElGarage.mpd?|referer=h
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/GolfTV/live_dash_cld/GolfTV.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8d1be59dc758ccbab3b567343d5d2915:4744fd0e2fb5aaae961f468925ac2b73
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8rFtMbz/worldtv2.png" group-title="⚽ DEPORTES ",ESPN MX
-https://dish.akamaized.net/Content/DASH/Live/channel(espn)/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae99daa35220336fe9460b9060fa65a9:ac284e8e24296f30496d1f39a7138205
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mksxWpNC/worldtv2.png" group-title="⚽ DEPORTES ",ESPN 2 MX
-https://dish.akamaized.net/Content/DASH/Live/channel(espn_2)/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=430f38110162f19a042b4dcdc2005140:50541179fbd5750aea8767cb6e6b3a7b
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1t6xT16y/worldtv2.png" group-title="⚽ DEPORTES ",ESPN 3 MX
-https://dish.akamaized.net/Content/DASH/Live/channel(espn_3)/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ef0779dad62e7a021ac8b82a5a8dd329:e18c7892858eb04bf8d2dcf4f057dd77
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvR9Mnjh/worldtv2.png" group-title="⚽ DEPORTES ",ESPN 4 MX
-https://dish.akamaized.net/Content/DASH/Live/channel(espn_extra)/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HtXvSMJ/fsp.png" group-title="⚽ DEPORTES ", FOX SPORTS PREMIUM MX ottb
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"9f327d24c66fbd84e15ab5c9ead7c7a4":"83837185529c0c4048f81386c2d36426"}
-https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
 
 
 
@@ -6077,6 +6028,12 @@ https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/o
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=11c8c1c2ef0385cf1e64d44bb9c3a395&key=5769730ffbdc4b2fd8945929d9ace063
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HtXvSMJ/fsp.png" group-title="⚽ DEPORTES ", FOX SPORTS PREMIUM MX ottb
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"9f327d24c66fbd84e15ab5c9ead7c7a4":"83837185529c0c4048f81386c2d36426"}
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Trece_Paraguay_2025.svg" group-title="🌍 TELEVISIÓN  INTERNACIONAL", El Trece.py cdn.cvattv
