@@ -7232,11 +7232,6 @@ https://chromecast.cvattv.com.ar/live/c6eds/Canal_8_CBA/SA_Live_dash_enc_C/Canal
 https://cdn-py.cvattv.com.ar/live/c6eds/Argentinisima/SA_Live_dash_enc/Argentinisima.mpd?|Origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b02c568163c14cfda4ddb958a0aab742:ef64a70ac85a663a3308be6476610aad
-#EXTINF:-1 tvg-id="Canal Rural.ar" tvg-name="Canal Rural.ar" tvg-logo="https://3.bp.blogspot.com/-kRrQVEhftUU/V-_RmD35S8I/AAAAAAAABB0/3CbSCG5SblctjXDXlMkNc8V0bZHVAfFZACLcB/s1600/canalrural-2016.png" group-title="Argentina" ch-number="3" type="channel",Canal Rural
-https://cdn-py.cvattv.com.ar/live/c6eds/Canal_Rural/SA_Live_dash_enc/Canal_Rural.mpd?|Origin=https://web.app.flow.com.ar
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e7ec364ad6854fedad797538cb58780d:57dfb3fca2ca35b37ff81c35595e9be8
 #EXTINF:-1 tvg-id="Telemax.ar" tvg-name="Telemax.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/08%29Telemax_%282018%29.png" group-title="Argentina" ch-number="4" type="channel",Telemax
 https://cdn-py.cvattv.com.ar/live/c6eds/Telemax/SA_Live_dash_enc/Telemax.mpd?|Origin=https://web.app.flow.com.ar
@@ -7255,11 +7250,6 @@ https://cdn-py.cvattv.com.ar/live/c6eds/Canal_8_CBA/SA_Live_dash_enc/Canal_8_CBA
 #KODIPROP:inputstream.adaptive.license_key=24f4ff211136ae6512a1b552200db405:602122f8426c5c942b8c18d299cc6020
 #EXTINF:-1 tvg-id="Canal 9.uy" tvg-name="Canal 9.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CAN9.png?raw=true" group-title="Argentina" ch-number="9" type="channel",El nueve
 https://cdn-py.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc/Canal9.mpd?|Origin=https://web.app.flow.com.ar
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d85fcc70989d0dbe8d70dd70a4629c0:a953290192fd5db5bf7936a88ecc6877
-#EXTINF:-1 tvg-id="Canal 10.ar" tvg-name="Canal 10.ar" tvg-logo="https://i.imgur.com/87WCHtd.png" group-title="Córdoba" ch-number="10" type="channel",Canal 10 Córdoba
-https://cdn-py.cvattv.com.ar/live/c4eds/Canal10_CBA_HD/SA_Live_dash_enc/Canal10_CBA_HD.mpd?|Origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3cec1b1ea9799dda5596e64f37e5ed20:c69f3afde2085dcaaaddbf55246a0323
@@ -7310,11 +7300,6 @@ https://cdn-py.cvattv.com.ar/live/c6eds/KZO/SA_Live_dash_enc/KZO.mpd?|Origin=htt
 #KODIPROP:inputstream.adaptive.license_key=0e1327b5b1f4dfe767aec622c9ef64ce:60c64a922af0121bf73261c825e33f18
 #EXTINF:-1 tvg-id="MIX TV" tvg-name="MIX TV" tvg-logo="https://static.flow.com.ar/images/10017/CH_LOGO/600/400/0/0/96357727079072.png" group-title="Argentina" ch-number="18" type="channel",Mix TV
 https://cdn-py.cvattv.com.ar/live/c4eds/MixTV/SA_Live_dash_enc_C/MixTV.mpd?|Origin=https://web.app.flow.com.ar
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=719aa3a5e270c7f69eba374ed80d7986:97ac59118cf4cf242e2c31e87cd38e1e
-#EXTINF:-1 tvg-id="Metro.ar" tvg-name="Metro.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/METRO.png?raw=true" group-title="Argentina" ch-number="20" type="channel",METRO
-https://cdn-py.cvattv.com.ar/live/c6eds/Metro/SA_Live_dash_enc/Metro.mpd?|Origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=324ec73787744554ae1aef231a4f8f97:677a040674d1d0eccef327269b222bae
@@ -7392,16 +7377,6 @@ https://cdn-py.cvattv.com.ar/live/c6eds/PAKA_PAKA/SA_Live_dash_enc/PAKA_PAKA.mpd
 #EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HCDTV.png?raw=true" group-title="Argentina" ch-number="36" type="channel",Diputados TV
 https://cdn-py.cvattv.com.ar/live/c6eds/Diputados_TV/SA_Live_dash_enc/Diputados_TV.mpd?|Origin=https://web.app.flow.com.ar
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9b536cd1716647ee94c45fa4836d29d6:d691c88a95440666742d1d8183182347
-#EXTINF:-1 tvg-id="TV Ciudad HD.uy" tvg-name="TV Ciudad HD.uy" tvg-logo="https://dl.dropbox.com/scl/fi/xb8mxyjfndxc2a8b26s94/tvciudad.png?rlkey=tdm6cihv0v8kpneo2t8m3j2hv&dl=1" group-title="Uruguay" ch-number="61" type="channel",TV Ciudad Uruguay
-https://cdn-py.cvattv.com.ar/live/c3eds/Teve_Ciudad/SA_Live_dash_enc/Teve_Ciudad.mpd?|Origin=https://web.app.flow.com.ar
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=202a19e4871c4739a8010aa7b25af37d:07015b4cfa048a3351b83d60aeca5ead
-#EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UCLTV.png?raw=true" group-title="Uruguay" ch-number="62" type="channel",UCL Uruguay
-https://cdn-py.cvattv.com.ar/live/c3eds/Canal_U/SA_Live_dash_enc_C/Canal_U.mpd?|Origin=https://web.app.flow.com.ar
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b96960aa715a4e51b7e952e81c99ac8e&key=5bbffc680764dbd63d90b774b3aa0c0a
 #EXTINF:-1 tvg-id="VTV HD.uy" tvg-name="VTV HD.uy" tvg-logo="https://dl.dropbox.com/scl/fi/j4p5brzwswii95bs08b2g/vtv.png?rlkey=dqxls5mo4n3idcc6rajqyeawd&dl=1" group-title="Uruguay" ch-number="63" type="channel",VTV Uruguay
@@ -7428,54 +7403,14 @@ https://cdn-py.cvattv.com.ar/live/c4eds/Canal10_URU/SA_Live_dash_enc/Canal10_URU
 https://cdn-py.cvattv.com.ar/live/c4eds/Canal12URU/SA_Live_dash_enc/Canal12URU.mpd?|Origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c0bef75733b2645452432bd4e76f36f5:ea16243367d814c1d53f1eaf21f005ff
-#EXTINF:-1 tvg-id="ABC TV.py" tvg-name="Abc Tv" tvg-logo="https://i.postimg.cc/FHKcZz0c/93493116074020.png" group-title="Paraguay" ch-number="80" type="channel",ABC TV Paraguay
-https://cdn-py.cvattv.com.ar/live/c5eds/ABC_TV_C4/SA_Live_dash_enc/ABC_TV_C4.mpd?|Origin=https://web.app.flow.com.ar
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8df0f1a1e05e9c6a438e23a87c9d06ea:5df74d374a2a8a871463e7c438fa3ba7
-#EXTINF:-1 tvg-id="CANAL PRO.py" tvg-logo="https://i.ibb.co/vvw9QSR/Canal-PRO-en-vivo.jpg" group-title="Paraguay" ch-number="81" type="channel",Canal Pro Paraguay
-https://cdn-py.cvattv.com.ar/live/c7eds/Canal_PRO/SA_Live_dash_enc/Canal_PRO.mpd?|Origin=https://web.app.flow.com.ar
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=49eb924ba998ca7fbbaee30dcef1ecb4:6e131b04b2e87598fb588ac205673698
-#EXTINF:-1 tvg-id="GEN TV.py" tvg-logo="https://dl.dropbox.com/scl/fi/voc1uulutjp06zsd5qs5q/gen-py.png?rlkey=6rqkkc62l9c18y60r7buu4bn4&dl=1" group-title="Paraguay" ch-number="82" type="channel",Gen TV Paraguay
-https://cdn-py.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd?|Origin=https://web.app.flow.com.ar
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7c6a481adf6a080ec09637d3f25989cf:036e343d636b821ab81838de387b62cb
 #EXTINF:-1 tvg-id="latele.py" tvg-name="La Tele" tvg-logo="https://i.ibb.co/Zg861M4/latele.png" group-title="Paraguay" ch-number="83" type="channel",La Tele Paraguay
 https://cdn-py.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_Live_dash_enc/LA_TELE_C4.mpd?|Origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=80196dfcb7852e2b5e1165b3b17030e1:58face97c908502f17549eb62459bd80
-#EXTINF:-1 tvg-id="MEGA TV.py" tvg-logo="https://i.ibb.co/hfFmYXz/WW.jpg" group-title="Paraguay" ch-number="84" type="channel",Mega Paraguay
-https://cdn-py.cvattv.com.ar/live/c7eds/Mega_TV/SA_Live_dash_enc/Mega_TV.mpd?|Origin=https://web.app.flow.com.ar
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=746091c502edcf1e9d003535ce01f3e4:29081b5f92d1a37c88fbbd0ece55c839
-#EXTINF:-1 tvg-id="5 DIAS.py" tvg-logo="https://i.ibb.co/k48NKrR/5diaspy.png" group-title="Paraguay" ch-number="85" type="channel",5 Días Paraguay
-https://cdn-py.cvattv.com.ar/live/c4eds/5_Dias_PY/SA_Live_dash_enc/5_Dias_PY.mpd?|Origin=https://web.app.flow.com.ar
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8f66fe15735b2b1b3d5eb3646caa405e:404b93fd7b499b1061c9a714e1cdb2d0
-#EXTINF:-1 tvg-id="Red Guaraní.py" tvg-logo="https://dl.dropbox.com/scl/fi/1rqhr8ip2cepj3n89eh9z/noticiaspy.png?rlkey=9xapdgt9oyh5sy7pn9lkx3cb3&dl=1" group-title="Paraguay" ch-number="86" type="channel",Noticias Paraguay
-https://cdn-py.cvattv.com.ar/live/c4eds/NOTICIAS_PY_C4/SA_Live_dash_enc/NOTICIAS_PY_C4.mpd?|Origin=https://web.app.flow.com.ar
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=68a5bd6c58e6c05bacfd18d3feec31f2:ae23f8357512df2dfabcb8104b078182
-#EXTINF:-1 tvg-id="Paraguay TV.py" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/PYTV.png?raw=true" group-title="Paraguay" ch-number="87" type="channel",Paraguay TV
-https://cdn-py.cvattv.com.ar/live/c7eds/Paraguay_TV/SA_Live_dash_enc/Paraguay_TV.mpd?|Origin=https://web.app.flow.com.ar
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd8e8c9b32ef027e8ff4ff0cfce855a4:2918e9893b570c3fa1f215b52a12cc91
 #EXTINF:-1 tvg-id="Paravision.py" tvg-name="Canal 5 Paravision" tvg-logo="https://dl.dropbox.com/scl/fi/kl3rp5h3no5qhnerm0hjj/paravision.png?rlkey=l1wl9amldkm07v2lj59wqkmub&dl=1" group-title="Paraguay" ch-number="88" type="channel",Paravisión Paraguay
 https://cdn-py.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc/PARAVISION_C4.mpd?|Origin=https://web.app.flow.com.ar
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=646700eeb14cadfa0543a20cf413d37e:4fc037c462023764624d8446442cbbca
-#EXTINF:-1 tvg-id="C9N.py" tvg-name="Parana Tv" tvg-logo="https://dl.dropbox.com/scl/fi/z09fuqglafyl8xw7bb4o9/c9n-py.png?rlkey=ixxffkxfslc3awi3ogy129ewo&dl=1" group-title="Paraguay" ch-number="89" type="channel",C9N Paraguay
-https://cdn-py.cvattv.com.ar/live/c5eds/C9N_C4/SA_Live_dash_enc/C9N_C4.mpd?|Origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9f61dcce871cc41aeb206d05028fc30a:9f6248194a3bf5e35b96b194e8624693
@@ -7496,21 +7431,6 @@ https://cdn-py.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTUR
 #KODIPROP:inputstream.adaptive.license_key=a8093cdcb2d504bd38f16764bd21b6e5:bfcf3b033b5f0b5ae020751a6746326f
 #EXTINF:-1 tvg-id="RPC.py" tvg-logo="https://i.ibb.co/bNM6g8N/trecepy.png" group-title="Paraguay" ch-number="93" type="channel",Trece Paraguay
 https://cdn-py.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd?|Origin=https://web.app.flow.com.ar
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9357704ade444dc3b23be89865af2f58:3d03e0a79d8f7b7aa2897c3d24bd4b6a
-#EXTINF:-1 tvg-id="Tv Camara.py" tvg-name="Tv Camara" tvg-logo="https://i.ibb.co/TkT1Dbm/tvcamara.jpg" group-title="Paraguay" ch-number="94" type="channel",TV Cámara
-https://cdn-py.cvattv.com.ar/live/c4eds/TV_Camara/SA_Live_dash_enc/TV_Camara.mpd?|Origin=https://web.app.flow.com.ar
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=63a3729cfd60f24f7e1266bee5eca02c:cb9ed028af40654e1aa43934ee58db58
-#EXTINF:-1 tvg-id="Unicanal.py" tvg-name="Unicanal" tvg-logo="https://i.ibb.co/MNv0hn2/Unicanal-en-vivo.jpg" group-title="Paraguay" ch-number="95" type="channel",Unicanal Paraguay
-https://cdn-py.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd?|Origin=https://web.app.flow.com.ar
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=41ca5477db3048dbf731fc12604c7504:6c7e8e96a86333cbfb4771cbfe9f6b4b
-#EXTINF:-1 tvg-id="Popu Tv.py" tvg-name="Univeso Tv" tvg-logo="https://www.popular.com.py/wp-content/themes/popular/images/new-popu-tv.png" group-title="Paraguay" ch-number="96" type="channel",Popu TV Paraguay
-https://cdn-py.cvattv.com.ar/live/c7eds/Universo/SA_Live_dash_enc/Universo.mpd?|Origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f362097815892a4b83950f1d106ff0b2:4349e42e81c31a8389f4a42fcd298928
@@ -7659,11 +7579,6 @@ http://38.44.109.41:8003/play/a02l
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a0aa01337a2148bda1e21862295ae037&key=fee0f87a0527497351fc54ce36ad1de2
 #EXTINF:-1 tvg-id="America Sports.ar" tvg-name="América Sports" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/AMESP.png?raw=true" group-title="Deportes" ch-number="116" type="channel",América Sports
 https://cdn-py.cvattv.com.ar/live/c6eds/America_Sports/SA_Live_dash_enc/America_Sports.mpd?|origin=https://web.app.flow.com.ar
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=df3ed6245bb9af1a0346379e8e475dff:f86f8457438d4e449d53b956cc1be664
-#EXTINF:-1 tvg-id="SHOW SPORTS CORDOBA" tvg-name="Show Sports Córdoba" tvg-logo="https://i.ibb.co/QnqdqBV/ss.png" group-title="Deportes" ch-number="117" type="channel",Show Sports Córdoba
-https://cdn-py.cvattv.com.ar/live/c4eds/Show_Sports/SA_Live_dash_enc/Show_Sports.mpd?|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=03d1dfb8df034d8b81e57753df00a36d:08d83660db4a73bb1d61d60b09df5f4d
@@ -7877,11 +7792,6 @@ https://cdn-py.cvattv.com.ar/live/c7eds/Paramount/SA_Live_dash_enc/Paramount.mpd
 https://cdn-py.cvattv.com.ar/live/c7eds/Pasiones/SA_Live_dash_enc/Pasiones.mpd?|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d5971effbbddb4e419f3e6e28908eb31:bb09faa916b3f13e71f2e3eacb7efc05
-#EXTINF:-1 tvg-id="RCN Novelas" tvg-name="RCN Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RCN_Novelas_logo_2019.png/330px-RCN_Novelas_logo_2019.png" group-title="Cine, Novelas y Series" ch-number="" type="channel",RCN Novelas
-https://pylocalliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/channel(RCN_TELENOVELAS)/manifest.mpd?|referer=https://pylocalliveclarovideo.akamaized.net/
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fd9619f9d7c2d5115a339941279e0b4b:bf55635e6591f905659fa27ab3ca2812
 #EXTINF:-1 tvg-id="Sony HD.uy" tvg-name="Sony Channel" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/SONYC.png?raw=true" group-title="Cine, Novelas y Series" ch-number="332" type="channel",Sony Channel
 https://cdn-py.cvattv.com.ar/live/c7eds//SonyHD/SA_Live_dash_enc/SonyHD.mpd?|origin=https://web.app.flow.com.ar
@@ -7970,9 +7880,6 @@ https://cdn-py.cvattv.com.ar/live/c7eds/USA_Network/SA_Live_dash_enc/USA_Network
 #KODIPROP:inputstream.adaptive.license_key=069bd3f0b6c279467e08549f17bf5bd0:5afa7e369a6de1093818a85af912a775
 #EXTINF:-1 tvg-id="Warner HD.uy" tvg-name="Warner" tvg-logo="https://static.flow.com.ar/images/298/CH_LOGO/350/500/0/0/90263585073787.png" group-title="Cine, Novelas y Series" ch-number="349" type="channel",Warner
 https://cdn-py.cvattv.com.ar/live/c7eds//WarnerHD/SA_Live_dash_enc/WarnerHD.mpd?|origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-id="[STARHD] Star TVE" tvg-name="Star TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="Cine, Novelas y Series" ch-number="351" type="channel",Star TVE
-https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4146a8ecbb0540dc807c6389ee87e0bc:0c3cdc1b3e4617c57361265e9fa4c5bd
@@ -8080,51 +7987,6 @@ https://cdn-py.cvattv.com.ar/live/c3eds/NatGeoHD/SA_Live_dash_enc/NatGeoHD.mpd?|
 https://cdn-py.cvattv.com.ar/live/c6eds/Sun_Channel/SA_Live_dash_enc/Sun_Channel.mpd?|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e3a12a9a2d6e53a809b59df41a8475ca:9c19cb876dce492531443aae9eea0a2d
-#EXTINF:-1 tvg-id="INTI" tvg-name="INTI" tvg-logo="https://i.ibb.co/x8yfbT1/inti-network-tv.png" group-title="Variedades" ch-number="" type="channel",INTI
-https://pylocalliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/channel(INTI_HD)/manifest.mpd?|referer=https://pylocalliveclarovideo.akamaized.net/
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae5d967526f90c80102fab021e3dd282:226f3cfc4f00e03dbe39e2a88760293f
-#EXTINF:-1 tvg-id="Canal Claro" tvg-name="Canal Claro" tvg-logo="https://i.postimg.cc/m2NZDyZh/canal-claro.png" group-title="Variedades" ch-number="" type="channel",Canal Claro
-https://pylocalliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/channel(CANAL_CLARO_HD)/manifest.mpd?|referer=https://pylocalliveclarovideo.akamaized.net/
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b93e6ce6b4fb51b890ac57d8c0b6a402:53eb2499d8c57cf6f9ea887c8683c591
-#EXTINF:-1 tvg-id="CBA24N" tvg-name="CBA24N córdoba" tvg-logo=" https://i.ibb.co/K2sJwVC/canal-u.png" group-title="Córdoba" ch-number="450" type="channel",CBA24N córdoba
-https://cdn-py.cvattv.com.ar/live/c4eds/CBA24/SA_Live_dash_enc_C/CBA24.mpd?|origin=https://web.app.flow.com.ar
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9a866ca98bef2351a68e4843139f8073:b0893077653d1ef842a1b65d8b34455a
-#EXTINF:-1 tvg-id="CanalC" tvg-name="Canal c córdoba" tvg-logo="https://i.ibb.co/F6bXsYs/canal-c.png" group-title="Córdoba" ch-number="451" type="channel",Canal c córdoba
-https://cdn-py.cvattv.com.ar/live/c5eds/Canal_C/SA_Live_dash_enc_C/Canal_C.mpd?|origin=https://web.app.flow.com.ar
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7804609194dc7145bf297153276096d2:03d3f4e3d0b35362dadfddce10dee00c
-#EXTINF:-1 tvg-id="Local-Carlos-Paz" tvg-name="Canal Local Carlos Paz" tvg-logo="https://i.ibb.co/5RH9HTB/next-multimedio.png" group-title="Córdoba" ch-number="452" type="channel",Canal Local Carlos Paz
-https://cdn-py.cvattv.com.ar/live/c4eds/Local_Carlos_Paz/SA_Live_dash_enc_C/Local_Carlos_Paz.mpd?|origin=https://web.app.flow.com.ar
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f7523ea5a2da78c465d928be1d81e2a5:870ad69e98abd52b443bd8f0204b3bc4
-#EXTINF:-1 tvg-id="354#Canal LUZ (ARG)" tvg-name="Canal Luz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Canal_Luz_actual.png" group-title="Religión" ch-number="490" type="channel",Canal Luz
-https://cdn-py.cvattv.com.ar/live/c7eds/CANAL_LUZ/SA_Live_dash_enc/CANAL_LUZ.mpd?|origin=https://web.app.flow.com.ar
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=07df3c48652a431ab779d133f085b799:ee2fbeec1ecdffa5617383f684dfda0e
-#EXTINF:-1 tvg-id="350#Eternal Word TV Network" tvg-name="EWTN" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EWTNE.png?raw=true" group-title="Religión" ch-number="491" type="channel",EWTN
-https://cdn-py.cvattv.com.ar/live/c6eds/EWTN/SA_Live_dash_enc/EWTN.mpd?|origin=https://web.app.flow.com.ar
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=29ccae9b98d74e76b35ac4e9a7fd1af1:cd6f0d4dca0fc30533e845fc8ea6a945
-#EXTINF:-1 tvg-id="351#Canal 21 (ARG)" tvg-name="Orbe 21" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CAN21.png?raw=true" group-title="Religión" ch-number="492" type="channel",Orbe 21
-https://cdn-py.cvattv.com.ar/live/c6eds/Canal_21/SA_Live_dash_enc/Canal_21.mpd?|origin=https://web.app.flow.com.ar
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d456fba3fccb4c06a0f4776fe412400b:ca5530ffe42a38759d3887c82d6a909a
-#EXTINF:-1 tvg-id="[CNSTMAR] Canal Santa Maria" tvg-name="Santa María" tvg-logo="https://i.ibb.co/b1fNV1N/santamaria.png" group-title="Religión" ch-number="493" type="channel",Santa María
-https://cdn-py.cvattv.com.ar/live/c3eds/Senal_Maria/SA_Live_dash_enc/Senal_Maria.mpd?|origin=https://web.app.flow.com.ar
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e55e61b81b992d6c21466891d72157e9:566d341bf7209a88976e75c20ad7aca2
 #EXTINF:-1 tvg-id="Allegro HD.uy" tvg-name="Allegro" tvg-logo="https://i.ibb.co/ts85rN6/allegro.png" group-title="Música" ch-number="500" type="channel",Allegro
 https://cdn-py.cvattv.com.ar/live/c7eds/AllegroHD/SA_Live_dash_enc/AllegroHD.mpd?|origin=https://web.app.flow.com.ar
@@ -8175,29 +8037,9 @@ https://cdn-py.cvattv.com.ar/live/c6eds/Vorterix/SA_Live_dash_enc/Vorterix.mpd?|
 https://cdn-py.cvattv.com.ar/live/c4eds/HEI_NOW/SA_Live_dash_enc_C/HEI_NOW.mpd?|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7aa008e0092f4475a414584368a043c4:a3882463c009fd78290cac6c9b958ca1
-#EXTINF:-1 tvg-id="Al-Jazeera" tvg-name="Al Jazeera" tvg-logo="http://78.47.174.211/logos/aljazeera.png" group-title="Mundo" ch-number="600" type="channel",Al Jazeera
-https://cdn-py.cvattv.com.ar/out/v1/Alljazzera/SA_Live_dash_enc_C/Alljazzera.mpd?||Origin=https://web.app.flow.com.ar
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1e1ad422a6714482b66fa702c16e50c6:4fdf28a0ab91356ca55a75f4e9bf8c92
 #EXTINF:-1 tvg-id="Antena 3.uy" tvg-name="Antena 3 Internacional" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/ANTN3.png?raw=true" group-title="Mundo" ch-number="601" type="channel",Antena 3 Internacional
 https://cdn-py.cvattv.com.ar/live/c6eds/Antena_3/SA_Live_dash_enc/Antena_3.mpd?|origin=https://web.app.flow.com.ar
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=436d78a75fad9bdcc6d409640c116a62:c77471ac3b694513a9c5ff68b8d4fac5
-#EXTINF:-1 tvg-id="Ariran" tvg-name="Ariran" tvg-logo="https://dl.dropbox.com/scl/fi/ypa36be1uanbbg5tit6un/ariran.jpg?rlkey=95uva8kx766zprs4m5xytgdj2&dl=1" group-title="Mundo" ch-number="602" type="channel",Ariran
-https://cdn-py.cvattv.com.ar/live/c7eds/Arirang/SA_Live_dash_cenc/Arirang.mpd?|origin=https://web.app.flow.com.ar
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=019f72f2091d4cbea59ff8c85b117f86:a4eac51195506752f9f63ad24def9c37
-#EXTINF:-1 tvg-id="BBC World.uy" tvg-name="BBC News" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/BBCNW.png?raw=true" group-title="Mundo" ch-number="603" type="channel",BBC News
-https://cdn-py.cvattv.com.ar/live/c6eds/BBC_World_News/SA_Live_dash_enc/BBC_World_News.mpd?|origin=https://web.app.flow.com.ar
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1e50891cdc64452aae20d049727f2f3f:551871ba1dc6a95597ec0cb82eb3b2a4
-#EXTINF:-1 tvg-id="Bloomberg.uy" tvg-name="Bloomberg tv" tvg-logo="https://i.ibb.co/kccgz9B/Bloomberg-symbol.png" group-title="Mundo" ch-number="604" type="channel",Bloomberg tv
-https://cdn-py.cvattv.com.ar/live/c3eds/Bloomberg/SA_Live_dash_enc/Bloomberg.mpd?|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b37d85be9d2b4b619f945beff713fda3:917309c98f072b0bd484dd6560c6d166
@@ -8208,11 +8050,6 @@ https://cdn-py.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_Live_dash_enc/
 #KODIPROP:inputstream.adaptive.license_key=0b20ed9da0e5457c9dfd3ae0b6092491:98997a7020c18cb28174a2490147830a
 #EXTINF:-1 tvg-id="CNN Español.uy" tvg-name="CNNEE" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CNNEE.png?raw=true" group-title="Mundo" ch-number="606" type="channel",CNN En Español
 https://cdn-py.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_Live_dash_enc/CNN_en_Espanol.mpd?|origin=https://web.app.flow.com.ar
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9f24708ad1184ee3a04b650941f9894b:e5bc7c5ff392119423dbf1c023a7b21c
-#EXTINF:-1 tvg-id="CNN Internacional.uy" tvg-name="CNNEE" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CNNEE.png?raw=true" group-title="Mundo" ch-number="607" type="channel",CNN Internacional
-https://cdn-py.cvattv.com.ar/live/c6eds/CNN_Internacional/SA_Live_dash_enc/CNN_Internacional.mpd?|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=21563d82cfb7fdd18b213f0bd92a274f:5940d8d0b57b9e6533e99cc0e7bf2f8e
@@ -8230,44 +8067,14 @@ https://cdn-py.cvattv.com.ar/live/c6eds/DW/SA_Live_dash_enc/DW.mpd?|origin=https
 https://cdn-py.cvattv.com.ar/live/c6eds/Euronews/SA_Live_dash_enc/Euronews.mpd?|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=72187f2651724db18505cdcad435841d:6f41e05476e34edf7bb9dc51f08f95df
-#EXTINF:-1 tvg-id="France 24 HD.uy" tvg-name="France24" tvg-logo="http://78.47.174.211/logos/france24.png" group-title="Mundo" ch-number="611" type="channel",France24
-https://cdn-py.cvattv.com.ar/live/c6eds/France_24/SA_Live_dash_enc/France_24.mpd?|origin=https://web.app.flow.com.ar
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c8a3d29db38c4a9fa9a838c3d4d681db:d3aa374c4c0de33f463b4387a18297a6
 #EXTINF:-1 tvg-id="France 24 en Español.ar" tvg-name="France24 Español" tvg-logo="http://78.47.174.211/logos/france24.png" group-title="Mundo" ch-number="612" type="channel",France24 Español
 https://cdn-py.cvattv.com.ar/live/c3eds/France24_Flow/SA_Live_dash_enc/France24_Flow.mpd?|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3fe3f31a5e7b48a1b548e9364757ce66:32993fc281207fe915f6f1e990957868
-#EXTINF:-1 tvg-name="FOX News" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/FOXNW.png?raw=true" group-title="Mundo" ch-number="613" type="channel",FOX News
-https://cdn-py.cvattv.com.ar/live/c6eds/Fox_News/SA_Live_dash_enc/Fox_News.mpd?|origin=https://web.app.flow.com.ar
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=23419f2a0a214038a94e24db13ee85a9:4c627ad6b8774e548e28d4aaf82a96a0
-#EXTINF:-1 tvg-id="TV Galicia.uy" tvg-name="Galicia TV America" tvg-logo="https://static.flow.com.ar/images/729/CH_LOGO/350/500/0/0/778293230765.png" group-title="Mundo" ch-number="614" type="channel",Galicia TV America
-http://cdn-mun.cvattv.com.ar/live/c6eds/Tv_Galicia/SA_Live_dash_enc/Tv_Galicia.mpd?|origin=https://web.app.flow.com.ar
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=abdfd83824e9ba585f74fb72c647aa4f:9967e06e39893998d16714988d9d87f1
 #EXTINF:-1 tvg-id="CanalRural.lat" tvg-name="Latam Rural" tvg-logo="https://dl.dropbox.com/scl/fi/kdj2xc9eagwc620spbpee/rurallatam.jpg?rlkey=8uusg0pp1ddsc9g4vu3jir4zm&dl=1" group-title="Mundo" ch-number="615" type="channel",Latam Rural
 https://cdn-py.cvattv.com.ar/live/c4eds/Latam_Rural/SA_Live_dash_enc_C/Latam_Rural.mpd?|origin=https://web.app.flow.com.ar
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b4f56d5c19b45fb3e75a73b6ec06e6c:c464e2b6ded2b52e1e7753b3a859abce
-#EXTINF:-1 tvg-id="New-Brasil" tvg-name="New Brasil" tvg-logo="https://i.ibb.co/5vSfGjj/new-brasil.png" group-title="Mundo" ch-number="616" type="channel",New Brasil
-https://cdn-py.cvattv.com.ar/live/c7eds/Bandeirantes/SA_Live_dash_enc/Bandeirantes.mpd?|origin=https://web.app.flow.com.ar
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d214547d7d9a4011a39a899ce6e70071:16c2ed0617cf1e123f3af6ea8875a82d
-#EXTINF:-1 tvg-id="RAI Italia HD.uy" tvg-name="RAI Italia" tvg-logo="https://static.flow.com.ar/images/716/CH_LOGO/1920/1080/0/0/577119940729.png" group-title="Mundo" ch-number="617" type="channel",RAI Italia
-https://cdn-py.cvattv.com.ar/live/c6eds/RAI/SA_Live_dash_enc/RAI.mpd?|origin=https://web.app.flow.com.ar
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b0bd8ea11b3f4c219903085ef1d44b0d:9a25709a72c2ca93cb738665736cfa5a
-#EXTINF:-1 tvg-id="Record Internacional.uy" tvg-name="Rede Record Brasil" tvg-logo="https://static.flow.com.ar/images/-/-/0/0/7054147807685.png" group-title="Mundo" ch-number="618" type="channel",Rede Record Brasil
-http://cdn-py.cvattv.com.ar/live/c3eds/Rede_Record/SA_Live_dash_enc/Rede_Record.mpd?|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=53d752e4649dadd808d913985f86ee77:d1fd24db1b61d634cabfc44538ce9b0e
@@ -8280,18 +8087,13 @@ https://cdn-py.cvattv.com.ar/live/c7eds//Telemundo_HD/SA_Live_dash_enc/Telemundo
 https://cdn-py.cvattv.com.ar/live/c6eds/Telesur/SA_Live_dash_enc/Telesur.mpd?|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=62034ff5988b4787b17cdf6f751a3142:b3938f0af28b4c0c082b0d4210e389a0
-#EXTINF:-1 tvg-id="TV5.uy" tvg-name="TV5Monde Amerique Latine" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TV5AL.png?raw=true" group-title="Mundo" ch-number="621" type="channel",TV5Monde Amerique Latine
-https://cdn-py.cvattv.com.ar/live/c6eds/TV5_Monde/SA_Live_dash_enc/TV5_Monde.mpd?|origin=https://web.app.flow.com.ar
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c5d0d76e24844235988f9265619e5fec:446b71a6deb806c6f129e25de999d07c
 #EXTINF:-1 tvg-id="TV Chile.uy" tvg-name="TV Chile" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TVNI.png?raw=true" group-title="Mundo" ch-number="622" type="channel",TV Chile
 https://cdn-py.cvattv.com.ar/live/c6eds/Tv_Chile/SA_Live_dash_enc/Tv_Chile.mpd?|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=53e0a3741e2e4ff5843f165b53309088:45095caabd9a359cd7ea3910d865d643
-#EXTINF:-1 tvg-id="TVE.uy" tvg-name="TVE" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TVESP.png?raw=true" group-title="Mundo" ch-number="623" type="channel",TVE
+#EXTINF:-1 tvg-id="TVE.uy" tvg-name="TVE" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TVESP.png?raw=true" group-title="Mundo" ch-number="623" type="channel",TVE cdn-py
 https://cdn-py.cvattv.com.ar/live/c6eds/TV_Espana/SA_Live_dash_enc/TV_Espana.mpd?|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -8309,44 +8111,26 @@ https://cdn-py.cvattv.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc/Sextreme.mpd?|
 #EXTINF:-1 tvg-id="Venus.uy" tvg-name="Venus.uy" tvg-logo="https://dl.dropbox.com/scl/fi/ccb7fp8758t7obaa9037c/venus.jpg?rlkey=tyvcaenu68rwe1ir2hj9amtc9&dl=1" group-title="Adulto" ch-number="1002" type="channel",Venus (18+)
 https://cdn-py.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc/Venus.mpd?|origin=https://web.app.flow.com.ar
 
-#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA", Azteca 7 HD dish
-https://dish.akamaized.net/Content/DASH/Live/channel(azteca7hd)/variant.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",azteca7 _hd 190.11.225.124
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/014/179/207/small/classic-3d-television-icons-perfect-to-use-as-an-additional-element-in-your-poster-banner-and-template-designs-png.png" group-title="🇦🇷 ARGENTINA",azteca7 _hd 190.11.225.124
 http://190.11.225.124:5000/live/azteca7_hd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",canal5 _hd 
-http://190.11.225.124:5000/live/canal5_hd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",dhe _hd 
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/014/179/207/small/classic-3d-television-icons-perfect-to-use-as-an-additional-element-in-your-poster-banner-and-template-designs-png.png" group-title="🇦🇷 ARGENTINA",dhe _hd 
 http://190.11.225.124:5000/live/dhe_hd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",golden _hd 
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/014/179/207/small/classic-3d-television-icons-perfect-to-use-as-an-additional-element-in-your-poster-banner-and-template-designs-png.png" group-title="🇦🇷 ARGENTINA",golden_edge _hd 
 http://190.11.225.124:5000/live/golden_hd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",hbofamily _hd 
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/014/179/207/small/classic-3d-television-icons-perfect-to-use-as-an-additional-element-in-your-poster-banner-and-template-designs-png.png" group-title="🇦🇷 ARGENTINA",hbofamily _hd 
 http://190.11.225.124:5000/live/hbo_family_hd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",hboplus _hd 
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/014/179/207/small/classic-3d-television-icons-perfect-to-use-as-an-additional-element-in-your-poster-banner-and-template-designs-png.png" group-title="🇦🇷 ARGENTINA",hboplus _hd 
 http://190.11.225.124:5000/live/hbo_plus_hd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",hbosignature _hd
-http://190.11.225.124:5000/live/hbo_signature_hd/playlist.m3u8 hboxtreme _hd 
-
-#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",hbo_xtreme_hd
-http://190.11.225.124:5000/live/hbo_xtreme_hd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",hbo_hd
-http://190.11.225.124:5000/live/hbo_hd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",paramount _hd 
+#EXTINF:-1 tvg-logo="https://wwwviacomcbsnord.cdn.triggerfish.cloud/uploads/2019/01/paramount_logo_grey_flat_transparent_background_rgb.png" group-title="🇦🇷 ARGENTINA",paramount _hd 
 http://190.11.225.124:5000/live/paramount_hd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",universo _hd 
+#EXTINF:-1 tvg-logo="https://cdnimg.spectrum.net/imageserver/image/default?providerId=NBC_UNIVERSO&productId=LMOD&sourceType=colorHybrid" group-title="🇦🇷 ARGENTINA",universo _hd 
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",telemundo _hd 190.11.225.124
-http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",telehit _hd 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4vZKaaF-BOBmlvTp3yTiut0Hjo4APqoUBGwUZCJMp9zbi4djzigDfpROVqlMWxz4HKBUnFpnWpAmtb314KtyJaHsDboiS0CD0y0XNB19u5FKhiagAO-R9mUYNefzQ5oaacu4pVjytbGY/s453/telehit-2020.png" group-title="🇦🇷 ARGENTINA",telehit _hd 
 http://190.11.225.124:5000/live/telehit_hd/playlist.m3u8
