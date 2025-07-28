@@ -1966,11 +1966,23 @@ https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/BjOe1RF.jpg" group-title="👩‍👦‍👦 INFANTILES", Moni TV ✪ | CL
 https://tv.arkeo.cl:19360/8134/8134.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/copacool/copacool2006/copacool200600415/148761755-concepto-digital-palabra-avi-en-la-pantalla-digital-rayos-de-movimiento-sobre-fondo-abstracto.jpg?ver=6" group-title="👩‍👦‍👦 INFANTILES",Lim TV
+https://tv.invasivamedia.com/hls/limtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sFwwMyt/logo-Zaz-TV.png" group-title="👩‍👦‍👦 INFANTILES",Zaz TV ok
+https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/472_Mi_TV_Television_Clasica.png" group-title="👩‍👦‍👦 INFANTILES", Mi TV Televisión Clásica | A NOSOTROS
 https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/exNjR3MpGhPEPUitjYzswZf0d7XCmdASiSc3VTf5cNo10IC6Kgh_CJMkFlU--U3NvFw" group-title="👩‍👦‍👦 INFANTILES",RetroX televisión | Costa Rica
 https://acceso.radiosportstv.online:3259/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRge_jmkrNfR2vQWrcc0vYC_9YJEyrc_KB9sC9zxPn88AU4sYqGyZpmiDX9yxr6rw-cGTE&usqp=CAU" group-title="👩‍👦‍👦 INFANTILES",gam tv
+https://v2.azulstream.com:8081/gamtv/gamtv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple49/v4/71/8a/ba/718abaae-0fa7-a4c2-1e62-bd54d7d2f75c/source/512x512bb.jpg" group-title="👩‍👦‍👦 INFANTILES",telenord
+https://rdn.essastream.com:3676/live/telenord10live.m3u8
 
 #EXTINF:-1 tvg-logo="https://ssiptvarg.weebly.com/uploads/1/3/9/6/139612966/neo-tv-digital-16-1_orig.png" group-title="👩‍👦‍👦 INFANTILES", NEO TV DIGITAL 16.1
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
@@ -2048,8 +2060,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=514
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Tv-Costa-Chile-en-vivo-Online.png" group-title="👩‍👦‍👦 INFANTILES", TV Costa | CL
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DdYrpbY.png" tvg-group="INFANTILES", Zaz TV | México
 
 #EXTINF:-1 tvg-logo="https://caracoltv.brightspotcdn.com/dims4/default/cd920b7/2147483647/strip/true/crop/1200x800+0+0/resize/1000x667!/quality/90/?url=http%3A%2F%2Fcaracol-brightspot.s3.amazonaws.com%2Fa4%2Fc7%2F0093276747b98696a1e86ad53233%2Flas-pistas-de-blue.jpg" group-title="👩‍👦‍👦 INFANTILES",Pluto TV Las Pistas de Blue (360p)
 
@@ -2182,10 +2192,8 @@ https://ssh101.bozztv.com/ssh101/livestreamingtv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/KwYvaKL.png" group-title="👩‍👦‍👦 INFANTILES", Fanpop | FHD | Chile
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/OR6mxRB.png" group-title="👩‍👦‍👦 INFANTILES", Energeek | FHD | Chile
-https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65.m3u8
 
 #EXTINF:-1 tvg-id="947" tvg-name="EnerGeek Retro" tvg-logo="https://cdn.m3u.cl/logo/947_EnerGeek_Retro.png" group-title="👩‍👦‍👦 INFANTILES", EnerGeek Retro ✪ | CL
-https://xui-backend.energeek.cl/live/9/playlist.m3u8?username=D3m0M3UCLWeb&password=xN4sFVjMK7&PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="1650" tvg-name="Alfa TV" tvg-logo="https://cdn.m3u.cl/logo/1650_Alfa_TV.png" group-title="👩‍👦‍👦 INFANTILES", Alfa TV ✪ | CL
 
@@ -8300,3 +8308,45 @@ https://cdn-py.cvattv.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc/Sextreme.mpd?|
 #KODIPROP:inputstream.adaptive.license_key=34237d2ae6684ee7a011f5b9c7c43e6d:05d973d987915120e567880f50a422af
 #EXTINF:-1 tvg-id="Venus.uy" tvg-name="Venus.uy" tvg-logo="https://dl.dropbox.com/scl/fi/ccb7fp8758t7obaa9037c/venus.jpg?rlkey=tyvcaenu68rwe1ir2hj9amtc9&dl=1" group-title="Adulto" ch-number="1002" type="channel",Venus (18+)
 https://cdn-py.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc/Venus.mpd?|origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA", Azteca 7 HD dish
+https://dish.akamaized.net/Content/DASH/Live/channel(azteca7hd)/variant.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",azteca7 _hd 190.11.225.124
+http://190.11.225.124:5000/live/azteca7_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",canal5 _hd 
+http://190.11.225.124:5000/live/canal5_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",dhe _hd 
+http://190.11.225.124:5000/live/dhe_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",golden _hd 
+http://190.11.225.124:5000/live/golden_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",hbofamily _hd 
+http://190.11.225.124:5000/live/hbo_family_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",hboplus _hd 
+http://190.11.225.124:5000/live/hbo_plus_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",hbosignature _hd
+http://190.11.225.124:5000/live/hbo_signature_hd/playlist.m3u8 hboxtreme _hd 
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",hbo_xtreme_hd
+http://190.11.225.124:5000/live/hbo_xtreme_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",hbo_hd
+http://190.11.225.124:5000/live/hbo_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",paramount _hd 
+http://190.11.225.124:5000/live/paramount_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",universo _hd 
+http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",telemundo _hd 190.11.225.124
+http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",telehit _hd 
+http://190.11.225.124:5000/live/telehit_hd/playlist.m3u8
