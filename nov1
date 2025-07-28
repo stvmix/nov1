@@ -1970,19 +1970,11 @@ https://tv.arkeo.cl:19360/8134/8134.m3u8?PlaylistM3UCL
 https://tv.invasivamedia.com/hls/limtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sFwwMyt/logo-Zaz-TV.png" group-title="👩‍👦‍👦 INFANTILES",Zaz TV ok
-https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/472_Mi_TV_Television_Clasica.png" group-title="👩‍👦‍👦 INFANTILES", Mi TV Televisión Clásica | A NOSOTROS
-https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/exNjR3MpGhPEPUitjYzswZf0d7XCmdASiSc3VTf5cNo10IC6Kgh_CJMkFlU--U3NvFw" group-title="👩‍👦‍👦 INFANTILES",RetroX televisión | Costa Rica
 https://acceso.radiosportstv.online:3259/hybrid/play.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRge_jmkrNfR2vQWrcc0vYC_9YJEyrc_KB9sC9zxPn88AU4sYqGyZpmiDX9yxr6rw-cGTE&usqp=CAU" group-title="👩‍👦‍👦 INFANTILES",gam tv
-https://v2.azulstream.com:8081/gamtv/gamtv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple49/v4/71/8a/ba/718abaae-0fa7-a4c2-1e62-bd54d7d2f75c/source/512x512bb.jpg" group-title="👩‍👦‍👦 INFANTILES",telenord
-https://rdn.essastream.com:3676/live/telenord10live.m3u8
 
 #EXTINF:-1 tvg-logo="https://ssiptvarg.weebly.com/uploads/1/3/9/6/139612966/neo-tv-digital-16-1_orig.png" group-title="👩‍👦‍👦 INFANTILES", NEO TV DIGITAL 16.1
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
@@ -2159,7 +2151,6 @@ http://201.217.246.177:8000/play/a0a5/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/pqWmos0.png" group-title="👩‍👦‍👦 INFANTILES", Kanade TV | FHD | Chile
 
 #EXTINF:-1 tvg-id="1466" tvg-name="Kanade TV" tvg-logo="https://cdn.m3u.cl/logo/1466_Kanade_TV.png" group-title="👩‍👦‍👦 INFANTILES", Kanade TV ✪ | CL
-https://xui-backend.energeek.cl/live/13/playlist.m3u8?username=D3m0M3UCLWeb&password=xN4sFVjMK7&PlaylistM3UCL
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/q2Fd958.png" group-title="👩‍👦‍👦 INFANTILES", BIG CHANNEL Gran Canal | SD | Argentina
 
@@ -2176,9 +2167,6 @@ https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8?PlaylistM3UC
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/m13TjiR.png" group-title="👩‍👦‍👦 INFANTILES", Magic Kids | SD | Argentina
 https://magicstream.ddns.net/magicstream/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mix-bolivia-tv-bo.png" group-title="👩‍👦‍👦 INFANTILES",Gogoplay giatv-neogogoplaymix
-https://giatv.bozztv.com/giatv/giatv-neogogoplaymix/neogogoplaymix/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mix-bolivia-tv-bo.png" group-title="👩‍👦‍👦 INFANTILES",Gogoplay giatv-NEOMIXHD
 
@@ -2199,6 +2187,14 @@ https://ssh101.bozztv.com/ssh101/livestreamingtv/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/H4N6qC6.png" group-title="👩‍👦‍👦 INFANTILES", Canal 74 | FHD | Placilla
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mix-bolivia-tv-bo.png" group-title="👩‍👦‍👦 INFANTILES",Gogoplay giatv-neogogoplaymix
+https://giatv.bozztv.com/giatv/giatv-neogogoplaymix/neogogoplaymix/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRge_jmkrNfR2vQWrcc0vYC_9YJEyrc_KB9sC9zxPn88AU4sYqGyZpmiDX9yxr6rw-cGTE&usqp=CAU" group-title="👩‍👦‍👦 INFANTILES",gam tv
+https://v2.azulstream.com:8081/gamtv/gamtv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple49/v4/71/8a/ba/718abaae-0fa7-a4c2-1e62-bd54d7d2f75c/source/512x512bb.jpg" group-title="👩‍👦‍👦 INFANTILES",telenord
+https://rdn.essastream.com:3676/live/telenord10live.m3u8
 
 
 
