@@ -1910,7 +1910,7 @@ http://45.181.122.46:8090/play/a00t
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/canal5.png" group-title="👩‍👦‍👦 INFANTILES",canal 5 México hd 181
 http://181.78.106.127:9000/play/ca012/index.m3u8
 
-#EXTINF:0 tvg-logo="https://tvazteca.brightspotcdn.com/dims4/default/aba8d8b/2147483647/strip/true/crop/354x186+15+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F25%2F75%2F665cc6a4466b8569e37508e0fafb%2Flogo7blanco.png" group-title="👩‍👦‍👦 INFANTILES",azteca7 _hd 190.11.225.124
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Logo_de_Azteca_7_2024.png" group-title="👩‍👦‍👦 INFANTILES",azteca7 _hd 190.11.225.124
 http://190.11.225.124:5000/live/azteca7_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://boxbrazil.tv.br/assets/images/pages/boxKids/images/imgTitle.png" group-title="👩‍👦‍👦 INFANTILES", BOX KIDS TV
@@ -1973,11 +1973,11 @@ https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/BjOe1RF.jpg" group-title="👩‍👦‍👦 INFANTILES", Moni TV ✪ | CL
 https://tv.arkeo.cl:19360/8134/8134.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/copacool/copacool2006/copacool200600415/148761755-concepto-digital-palabra-avi-en-la-pantalla-digital-rayos-de-movimiento-sobre-fondo-abstracto.jpg?ver=6" group-title="👩‍👦‍👦 INFANTILES",Lim TV
-https://tv.invasivamedia.com/hls/limtv.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sFwwMyt/logo-Zaz-TV.png" group-title="👩‍👦‍👦 INFANTILES",Zaz TV ok
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=13012
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/copacool/copacool2006/copacool200600415/148761755-concepto-digital-palabra-avi-en-la-pantalla-digital-rayos-de-movimiento-sobre-fondo-abstracto.jpg?ver=6" group-title="👩‍👦‍👦 INFANTILES",Lim TV
+https://tv.invasivamedia.com/hls/limtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/472_Mi_TV_Television_Clasica.png" group-title="👩‍👦‍👦 INFANTILES", Mi TV Televisión Clásica | A NOSOTROS
 
@@ -8287,7 +8287,7 @@ https://rdn.essastream.com:3160/live/sanisidrotvlive.m3u8
 #EXTINF:-1 tvg-logo="https://supercanal.com.pe/wp-content/uploads/2023/03/logoheader.png" group-title="🇦🇷 ARGENTINA",super canal
 https://live.obslivestream.com:443/supercanal/tracks-v1a1/mono.m3u8
  
-#EXTINF:-1 tvg-logo="https://telever.com.do/wp-content/uploads/2025/07/LOGO-FINAL.svg" group-title="🇦🇷 ARGENTINA",telever
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/07/Televisa-Veracruz-en-vivo-Online-1.png" group-title="🇦🇷 ARGENTINA",telever
 https://vdo1.streamgato.us:3342/live/televercanal12live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.chatytvgratis.net/wp-content/uploads/2014/10/migentv3.0.png?fit=225%2C225&ssl=1" group-title="🇦🇷 ARGENTINA",Mi gente
