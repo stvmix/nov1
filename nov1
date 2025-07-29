@@ -8130,3 +8130,235 @@ http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4vZKaaF-BOBmlvTp3yTiut0Hjo4APqoUBGwUZCJMp9zbi4djzigDfpROVqlMWxz4HKBUnFpnWpAmtb314KtyJaHsDboiS0CD0y0XNB19u5FKhiagAO-R9mUYNefzQ5oaacu4pVjytbGY/s453/telehit-2020.png" group-title="🇦🇷 ARGENTINA",telehit _hd 
 http://190.11.225.124:5000/live/telehit_hd/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",Tele norte 2
+http://astrasvip.com:1935/Telenorte/Telenorte/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",Big time España
+https://amogonetworx-bigtjme-2-eu.vidaa.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",Ideal tv
+https://cloud5.idealtv.net/hls/live.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",Voz y tv
+https://cloud37.ecuatel.com/vostv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",Gm digital
+https://s2.tvdatta.com:3858/live/gm7digitallive.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",isla tv
+https://59d39900ebfb8.streamlock.net/islatv/islatv/chunklist_w2048153656.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",Red 24 bolivia
+https://inliveserver.com:1936/11012/11012/.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",Canal 45
+https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",etc
+http://45.181.122.46:8090/play/a00t
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",Alcarrizos tv
+https://5790d294af2dc.streamlock.net/alcarrizostv/alcarrizostv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",megahits
+https://video20.klm99.com:3395/live/meganethitslive.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",zaz tv 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=13012
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",Satel canal 4
+https://server.asilivehd.com:3802/live/canal4live.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",tv tica
+https://video.misistemareseller.com:1936/tvtica/tvtica/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",fap tv
+https://envivo.bolivia-link.com:3234/live/faptvlive.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",retrox
+https://acceso.radiosportstv.online:3259/live/retroxtvlive.m3u8
+
+##EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",f10 bolivia
+https://tv2.bitstreaming.net:3235/multi_live/play.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",Curiquingue tv
+https://video2.lhdserver.es/pjtv/live.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",animeanogai 2
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11057
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",net channell venezuela
+https://media.streambrothers.com:19360/8158/8158.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",Maxivision
+https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",Onza tv
+https://stmv1.srvstm.com/gproducciones/gproducciones/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",animeanogai 3
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11058
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",azteca 7
+http://181.78.106.127:9000/play/ca023/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",Tv show oruro
+http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",Uniandes tv
+https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",animeanogai 4
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11059
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",sarapiqui tv 2
+https://acceso.radiosportstv.online:3458/live/sstv2372live.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",animeanogai 5
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11060
+ 
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",animeanogai 6
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11061
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",360 rftv
+https://acceso.radiosportstv.online:3417/live/360rftvcrlive.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",Moni tv
+https://tv.arkeo.cl:19360/8134/8134.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",+ cine
+https://tv.arkeo.cl:19360/8128/8128.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",red tv chile
+https://tls-cl.cdnz.cl/livertv/live/chunklist_w47339175.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",palmar tv
+https://streamunoapp.com:3255/live/palmartvlive.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",canal 21 huancayo
+https://ott1.hdlatam.tv/live/huancayo/canal21/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",aion tv
+https://vdo.aiontelevision.com:3735/live/aiontelevisionlive.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",full channell tv
+https://cdn.streamhispanatv.net:3446/live/fullchannellive.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",tv azteca guatemala
+https://ch1-tva.duin.dev/hls/2/stream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",bolivision bolivia
+https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8?
+ 
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",bta
+https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",punta cana tv
+https://rdn.essastream.com:3544/live/puntacanatvlive.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",canal 10 costarica
+https://acceso.radiosportstv.online:3285/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",canal 23 Guatemala 2
+https://d4bee8qaav6x0.cloudfront.net:443/original.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",cinema+
+https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",san vito tv
+https://acceso.radiosportstv.online:3150/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",any retro
+https://tv.arkeo.cl:19360/8000/8000.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",tv color canal 36
+https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",norselva
+https://live.obslivestream.com/norselvatv/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",canal 7 guatemala
+https://alba-gt-chapintv-c7.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",telesistema
+https://k20.usastreams.com:8081/telesistema/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",costarica channel
+https://video0.rogohosting.com:19360/8006/8006.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",humor mexico
+https://is.gd/APGr55?profile=corgol.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",la red
+https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",sas tv
+https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",max anime 2
+https://streamlov.alsolnet.com:443/maxanime/live/chunklist_w1381715928.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",univision usa
+http://tvmate.icu:8080/live/7686199/9576982/15336.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",multicable ecuador 2
+https://videostream.shockmedia.com.ar:19360/multivisioncable/multivisioncable.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",telered
+https://k20.usastreams.com:8081/telered/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",novelas colombianas
+https://is.gd/eFIN2H?profile=corgol.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",oromar
+https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",sarapiqui tv
+https://lstv.duckdns.org:449/hls/stv.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",aguila tv
+https://vdo2.streamgato.us:3699/live/aguilatvlive.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",jimani tv
+https://cloud2.streaminglivehd.com:1936/8246/8246/chunklist_w1450747620.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",telemax rd
+https://vdo2.streamgato.us:3673/live/telemaxlive.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",viva peru
+https://live.obslivestream.com/vivatv/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",orbit tv hd
+https://vdo2.streamgato.us:3670/live/orbittvlive.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",mtv moyomba peru
+https://live.obslivestream.com/mtv/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",san isidro
+https://rdn.essastream.com:3160/live/sanisidrotvlive.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",FMTV HD
+https://s2.tvdatta.com:3307/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",canal 11 zulia
+https://streaming5.globalhostla.com/rtplive/canalzulia/chunklist_w1524627333.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",super canal
+https://live.obslivestream.com:443/supercanal/tracks-v1a1/mono.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",telever
+https://vdo1.streamgato.us:3342/live/televercanal12live.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",Mi gente
+https://byecableiptvnew3.ddns.net/ENVIVOMIGENTE/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",yes tv Costarica
+https://cootv.cootel.com.ni:8095/Canal24_YesTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",tv sur canal 9
+http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA",canal 8 nicaragua
+https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8?
