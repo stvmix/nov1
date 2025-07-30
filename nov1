@@ -8299,21 +8299,27 @@ http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://logosnicas.com/wp-content/uploads/2024/02/estudio_tn8.png" group-title="🇦🇷 ARGENTINA",canal 8 nicaragua
 https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8?
 
-
-#EXTINF:-1 tvg-logo="https://www.portalfoxmix.cl/web/wp-content/uploads/2016/03/logoPFM.png" group-title="🇦🇷 ARGENTINA", Portal Foxmix Chile [CL] ok
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/06/Portal-Formix-TV-en-vivo-Online.png" group-title="🇦🇷 ARGENTINA", Portal Foxmix Chile [CL] ok
 https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA", canal anime onegai 2
+#EXTINF:-1 tvg-logo="https://noticias.animeonegai.com/wp-content/uploads/2022/08/aoka.png" group-title="🇦🇷 ARGENTINA", 1 HD canal anime onegai 
 https://stream-us-east-1.getpublica.com/cl/250730d24riff2avlutuk7q1n0/1280x720_1900800_0_f.m3u8?i=586_10934
 
-#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA", canal anime onegai 2
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/8/8b/Anime_Onegai-logo_vertical.png/revision/latest?cb=20230416103108&path-prefix=es" group-title="🇦🇷 ARGENTINA", 1SD
 https://stream-us-east-1.getpublica.com/cl/250730d24riff2avlutuk7q1n0/960x540_1020800_1_f.m3u8?i=586_10934
 
-
-#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA", 1
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/13fd81e99a95113621107412fe4cf93e965897aa82205cd2390e83430eaab132.png" group-title="🇦🇷 ARGENTINA", 2 HD canal anime onegai 
 https://stream-us-east-1.getpublica.com/cl/250730d24rapcsgi9p1933khlg/1280x720_1900800_0_f.m3u8?i=586_10935
 
-#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA", 2
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_ssvtlxpKNtS3hrCsdm4Z_avIgXCAOm_iA2UiYOCF3kr3hVFpLcRjfLMrvKigC2lwg06vGFlXhAvtDTePr5yUbgjMAuophwRFhTXgodwFkskcK0FkPs1uFApBsRMGBsRgZp_miG6coRk/s640/OnegaiANMTV.png" group-title="🇦🇷 ARGENTINA", 2SD
 https://stream-us-east-1.getpublica.com/cl/250730d24rapcsgi9p1933khlg/960x540_1020800_1_f.m3u8?i=586_10935
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/6/65/Anime_Onegai_por_Animeka_Logo.png/revision/latest?cb=20220826075141&path-prefix=es" group-title="🇦🇷 ARGENTINA",  3 canal anime onegai 
+https://stream-us-east-1.getpublica.com/cl/250730d24s1pllc7g24df0h1kg/1280x720_3440800_0_f.m3u8?i=586_10933
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/6/6d/Nuevo_hb.png/revision/latest?cb=20230630183053&path-prefix=es" group-title="🇦🇷 ARGENTINA",  4 canal anime onegai 
+https://stream-us-east-1.getpublica.com/cl/250730d24s27crio96hsg6jct0/1280x720_1900800_0_f.m3u8?i=586_10932
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/6/6d/Nuevo_hb.png/revision/latest/scale-to-width/360?cb=20230630183053&path-prefix=es" group-title="🇦🇷 ARGENTINA", 5 canal anime onegai 
+https://stream-us-east-1.getpublica.com/cl/250730d24s2mogh9cks2grbbng/1280x720_1900800_0_f.m3u8?i=586_10931
