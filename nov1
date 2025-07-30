@@ -8300,5 +8300,20 @@ http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
 https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8?
 
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/portalfoxmix/picture?width=800&height=800" group-title="🇦🇷 ARGENTINA", Portal Foxmix Chile [CL] ok
+#EXTINF:-1 tvg-logo="https://www.portalfoxmix.cl/web/wp-content/uploads/2016/03/logoPFM.png" group-title="🇦🇷 ARGENTINA", Portal Foxmix Chile [CL] ok
 https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA", canal anime onegai 2
+https://stream-us-east-1.getpublica.com/cl/250730d24riff2avlutuk7q1n0/1280x720_1900800_0_f.m3u8?i=586_10934
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA", canal anime onegai 2
+https://stream-us-east-1.getpublica.com/cl/250730d24riff2avlutuk7q1n0/960x540_1020800_1_f.m3u8?i=586_10934
+
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA", 1
+https://stream-us-east-1.getpublica.com/cl/250730d24rapcsgi9p1933khlg/1280x720_1900800_0_f.m3u8?i=586_10935
+
+#EXTINF:-1 tvg-logo="" group-title="🇦🇷 ARGENTINA", 2
+https://stream-us-east-1.getpublica.com/cl/250730d24rapcsgi9p1933khlg/960x540_1020800_1_f.m3u8?i=586_10935
