@@ -1100,44 +1100,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609ae5cd48d3200007b0a98e/colorLogoPNG.png" tvg-group="INFANTILES", SOUTH PARK
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRge_jmkrNfR2vQWrcc0vYC_9YJEyrc_KB9sC9zxPn88AU4sYqGyZpmiDX9yxr6rw-cGTE&usqp=CAU" tvg-group="ARGENTINA",1 GAM TV
-https://v2.azulstream.com:8081/gamtv/gamtv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://catomedia.net/images_temp/web/catomedia-1.png" tvg-group="INFANTILES", Catomedia
-https://stream.catomedia.net/catomedia-app/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://oromartv.com/wp-content/themes/oromartv/imagenes/OTV400.png" tvg-group="INFANTILES", Oromar
-https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://miasonovision.ec/static/webapp/images/sonovision/SONOVISION_LOGO.png" tvg-group="INFANTILES", Sonovision  Ec
-https://us.streaminghd.cl/sonovision/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PDVNb9i.png" tvg-group="INFANTILES", Buin Somos Todos| HD | Buin
-https://bst.buin.cl/0.m3u8
-
-#EXTINF:-1 tvg-logo="https://sarapiquitvcr.com/chatsarapiquitv/static/img/logo_small.png" tvg-group="INFANTILES", STV
-https://lstv.duckdns.org:449/hls/stv.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/472_Mi_TV_Television_Clasica.png" tvg-group="INFANTILES",MITV CLASICA ok
-https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9crh886.png" tvg-group="INFANTILES",TV retro en línea | DAKOTA DEL NORTE
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bdXY34n.png" tvg-group="INFANTILES",TV Retro Palmares | Costa Rica
-https://live20.bozztv.com/akamaissh101/ssh101/tvretropalmares/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/g0xHK6Q1/telered2.jpg" tvg-group="INFANTILES",TeleRed (CR)
-https://k20.usastreams.com:8081/telered/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://costaricatelevision.com/sites/default/files/styles/og_image/public/2023-05/telesistema-costa-rica.png.webp?itok=ijec4ssU" tvg-group="INFANTILES",TELESISTEMA ok
-https://k20.usastreams.com:8081/telesistema/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://costaricatelevision.com/sites/default/files/styles/og_image/public/2023-05/telesistema-costa-rica.png.webp?itok=ijec4ssU" tvg-group="INFANTILES",TeleSistema | Opción 2 (CR)
-https://k20.usastreams.com:8081/telesistema/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/65fcbcfc0d90ce2818a6df27/1711062277120-IMD1D9L17MXHVW5GPNAJ/logo+telesur+calado+blanco+2022.png?format=1500w" tvg-group="INFANTILES",1 TELESUR
-https://s1.tvdatta.com:3582/live/telesurlive.m3u8
-
 #EXTINF:0 tvg-logo="https://static.wixstatic.com/media/0e69b2_73a15e725da441ac9acb21bcff32b928~mv2.png/v1/fill/w_360,h_360,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Artflix_Website_Spanish.png" tvg-group="INFANTILES",ArtFlix (España) (🇪🇸)
 https://amogonetworx-artflix-3-es.lg.wurl.tv/playlist.m3u8
 
@@ -1823,20 +1785,17 @@ https://tinyurl.com/mrx4kref
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991743/600x337.webp?type=channelTile" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES", TASTEMADE EN ESPAÑOL 
 https://cdn-uw2-prod.tsv2.amagi.tv:443/linear/amg00047-tastemade-es16intl-canelatv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tzNWyFx/glewed-tv.png" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES", GLEWEDTV
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/glewedtv-spanish/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BfQcHty/afv-espanol.jpg" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES", AFV ESPAÑOL
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/afv-espanol/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hjx29xyZ/distritocomedia.jpg" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES",Distrito Comedia (LATAM)
-http://190.11.225.124:5000/live/distrito_comedia_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/bbfMOP2ag7D2W_9W8TnjfMOrk_YAU-Ho1rlMHumAl7mjMWv5sMNK_h05UYufSyTaP8zkNEqQcw=s900-c-k-c0x00ffffff-no-rj" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES",humor mexico
 https://is.gd/APGr55?profile=corgol.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ffcc21a432945000762d06b/colorLogoPNG.png" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES", Comedy Central
 https://jmp2.uk/plu-5ffcc21a432945000762d06b.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hjx29xyZ/distritocomedia.jpg" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES",Distrito Comedia (LATAM)
+http://190.11.225.124:5000/live/distrito_comedia_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63a084934734f30007457b2c/colorLogoPNG.png" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES", Canal Smithsonian
 https://jmp2.uk/plu-63a084934734f30007457b2c.m3u8
@@ -1859,6 +1818,18 @@ https://stitcher.pluto.tv/stitch/hls/channel/6132429ec9e0db0007a91425/master.m3u
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6132429ec9e0db0007a91425/colorLogoPNG.png" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES",Susana Giménez ok j
 https://jmp2.uk/plu-6132429ec9e0db0007a91425.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.distro.tv/espanol-latam/img/elconflicto_600x600.jpg" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES",El Conflicto Tribunal del Pueblo TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1965
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/nosey_escandalos_logo_dark.png" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES",Nosey Escandalos (España) (🇪🇸)
+https://b8fd51ec533f400cb683d981449b20fa.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NoseyEscandalos/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dei8941/images/3/3f/Caso_cerrado_-_Logo_%28Espa%C3%B1ol%2C_octubre_de_2018%29.png/revision/latest/scale-to-width/360?cb=20220131005735&path-prefix=es" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES",Casos de la Dra. Polo
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60d393e5579a420007ee553c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c276ad3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=cde127fb-082c-4bae-bbc8-eb5fcecf263d
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60d393e5579a420007ee553c/colorLogoPNG.png" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES", Casos de la Dra. Polo ok
+https://jmp2.uk/plu-60d393e5579a420007ee553c.m3u8
+
 #EXTINF:0 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9a78a458-477a-4feb-8164-cc77e9a95b84/dfl5zqu-95e9fd9e-686d-49d3-bf81-768082f5606b.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzlhNzhhNDU4LTQ3N2EtNGZlYi04MTY0LWNjNzdlOWE5NWI4NFwvZGZsNXpxdS05NWU5ZmQ5ZS02ODZkLTQ5ZDMtYmY4MS03NjgwODJmNTYwNmIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.wkevdXyWpXe9-RW5PnqZQTGob94du1ttbnvESHmuVqQ" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES", Baywatch
 https://stitcher.pluto.tv/stitch/hls/channel/66a26a7846762a0008258d4e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=09083b97-7943-11ef-be08-92fcbbc12eaa
                    
@@ -1873,18 +1844,6 @@ https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt-4vzngM-wvUNJGkgRP6yqF6feS06-Njj7dROmkp2dU4kNg5d8AbDZONnGV2UDm3GQhQ&usqp=CAU" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES", EL WAL REY MUERTO
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertis ingId=canal&embedPartner= rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
-#EXTINF:-1 tvg-logo="https://www.distro.tv/espanol-latam/img/elconflicto_600x600.jpg" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES",El Conflicto Tribunal del Pueblo TV
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1965
-
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/nosey_escandalos_logo_dark.png" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES",Nosey Escandalos (España) (🇪🇸)
-https://b8fd51ec533f400cb683d981449b20fa.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NoseyEscandalos/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dei8941/images/3/3f/Caso_cerrado_-_Logo_%28Espa%C3%B1ol%2C_octubre_de_2018%29.png/revision/latest/scale-to-width/360?cb=20220131005735&path-prefix=es" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES",Casos de la Dra. Polo
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60d393e5579a420007ee553c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c276ad3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=cde127fb-082c-4bae-bbc8-eb5fcecf263d
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60d393e5579a420007ee553c/colorLogoPNG.png" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES", Casos de la Dra. Polo ok
-https://jmp2.uk/plu-60d393e5579a420007ee553c.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5de802659167b10009e7deba/colorLogoPNG.png" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES",Series Retro
 https://jmp2.uk/plu-5de802659167b10009e7deba.m3u8
@@ -1986,6 +1945,9 @@ https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn4QCkRz/sony-shark.jpg" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES", Shark Tank (LATAM) Sony | One |
 https://spt-sonyonesharktank-1-mx.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tzNWyFx/glewed-tv.png" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES", GLEWEDTV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/glewedtv-spanish/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Qt8SnhCS/cops.jpg" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES",Cops | LG (CL)
 https://rightsboosterltd-cops-1-cl.lg.wurl.tv/playlist.m3u8
@@ -2197,6 +2159,44 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4Nfx3KR8/avi2.jpg" group-title="👩‍👦‍👦 INFANTILES",Lim TV
 https://tv.invasivamedia.com/hls/limtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRge_jmkrNfR2vQWrcc0vYC_9YJEyrc_KB9sC9zxPn88AU4sYqGyZpmiDX9yxr6rw-cGTE&usqp=CAU" group-title="👩‍👦‍👦 INFANTILES",1 GAM TV
+https://v2.azulstream.com:8081/gamtv/gamtv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://catomedia.net/images_temp/web/catomedia-1.png" group-title="👩‍👦‍👦 INFANTILES", Catomedia
+https://stream.catomedia.net/catomedia-app/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://oromartv.com/wp-content/themes/oromartv/imagenes/OTV400.png" group-title="👩‍👦‍👦 INFANTILES", Oromar
+https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://miasonovision.ec/static/webapp/images/sonovision/SONOVISION_LOGO.png" group-title="👩‍👦‍👦 INFANTILES", Sonovision  Ec
+https://us.streaminghd.cl/sonovision/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PDVNb9i.png" group-title="👩‍👦‍👦 INFANTILES", Buin Somos Todos| HD | Buin
+https://bst.buin.cl/0.m3u8
+
+#EXTINF:-1 tvg-logo="https://sarapiquitvcr.com/chatsarapiquitv/static/img/logo_small.png" group-title="👩‍👦‍👦 INFANTILES", STV
+https://lstv.duckdns.org:449/hls/stv.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/472_Mi_TV_Television_Clasica.png" group-title="👩‍👦‍👦 INFANTILES",MITV CLASICA ok
+https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9crh886.png" group-title="👩‍👦‍👦 INFANTILES",TV retro en línea | DAKOTA DEL NORTE
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bdXY34n.png" group-title="👩‍👦‍👦 INFANTILES",TV Retro Palmares | Costa Rica
+https://live20.bozztv.com/akamaissh101/ssh101/tvretropalmares/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g0xHK6Q1/telered2.jpg" group-title="👩‍👦‍👦 INFANTILES",TeleRed (CR)
+https://k20.usastreams.com:8081/telered/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://costaricatelevision.com/sites/default/files/styles/og_image/public/2023-05/telesistema-costa-rica.png.webp?itok=ijec4ssU" group-title="👩‍👦‍👦 INFANTILES",TELESISTEMA ok
+https://k20.usastreams.com:8081/telesistema/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://costaricatelevision.com/sites/default/files/styles/og_image/public/2023-05/telesistema-costa-rica.png.webp?itok=ijec4ssU" group-title="👩‍👦‍👦 INFANTILES",TeleSistema | Opción 2 (CR)
+https://k20.usastreams.com:8081/telesistema/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/65fcbcfc0d90ce2818a6df27/1711062277120-IMD1D9L17MXHVW5GPNAJ/logo+telesur+calado+blanco+2022.png?format=1500w" group-title="👩‍👦‍👦 INFANTILES",1 TELESUR
+https://s1.tvdatta.com:3582/live/telesurlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6vvB5g3/Disney-Channel.png" group-title="👩‍👦‍👦 INFANTILES",DISNEY
 http://190.123.90.146:8000/play/a02a/index.m3u8
@@ -2980,11 +2980,6 @@ https://cdn.sensa.com.ar/live/eds/TNTSports/live_dash_cld/TNTSports.mpd?|referer
 #EXTINF:-1  tvg-logo="https://cdn.m3u.cl/logo/1606_Tempus_Stream.png" group-title="⚽ DEPORTES ",Tempus Stream tnt sports ch | eventos
 https://video1.getstreamhosting.com:1936/8116/8116/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/axBsGZpuo18ahgTOr8vsQ2KQH1hNbxPlXG3b-Ylf4CX1hB7_eHH5_yBaSQ3Hj0CQFrXyXLanMzZi" group-title="🌍 TELEVISIÓN  INTERNACIONAL", UNIVERSO NBC
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a42669eafed7349499aab7df588b3ccf:0fbff143ebd097060a377e4ade033288
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s-v2/Live/channel(universo-east)/master.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
-
 #EXTINF:-1 ch-number="124" ch-number="124" tvg-id="TNT SPORTS PREMIUM HD.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTSP.png?raw=true" group-title="⚽ DEPORTES ", TNT Sports Premium sensa
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c26371079e89206d63e1454893e881b6:adac3c3b3774e411d6e49724f7ea0ee3
@@ -3299,9 +3294,6 @@ https://cdn.sensa.com.ar/live/eds/GolfTV/live_dash_cld/GolfTV.mpd?|referer=https
 #KODIPROP:inputstream.adaptive.license_key=a42669eafed7349499aab7df588b3ccf:0fbff143ebd097060a377e4ade033288
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s-v2/Live/channel(universo-east)/master.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
-#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/BF6805ED-1E7C-4D7F-8380-A8FFBEE5C4DD/3-1x1.png/900" group-title="🌍 TELEVISIÓN  INTERNACIONAL", TELEMUNDO FLORIDA
-https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
-
 #EXTINF:-1 tvg-logo="https://media.telemundopr.com/2022/08/WKAQ-tvOS_App-Store-1280x768-3.png?fit=1280%2C768&quality=85&strip=all" group-title="🌍 TELEVISIÓN  INTERNACIONAL", TELEMUNDO PR
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8
 
@@ -3323,10 +3315,7 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/446FABE6-D80D-406D-9254-99DCBF06DE3D/3-1x1.png/900" group-title="🌍 TELEVISIÓN  INTERNACIONAL", TELEMUNDO AL DÍA 
 https://d1rqgw5gocwo9i.cloudfront.net/10009/99991747/hls/master.m3u8?ads.xumo_channelId=99991747
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/9c/60/52/9c60522c8605b531d55f5fd7975f9de3.jpg" group-title="🌍 TELEVISIÓN  INTERNACIONAL", TELEMUNDO CA LATINO
-https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsL3Sb7D/telemundo1.jpg" group-title="🌍 TELEVISIÓN  INTERNACIONAL",Telemundo | Florida (Estados Unidos)
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/BF6805ED-1E7C-4D7F-8380-A8FFBEE5C4DD/3-1x1.png/900" group-title="🌍 TELEVISIÓN  INTERNACIONAL", TELEMUNDO FLORIDA
 https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdzvqF07/punto2.jpg" group-title="🌍 TELEVISIÓN  INTERNACIONAL",Telemundo | Punto 2 | Puerto Rico (PR)
@@ -3441,11 +3430,11 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/154px-Las_Estrellas_logo_%282016%29.svg.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL", LAS ESTRELLAS SD 190 
 http://190.123.90.146:8000/play/a02o/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Las_Estrellas_2020.png/revision/latest?cb=20200703032920&path-prefix=es" group-title="🌍 TELEVISIÓN  INTERNACIONAL",Las Estrellas | Opción 2 (MX)
+https://tvportalmx.com:3604/live/lasestrellaslive.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Las_Estrellas_2017_Navidad.svg/revision/latest/scale-to-width-down/250?cb=20230202024114&path-prefix=es" group-title="🌍 TELEVISIÓN  INTERNACIONAL", LAS ESTRELLAS .1 
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gkMW5v6P/Lasestrellas.jpg" group-title="🌍 TELEVISIÓN  INTERNACIONAL",Las Estrellas | Opción 2 (MX)
-https://tvportalmx.com:3604/live/lasestrellaslive.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Coraz%C3%B3n_%28TV_channel%29_logo_2021.png/220px-Coraz%C3%B3n_%28TV_channel%29_logo_2021.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL", AZ CORAZON
 https://azt-cz.otteravision.com/azt/cz/cz_720p_high.m3u8
@@ -3480,13 +3469,13 @@ https://estrellatv-roku.amagi.tv:443/playlistR1080p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HRrkhLq.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL", ESTRELLA NEWS 
 https://estrellanews-roku.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991776/600x337.webp?type=channelTile" group-title="🌍 TELEVISIÓN  INTERNACIONAL", ESTRELLA NEWS ok
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HRrkhLq.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL", ESTRELLA NEWS ok
 https://dbrb49pjoymg4.cloudfront.net/10001/99991776/hls/playlist.m3u8?ads.xumo_channelId=99991776
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/S3n3cqN/estrellatv.jpg" group-title="🌍 TELEVISIÓN  INTERNACIONAL", ESTRELLA TV ok
+#EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/vGETUo5z3KPqsFkvyHdvRm.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL", ESTRELLA TV ok
 https://estrellatv-plex.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://canvas-bridge.tubitv.com/up-vHl6hkyYFwUuzbN7XQKDetYg=/978x576/smart/img.adrise.tv/6331ce6b-99ed-4842-99b1-bbb0af054745.jpg" group-title="🌍 TELEVISIÓN  INTERNACIONAL", ESTRELLA GAMES ok
+#EXTINF:-1 tvg-logo="https://estrellamedia.com/wp-content/uploads/2023/03/2.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL", ESTRELLA GAMES ok
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellagames-distrotv/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Canal1Colombia2024.svg/1200px-Canal1Colombia2024.svg.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL",1 uno (Colombia) (🇨🇴)
@@ -3536,13 +3525,13 @@ https://ch1-tva.duin.dev/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Azteca_35_2020.png/revision/latest?cb=20201105021918" group-title="🌍 TELEVISIÓN  INTERNACIONAL", A+ GUATE 
 https://ch2-tva.duin.dev/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dzh3bzz6/canal3gt.jpg" group-title="🌍 TELEVISIÓN  INTERNACIONAL", Canal 3 | Multivisión (GT)
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/F5oOjL6LyWuIycDHIuAwRirHeVn8dWSy2LeE3RjNRjo3W60O3GMoAFzu94EQ8vXLUPMQ=w240-h480-rw" group-title="🌍 TELEVISIÓN  INTERNACIONAL", Canal 3 | Multivisión (GT)
 https://stream.digitalgt.com:3136/live/multivisionlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hvJw2wh7/canal3guate.jpg" group-title="🌍 TELEVISIÓN  INTERNACIONAL", Canal 3 | Super Canal (GT)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Canal3_Guatemala_2022-present.svg/revision/latest/scale-to-width-down/200?cb=20230913141703" group-title="🌍 TELEVISIÓN  INTERNACIONAL", Canal 3 | Super Canal (GT)
 https://alba-gt-chapintv-c3.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hvJw2wh7/canal3guate.jpg" group-title="🌍 TELEVISIÓN  INTERNACIONAL",canal 3 Guatemala 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Canal_3_Guatemala_2022.png/250px-Canal_3_Guatemala_2022.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL",canal 3 Guatemala 
 https://d4bee8qaav6x0.cloudfront.net:443/original.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Logotelevisiete.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL",canal 7 guatemala
