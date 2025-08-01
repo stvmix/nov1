@@ -1815,11 +1815,44 @@ https://stmv5.voxtvhd.com.br/radiopoesia/radiopoesia/playlist.m3u8?PlaylistM3UCL
 https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
 
 
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE11rlG9TaVncXzpkSl83_5lSivtKGTsa87I6WDSqNqaMt64lqYE0vWxOITm-ODxRdj7s&usqp=CAU" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES", Anger Management Español (🇪🇸)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01264-vidaausainc-angermanagementespanol-vidaa/playlist.m3u8
-               
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qt8SnhCS/cops.jpg" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES",Cops | LG (CL)
+https://rightsboosterltd-cops-1-cl.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:0  tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F4a134b06-1d11-4ff9-834e-35e2a4fb5050%2F5-Minute_Crafts_Horizontalrdx.jpg" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES", 5 Minute Crafts (España) (🇪🇸)
+https://tinyurl.com/mrx4kref
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tzNWyFx/glewed-tv.png" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES", GLEWEDTV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/glewedtv-spanish/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BfQcHty/afv-espanol.jpg" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES", AFV ESPAÑOL
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/afv-espanol/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991743/600x337.webp?type=channelTile" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES", TASTEMADE EN ESPAÑOL 
+https://cdn-uw2-prod.tsv2.amagi.tv:443/linear/amg00047-tastemade-es16intl-canelatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63a084934734f30007457b2c/colorLogoPNG.png" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES", Canal Smithsonian
+https://jmp2.uk/plu-63a084934734f30007457b2c.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/613237a1c9e0db0007a91350/colorLogoPNG.png" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES",Telefe j
+https://jmp2.uk/plu-613237a1c9e0db0007a91350.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5de91cf02fc07c0009910465/colorLogoPNG.png" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES",Telefe | Éxitos j
+https://jmp2.uk/plu-5de91cf02fc07c0009910465.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5de91cf02fc07c0009910465/featuredImage.jpg?auto=&q=70&fit=fill&fill=blur&ixlib=react-9.1.5" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES",Pluto TV Telefe Hits (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91cf02fc07c0009910465/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5c a04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=fal se&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb- b532-0242ac110002&ID de usuario=
+
+#EXTINF:-1 tvg-logo="https://www.minutoar.com.ar/u/fotografias/m/2021/9/2/f425x230-77645_91627_5050.jpg" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES",Susana Giménez [Entretenimiento] [147] [AR]
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6132429ec9e0db0007a91425/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6132429ec9e0db0007a91425/colorLogoPNG.png" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES", Susana Giménez OK
+https://stitcher.pluto.tv/stitch/hls/channel/6132429ec9e0db0007a91425/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6132429ec9e0db0007a91425/colorLogoPNG.png" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES",Susana Giménez ok j
+https://jmp2.uk/plu-6132429ec9e0db0007a91425.m3u8
+
 #EXTINF:0 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9a78a458-477a-4feb-8164-cc77e9a95b84/dfl5zqu-95e9fd9e-686d-49d3-bf81-768082f5606b.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzlhNzhhNDU4LTQ3N2EtNGZlYi04MTY0LWNjNzdlOWE5NWI4NFwvZGZsNXpxdS05NWU5ZmQ5ZS02ODZkLTQ5ZDMtYmY4MS03NjgwODJmNTYwNmIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.wkevdXyWpXe9-RW5PnqZQTGob94du1ttbnvESHmuVqQ" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES", Baywatch
 https://stitcher.pluto.tv/stitch/hls/channel/66a26a7846762a0008258d4e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=09083b97-7943-11ef-be08-92fcbbc12eaa
                    
@@ -1831,6 +1864,9 @@ https://jmp2.uk/plu-63eb95baa99571000898a078.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hjx29xyZ/distritocomedia.jpg" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES",Distrito Comedia (LATAM)
 http://190.11.225.124:5000/live/distrito_comedia_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/bbfMOP2ag7D2W_9W8TnjfMOrk_YAU-Ho1rlMHumAl7mjMWv5sMNK_h05UYufSyTaP8zkNEqQcw=s900-c-k-c0x00ffffff-no-rj" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES",humor mexico
+https://is.gd/APGr55?profile=corgol.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ffcc21a432945000762d06b/colorLogoPNG.png" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES", Comedy Central
 https://jmp2.uk/plu-5ffcc21a432945000762d06b.m3u8
@@ -1852,51 +1888,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60d393e5579a420007ee553c/colorLogoPNG.png" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES", Casos de la Dra. Polo ok
 https://jmp2.uk/plu-60d393e5579a420007ee553c.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/613237a1c9e0db0007a91350/colorLogoPNG.png" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES",Telefe j
-https://jmp2.uk/plu-613237a1c9e0db0007a91350.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5de91cf02fc07c0009910465/colorLogoPNG.png" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES",Telefe | Éxitos j
-https://jmp2.uk/plu-5de91cf02fc07c0009910465.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5de91cf02fc07c0009910465/featuredImage.jpg?auto=&q=70&fit=fill&fill=blur&ixlib=react-9.1.5" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES",Pluto TV Telefe Hits (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91cf02fc07c0009910465/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5c a04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=fal se&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb- b532-0242ac110002&ID de usuario=
-
-#EXTINF:-1 tvg-logo="https://www.minutoar.com.ar/u/fotografias/m/2021/9/2/f425x230-77645_91627_5050.jpg" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES",Susana Giménez [Entretenimiento] [147] [AR]
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6132429ec9e0db0007a91425/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6132429ec9e0db0007a91425/colorLogoPNG.png" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES", Susana Giménez OK
-https://stitcher.pluto.tv/stitch/hls/channel/6132429ec9e0db0007a91425/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6132429ec9e0db0007a91425/colorLogoPNG.png" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES",Susana Giménez ok j
-https://jmp2.uk/plu-6132429ec9e0db0007a91425.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qt8SnhCS/cops.jpg" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES",Cops | LG (CL)
-https://rightsboosterltd-cops-1-cl.lg.wurl.tv/playlist.m3u8
-
-#EXTINF:0  tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F4a134b06-1d11-4ff9-834e-35e2a4fb5050%2F5-Minute_Crafts_Horizontalrdx.jpg" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES", 5 Minute Crafts (España) (🇪🇸)
-https://tinyurl.com/mrx4kref
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tzNWyFx/glewed-tv.png" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES", GLEWEDTV
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/glewedtv-spanish/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/S3n3cqN/estrellatv.jpg" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES", ESTRELLA TV ok
-https://estrellatv-plex.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991776/600x337.webp?type=channelTile" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES", ESTRELLA NEWS ok
-https://dbrb49pjoymg4.cloudfront.net/10001/99991776/hls/playlist.m3u8?ads.xumo_channelId=99991776
-
-#EXTINF:-1 tvg-logo="https://canvas-bridge.tubitv.com/up-vHl6hkyYFwUuzbN7XQKDetYg=/978x576/smart/img.adrise.tv/6331ce6b-99ed-4842-99b1-bbb0af054745.jpg" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES", ESTRELLA GAMES ok
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellagames-distrotv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BfQcHty/afv-espanol.jpg" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES", AFV ESPAÑOL
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/afv-espanol/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991743/600x337.webp?type=channelTile" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES", TASTEMADE EN ESPAÑOL 
-https://cdn-uw2-prod.tsv2.amagi.tv:443/linear/amg00047-tastemade-es16intl-canelatv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63a084934734f30007457b2c/colorLogoPNG.png" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES", Canal Smithsonian
-https://jmp2.uk/plu-63a084934734f30007457b2c.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5de802659167b10009e7deba/colorLogoPNG.png" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES",Series Retro
 https://jmp2.uk/plu-5de802659167b10009e7deba.m3u8
@@ -2146,8 +2137,11 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=13012
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JhZ1CLbN/sonic.jpg" group-title="👩‍👦‍👦 INFANTILES",Sonic (ES)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2260
 
-#EXTINF:-1 tvg-logo="https://emisorasgt.com/wp-content/uploads/2023/04/full-channel.webp" group-title="👩‍👦‍👦 INFANTILES",full channell tv
-https://cdn.streamhispanatv.net:3446/live/fullchannellive.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rytdJxxm/wepa.jpg" group-title="👩‍👦‍👦 INFANTILES",Wepa TV (LATAM)
+https://live20.bozztv.com/akamaissh101/ssh101/tvwxfxxgo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://radiocostarica.net/sites/default/files/styles/player_image/public/2024-05/Costa%20Rica%20Channel-Costa%20Rica.png.webp?itok=jdj8aeqR" group-title="👩‍👦‍👦 INFANTILES",costa rica channel
+https://video0.rogohosting.com:19360/8006/8006.m3u8
 
 #EXTINF:-1 tvg-logo="https://ticatvplus.com/wp-content/uploads/2024/11/logo-1-1024x384.png" group-title="👩‍👦‍👦 INFANTILES",tv tica
 https://video.misistemareseller.com:1936/tvtica/tvtica/playlist.m3u8
@@ -2192,11 +2186,11 @@ https://live20.bozztv.com/akamaissh101/ssh101/uvatvdh/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://img.genially.com/66ead9b85ed139001f43250c/78a07c0b-50bf-46bf-a67d-8de953074008.png" group-title="👩‍👦‍👦 INFANTILES",net channell venezuela
 https://media.streambrothers.com:19360/8158/8158.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rytdJxxm/wepa.jpg" group-title="👩‍👦‍👦 INFANTILES",Wepa TV (LATAM)
-https://live20.bozztv.com/akamaissh101/ssh101/tvwxfxxgo/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZRWWKryt/wowc.jpg" group-title="👩‍👦‍👦 INFANTILES",Wow | Películas (LATAM)
 https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://emisorasgt.com/wp-content/uploads/2023/04/full-channel.webp" group-title="👩‍👦‍👦 INFANTILES",full channell tv
+https://cdn.streamhispanatv.net:3446/live/fullchannellive.m3u8
 
 #EXTINF:-1 tvg-logo="https://ssiptvarg.weebly.com/uploads/1/3/9/6/139612966/neo-tv-digital-16-1_orig.png" group-title="👩‍👦‍👦 INFANTILES", NEO TV DIGITAL 16.1
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
@@ -2986,7 +2980,7 @@ https://cdn.sensa.com.ar/live/eds/TNTSports/live_dash_cld/TNTSports.mpd?|referer
 #EXTINF:-1  tvg-logo="https://cdn.m3u.cl/logo/1606_Tempus_Stream.png" group-title="⚽ DEPORTES ",Tempus Stream tnt sports ch | eventos
 https://video1.getstreamhosting.com:1936/8116/8116/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/axBsGZpuo18ahgTOr8vsQ2KQH1hNbxPlXG3b-Ylf4CX1hB7_eHH5_yBaSQ3Hj0CQFrXyXLanMzZi" group-title="⚽ DEPORTES ", UNIVERSO NBC
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/axBsGZpuo18ahgTOr8vsQ2KQH1hNbxPlXG3b-Ylf4CX1hB7_eHH5_yBaSQ3Hj0CQFrXyXLanMzZi" group-title="🌍 TELEVISIÓN  INTERNACIONAL", UNIVERSO NBC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a42669eafed7349499aab7df588b3ccf:0fbff143ebd097060a377e4ade033288
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s-v2/Live/channel(universo-east)/master.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
@@ -3300,18 +3294,16 @@ https://cdn.sensa.com.ar/live/eds/GolfTV/live_dash_cld/GolfTV.mpd?|referer=https
 
 
 
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/9c/60/52/9c60522c8605b531d55f5fd7975f9de3.jpg" group-title="🌍 TELEVISIÓN  INTERNACIONAL", TELEMUNDO CA LATINO
-https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/axBsGZpuo18ahgTOr8vsQ2KQH1hNbxPlXG3b-Ylf4CX1hB7_eHH5_yBaSQ3Hj0CQFrXyXLanMzZi" group-title="🌍 TELEVISIÓN  INTERNACIONAL", UNIVERSO NBC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a42669eafed7349499aab7df588b3ccf:0fbff143ebd097060a377e4ade033288
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s-v2/Live/channel(universo-east)/master.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/BF6805ED-1E7C-4D7F-8380-A8FFBEE5C4DD/3-1x1.png/900" group-title="🌍 TELEVISIÓN  INTERNACIONAL", TELEMUNDO FLORIDA
 https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.telemundopr.com/2022/08/WKAQ-tvOS_App-Store-1280x768-3.png?fit=1280%2C768&quality=85&strip=all" group-title="🌍 TELEVISIÓN  INTERNACIONAL", TELEMUNDO PR
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8
-
-#EXTINF:-1 tvg-logo="https://davinci.zappingtv.com/gato/media/450/canales/white/telemundo.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL",TELEMUNDO INTER  190
-http://190.123.90.146:8000/play/a02u/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/3/36/Telemundopr.png/revision/latest?cb=20231026153837" group-title="🌍 TELEVISIÓN  INTERNACIONAL", TELEMUNDO PR
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8
@@ -3331,17 +3323,20 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/446FABE6-D80D-406D-9254-99DCBF06DE3D/3-1x1.png/900" group-title="🌍 TELEVISIÓN  INTERNACIONAL", TELEMUNDO AL DÍA 
 https://d1rqgw5gocwo9i.cloudfront.net/10009/99991747/hls/master.m3u8?ads.xumo_channelId=99991747
 
-#EXTINF:-1 tvg-id="USBB3200016HO" tvg-logo="https://i.postimg.cc/qRHv3bMp/telem-aldia.jpg" group-title="🌍 TELEVISIÓN  INTERNACIONAL",Telemundo | Al Día | Local ahora (EE. UU.)
-https://s8host3.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config10/channel-hls/v2/876a4335dadf489b/88889750/master.m3u8?ads.cdnhost=s8host3.localnow.api.cms.amdvi ds.com&ads.playbackid=446FABE6-D80D-406D-9254-99DCBF06DE3D&ads.n1=rule_id&ads.v1=F0F2D67E-43F6-4794-9B68-414843159DD7-1714063134&ads.n3=qp_content_id&ads.v3=446FABE6-D80D-406D-9254-99DCBF06DE3D&ads.n4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/9c/60/52/9c60522c8605b531d55f5fd7975f9de3.jpg" group-title="🌍 TELEVISIÓN  INTERNACIONAL", TELEMUNDO CA LATINO
+https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsL3Sb7D/telemundo1.jpg" group-title="🌍 TELEVISIÓN  INTERNACIONAL",Telemundo | Florida (Estados Unidos)
 https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdzvqF07/punto2.jpg" group-title="🌍 TELEVISIÓN  INTERNACIONAL",Telemundo | Punto 2 | Puerto Rico (PR)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mkxDLjxY/telemundo-PUERTO.jpg" group-title="🌍 TELEVISIÓN  INTERNACIONAL",Telemundo | Puerto Rico (PR)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdzvqF07/punto2.jpg" group-title="🌍 TELEVISIÓN  INTERNACIONAL",Telemundo | Punto 2 | Puerto Rico (PR)
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
+#EXTINF:-1 tvg-logo="https://davinci.zappingtv.com/gato/media/450/canales/white/telemundo.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL",TELEMUNDO INTER  190
+http://190.123.90.146:8000/play/a02u/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1580968055722713089/52RVFOpS_400x400.jpg" group-title="🌍 TELEVISIÓN  INTERNACIONAL",SITV 
 http://190.122.104.210:5080/LiveApp/streams/sitv2.m3u8
@@ -3392,7 +3387,6 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/638e583af9c7b007a6cc2a21_a3int.png" tvg-group="ARGENTINA", Antena 3 Internacional 
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/613_La_1.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL", LA1 dh
-https://dh6vo1bovy43s.cloudfront.net/La_1_ES.m3u8
 
 #EXTINF:-1  tvg-logo="https://cdn.m3u.cl/logo/614_La_2.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL",La 2 | ES
 https://ztnr.rtve.es/ztnr/1688885.m3u8?PlaylistM3UCL
@@ -3403,11 +3397,8 @@ https://tinyurl.com/4z3cwea2?.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/Canal_12_2018.png/revision/latest?cb=20210622012639&path-prefix=es" group-title="🌍 TELEVISIÓN  INTERNACIONAL",12 (Rep. Dominicana) (🇩🇴)
 https://rdn.essastream.com:3258/live/telecanal12live.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1934699897757773824/bxkvHycz_400x400.jpg" group-title="🌍 TELEVISIÓN  INTERNACIONAL",14 (Mexico) (🇲🇽)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/CanalCatorce2020.png/revision/latest/scale-to-width-down/250?cb=20210415165958&path-prefix=es" group-title="🌍 TELEVISIÓN  INTERNACIONAL",14 (Mexico) (🇲🇽)
 https://s5.mexside.net:1936/canal14/canal14/.m3u8
-
-#EXTINF:-1 tvg-logo="https://s3-mspro.nyc3.cdn.digitaloceanspaces.com/tenant/62ed6e625a88e7000951ac98/mediaLibrary/photo/2e324b2a-7bc2-4eee-bba3-958741c0962e-medium-standard-q100.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL",2 Quellon (Chile) (🇨🇱)
-https://marine2.miplay.cl/canal2quellon/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/Repretel62024.svg/revision/latest/scale-to-width-down/200?cb=20241001185943&path-prefix=es" group-title="🌍 TELEVISIÓN  INTERNACIONAL",6 Repretel (Costa Rica) (🇨🇷)
 https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
@@ -3434,7 +3425,6 @@ https://cloudvideo.servers10.com:8081/8132/tracks-v1a1/mono.m3u8
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Posible-logo-de-venevision-2015-v1.png/revision/latest/scale-to-width-down/250?cb=20210604191654&path-prefix=es" group-title="🌍 TELEVISIÓN  INTERNACIONAL", Venevisión (1080p)
-https://venevision.akamaized.net/hls/live/2098814/VENEVISION/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/85D02247-D040-491C-82C3-8BFAC97A7B21/3-1x1.png/900" group-title="🌍 TELEVISIÓN  INTERNACIONAL", Azteca Internacional | HD | México azt
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
@@ -3454,13 +3444,16 @@ http://190.123.90.146:8000/play/a02o/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Las_Estrellas_2017_Navidad.svg/revision/latest/scale-to-width-down/250?cb=20230202024114&path-prefix=es" group-title="🌍 TELEVISIÓN  INTERNACIONAL", LAS ESTRELLAS .1 
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gkMW5v6P/Lasestrellas.jpg" group-title="🌍 TELEVISIÓN  INTERNACIONAL",Las Estrellas | Opción 2 (MX)
+https://tvportalmx.com:3604/live/lasestrellaslive.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Coraz%C3%B3n_%28TV_channel%29_logo_2021.png/220px-Coraz%C3%B3n_%28TV_channel%29_logo_2021.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL", AZ CORAZON
 https://azt-cz.otteravision.com/azt/cz/cz_720p_high.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/TV_Azteca_Clic_2023_Official.svg/revision/latest/scale-to-width-down/275?cb=20230630203519" group-title="🌍 TELEVISIÓN  INTERNACIONAL", AZ CLIC
 https://azt-cl.otteravision.com/azt/cl/cl_1080p.m3u8
 
-#EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/grupo_imagen_logo.jpg" group-title="🌍 TELEVISIÓN  INTERNACIONAL", IMAGEN TV ok
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Imagen-Television-en-vivo-Online-696x392.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL", IMAGEN TV ok
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 
 #EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/16af5933-c8e0-4d5b-8488-45339c5b0252/df370sk-a879aab8-13d0-4b4d-ad86-83b503184afe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE2YWY1OTMzLWM4ZTAtNGQ1Yi04NDg4LTQ1MzM5YzViMDI1MlwvZGYzNzBzay1hODc5YWFiOC0xM2QwLTRiNGQtYWQ4Ni04M2I1MDMxODRhZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.H8DsHNAxD2uGYEx21R2BA2OmADNmIm1Dcxlx4PykGao" group-title="🌍 TELEVISIÓN  INTERNACIONAL", IMAGEN TV igd
@@ -3487,8 +3480,16 @@ https://estrellatv-roku.amagi.tv:443/playlistR1080p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HRrkhLq.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL", ESTRELLA NEWS 
 https://estrellanews-roku.amagi.tv/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Canal1Colombia2024.svg/1200px-Canal1Colombia2024.svg.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL",1 uno (Colombia) (🇨🇴)
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991776/600x337.webp?type=channelTile" group-title="🌍 TELEVISIÓN  INTERNACIONAL", ESTRELLA NEWS ok
+https://dbrb49pjoymg4.cloudfront.net/10001/99991776/hls/playlist.m3u8?ads.xumo_channelId=99991776
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S3n3cqN/estrellatv.jpg" group-title="🌍 TELEVISIÓN  INTERNACIONAL", ESTRELLA TV ok
+https://estrellatv-plex.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://canvas-bridge.tubitv.com/up-vHl6hkyYFwUuzbN7XQKDetYg=/978x576/smart/img.adrise.tv/6331ce6b-99ed-4842-99b1-bbb0af054745.jpg" group-title="🌍 TELEVISIÓN  INTERNACIONAL", ESTRELLA GAMES ok
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellagames-distrotv/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Canal1Colombia2024.svg/1200px-Canal1Colombia2024.svg.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL",1 uno (Colombia) (🇨🇴)
 
 #EXTINF:0  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/ATV_Sur_2018_2.svg/revision/latest/scale-to-width-down/300?cb=20210522015013&path-prefix=es" group-title="🌍 TELEVISIÓN  INTERNACIONAL", ATV Sur (Peru) (🇵🇪) al
 https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
@@ -3541,16 +3542,22 @@ https://stream.digitalgt.com:3136/live/multivisionlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hvJw2wh7/canal3guate.jpg" group-title="🌍 TELEVISIÓN  INTERNACIONAL", Canal 3 | Super Canal (GT)
 https://alba-gt-chapintv-c3.stream.mediatiquestream.com/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hvJw2wh7/canal3guate.jpg" group-title="🌍 TELEVISIÓN  INTERNACIONAL",canal 3 Guatemala 
+https://d4bee8qaav6x0.cloudfront.net:443/original.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Logotelevisiete.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL",canal 7 guatemala
+https://alba-gt-chapintv-c7.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3668-800x450-FFFFFF.jpg" group-title="🌍 TELEVISIÓN  INTERNACIONAL",canal 10 costarica
+https://acceso.radiosportstv.online:3285/hybrid/play.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LnrzKMv/11hn.jpg" group-title="🌍 TELEVISIÓN  INTERNACIONAL",Canal 11 (HN)
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gkMW5v6P/Lasestrellas.jpg" group-title="🌍 TELEVISIÓN  INTERNACIONAL",Las Estrellas | Opción 2 (MX)
-https://tvportalmx.com:3604/live/lasestrellaslive.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O4mk6Er.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL", Bolivisión | HD | la paz
 https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/VTV_HN_logo_2019.png/1200px-VTV_HN_logo_2019.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL", VTV HN
+ 
+ #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/VTV_HN_logo_2019.png/1200px-VTV_HN_logo_2019.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL", VTV HN
 https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fZ1Er43.png" group-title="🌍 TELEVISIÓN  INTERNACIONAL", Ecuavisa | FHD | Quito
@@ -8660,26 +8667,11 @@ https://streamunoapp.com:3255/live/palmartvlive.m3u8
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/aion-tv.png" group-title="🇦🇷 ARGENTINA",aion tv
 https://vdo.aiontelevision.com:3735/live/aiontelevisionlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://alba-bo-bolivision.cdn.mediatiquepress.com/wp-content/uploads/2025/04/alba_bo_bolivision_logo-2-300x41.png" group-title="🇦🇷 ARGENTINA",bolivision bolivia
-https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8?
- 
 #EXTINF:-1 tvg-logo="https://vepaco.com/wp-content/uploads/2022/09/logos-Vepaco-Servicios-2-08.png" group-title="🇦🇷 ARGENTINA",bta
 https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1658-294x165-FFFFFF.jpg" group-title="🇦🇷 ARGENTINA",punta cana tv
 https://rdn.essastream.com:3544/live/puntacanatvlive.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3668-800x450-FFFFFF.jpg" group-title="🇦🇷 ARGENTINA",canal 10 costarica
-https://acceso.radiosportstv.online:3285/hybrid/play.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Logotelevisiete.png" group-title="🇦🇷 ARGENTINA",canal 7 guatemala
-https://alba-gt-chapintv-c7.stream.mediatiquestream.com/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2950-800x450-FFFFFF.jpg" group-title="🇦🇷 ARGENTINA",costarica channel
-https://video0.rogohosting.com:19360/8006/8006.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/4/4e/Logo_Canal_3_2022.png/revision/latest/scale-to-width-down/200?cb=20230303175702&path-prefix=es" group-title="🇦🇷 ARGENTINA",canal 23 Guatemala 
-https://d4bee8qaav6x0.cloudfront.net:443/original.m3u8
  
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/cinema-20157975.logowik.com.webp" group-title="🇦🇷 ARGENTINA",cinema+
 https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/index.m3u8
@@ -8687,18 +8679,9 @@ https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/E7IUOMM2Fxo/hqdefault.jpg" group-title="🇦🇷 ARGENTINA",san vito tv
 https://acceso.radiosportstv.online:3150/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvcolorcanal36.com/wp-content/uploads/2022/09/para-app-tv-color.png" group-title="🇦🇷 ARGENTINA",tv color canal 36
-https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
-
 #EXTINF:-1 tvg-logo="https://radiotvnorselva.com/wp-content/uploads/2024/10/LOGO-NORSELVA-RIOJA.png" group-title="🇦🇷 ARGENTINA",norselva
 https://live.obslivestream.com/norselvatv/index.m3u8
  
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/bbfMOP2ag7D2W_9W8TnjfMOrk_YAU-Ho1rlMHumAl7mjMWv5sMNK_h05UYufSyTaP8zkNEqQcw=s900-c-k-c0x00ffffff-no-rj" group-title="🇦🇷 ARGENTINA",humor mexico
-https://is.gd/APGr55?profile=corgol.m3u8
-
-#EXTINF:-1 tvg-logo="https://anatel.cl/cms/wp-content/uploads/2023/07/la-red-blanco2x.png" group-title="🇦🇷 ARGENTINA",la red
-https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VShjB3o.png" group-title="🇦🇷 ARGENTINA",sas tv
 https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
 
@@ -8736,12 +8719,6 @@ https://vdo1.streamgato.us:3342/live/televercanal12live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.chatytvgratis.net/wp-content/uploads/2014/10/migentv3.0.png?fit=225%2C225&ssl=1" group-title="🇦🇷 ARGENTINA",Mi gente
 https://byecableiptvnew3.ddns.net/ENVIVOMIGENTE/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nOxefflMd0qbIwfvMDE-Np7WFVQFg4VHmLdpV2K7J_rQ=s160-c-k-c0x00ffffff-no-rj" group-title="🇦🇷 ARGENTINA",yes tv Costarica
-https://cootv.cootel.com.ni:8095/Canal24_YesTV/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/TV-Sur-Canal-9-en-vivo-Online.png" group-title="🇦🇷 ARGENTINA",tv sur canal 9
-http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://logosnicas.com/wp-content/uploads/2024/02/estudio_tn8.png" group-title="🇦🇷 ARGENTINA",canal 8 nicaragua
 https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8?
@@ -8808,9 +8785,6 @@ https://acceso.radiosportstv.online:3150/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/76tB0XPQ/telebrunc2.jpg" group-title="🇦🇷 ARGENTINA",TeleBrunca | Puntarenas (CR)
 http://k4.usastreams.com/telebrunca/telebrunca/chunklist_w684257911.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/sX23N08w/ticavision3.jpg" group-title="🇦🇷 ARGENTINA",Ticavisión 🇨🇷 (CR)
-https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wjxMKS4J/CRISTAL.jpg" group-title="🇦🇷 ARGENTINA",Estacion Cristal (PY)
 https://live.enhdtv.com:19360/8052/8052.m3u8
