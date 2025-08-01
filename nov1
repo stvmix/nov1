@@ -1817,11 +1817,11 @@ https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE11rlG9TaVncXzpkSl83_5lSivtKGTsa87I6WDSqNqaMt64lqYE0vWxOITm-ODxRdj7s&usqp=CAU" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES", Anger Management Español (🇪🇸)
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qt8SnhCS/cops.jpg" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES",Cops | LG (CL)
-https://rightsboosterltd-cops-1-cl.lg.wurl.tv/playlist.m3u8
-
 #EXTINF:0  tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F4a134b06-1d11-4ff9-834e-35e2a4fb5050%2F5-Minute_Crafts_Horizontalrdx.jpg" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES", 5 Minute Crafts (España) (🇪🇸)
 https://tinyurl.com/mrx4kref
+
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991743/600x337.webp?type=channelTile" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES", TASTEMADE EN ESPAÑOL 
+https://cdn-uw2-prod.tsv2.amagi.tv:443/linear/amg00047-tastemade-es16intl-canelatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tzNWyFx/glewed-tv.png" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES", GLEWEDTV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/glewedtv-spanish/master.m3u8
@@ -1829,8 +1829,14 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BfQcHty/afv-espanol.jpg" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES", AFV ESPAÑOL
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/afv-espanol/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991743/600x337.webp?type=channelTile" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES", TASTEMADE EN ESPAÑOL 
-https://cdn-uw2-prod.tsv2.amagi.tv:443/linear/amg00047-tastemade-es16intl-canelatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hjx29xyZ/distritocomedia.jpg" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES",Distrito Comedia (LATAM)
+http://190.11.225.124:5000/live/distrito_comedia_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/bbfMOP2ag7D2W_9W8TnjfMOrk_YAU-Ho1rlMHumAl7mjMWv5sMNK_h05UYufSyTaP8zkNEqQcw=s900-c-k-c0x00ffffff-no-rj" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES",humor mexico
+https://is.gd/APGr55?profile=corgol.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ffcc21a432945000762d06b/colorLogoPNG.png" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES", Comedy Central
+https://jmp2.uk/plu-5ffcc21a432945000762d06b.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63a084934734f30007457b2c/colorLogoPNG.png" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES", Canal Smithsonian
 https://jmp2.uk/plu-63a084934734f30007457b2c.m3u8
@@ -1862,15 +1868,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/63eb95baa99571000898a078/master.m3u
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63eb95baa99571000898a078/colorLogoPNG.png" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES",MacGyver ok
 https://jmp2.uk/plu-63eb95baa99571000898a078.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hjx29xyZ/distritocomedia.jpg" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES",Distrito Comedia (LATAM)
-http://190.11.225.124:5000/live/distrito_comedia_hd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/bbfMOP2ag7D2W_9W8TnjfMOrk_YAU-Ho1rlMHumAl7mjMWv5sMNK_h05UYufSyTaP8zkNEqQcw=s900-c-k-c0x00ffffff-no-rj" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES",humor mexico
-https://is.gd/APGr55?profile=corgol.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ffcc21a432945000762d06b/colorLogoPNG.png" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES", Comedy Central
-https://jmp2.uk/plu-5ffcc21a432945000762d06b.m3u8
-
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62fa81ccd1a7e90007c1ada0/thumbnail.jpg" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES", A MC en español
 https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
 
@@ -1894,22 +1891,25 @@ https://jmp2.uk/plu-5de802659167b10009e7deba.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3fx8gfR/co.jpg" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES",Como dice el dicho | Vix (EE. UU.)
 https://jmp2.uk/sam-USBD2700004ME.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13v462Q8/vix-re.jpg" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES",Vix | Rebelde (MX)
+https://jmp2.uk/sam-USBD1700018II.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Cxf0NH1r/las3.jpg" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES",Las 3 Marías | Vix (Latam)
 https://jmp2.uk/sam-USBD17000172A.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCYR2jHc/vix-ja2.jpg" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES",Vix | Jaja (MX)
+https://jmp2.uk/sam-USBC2100010OS.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jjndGjpb/vix-ga.jpg" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES",Vix | Galanes (MX)
 https://jmp2.uk/sam-USBD2700002DU.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tJdP3Jry/vix-gran.jpg" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES",Vix | Grandes Parejas (MX)
 https://jmp2.uk/sam-USBC2100012EJ.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCYR2jHc/vix-ja2.jpg" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES",Vix | Jaja (MX)
-https://jmp2.uk/sam-USBC2100010OS.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wj83kgCb/vix-novelas.jpg" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES",Vix | Novelas románticas (MX)
-https://jmp2.uk/sam-USBB44000099N.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13v462Q8/vix-re.jpg" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES",Vix | Rebelde (MX)
-https://jmp2.uk/sam-USBD1700018II.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Dw4G6xpB/vix-vi.jpg" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES",Vix | Villanos de Pareja (MX)
 https://jmp2.uk/sam-USBC2100011WI.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GpZQ1LkH/vix.jpg" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES",Canal Vix (LATAM)
 https://jmp2.uk/sam-US2200005Y2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wj83kgCb/vix-novelas.jpg" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES",Vix | Novelas románticas (MX)
+https://jmp2.uk/sam-USBB44000099N.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB44000099N_20240520T212704SQUARE.png" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES",ViX Novelas de Romance 🇺🇸🇲🇽
+https://dm44c2ycmsees.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awtur5jypeo4b/server/distrib/AwpWpKfpemEGixBj/zuvPJYoOOdEMDNF2j2mvmg.XD-5XW7bmDpD5yWfV328oU9NWPX1Y7dhiYqJY3ymkerRKjKvBm9YaKmRu09CS8ak3vKkgVwPUO3_k0fGhRTEqichOfESE0Mvx1Jtn81PnLjGdX8c5rM6Wbz0X-r4kuUokXxDkVNpGrQXJTNlajn8qyE95SuHf6gHV8f03sl1yUQPzBd2gJbrGfq1mHgoJOVVQC8UfN_6AliJQgUcTWDV5ZOF4aiSuTPOG1p4BgbFAnlCS7ZWKyFTBksAnep57l4OGJUnnpzLB5grmYE-eSo9WA/manifest.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBB44000099N
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES", CGTN ESPAÑOL HD
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
@@ -1979,9 +1979,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-sams
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US27000033D_20240826T235549SQUARE.png" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES",Novelas Turcas 🇲🇽
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB44000099N_20240520T212704SQUARE.png" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES",ViX Novelas de Romance 🇺🇸🇲🇽
-https://dm44c2ycmsees.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awtur5jypeo4b/server/distrib/AwpWpKfpemEGixBj/zuvPJYoOOdEMDNF2j2mvmg.XD-5XW7bmDpD5yWfV328oU9NWPX1Y7dhiYqJY3ymkerRKjKvBm9YaKmRu09CS8ak3vKkgVwPUO3_k0fGhRTEqichOfESE0Mvx1Jtn81PnLjGdX8c5rM6Wbz0X-r4kuUokXxDkVNpGrQXJTNlajn8qyE95SuHf6gHV8f03sl1yUQPzBd2gJbrGfq1mHgoJOVVQC8UfN_6AliJQgUcTWDV5ZOF4aiSuTPOG1p4BgbFAnlCS7ZWKyFTBksAnep57l4OGJUnnpzLB5grmYE-eSo9WA/manifest.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBB44000099N
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jqWXz7cS/sony-nove.jpg" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES",Sony Novelas OK
 https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
 
@@ -1989,6 +1986,9 @@ https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn4QCkRz/sony-shark.jpg" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES", Shark Tank (LATAM) Sony | One |
 https://spt-sonyonesharktank-1-mx.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qt8SnhCS/cops.jpg" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES",Cops | LG (CL)
+https://rightsboosterltd-cops-1-cl.lg.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FcrgSdr.png" group-title="🙍🏻‍♀️ NOVELAS y VARIEDADES",Novelas con la abuela
 
